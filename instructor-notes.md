@@ -18,8 +18,7 @@ exercises: 0
 ### Find out More!
 
 This is the component guide for the workbench. For details on how to create 
-components from [fenced divs][fenced-divs], read the [Callout Blocks section of
-"Episode Structure"](episodes.Rmd#callout-blocks).
+components from ....
 
 ::::::::::::::::::::::::::
 

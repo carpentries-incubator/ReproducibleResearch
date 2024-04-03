@@ -16,5 +16,7 @@ exercises: 0
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 
+This workshop aims to take you further down your reproducibility path, by providing concepts and tools you can use in your everyday workflows. 
 
+We will also examine how Reproducible Research builds business continuity into your research group, how the culture in your institute ecosystem can affect Reproducibility and how you can identify and address risks to your knowledge.
 

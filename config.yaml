@@ -14,7 +14,7 @@ carpentry: 'incubator'
 title: '6 Steps to Reproducible Research'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: 2024-04-01
+created: '2024-04-01'
 
 # Comma-separated list of keywords for the lesson
 keywords: 'reproducible, reproducible research, knowledge trust, knowledge retention, data management, data, lesson, The Carpentries'
@@ -23,7 +23,7 @@ keywords: 'reproducible, reproducible research, knowledge trust, knowledge reten
 # possible values: pre-alpha, alpha, beta, stable
 life_cycle: 'pre-alpha'
 
-# License of the lesson
+# License of the lesson materials (recommended CC-BY 4.0)
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
@@ -59,21 +59,18 @@ contact: 'a.miotto@griffith.edu.au'
 
 # Order of episodes in your lesson
 episodes: 
- - introduction.md
- - whydoesRRmatter.md
+- introduction.md
+- whydoesRRmatter.md
+- introof6rrthings.md
 
 # Information for Learners
 learners: 
 
-
 # Information for Instructors
 instructors: 
 
-
-
 # Learner Profiles
 profiles: 
-
 
 # Customisation ---------------------------------------------
 #
