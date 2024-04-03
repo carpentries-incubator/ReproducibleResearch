@@ -4,6 +4,9 @@
     <loc>https://carpentries.github.io/workbench-template-md/404.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/workbench-template-md/ActivitiesPrep.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/workbench-template-md/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
@@ -20,6 +23,9 @@
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-md/instructor/404.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-md/instructor/ActivitiesPrep.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-md/instructor/CODE_OF_CONDUCT.html</loc>
@@ -43,6 +49,9 @@
     <loc>https://carpentries.github.io/workbench-template-md/instructor/introduction.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/workbench-template-md/instructor/introof6rrthings.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/workbench-template-md/instructor/key-points.html</loc>
   </url>
   <url>
@@ -50,6 +59,9 @@
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-md/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-md/instructor/thingstoknowI.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-md/instructor/whydoesRRmatter.html</loc>
@@ -61,6 +73,9 @@
     <loc>https://carpentries.github.io/workbench-template-md/introduction.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/workbench-template-md/introof6rrthings.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/workbench-template-md/key-points.html</loc>
   </url>
   <url>
@@ -68,6 +83,9 @@
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-md/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-md/thingstoknowI.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-md/whydoesRRmatter.html</loc>
