@@ -5,12 +5,12 @@ exercises: 0
 ---
 
 
-::::::::::::::::::::::::::::::::::::: objectives
+::::::::::::::::::::::::::::: objectives
 
 - Understand the relationship between knowledge and trust
 - Understand why reproducible research builds trust in our work
 
-::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::
 
 
 
