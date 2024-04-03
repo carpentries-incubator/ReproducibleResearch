@@ -59,17 +59,21 @@ contact: 'a.miotto@griffith.edu.au'
 
 # Order of episodes in your lesson
 episodes: 
-- introduction.md
-- whydoesRRmatter.md
+ - introduction.md
+ - whydoesRRmatter.md
 
 # Information for Learners
 learners: 
 
+
 # Information for Instructors
 instructors: 
 
+
+
 # Learner Profiles
 profiles: 
+
 
 # Customisation ---------------------------------------------
 #
