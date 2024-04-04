@@ -185,7 +185,7 @@
 <div class="accordion accordion-flush" id="accordionFlush2">
   <div class="accordion-item">
     <div class="accordion-header" id="flush-heading2">
-        <a href="introduction.html">1. Introduction to this Reproducible Research workshop</a>
+        <a href="introduction.html">1. What is Reproducible Research?</a>
     </div>
 <!--/div.accordion-header-->
         
@@ -276,32 +276,97 @@
     <main id="main-content" class="main-content"><div class="container lesson-content">
         
         
-<section id="aio-introduction"><p>Content from <a href="introduction.html">Introduction to this Reproducible Research workshop</a></p>
+<section id="aio-introduction"><p>Content from <a href="introduction.html">What is Reproducible Research?</a></p>
 <hr>
-<p>Last updated on 2024-04-03 |
+<p>Last updated on 2024-04-04 |
         
         <a href="https://github.com/carpentries/workbench-template-md/edit/main/episodes/introduction.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 <p>Estimated time: <i aria-hidden="true" data-feather="clock"></i> 10 minutes</p>
 <div class="text-end">
           <button role="button" aria-pressed="false" tabindex="0" id="expand-code" class="pull-right" data-expand="Expand All Solutions " data-collapse="Collapse All Solutions "> Expand All Solutions <i aria-hidden="true" data-feather="plus"></i></button>
         </div>
-<div class="section level1">
-<h1 id="what-are-we-going-to-learn-today">What are we going to learn today?<a class="anchor" aria-label="anchor" href="#what-are-we-going-to-learn-today"></a>
-</h1>
-<p>This workshop aims to take you further down your reproducibility
-path, by providing concepts and tools you can use in your everyday
-workflows.</p>
-<p>We will also examine how Reproducible Research builds business
-continuity into your research group, how the culture in your institute
-ecosystem can affect Reproducibility and how you can identify and
-address risks to your knowledge.</p>
+<p>Reproducible Research is the concept that someone can, given your
+data and methods, redo your research and come to the same
+conclusion.</p>
+<p>We expect that anyone conducting the same research should always come
+to the same conclusion. This enables us to trust that the knowledge
+derived from this research can be accepted as fact.</p>
+<section id="replicability-and-repeatability"><h2 class="section-heading">Replicability and Repeatability<a class="anchor" aria-label="anchor" href="#replicability-and-repeatability"></a>
+</h2>
+<hr class="half-width">
+<p>There are a number of terms you may hear when we talk about
+reproducible. Replicable and Repeatable are two common terms that may
+arise.</p>
+<p>The Turing Way offers the following descriptions:</p>
+<div class="section level4">
+<h4 id="reproducible">Reproducible<a class="anchor" aria-label="anchor" href="#reproducible"></a>
+</h4>
+<p>A result is reproducible when the same analysis steps performed on
+the same dataset consistently produces the same answer.</p>
+</div>
+<div class="section level4">
+<h4 id="replicable">Replicable<a class="anchor" aria-label="anchor" href="#replicable"></a>
+</h4>
+<p>A result is replicable when the same analysis performed on different
+datasets produces qualitatively similar answers.</p>
+</div>
+<div class="section level4">
+<h4 id="robust">Robust<a class="anchor" aria-label="anchor" href="#robust"></a>
+</h4>
+<p>A result is robust when the same dataset is subjected to different
+analysis workflows to answer the same research question (for example one
+pipeline written in R and another written in Python) and a qualitatively
+similar or identical answer is produced. Robust results show that the
+work is not dependent on the specificities of the programming language
+chosen to perform the analysis.</p>
+</div>
+<div class="section level4">
+<h4 id="generalisable">Generalisable<a class="anchor" aria-label="anchor" href="#generalisable"></a>
+</h4>
+<p>Combining replicable and robust findings allow us to form
+generalisable results. Note that running an analysis on a different
+software implementation and with a different dataset does not provide
+generalised results. There will be many more steps to know how well the
+work applies to all the different aspects of the research question.
+Generalisation is an important step towards understanding that the
+result is not dependent on a particular dataset nor a particular version
+of the analysis pipeline.</p>
+<figure><img src="https://the-turing-way.netlify.app/_images/reproducible-definition-grid.svg" alt="A grid showing the above 4 definitions" class="figure mx-auto d-block"></figure>
+</div>
+</section><section id="for-our-workshop-today."><h2 class="section-heading">For our workshop today….<a class="anchor" aria-label="anchor" href="#for-our-workshop-today."></a>
+</h2>
+<hr class="half-width">
+<p>For our workshop today, we will use the term reproducible to mean
+that if someone had your data, and your notes on how to redo your work,
+they would get the same answer.</p>
+<p>Let’s look now on why this is important.</p>
+<div id="references" class="callout">
+<div class="callout-square">
+<i class="callout-icon" data-feather="bell"></i>
+</div>
+<div id="references" class="callout-inner">
+<h3 class="callout-title">References<a class="anchor" aria-label="anchor" href="#references"></a>
+</h3>
+<div class="callout-content">
+<p>Reference: Definitions — The Turing Way Community. (2022). The Turing
+Way: A handbook for reproducible, ethical and collaborative research
+(Version 1.1.0) [Computer software]. <a href="https://doi.org/10.5281/zenodo.3233853" class="external-link uri">https://doi.org/10.5281/zenodo.3233853</a></p>
+<p>Content licensed as CC-BY as per The Turing Way Community. (updated
+2023) The Turing Way Licence . Github.com Retrieved April 4, 2024, from
+<a href="https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md" class="external-link uri">https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md</a></p>
+<p>The Turing Way Community. This illustration is created by Scriberia
+with The Turing Way community, used under a CC-BY 4.0 licence. DOI:
+10.5281/zenodo.3332807</p>
+</div>
+</div>
+</div>
 <!-- 
 Place links that you need to refer to multiple times across pages here. Delete
 any links that you are not going to use. 
  -->
-</div></section><section id="aio-whydoesRRmatter"><p>Content from <a href="whydoesRRmatter.html">Why does Reproducibility matter?</a></p>
+</section></section><section id="aio-whydoesRRmatter"><p>Content from <a href="whydoesRRmatter.html">Why does Reproducibility matter?</a></p>
 <hr>
-<p>Last updated on 2024-04-03 |
+<p>Last updated on 2024-04-04 |
         
         <a href="https://github.com/carpentries/workbench-template-md/edit/main/episodes/whydoesRRmatter.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 <p>Estimated time: <i aria-hidden="true" data-feather="clock"></i> 10 minutes</p>
@@ -330,7 +395,33 @@ on the internet and social media, how do people know what to trust?</p>
 show that our research, the knowledge we have created, is
 trustworthy?</p>
 <p>Aligned to that, how do we retain this knowledge in the long term, so
-it can be trusted and reused in the future?</p></section><section id="aio-introof6rrthings"><p>Content from <a href="introof6rrthings.html">Introducing 6 Reproducible Research Things</a></p>
+it can be trusted and reused in the future?</p>
+<section id="the-reproducibility-crisis"><h2 class="section-heading">The Reproducibility Crisis<a class="anchor" aria-label="anchor" href="#the-reproducibility-crisis"></a>
+</h2>
+<hr class="half-width"></section><section id="factors-contributing-to-the-lack-of-reproducibility"><h2 class="section-heading">Factors contributing to the lack of reproducibility<a class="anchor" aria-label="anchor" href="#factors-contributing-to-the-lack-of-reproducibility"></a>
+</h2>
+<hr class="half-width">
+<div id="references" class="callout">
+<div class="callout-square">
+<i class="callout-icon" data-feather="bell"></i>
+</div>
+<div id="references" class="callout-inner">
+<h3 class="callout-title">References<a class="anchor" aria-label="anchor" href="#references"></a>
+</h3>
+<div class="callout-content">
+<p>Baker, M. 1,500 scientists lift the lid on reproducibility. Nature
+533, 452–454 (2016). Retrieved on 2024-04-04 <a href="https://doi.org/10.1038/533452a" class="external-link uri">https://doi.org/10.1038/533452a</a></p>
+<p>Wikipedia contributors. (2024, March 24). Replication crisis. In
+Wikipedia, The Free Encyclopedia. Retrieved 02:26, April 4, 2024, from
+<a href="https://en.wikipedia.org/w/index.php?title=Replication_crisis&amp;oldid=1215379059" class="external-link uri">https://en.wikipedia.org/w/index.php?title=Replication_crisis&amp;oldid=1215379059</a></p>
+</div>
+</div>
+</div>
+<!-- 
+Place links that you need to refer to multiple times across pages here. Delete
+any links that you are not going to use. 
+ -->
+</section></section><section id="aio-introof6rrthings"><p>Content from <a href="introof6rrthings.html">Introducing 6 Reproducible Research Things</a></p>
 <hr>
 <p>Last updated on 2024-04-03 |
         
@@ -396,8 +487,8 @@ reproducibility into our workflows.</p>
   "url": "https://carpentries.github.io/workbench-template-md/instructor/aio.html",
   "identifier": "https://carpentries.github.io/workbench-template-md/instructor/aio.html",
   "dateCreated": "2024-04-01",
-  "dateModified": "2024-04-03",
-  "datePublished": "2024-04-03"
+  "dateModified": "2024-04-04",
+  "datePublished": "2024-04-04"
 }
 
   </script><script>
