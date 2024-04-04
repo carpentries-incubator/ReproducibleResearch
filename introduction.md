@@ -1,24 +1,54 @@
 ---
-title: "Introduction to this Reproducible Research workshop"
+title: "What is Reproducible Research?"
 teaching: 10
 exercises: 0
 ---
 
-# What are we going to learn today?
 
+Reproducible Research is the concept that someone can, given your data and methods, redo your research and come to the same conclusion.
 
-::::::::::::::::::::::::::::: objectives
-
-- Learn what is reproducibility and why does it matter?
-- Gain a number of skills and resources to help us build reproducibility in our everyday workflows
-- Understand the relationship between Reproducible Research and other areas such as Culture, Risk and Business Continuity
-
-::::::::::::::::::::::::::::::::::::::::
+We expect that anyone conducting the same research should always come to the same conclusion. This enables us to trust that the knowledge derived from this research can be accepted as fact.
 
 
 
+## Replicability and Repeatability
 
-This workshop aims to take you further down your reproducibility path, by providing concepts and tools you can use in your everyday workflows. 
+There are a number of terms you may hear when we talk about reproducible. Replicable and Repeatable are two common terms that may arise.
 
-We will also examine how Reproducible Research builds business continuity into your research group, how the culture in your institute ecosystem can affect Reproducibility and how you can identify and address risks to your knowledge.
+The Turing Way offers the following descriptions:
+
+#### Reproducible
+A result is reproducible when the same analysis steps performed on the same dataset consistently produces the same answer.
+
+#### Replicable
+A result is replicable when the same analysis performed on different datasets produces qualitatively similar answers.
+
+#### Robust
+A result is robust when the same dataset is subjected to different analysis workflows to answer the same research question (for example one pipeline written in R and another written in Python) and a qualitatively similar or identical answer is produced. Robust results show that the work is not dependent on the specificities of the programming language chosen to perform the analysis.
+
+#### Generalisable
+Combining replicable and robust findings allow us to form generalisable results. Note that running an analysis on a different software implementation and with a different dataset does not provide generalised results. There will be many more steps to know how well the work applies to all the different aspects of the research question. Generalisation is an important step towards understanding that the result is not dependent on a particular dataset nor a particular version of the analysis pipeline.
+
+![](https://the-turing-way.netlify.app/_images/reproducible-definition-grid.svg){alt='A grid showing the above 4 definitions'}
+
+
+## For our workshop today....
+
+For our workshop today, we will use the term reproducible to mean that if someone had your data, and your notes on how to redo your work, they would get the same answer. 
+
+Let's look now on why this is important.
+
+
+
+::::::::::::::::::::::::::::::::::::::::::::::: callout
+
+## References
+
+Reference: Definitions — The Turing Way Community. (2022). The Turing Way: A handbook for reproducible, ethical and collaborative research (Version 1.1.0) [Computer software]. https://doi.org/10.5281/zenodo.3233853
+
+Content licensed as CC-BY as per The Turing Way Community. (updated 2023) The Turing Way Licence . Github.com Retrieved April 4, 2024, from https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md
+
+The Turing Way Community. This illustration is created by Scriberia with The Turing Way community, used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

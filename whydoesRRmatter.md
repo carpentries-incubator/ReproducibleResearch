@@ -28,3 +28,24 @@ The digital age brings us both benefits and dangers. While we have the knowledge
 Part of what we will talk about in these lessons is trust. How do we show that our research, the knowledge we have created, is trustworthy? 
 
 Aligned to that, how do we retain this knowledge in the long term, so it can be trusted and reused in the future?
+
+
+
+## The Reproducibility Crisis
+
+
+## Factors contributing to the lack of reproducibility
+
+
+
+
+
+::::::::::::::::::::::::::::::::::::::::::::::: callout
+
+## References
+
+Baker, M. 1,500 scientists lift the lid on reproducibility. Nature 533, 452–454 (2016). Retrieved on 2024-04-04 https://doi.org/10.1038/533452a
+
+Wikipedia contributors. (2024, March 24). Replication crisis. In Wikipedia, The Free Encyclopedia. Retrieved 02:26, April 4, 2024, from https://en.wikipedia.org/w/index.php?title=Replication_crisis&oldid=1215379059
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
