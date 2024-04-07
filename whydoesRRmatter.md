@@ -33,6 +33,79 @@ Aligned to that, how do we retain this knowledge in the long term, so it can be 
 
 ## The Reproducibility Crisis
 
+#### Nature paper - 1,500 scientists lift the lid on reproducibility
+
+In the Nature paper "1,500 scientists lift the lid on reproducibility", researchers were surveyed about reproducibility.
+
+ - Over 70% of researchers who had tried to replicate another researcher's experiments failed.
+
+
+ - Over half had failed to reproduce their **own** experiments.
+
+
+This is not insignificant numbers.
+
+
+A number of interesting insights came from this study:
+
+ - Half of researchers surveyed agreed that there was a significant crisis of reproducibility
+ - almost 70% still trusted that even though these papers couldn't be reproduced, that the results were probably correct
+
+
+Let's take another example. 
+
+
+#### The Reproducibility Project: Cancer Biology
+
+The Reproducibility Project: Cancer Biology was an 8-year effort to replicate experiments from high-impact cancer biology papers published between 2010 and 2012. The project was a collaboration between the Center of Open Science and Science Exchange.
+
+When preparing replications of 193 experiments from 53 papers there were a number of challenges that affected the project.
+
+ - 2% of experiments had open data 
+ - ***0% of protocols completely described***
+ - 32% of experiments, the original authors were not helpful or unresponsive
+ - 41% of experiments, the original authors were very helpful
+
+
+ We will talk about describing protocols later in the course.
+
+
+::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Let's talk about this: 
+
+
+On unresponsive authors, it's not always malicious:
+- Authors do move institutes
+- Can drop out of academia
+- May be HDR students who didn't continue with research
+- Data may have left with HDR students and supervisor may lack details or data on how the experiment was done
+
+In my own experience (as @amandamiotto ) for a project where I had to contact researchers regarding moving their old data, a good third had left and either moved overseas and changed 2-3 institutes, were no longer in research or had names that were 'Australian-ised' or had changed for various reasons, meaning it was hard (and at times impossible) to track and find them. 
+
+
+Lack of open data - this can be really specific to a field. Some health fields can't make their data open, and this statistic doesn't talk about what data could be FAIR or not published for commercial reasons.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+
+::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+This is a good time to stop and ask people about their own knowledge and experiences. It gives you an opportunity to understand how much background your participants already have - if people have signed themselves for the class, they may have already been quite knowledgeable.
+
+Questions you could ask are:
+
+ - Do you know of other examples of reproduction studies?
+ - Who here has tried to reproduce their own work?
+ - Who here has tried to reproduce someone else's work?
+ - What can these statistics tell us about these studies?
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
 
 ## Factors contributing to the lack of reproducibility
 
@@ -48,4 +121,14 @@ Baker, M. 1,500 scientists lift the lid on reproducibility. Nature 533, 452–45
 
 Wikipedia contributors. (2024, March 24). Replication crisis. In Wikipedia, The Free Encyclopedia. Retrieved 02:26, April 4, 2024, from https://en.wikipedia.org/w/index.php?title=Replication_crisis&oldid=1215379059
 
+Center for Open Science. "Reproducibility Project: Cancer Biology" (2021). Retrieved 2024-5-8 from www.cos.io. (CC-BY)
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+The Nature paper has some excellent graphics that you may like to use in your own institute training, however due to copyright, we have decided to not use it here.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
