@@ -76,10 +76,11 @@ Let's talk about this:
 
 
 On unresponsive authors, it's not always malicious:
-- Authors do move institutes
-- Can drop out of academia
-- May be HDR students who didn't continue with research
-- Data may have left with HDR students and supervisor may lack details or data on how the experiment was done
+
+* Authors do move institutes
+* Can drop out of academia
+* May be HDR students who didn't continue with research
+* Data may have left with HDR students and supervisor may lack details or data on how the experiment was done
 
 In my own experience (as @amandamiotto ) for a project where I had to contact researchers regarding moving their old data, a good third had left and either moved overseas and changed 2-3 institutes, were no longer in research or had names that were 'Australian-ised' or had changed for various reasons, meaning it was hard (and at times impossible) to track and find them. 
 
