@@ -179,7 +179,7 @@ Baker, M. 1,500 scientists lift the lid on reproducibility. Nature 533, 452–45
 
 Wikipedia contributors. (2024, March 24). Replication crisis. In Wikipedia, The Free Encyclopedia. Retrieved 02:26, April 4, 2024, from https://en.wikipedia.org/w/index.php?title=Replication_crisis&oldid=1215379059
 
-Center for Open Science. "Reproducibility Project: Cancer Biology" (2021). Retrieved 2024-5-8 from www.cos.io. (CC-BY)
+Center for Open Science. "Reproducibility Project: Cancer Biology" (2021). Retrieved 2024-5-8 from https://www.cos.io. (CC-BY)
 
 American Type Culture Collection (ATCC) Six factors affecting reproducibility in life science research and how to handle them . Nature Articles (?) Retrieved 2024-5-8 from https://www.nature.com/articles/d42473-019-00004-y#:~:text=Poorly%20designed%20studies%20without%20a,insufficient%2C%20reproducibility%20becomes%20more%20problematic. 
 
