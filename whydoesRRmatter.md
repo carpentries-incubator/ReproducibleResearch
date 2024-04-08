@@ -43,13 +43,20 @@ In the Nature paper "1,500 scientists lift the lid on reproducibility", research
  - Over half had failed to reproduce their **own** experiments.
 
 
-This is not insignificant numbers.
+
+
+These are not insignificant numbers.
+
+
 
 
 A number of interesting insights came from this study:
 
  - Half of researchers surveyed agreed that there was a significant crisis of reproducibility
+
  - almost 70% still trusted that even though these papers couldn't be reproduced, that the results were probably correct
+
+
 
 
 Let's take another example. 
@@ -57,17 +64,24 @@ Let's take another example.
 
 #### The Reproducibility Project: Cancer Biology
 
+
 The Reproducibility Project: Cancer Biology was an 8-year effort to replicate experiments from high-impact cancer biology papers published between 2010 and 2012. The project was a collaboration between the Center of Open Science and Science Exchange.
+
 
 When preparing replications of 193 experiments from 53 papers there were a number of challenges that affected the project.
 
  - 2% of experiments had open data 
+
  - ***0% of protocols completely described***
+
  - 32% of experiments, the original authors were not helpful or unresponsive
+
  - 41% of experiments, the original authors were very helpful
 
 
- We will talk about describing protocols later in the course.
+
+
+
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
@@ -78,9 +92,13 @@ Let's talk about this:
 On unresponsive authors, it's not always malicious:
 
 * Authors do move institutes
+
 * Can drop out of academia
+
 * May be HDR students who didn't continue with research
+
 * Data may have left with HDR students and supervisor may lack details or data on how the experiment was done
+
 
 In my own experience (as @amandamiotto ) for a project where I had to contact researchers regarding moving their old data, a good third had left and either moved overseas and changed 2-3 institutes, were no longer in research or had names that were 'Australian-ised' or had changed for various reasons, meaning it was hard (and at times impossible) to track and find them. 
 
@@ -99,9 +117,13 @@ This is a good time to stop and ask people about their own knowledge and experie
 Questions you could ask are:
 
  - Do you know of other examples of reproduction studies?
+
  - Who here has tried to reproduce their own work?
+
  - Who here has tried to reproduce someone else's work?
+
  - What can these statistics tell us about these studies?
+
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -111,22 +133,43 @@ Questions you could ask are:
 ## Factors contributing to the lack of reproducibility
 
 
-A lack of access to methodology details
-A lack of access to raw data and research materials
-Difficulty in managing complex datasets
-Poor research design or statistics
-Publish or Perish mentality that only rewards novel findings
-Difficulty or lack of publishing negative results
+- Difficulty in managing complex datasets or poor statistical practices
+
+- Poor research design, including a failure to control for bias
+
+- A lack of access or detail of the methodology used
+
+- A lack of access to raw data and research materials
+
+- A culture of 'Publish or Perish' mentality, that only rewards novel findings
+
+- Difficulty or lack of publishing negative results
 
 
-## Suggested changes to improve reproducibility
+## Suggested changes to improve reproducibility across the industry
 
-| Prepublication of experiments | | 
-Publishing openly or [FAIR](https://ardc.edu.au/resource/fair-data/) sharing of data, materials and software
-Training on statistical models and study design
-Publish negative results
-Full and detailed documentation and publication of methods
-Publish complementary or 'Scooped' Research
+
+- Prepublication of experiments
+
+- Publishing openly or [FAIR](https://ardc.edu.au/resource/fair-data/) sharing of data, materials and software
+
+- Training on statistical models and study design
+
+- Publish negative results
+
+- Full and detailed documentation and publication of methods 
+
+- Conduct and publish replication and validation studies
+
+
+
+
+
+While all of these are relevant and valid, there are some things we can't change today. But we can change our own behaviours and activites. The next lessons focus on what we can change in our everyday work.
+
+
+
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::: callout
 
@@ -138,9 +181,14 @@ Wikipedia contributors. (2024, March 24). Replication crisis. In Wikipedia, The 
 
 Center for Open Science. "Reproducibility Project: Cancer Biology" (2021). Retrieved 2024-5-8 from www.cos.io. (CC-BY)
 
-American Type Culture Collection (ATCC) Six factors affecting reproducibility in life science research and how to handle them (?) Retrieved 2024-5-8 from https://www.nature.com/articles/d42473-019-00004-y#:~:text=Poorly%20designed%20studies%20without%20a,insufficient%2C%20reproducibility%20becomes%20more%20problematic. 
+American Type Culture Collection (ATCC) Six factors affecting reproducibility in life science research and how to handle them . Nature Articles (?) Retrieved 2024-5-8 from https://www.nature.com/articles/d42473-019-00004-y#:~:text=Poorly%20designed%20studies%20without%20a,insufficient%2C%20reproducibility%20becomes%20more%20problematic. 
+
+Morton, L (2022, July 12). 5 Open Science practices that improve reproducibility & support trust in science. The Official PLOS Blog. Retrieved 2024-5-8 from https://theplosblog.plos.org/2022/07/reproducibility/
+
+Munafò, M., Nosek, B., Bishop, D. et al. A manifesto for reproducible science. Nat Hum Behav 1, 0021 (2017). https://doi.org/10.1038/s41562-016-0021
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
