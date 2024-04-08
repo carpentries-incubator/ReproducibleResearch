@@ -111,8 +111,22 @@ Questions you could ask are:
 ## Factors contributing to the lack of reproducibility
 
 
+A lack of access to methodology details
+A lack of access to raw data and research materials
+Difficulty in managing complex datasets
+Poor research design or statistics
+Publish or Perish mentality that only rewards novel findings
+Difficulty or lack of publishing negative results
 
 
+## Suggested changes to improve reproducibility
+
+| Prepublication of experiments | | 
+Publishing openly or [FAIR](https://ardc.edu.au/resource/fair-data/) sharing of data, materials and software
+Training on statistical models and study design
+Publish negative results
+Full and detailed documentation and publication of methods
+Publish complementary or 'Scooped' Research
 
 ::::::::::::::::::::::::::::::::::::::::::::::: callout
 
@@ -123,6 +137,8 @@ Baker, M. 1,500 scientists lift the lid on reproducibility. Nature 533, 452–45
 Wikipedia contributors. (2024, March 24). Replication crisis. In Wikipedia, The Free Encyclopedia. Retrieved 02:26, April 4, 2024, from https://en.wikipedia.org/w/index.php?title=Replication_crisis&oldid=1215379059
 
 Center for Open Science. "Reproducibility Project: Cancer Biology" (2021). Retrieved 2024-5-8 from www.cos.io. (CC-BY)
+
+American Type Culture Collection (ATCC) Six factors affecting reproducibility in life science research and how to handle them (?) Retrieved 2024-5-8 from https://www.nature.com/articles/d42473-019-00004-y#:~:text=Poorly%20designed%20studies%20without%20a,insufficient%2C%20reproducibility%20becomes%20more%20problematic. 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
