@@ -59,12 +59,12 @@ When multiple people are entering data manually, it may be beneficial to use a s
 
 Other useful concepts:
 
-Dates:
+### Dates:
 
 Where possible, always use the formal YYYY-MM-DD for your dates. It will make searching for dates much easier. In addition, adding the additional zero (for example, March would be 03 ) means that when you sort your file, months and days will be in order. Otherwise, you may have Jan (1), Oct (10), Nov (11), Dec (12), Feb (2). 
 
 
-Special Characters:
+### Special Characters:
 
 It is best to avoid punctuation or special characters in your cells or data entry. Some analysis tools may read certain characters incorrectly or produce an error. 
 
@@ -77,7 +77,7 @@ This is also an opportunity to do a live exercise - you could pull up a bad data
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
 
-### Qualitative Data Considerations
+### Interview considerations
 
 When working with interviews, you may choose to only retain transcripts. However, it is also worth recording what non-verbal queues were shown. Is there a part of the interview where the participant expressed a strong emotion? Were they comfortable or nervous? Did they fidget a lot or laugh a lot? Long pauses? 
 
