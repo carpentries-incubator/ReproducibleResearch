@@ -11,6 +11,7 @@ Build your knowledge trust when sharing with collaborators or publication with w
 
 Let's look at a few concepts that can help.
 
+
 ### How to structure Column Data - Tidy data format
 
 Tidy data developed by Hadley Wickham offer a set of rules to record, organise, and maintain data to ensure your analysis is effective, reproducible, and manageable.
@@ -77,24 +78,56 @@ When working with interviews, you may choose to only retain transcripts. However
 
 Including any personal observations alongside a video can become incredibly useful when it comes to analysis time, or to refresh your memory upon review. It could also be important to support your insights when writing your paper.
 
+
+
 ### How to handle missing data
+
+As a project team, it is important to have a consistant way of managing missing data. 
+
+If data is missing from a cell, are you going to use a blank cell? Or a placeholder such as NA, NULL or N/A ? It's generally unadvisable to use zero, as this can have an effect on any calculations done in those cells.
+
+Should the whole observation be discluded? Has your methodology accounted for how to handle this scenario and any potential skewing of results? When publishing, have you discussed how missing data is handled and accounted for?
+
+A helpful resource can be found here: [Paper on the prevention and handling of the missing data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3668100/)
+
+Later, we will talk about how to test for missing data.
+
+
 
 :::::::::::::::::::::::::::::::::::::::::::::::  callout
 
 ## Tools
-No coding:
-Open refine
-Using a survey tool to help with tidy data
 
-Coding:
-If you want to code, R tidyverse or Python Pandas
+#### Tools that don't involve programming:
+
+(Open Refine)[https://openrefine.org/] is an open source (free) tool that is incredibly useful to clean column data. Your data (doesn't leave your computer)[https://openrefine.org/privacy], which makes it safer when working with sensitive data.
+
+Any survey tool may also be of benefit.
+
+#### Programming Tools:
+R has the Tidyverse library, also written by Hadley Wickham
+Python has the Pandas library, which follows similar principles. You may also find NumPy useful.
 :::::::::::::::::::::::::::::::::::::::::::::::
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::: callout
 ## Resources
 
 [Common formatting problems - Data Carpentry](https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes.html)
-:::::::::::::::::::::::::::::::::::::::::::::::
+
+[Paper on the prevention and handling of the missing data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3668100/)
+
+
+::::::::::::::::::::::::::::::::::::::::::::::: 
+
+## What is your next step?
+
+#### As a Beginning step, a great place to start is....
+- Decide how to handle missing data
+- Use YYYY-MM-DD for dates
+
+#### As an Advanced step, a great place to start is....
+- You can start to work in a data science language such as R or Python. (The Carpentries )[https://software-carpentry.org/lessons/] data science lessons are a great place to start, made for researchers who have never coded before. Workshops are held across the world.
 
 ::::::::::::::::::::::::::::::::::::::::::::::: callout
 
@@ -103,5 +136,10 @@ If you want to code, R tidyverse or Python Pandas
 Wickham, H. . (2014). Tidy Data. Journal of Statistical Software, 59(10), 1–23. https://doi.org/10.18637/jss.v059.i10 licenced as Creative Commons Attribution License (CC-BY)
 
 Broman, K. W., & Woo, K. H. (2018). Data Organization in Spreadsheets. The American Statistician, 72(1), 2–10. https://doi.org/10.1080/00031305.2017.1375989 licenced as Attribution-NonCommercial-NoDerivatives (CC-BY-NC-ND)
+
+White, Ethan & Baldridge, Elita & Brym, Zachary & Locey, Kenneth & McGlinn, Daniel & Supp, Sarah. (2013). Nine simple ways to make it easier to (re)use your data. 10.7287/peerj.preprints.7v1. 
+ licenced as Creative Commons Attribution License (CC-BY)
+
+Kang H. The prevention and handling of the missing data. Korean J Anesthesiol. 2013 May;64(5):402-6. doi: 10.4097/kjae.2013.64.5.402. Epub 2013 May 24. PMID: 23741561; PMCID: PMC3668100. licenced as Creative Commons Attribution Non-Commercial License (CC-BY-NC)
 
 :::::::::::::::::::::::::::::::::::::::::::::::
