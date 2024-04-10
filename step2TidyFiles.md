@@ -90,6 +90,8 @@ Should the whole observation be discluded? Has your methodology accounted for ho
 
 A helpful resource can be found here: [Paper on the prevention and handling of the missing data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3668100/)
 
+How to handle missing data in cells can be covered by this section of (Data Carpentry in Ecology)[https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes.html#null]
+
 Later, we will talk about how to test for missing data.
 
 
