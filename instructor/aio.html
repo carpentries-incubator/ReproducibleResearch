@@ -218,6 +218,18 @@
 </div>
 <!--/div.accordion-flush-->
 
+<div class="accordion accordion-flush" id="accordionFlush5">
+  <div class="accordion-item">
+    <div class="accordion-header" id="flush-heading5">
+        <a href="step2TidyFiles.html">4. Step 2 - Keeping your files Tidy and Organized</a>
+    </div>
+<!--/div.accordion-header-->
+        
+  </div>
+<!--/div.accordion-item-->
+</div>
+<!--/div.accordion-flush-->
+
                 </div>
               </div>
             </div>
@@ -588,7 +600,158 @@ reproducibility into our workflows.</p>
 <li>Automation</li>
 <li>Testing and Controls</li>
 <li>Publishing, Permenent Identifiers and Preparing for Reuse</li>
-</ol></section>
+</ol></section><section id="aio-step2TidyFiles"><p>Content from <a href="step2TidyFiles.html">Step 2 - Keeping your files Tidy and Organized</a></p>
+<hr>
+<p>Last updated on 2024-04-10 |
+        
+        <a href="https://github.com/carpentries/workbench-template-md/edit/main/episodes/step2TidyFiles.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
+<p>Estimated time: <i aria-hidden="true" data-feather="clock"></i> 31 minutes</p>
+<div class="text-end">
+          <button role="button" aria-pressed="false" tabindex="0" id="expand-code" class="pull-right" data-expand="Expand All Solutions " data-collapse="Collapse All Solutions "> Expand All Solutions <i aria-hidden="true" data-feather="plus"></i></button>
+        </div>
+<div class="section level1">
+<h1 id="step-2---keeping-your-files-tidy-and-organized">Step 2 - Keeping your files Tidy and Organized<a class="anchor" aria-label="anchor" href="#step-2---keeping-your-files-tidy-and-organized"></a>
+</h1>
+<p>Build your knowledge trust when sharing with collaborators or
+publication with well organized datasets. This also saves time in data
+cleaning, and ensures analysis pipelines are robust.</p>
+<p>Let’s look at a few concepts that can help.</p>
+<div class="section level3">
+<h3 id="how-to-structure-column-data---tidy-data-format">How to structure Column Data - Tidy data format<a class="anchor" aria-label="anchor" href="#how-to-structure-column-data---tidy-data-format"></a>
+</h3>
+<p>Tidy data developed by Hadley Wickham offer a set of rules to record,
+organise, and maintain data to ensure your analysis is effective,
+reproducible, and manageable.</p>
+<p>The principles of tidy data provide a standard way to organize data
+values within a dataset.</p>
+<p>Tidy data is a standard way of mapping the meaning of a dataset to
+its structure. A dataset is messy or tidy depending on how rows, columns
+and tables are matched up with observations, variables and types.</p>
+<p>The fundamental principles of tidy data are: 1. Each variable is a
+column 2. Each row is an observation 3. Each cell contains one value</p>
+<p>Let’s look at an example:</p>
+<p>Each variable is in a separate column i.e. the thing you’re
+measuring, like ‘age’ or ‘temperature’ or ‘height’. Each observation is
+in a separate row Each cell contains one value (either a number or
+character string)</p>
+<p>Let’s look at an example:</p>
+<figure><img src="../episodes/images/TidyDataExample1.png" alt="First example with full address in one cell" class="figure mx-auto d-block"><div class="figcaption">First example with full address in one
+cell</div>
+</figure><p>This format could cause a number of issues. - There is little control
+or guidance around when to use spaces, new lines or commas in this
+format. Commas especially can lead to a shift in data across your cells
+- meaning half of your address may end up in neighbouring cells,
+overwriting or shifting the rest of the line. - Searching via State or
+Postcode would be extremely complicated. - There is little clarity on
+what information should be included. One line contained the country,
+another did not. - Difficult to see/check if some part of the address is
+missing.</p>
+<p>Let’s look at a tidy example:</p>
+<figure><img src="../episodes/images/TidyDataExample2.png" alt="Second example with address across multiple cells" class="figure mx-auto d-block"><div class="figcaption">Second example with address across multiple
+cells</div>
+</figure><p>This format includes a lot of benefits: - It is clear what is
+expected to include - Easier to search - Less likely to get extra
+whitespace or punctuation that could cause issues with analysis
+software</p>
+<p>When multiple people are entering data manually, it may be beneficial
+to use a survey that fills in a spreadsheet for you. This can include
+dropdown menu items to ensure consistancy in certain columns - for
+example, to eliminate a combination of “Monday, Mon, M, mon”.</p>
+<p>Other useful concepts:</p>
+<p>Dates:</p>
+<p>Where possible, always use the formal YYYY-MM-DD for your dates. It
+will make searching for dates much easier. In addition, adding the
+additional zero (for example, March would be 03 ) means that when you
+sort your file, months and days will be in order. Otherwise, you may
+have Jan (1), Oct (10), Nov (11), Dec (12), Feb (2).</p>
+<p>Special Characters:</p>
+<p>It is best to avoid punctuation or special characters in your cells
+or data entry. Some analysis tools may read certain characters
+incorrectly or produce an error.</p>
+<div id="accordionInstructor1" class="accordion instructor-note accordion-flush">
+<div class="accordion-item">
+<button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor1" aria-expanded="false" aria-controls="collapseInstructor1">
+  <h3 class="accordion-header" id="headingInstructor1">
+<div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
+</button>
+<div id="collapseInstructor1" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor1" aria-labelledby="headingInstructor1">
+<div class="accordion-body">
+<p>Point out the resources segment here, there’s a really good tutorial
+in the Data Carpentry for Ecology page that covers a range of
+spreadsheet things</p>
+<p>This is also an opportunity to do a live exercise - you could pull up
+a bad dataset and ask participants to point out potential
+improvements.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section level3">
+<h3 id="qualitative-data-considerations">Qualitative Data Considerations<a class="anchor" aria-label="anchor" href="#qualitative-data-considerations"></a>
+</h3>
+<p>When working with interviews, you may choose to only retain
+transcripts. However, it is also worth recording what non-verbal queues
+were shown. Is there a part of the interview where the participant
+expressed a strong emotion? Were they comfortable or nervous? Did they
+fidget a lot or laugh a lot? Long pauses?</p>
+<p>Including any personal observations alongside a video can become
+incredibly useful when it comes to analysis time, or to refresh your
+memory upon review. It could also be important to support your insights
+when writing your paper.</p>
+</div>
+<div class="section level3">
+<h3 id="how-to-handle-missing-data">How to handle missing data<a class="anchor" aria-label="anchor" href="#how-to-handle-missing-data"></a>
+</h3>
+<div id="tools" class="callout">
+<div class="callout-square">
+<i class="callout-icon" data-feather="bell"></i>
+</div>
+<div id="tools" class="callout-inner">
+<h3 class="callout-title">Tools<a class="anchor" aria-label="anchor" href="#tools"></a>
+</h3>
+<div class="callout-content">
+<p>No coding: Open refine Using a survey tool to help with tidy data</p>
+<p>Coding: If you want to code, R tidyverse or Python Pandas</p>
+</div>
+</div>
+</div>
+<div id="resources" class="callout">
+<div class="callout-square">
+<i class="callout-icon" data-feather="bell"></i>
+</div>
+<div id="resources" class="callout-inner">
+<h3 class="callout-title">Resources<a class="anchor" aria-label="anchor" href="#resources"></a>
+</h3>
+<div class="callout-content">
+<p><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes.html" class="external-link">Common
+formatting problems - Data Carpentry</a></p>
+</div>
+</div>
+</div>
+<div id="references" class="callout">
+<div class="callout-square">
+<i class="callout-icon" data-feather="bell"></i>
+</div>
+<div id="references" class="callout-inner">
+<h3 class="callout-title">References<a class="anchor" aria-label="anchor" href="#references"></a>
+</h3>
+<div class="callout-content">
+<p>Wickham, H. . (2014). Tidy Data. Journal of Statistical Software,
+59(10), 1–23. <a href="https://doi.org/10.18637/jss.v059.i10" class="external-link uri">https://doi.org/10.18637/jss.v059.i10</a> licenced as
+Creative Commons Attribution License (CC-BY)</p>
+<p>Broman, K. W., &amp; Woo, K. H. (2018). Data Organization in
+Spreadsheets. The American Statistician, 72(1), 2–10. <a href="https://doi.org/10.1080/00031305.2017.1375989" class="external-link uri">https://doi.org/10.1080/00031305.2017.1375989</a> licenced
+as Attribution-NonCommercial-NoDerivatives (CC-BY-NC-ND)</p>
+</div>
+</div>
+</div>
+<!-- 
+Place links that you need to refer to multiple times across pages here. Delete
+any links that you are not going to use. 
+ -->
+</div>
+</div></section>
 </div>
     </main>
 </div>
