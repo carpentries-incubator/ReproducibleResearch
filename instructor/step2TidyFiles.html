@@ -174,12 +174,19 @@
 <div class="accordion accordion-flush" id="accordionFlushcurrent">
   <div class="accordion-item">
     <div class="accordion-header" id="flush-headingcurrent">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsecurrent" aria-expanded="true" aria-controls="flush-collapsecurrent">
         <span class="visually-hidden">Current Chapter</span>
         <span class="current-chapter">
         4. Step 2 - Keeping your files Tidy and Organized
         </span>
-      
+      </button>
     </div><!--/div.accordion-header-->
+        
+    <div id="flush-collapsecurrent" class="accordion-collapse collapse show" aria-labelledby="flush-headingcurrent" data-bs-parent="#accordionFlushcurrent">
+      <div class="accordion-body">
+        <ul><li><a href="#what-is-your-next-step">What is your next step?</a></li>
+        </ul></div><!--/div.accordion-body-->
+    </div><!--/div.accordion-collapse-->
         
   </div><!--/div.accordion-item-->
 </div><!--/div.accordion-flush-->
@@ -255,8 +262,7 @@
         </div>
 
         
-<div class="section level1">
-<h1 id="step-2---keeping-your-files-tidy-and-organized">Step 2 - Keeping your files Tidy and Organized<a class="anchor" aria-label="anchor" href="#step-2---keeping-your-files-tidy-and-organized"></a></h1>
+
 <p>Build your knowledge trust when sharing with collaborators or
 publication with well organized datasets. This also saves time in data
 cleaning, and ensures analysis pipelines are robust.</p>
@@ -271,9 +277,11 @@ values within a dataset.</p>
 <p>Tidy data is a standard way of mapping the meaning of a dataset to
 its structure. A dataset is messy or tidy depending on how rows, columns
 and tables are matched up with observations, variables and types.</p>
-<p>The fundamental principles of tidy data are: 1. Each variable is a
-column 2. Each row is an observation 3. Each cell contains one value</p>
-<p>Let’s look at an example:</p>
+<p>The fundamental principles of tidy data are:</p>
+<ol style="list-style-type: decimal"><li><p>Each variable is a column</p></li>
+<li><p>Each row is an observation</p></li>
+<li><p>Each cell contains one value</p></li>
+</ol><p>Let’s look at an example:</p>
 <p>Each variable is in a separate column i.e. the thing you’re
 measuring, like ‘age’ or ‘temperature’ or ‘height’. Each observation is
 in a separate row Each cell contains one value (either a number or
@@ -318,7 +326,7 @@ incorrectly or produce an error.</p>
   <h3 class="accordion-header" id="headingInstructor1">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor1" class="accordion-collapse collapse" aria-labelledby="headingInstructor1" data-bs-parent="#accordionInstructor1">
+<div id="collapseInstructor1" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor1" aria-labelledby="headingInstructor1">
 <div class="accordion-body">
 <p>Point out the resources segment here, there’s a really good tutorial
 in the Data Carpentry for Ecology page that covers a range of
@@ -358,7 +366,8 @@ and accounted for?</p>
 <p>A helpful resource can be found here: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3668100/" class="external-link">Paper on
 the prevention and handling of the missing data</a></p>
 <p>How to handle missing data in cells can be covered by this section of
-(Data Carpentry in Ecology)[<a href="https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes.html#null" class="external-link uri">https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes.html#null</a>]</p>
+<a href="https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes.html#null" class="external-link">Data
+Carpentry in Ecology</a></p>
 <p>Later, we will talk about how to test for missing data.</p>
 <div id="tools" class="callout">
 <div class="callout-square">
@@ -370,10 +379,9 @@ the prevention and handling of the missing data</a></p>
 <div class="callout-content">
 <div class="section level4">
 <h4 id="tools-that-dont-involve-programming">Tools that don’t involve programming:<a class="anchor" aria-label="anchor" href="#tools-that-dont-involve-programming"></a></h4>
-<p>(Open Refine)[<a href="https://openrefine.org/" class="external-link uri">https://openrefine.org/</a>] is an open source (free) tool
-that is incredibly useful to clean column data. Your data (doesn’t leave
-your computer)[<a href="https://openrefine.org/privacy" class="external-link uri">https://openrefine.org/privacy</a>], which makes it safer
-when working with sensitive data.</p>
+<p><a href="https://openrefine.org/" class="external-link">Open Refine</a> is an open source
+(free) tool that is incredibly useful to clean column data. Your data <a href="https://openrefine.org/privacy" class="external-link">doesn’t leave your computer</a>,
+which makes it safer when working with sensitive data.</p>
 <p>Any survey tool may also be of benefit.</p>
 </div>
 <div class="section level4">
@@ -401,9 +409,9 @@ on the prevention and handling of the missing data</a></p>
 </div>
 </div>
 </div>
-<div class="section level2">
-<h2 id="what-is-your-next-step">What is your next step?<a class="anchor" aria-label="anchor" href="#what-is-your-next-step"></a></h2>
-<div class="section level4">
+<section id="what-is-your-next-step"><h2 class="section-heading">What is your next step?<a class="anchor" aria-label="anchor" href="#what-is-your-next-step"></a>
+</h2>
+<hr class="half-width"><div class="section level4">
 <h4 id="as-a-beginning-step-a-great-place-to-start-is-">As a Beginning step, a great place to start is….<a class="anchor" aria-label="anchor" href="#as-a-beginning-step-a-great-place-to-start-is-"></a></h4>
 <ul><li>Decide how to handle missing data</li>
 <li>Use YYYY-MM-DD for dates</li>
@@ -411,9 +419,10 @@ on the prevention and handling of the missing data</a></p>
 <div class="section level4">
 <h4 id="as-an-advanced-step-a-great-place-to-start-is-">As an Advanced step, a great place to start is….<a class="anchor" aria-label="anchor" href="#as-an-advanced-step-a-great-place-to-start-is-"></a></h4>
 <ul><li>You can start to work in a data science language such as R or
-Python. (The Carpentries )[<a href="https://software-carpentry.org/lessons/" class="external-link uri">https://software-carpentry.org/lessons/</a>] data science
-lessons are a great place to start, made for researchers who have never
-coded before. Workshops are held across the world.</li>
+Python. <a href="https://software-carpentry.org/lessons/" class="external-link">The
+Carpentries</a> data science lessons are a great place to start, made
+for researchers who have never coded before. Workshops are held across
+the world.</li>
 </ul><div id="references" class="callout">
 <div class="callout-square">
 <i class="callout-icon" data-feather="bell"></i>
@@ -445,11 +454,7 @@ Place links that you need to refer to multiple times across pages here. Delete
 any links that you are not going to use. 
  -->
 </div>
-</div>
-</div>
-
-
-      </div> <!-- / div.lesson-content -->
+</section></div> <!-- / div.lesson-content -->
     </main><!-- / main#main-content.main-content --><nav class="bottom-pagination mx-md-4" aria-label="Previous and Next Chapter"><div class="d-block d-sm-block d-md-none">
         <a class="chapter-link" href="../instructor/introofRRthings.html"><i aria-hidden="true" class="small-arrow" data-feather="arrow-left"></i>Previous</a>
         <a class="chapter-link float-end" href="../instructor/index.html">Next<i aria-hidden="true" class="small-arrow" data-feather="arrow-right"></i></a>
