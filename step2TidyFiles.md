@@ -4,12 +4,12 @@ teaching: 30
 exercises: 1
 ---
 
-# Step 2 - Keeping your files Tidy and Organized
-
 
 Build your knowledge trust when sharing with collaborators or publication with well organized datasets. This also saves time in data cleaning, and ensures analysis pipelines are robust.
 
 Let's look at a few concepts that can help.
+
+
 
 
 ### How to structure Column Data - Tidy data format
@@ -21,9 +21,14 @@ The principles of tidy data provide a standard way to organize data values withi
 Tidy data is a standard way of mapping the meaning of a dataset to its structure. A dataset is messy or tidy depending on how rows, columns and tables are matched up with observations, variables and types. 
 
 The fundamental principles of tidy data are:
+
 1. Each variable is a column
+   
 2. Each row is an observation
+   
 3. Each cell contains one value
+
+
 
 Let's look at an example:
 
@@ -90,7 +95,7 @@ Should the whole observation be discluded? Has your methodology accounted for ho
 
 A helpful resource can be found here: [Paper on the prevention and handling of the missing data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3668100/)
 
-How to handle missing data in cells can be covered by this section of (Data Carpentry in Ecology)[https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes.html#null]
+How to handle missing data in cells can be covered by this section of [Data Carpentry in Ecology](https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes.html#null)
 
 Later, we will talk about how to test for missing data.
 
@@ -102,7 +107,7 @@ Later, we will talk about how to test for missing data.
 
 #### Tools that don't involve programming:
 
-(Open Refine)[https://openrefine.org/] is an open source (free) tool that is incredibly useful to clean column data. Your data (doesn't leave your computer)[https://openrefine.org/privacy], which makes it safer when working with sensitive data.
+[Open Refine](https://openrefine.org/) is an open source (free) tool that is incredibly useful to clean column data. Your data [doesn't leave your computer](https://openrefine.org/privacy), which makes it safer when working with sensitive data.
 
 Any survey tool may also be of benefit.
 
@@ -122,6 +127,8 @@ Python has the Pandas library, which follows similar principles. You may also fi
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
+
+
 ## What is your next step?
 
 #### As a Beginning step, a great place to start is....
@@ -129,7 +136,9 @@ Python has the Pandas library, which follows similar principles. You may also fi
 - Use YYYY-MM-DD for dates
 
 #### As an Advanced step, a great place to start is....
-- You can start to work in a data science language such as R or Python. (The Carpentries )[https://software-carpentry.org/lessons/] data science lessons are a great place to start, made for researchers who have never coded before. Workshops are held across the world.
+- You can start to work in a data science language such as R or Python. [The Carpentries](https://software-carpentry.org/lessons/) data science lessons are a great place to start, made for researchers who have never coded before. Workshops are held across the world.
+
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::: callout
 
