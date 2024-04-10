@@ -326,6 +326,19 @@ when writing your paper.</p>
 </div>
 <div class="section level3">
 <h3 id="how-to-handle-missing-data">How to handle missing data<a class="anchor" aria-label="anchor" href="#how-to-handle-missing-data"></a></h3>
+<p>As a project team, it is important to have a consistant way of
+managing missing data.</p>
+<p>If data is missing from a cell, are you going to use a blank cell? Or
+a placeholder such as NA, NULL or N/A ? It’s generally unadvisable to
+use zero, as this can have an effect on any calculations done in those
+cells.</p>
+<p>Should the whole observation be discluded? Has your methodology
+accounted for how to handle this scenario and any potential skewing of
+results? When publishing, have you discussed how missing data is handled
+and accounted for?</p>
+<p>A helpful resource can be found here: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3668100/" class="external-link">Paper on
+the prevention and handling of the missing data</a></p>
+<p>Later, we will talk about how to test for missing data.</p>
 <div id="tools" class="callout">
 <div class="callout-square">
 <i class="callout-icon" data-feather="bell"></i>
@@ -334,8 +347,20 @@ when writing your paper.</p>
 <h3 class="callout-title">Tools<a class="anchor" aria-label="anchor" href="#tools"></a>
 </h3>
 <div class="callout-content">
-<p>No coding: Open refine Using a survey tool to help with tidy data</p>
-<p>Coding: If you want to code, R tidyverse or Python Pandas</p>
+<div class="section level4">
+<h4 id="tools-that-dont-involve-programming">Tools that don’t involve programming:<a class="anchor" aria-label="anchor" href="#tools-that-dont-involve-programming"></a></h4>
+<p>(Open Refine)[<a href="https://openrefine.org/" class="external-link uri">https://openrefine.org/</a>] is an open source (free) tool
+that is incredibly useful to clean column data. Your data (doesn’t leave
+your computer)[<a href="https://openrefine.org/privacy" class="external-link uri">https://openrefine.org/privacy</a>], which makes it safer
+when working with sensitive data.</p>
+<p>Any survey tool may also be of benefit.</p>
+</div>
+<div class="section level4">
+<h4 id="programming-tools">Programming Tools:<a class="anchor" aria-label="anchor" href="#programming-tools"></a></h4>
+<p>R has the Tidyverse library, also written by Hadley Wickham Python
+has the Pandas library, which follows similar principles. You may also
+find NumPy useful.</p>
+</div>
 </div>
 </div>
 </div>
@@ -349,10 +374,26 @@ when writing your paper.</p>
 <div class="callout-content">
 <p><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes.html" class="external-link">Common
 formatting problems - Data Carpentry</a></p>
+<p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3668100/" class="external-link">Paper
+on the prevention and handling of the missing data</a></p>
 </div>
 </div>
 </div>
-<div id="references" class="callout">
+</div>
+<div class="section level2">
+<h2 id="what-is-your-next-step">What is your next step?<a class="anchor" aria-label="anchor" href="#what-is-your-next-step"></a></h2>
+<div class="section level4">
+<h4 id="as-a-beginning-step-a-great-place-to-start-is-">As a Beginning step, a great place to start is….<a class="anchor" aria-label="anchor" href="#as-a-beginning-step-a-great-place-to-start-is-"></a></h4>
+<ul><li>Decide how to handle missing data</li>
+<li>Use YYYY-MM-DD for dates</li>
+</ul></div>
+<div class="section level4">
+<h4 id="as-an-advanced-step-a-great-place-to-start-is-">As an Advanced step, a great place to start is….<a class="anchor" aria-label="anchor" href="#as-an-advanced-step-a-great-place-to-start-is-"></a></h4>
+<ul><li>You can start to work in a data science language such as R or
+Python. (The Carpentries )[<a href="https://software-carpentry.org/lessons/" class="external-link uri">https://software-carpentry.org/lessons/</a>] data science
+lessons are a great place to start, made for researchers who have never
+coded before. Workshops are held across the world.</li>
+</ul><div id="references" class="callout">
 <div class="callout-square">
 <i class="callout-icon" data-feather="bell"></i>
 </div>
@@ -366,6 +407,15 @@ Creative Commons Attribution License (CC-BY)</p>
 <p>Broman, K. W., &amp; Woo, K. H. (2018). Data Organization in
 Spreadsheets. The American Statistician, 72(1), 2–10. <a href="https://doi.org/10.1080/00031305.2017.1375989" class="external-link uri">https://doi.org/10.1080/00031305.2017.1375989</a> licenced
 as Attribution-NonCommercial-NoDerivatives (CC-BY-NC-ND)</p>
+<p>White, Ethan &amp; Baldridge, Elita &amp; Brym, Zachary &amp; Locey,
+Kenneth &amp; McGlinn, Daniel &amp; Supp, Sarah. (2013). Nine simple
+ways to make it easier to (re)use your data.
+10.7287/peerj.preprints.7v1. licenced as Creative Commons Attribution
+License (CC-BY)</p>
+<p>Kang H. The prevention and handling of the missing data. Korean J
+Anesthesiol. 2013 May;64(5):402-6. doi: 10.4097/kjae.2013.64.5.402. Epub
+2013 May 24. PMID: 23741561; PMCID: PMC3668100. licenced as Creative
+Commons Attribution Non-Commercial License (CC-BY-NC)</p>
 </div>
 </div>
 </div>
@@ -373,6 +423,7 @@ as Attribution-NonCommercial-NoDerivatives (CC-BY-NC-ND)</p>
 Place links that you need to refer to multiple times across pages here. Delete
 any links that you are not going to use. 
  -->
+</div>
 </div>
 </div>
 
