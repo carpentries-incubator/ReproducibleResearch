@@ -19,6 +19,8 @@ Clarity in your methodology is important, and can offer an insight into how you'
 
 Have you described your protocols in depth? Part of being reproducible is explaining your steps in such depth that someone can replicate your work.
 
+Consider what detail to include - In addition to detailed procedures, equipment, and instruments, protocols should also contain study objectives, reasoning for experimental design, reasoning for chosen sample sizes, safety precautions, and how results were calculated and reported, including statistical analysis and any rules for predefining and documenting excluded data to avoid bias.
+
 Have you explained why you chose that protocol, took those steps? 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
@@ -31,7 +33,7 @@ This really did come up time and time again when talking to researchers on how t
 Have you kept details of your literature review? While you may not be publishing all the details of your literature review, it can be helpful for your future self to retain these details. You may want to use part of this data for your next study, and need to remember why you discounted a paper, or if you felt there was bias unaccounted for in a study.
 
 
-## Publishing your Protocol
+# Publishing your Protocol
 
 Benefits to publishing your protocols:
  - Builds trust in your work
@@ -42,28 +44,38 @@ Benefits to publishing your protocols:
 
 Where can you publish your protocols?
 
-[Protocols.io ](https://www.protocols.io/)
-[PLOS](https://plos.org/protocols/)
-Open Science Framework (OSF) - a free open source project management tool.  You can register all types of review protocols including scoping reviews. For instructions on how to submit, see Welcome to registrations.
-[Cochrane Library](https://www.cochranelibrary.com/) - includes protocols of Cochrane Reviews that are planned or in progress. 
+ - [Protocols.io ](https://www.protocols.io/)
+ - [PLOS](https://plos.org/protocols/)
+Open Science Framework (OSF) - a free open source project management tool.  You can register all types of review protocols including scoping reviews. 
+ - [Cochrane Library](https://www.cochranelibrary.com/) - includes protocols of Cochrane Reviews that are planned or in progress. 
+ - Many journals will publish protocols - check the journals in your field. Instructions for authors will often have guidelines for the level of detail expected in the protocols they publish or where the protocol should be published.
+
 
 See [methods & protocols - ReproducibiliTeach](https://www.youtube.com/watch?v=CzpY4A5G70s&list=PLWb8IFSVeQ620plPweZIQSGQODpGOww8r&index=3) for the differences between protocol journals and protocol repositories (at 23:33).
 
-## Preregistration
-https://www.cos.io/initiatives/prereg#:~:text=What%20is%20Preregistration%3F,Both%20are%20important.
+
+# Preregistration
+
+When you preregister your research, you're simply specifying your research plan in advance of your study and submitting it to a registry. 
+
+Preregistration separates hypothesis-generating (exploratory) from hypothesis-testing (confirmatory) research. Both are important. But the same data cannot be used to generate and test a hypothesis, which can happen unintentionally and reduce the credibility of your results. Addressing this problem through planning improves the quality and transparency of your research. This helps you clearly report your study and helps others who may wish to build on it. 
 
 Prominent registries include:
-OSF Registries. Run by the Centre for Open Science, OSF Registries is the most widely used repository for preregistering studies. Various templates are available for different kinds of preregistrations.
-AsPredicted. AsPredicted is a preregistration platform created by the University of Pennsylvania’s Wharton Credibility Lab, integrating with their ResearchBox platform.
-protocols.io. A platform designed specifically for the preregistration of protocols and methods.
-PreReg in Psychology. A long-running discipline-specific registry provided by the Leibniz Institute for Psychology (ZPID).
-AEA RCT Registry. The American Economic Association’s Randomized Controlled Trials Registry is open to RCTs in economics, political science, and social science from anywhere in the world.
-For clinical trials, there is a list of international registries in the Cochrane handbook.
+[OSF Registries](https://osf.io/registries). OSF Registries is the most widely used repository for preregistering studies. 
+[protocols.io](https://www.protocols.io/). A platform designed specifically for the preregistration of protocols and methods.
+For clinical trials, there is a list of [international registries in the Cochrane](https://training.cochrane.org/handbook) handbook.
+See the (Directory of Open Access Preprint Repositories)[https://doapr.coar-repositories.org/repositories/] for discipline specific repositories or [Wikipedia's list of Preprint Repositories](https://en.wikipedia.org/wiki/List_of_preprint_repositories)
+
+::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Does your library have pages on prepublications and protocols? Is there people at your institute who assist researchers with this? Include them here!
+
+::::::::::::::::::::::::::::::::::::::::::::::: 
+
 
 ## Registered Reports
 
 You may want to consider a [Registered Report](https://the-turing-way.netlify.app/communication/dif-articles/reg#cm-dif-articles-registered-reports)
-
 
 
 
@@ -110,5 +122,9 @@ Learning about how preregistration and registering protocols work by checking ou
 ## References
 
 The Turing Way Community. (updated 2023) Methods and Protocols . Github.com Retrieved April 11, 2024, from https://book.the-turing-way.org/reproducible-research/rdm/rdm-methods.html?highlight=protocol#open-methods-protocols licenced under CC-BY 4.0 licence
+
+Center for Open Science (updated 2024) Home. COS Retrieved April 11, 2024 from https://www.cos.io/ licenced under CC-BY 4.0 licence
+
+Wikipedia contributors. (2023, December 12). Protocol (science). In Wikipedia, The Free Encyclopedia. Retrieved 00:36, April 11, 2024, from https://en.wikipedia.org/w/index.php?title=Protocol_(science)&oldid=1189512860
 
 :::::::::::::::::::::::::::::::::::::::::::::::
