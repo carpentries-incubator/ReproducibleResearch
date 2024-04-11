@@ -61,10 +61,11 @@ When you preregister your research, you're simply specifying your research plan 
 Preregistration separates hypothesis-generating (exploratory) from hypothesis-testing (confirmatory) research. Both are important. But the same data cannot be used to generate and test a hypothesis, which can happen unintentionally and reduce the credibility of your results. Addressing this problem through planning improves the quality and transparency of your research. This helps you clearly report your study and helps others who may wish to build on it. 
 
 Prominent registries include:
-[OSF Registries](https://osf.io/registries). OSF Registries is the most widely used repository for preregistering studies. 
-[protocols.io](https://www.protocols.io/). A platform designed specifically for the preregistration of protocols and methods.
-For clinical trials, there is a list of [international registries in the Cochrane](https://training.cochrane.org/handbook) handbook.
-See the (Directory of Open Access Preprint Repositories)[https://doapr.coar-repositories.org/repositories/] for discipline specific repositories or [Wikipedia's list of Preprint Repositories](https://en.wikipedia.org/wiki/List_of_preprint_repositories)
+ - [OSF Registries](https://osf.io/registries). OSF Registries is the most widely used repository for preregistering studies. 
+ - [protocols.io](https://www.protocols.io/). A platform designed specifically for the preregistration of protocols and methods.
+ - For clinical trials, there is a list of [international registries in the Cochrane](https://training.cochrane.org/handbook) handbook.
+ - See the (Directory of Open Access Preprint Repositories)[https://doapr.coar-repositories.org/repositories/] for discipline specific repositories
+ - [Wikipedia's list of Preprint Repositories](https://en.wikipedia.org/wiki/List_of_preprint_repositories) for more discipline specific repositories
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
