@@ -1,5 +1,5 @@
 ---
-title: 'Step 3 - Methodology, Protocols and Statistics Sorted'
+title: 'Step 3 - Methodology and Protocols'
 teaching: 15
 exercises: 0
 ---
@@ -79,32 +79,7 @@ You may want to consider a [Registered Report](https://the-turing-way.netlify.ap
 
 
 
-# Statistics Sorted
-
-
-
-
-The next lesson, we'll talk about how and where to save this information.
-
-:::::::::::::::::::::::::::::::::::::::::::::::  callout
-
-## Tools
-
-
-:::::::::::::::::::::::::::::::::::::::::::::::
-
-
-::::::::::::::::::::::::::::::::::::::::::::::: callout
-## Resources
-
-https://the-turing-way.netlify.app/project-design/pd-overview
-[How to write a reusable, step-by-step protocol - ReproducibiliTeach](https://youtu.be/aKiXFzj15dg)
-
-::::::::::::::::::::::::::::::::::::::::::::::: 
-
-
-
-## What is your next step?
+# What is your next step?
 
 #### As a Beginning step, a great place to start is....
 
@@ -113,7 +88,7 @@ Learning about how preregistration and registering protocols work by checking ou
 
 #### As an Advanced step, your next move can be....
 
-## Code for analysis
+Get started on publishing that protocol and prepublication! You can use  [How to write a reusable, step-by-step protocol - ReproducibiliTeach](https://youtu.be/aKiXFzj15dg) as a starter.
 
 
 
