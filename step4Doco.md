@@ -54,6 +54,32 @@ Okay, so firstly, let's talk about our Base.
 
 Assumely, you included a base. But did you describe it? Was it thin or thick pan? Extra wide New York style?
 
+What was the base made out of? 
+
+Now, the default answer here is dough. BUT here's the thing - not everyone may have the same idea about what 'could' constitute a pizza base.
+
+::::::::::::::::::::::::::::::::::::::::::::::: Story Time
+
+So one day during a work lunch, a colleague made a passing comment about having a cauliflower pizza. This erupted a spicy debate on 'Is this a pizza?'.
+
+Further questions revealed they weren't using cauliflower as a topping - Their version of a pizza was a roasted slice of cauliflower as a base, topped with tomato sauce, pizza toppings and cheese.
+
+There was much debate - Surely this wasn't a pizza, there was no base! But can a base be a slice of cauliflower? Should it be a bread or a dough? Was this just a vegetable stack?
+
+This lead to the coversation of what a base must consist of. 
+
+Does a base need to contain flour? If so, does a mix of egg, parmasan cheese and almond flour meet the criteria? Almond flour is a flour after all.
+
+Does a base need to be a yeast based dough? If so, take the scenerio that someone used a naan as a base - if they made a yeast based naan, it would be pizza, but a yogurt based naan wouldn't? 
+
+## Details are important!
+
+#### This shows that while we have assumptions on what is 'normal', this is skewed by our life experience, and others may not have the same 'normal'.
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::
+
+
 If you're Australian, there's a good chance you included pineapple on your pizza. 
 
 
@@ -108,5 +134,6 @@ If you really want to be a bit dad joke/cheesy ha, you can play "All about the b
 
 ## References
 
+A shout out to the people in the Cauliflower Pizza story - Thanks for letting me share it! @amandamiotto
 
 :::::::::::::::::::::::::::::::::::::::::::::::
