@@ -58,7 +58,9 @@ What was the base made out of?
 
 Now, the default answer here is dough. BUT here's the thing - not everyone may have the same idea about what 'could' constitute a pizza base.
 
-::::::::::::::::::::::::::::::::::::::::::::::: Story Time
+::::::::::::::::::::::::::::::::::::::::::::::: callout
+
+## Story Time
 
 So one day during a work lunch, a colleague made a passing comment about having a cauliflower pizza. This erupted a spicy debate on 'Is this a pizza?'.
 
@@ -72,7 +74,7 @@ Does a base need to contain flour? If so, does a mix of egg, parmasan cheese and
 
 Does a base need to be a yeast based dough? If so, take the scenerio that someone used a naan as a base - if they made a yeast based naan, it would be pizza, but a yogurt based naan wouldn't? 
 
-## Details are important!
+### Details are important!
 
 #### This shows that while we have assumptions on what is 'normal', this is skewed by our life experience, and others may not have the same 'normal'.
 
