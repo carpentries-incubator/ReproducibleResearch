@@ -81,8 +81,19 @@ Does a base need to be a yeast based dough? If so, take the scenerio that someon
 
 :::::::::::::::::::::::::::::::::::::::::::::::
 
+### Example - Pineapple on Pizza
 
-If you're Australian, there's a good chance you included pineapple on your pizza. 
+If you're Australian, there's a good chance you included pineapple on your pizza. Pineapple is a common ingredient on an array of Australia other pizzas, and may even accompany a Barbeque sauce in place of a tomato passata or olive oil.
+
+In fact, Hawaiian (ham, pineapple and cheese) was the most popular pizza in Australia in 1999, accounting for 15% of pizza sales. Hawaiian Pizza was even named after the brand of canned pineapple initially used when the Hawaiian pizza was first created (by a Greek cook in Canada, inspired by the sweet and sour combination of asian dishes). 
+
+However, if you come from Italy, none of the traditional pizzas have ever had pineapple. So if you had to make a Hawaiian pizza for the first time, you may have some questions.
+
+- Do you leave the skin on?
+
+- Do you cut it in slices or chunks? How big?
+
+- Do you cook the pineapple first?
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
@@ -135,6 +146,12 @@ If you really want to be a bit dad joke/cheesy ha, you can play "All about the b
 ::::::::::::::::::::::::::::::::::::::::::::::: callout
 
 ## References
+
+Wikipedia contributors. (2024, April 5). Hawaiian pizza. In Wikipedia, The Free Encyclopedia. Retrieved 23:08, April 13, 2024, from https://en.wikipedia.org/w/index.php?title=Hawaiian_pizza&oldid=1217376466
+
+Wikipedia contributors. (2024, April 9). Pizza. In Wikipedia, The Free Encyclopedia. Retrieved 23:25, April 13, 2024, from https://en.wikipedia.org/w/index.php?title=Pizza#Italy&oldid=1218124686
+
+Wikipedia contributors. (2024, April 12). List of Italian foods and drinks. In Wikipedia, The Free Encyclopedia. Retrieved 23:27, April 13, 2024, from https://en.wikipedia.org/w/index.php?title=List_of_Italian_foods_and_drinks&oldid=1218578719
 
 A shout out to the people in the Cauliflower Pizza story - Thanks for letting me share it! @amandamiotto
 
