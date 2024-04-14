@@ -33,6 +33,8 @@ Aligned to that, how do we retain this knowledge in the long term, so it can be 
 
 ## The Reproducibility Crisis
 
+::::::::::::::::::::::::::::::::::::: callout
+
 #### Nature paper - 1,500 scientists lift the lid on reproducibility
 
 In the Nature paper "1,500 scientists lift the lid on reproducibility", researchers were surveyed about reproducibility.
@@ -45,7 +47,7 @@ In the Nature paper "1,500 scientists lift the lid on reproducibility", research
 
 
 
-These are not insignificant numbers.
+***These are not insignificant numbers.***
 
 
 
@@ -57,10 +59,11 @@ A number of interesting insights came from this study:
  - almost 70% still trusted that even though these papers couldn't be reproduced, that the results were probably correct
 
 
-
+:::::::::::::::::::::::::::::::::::::
 
 Let's take another example. 
 
+::::::::::::::::::::::::::::::::::::: callout
 
 #### The Reproducibility Project: Cancer Biology
 
@@ -80,7 +83,7 @@ When preparing replications of 193 experiments from 53 papers there were a numbe
 
 
 
-
+:::::::::::::::::::::::::::::::::::::
 
 
 
@@ -192,7 +195,7 @@ Munafò, M., Nosek, B., Bishop, D. et al. A manifesto for reproducible science. 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-The Nature paper has some excellent graphics that you may like to use in your own institute training, however due to copyright, we have decided to not use it here.
+The Nature paper has some excellent graphics that you may like to use internally in your own institute training, however due to copyright, we have decided to not use it here.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

@@ -12,7 +12,10 @@ Let's look at a few concepts that can help.
 
 
 
-### How to structure Column Data - Tidy data format
+# How to structure Column Data - Tidy data format
+
+
+
 
 Tidy data developed by Hadley Wickham offer a set of rules to record, organise, and maintain data to ensure your analysis is effective, reproducible, and manageable.
 
@@ -30,43 +33,62 @@ The fundamental principles of tidy data are:
 
 
 
-Let's look at an example:
 
-Each variable is in a separate column  i.e. the thing you’re measuring, like ‘age’ or ‘temperature’ or ‘height’. 
-Each observation is in a separate row
-Each cell contains one value (either a number or character string) 
+
 
 Let's look at an example:
 
-![First example with full address in one cell](/episodes/fig/TidyDataExample1.png){alt='First Example where full address is in one cell'}
+![](episodes/fig/TidyDataExample1.png){alt='First Example where full address is in one cell'}
+
 
 This format could cause a number of issues.
-- There is little control or guidance around when to use spaces, new lines or commas in this format. Commas especially can lead to a shift in data across your cells - meaning half of your address may end up in neighbouring cells, overwriting or shifting the rest of the line.
-- Searching via State or Postcode would be extremely complicated.
-- There is little clarity on what information should be included. One line contained the country, another did not. 
-- Difficult to see/check if some part of the address is missing.
+
+ - There is little control or guidance around when to use spaces, new lines or commas in this format. Commas especially can lead to a shift in data across your cells - meaning half of your address may end up in neighbouring cells, overwriting or shifting the rest of the line.
+
+ - Searching via State or Postcode would be extremely complicated.
+
+ - There is little clarity on what information should be included. One line contained the country, another did not. 
+
+ - Difficult to see/check if some part of the address is missing.
+
+
 
 Let's look at a tidy example:
 
-![Second example with address across multiple cells](/episodes/fig/TidyDataExample2.png){alt='Second example where information is broken down into individual cells'}
+![](episodes/fig/TidyDataExample2.png){alt='Second example where information is broken down into individual cells'}
 
 This format includes a lot of benefits:
-- It is clear what is expected to include
-- Easier to search
-- Less likely to get extra whitespace or punctuation that could cause issues with analysis software
+
+ - It is clear what is expected to include
+
+ - Easier to search
+
+ - Less likely to get extra whitespace or punctuation that could cause issues with analysis software
+
+
 
 When multiple people are entering data manually, it may be beneficial to use a survey that fills in a spreadsheet for you. This can include dropdown menu items to ensure consistancy in certain columns - for example, to eliminate a combination of "Monday, Mon, M, mon".
 
-Other useful concepts:
 
-### Dates:
+
+
+# Other useful concepts:
+
+::::::::::::::::::::::::::::::::::::: callout
+
+#### Dates:
 
 Where possible, always use the formal YYYY-MM-DD for your dates. It will make searching for dates much easier. In addition, adding the additional zero (for example, March would be 03 ) means that when you sort your file, months and days will be in order. Otherwise, you may have Jan (1), Oct (10), Nov (11), Dec (12), Feb (2). 
 
+::::::::::::::::::::::::::::::::
 
-### Special Characters:
+::::::::::::::::::::::::::::::::::::: callout
+
+#### Special Characters:
 
 It is best to avoid punctuation or special characters in your cells or data entry. Some analysis tools may read certain characters incorrectly or produce an error. 
+
+::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
@@ -77,7 +99,9 @@ This is also an opportunity to do a live exercise - you could pull up a bad data
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
 
-### Interview considerations
+
+
+#### Interview considerations
 
 When working with interviews, you may choose to only retain transcripts. However, it is also worth recording what non-verbal queues were shown. Is there a part of the interview where the participant expressed a strong emotion? Were they comfortable or nervous? Did they fidget a lot or laugh a lot? Long pauses? 
 
@@ -85,13 +109,19 @@ Including any personal observations alongside a video can become incredibly usef
 
 
 
-### How to handle missing data
+# How to handle missing data
 
 As a project team, it is important to have a consistant way of managing missing data. 
 
-If data is missing from a cell, are you going to use a blank cell? Or a placeholder such as NA, NULL or N/A ? It's generally unadvisable to use zero, as this can have an effect on any calculations done in those cells.
+ - If data is missing from a cell, are you going to use a blank cell? Or a placeholder such as NA, NULL or N/A ? It's generally unadvisable to use zero, as this can have an effect on any calculations done in those cells.
 
-Should the whole observation be discluded? Has your methodology accounted for how to handle this scenario and any potential skewing of results? When publishing, have you discussed how missing data is handled and accounted for?
+ - Should the whole observation be discluded?
+
+ - Has your methodology accounted for how to handle this scenario and any potential skewing of results?
+
+ - When publishing, have you discussed how missing data is handled and accounted for?
+
+
 
 A helpful resource can be found here: [Paper on the prevention and handling of the missing data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3668100/)
 
@@ -111,13 +141,18 @@ Later, we will talk about how to test for missing data.
 
 Any survey tool may also be of benefit.
 
+
 #### Programming Tools:
+
 R has the Tidyverse library, also written by Hadley Wickham
 Python has the Pandas library, which follows similar principles. You may also find NumPy useful.
+
+
 :::::::::::::::::::::::::::::::::::::::::::::::
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: callout
+
 ## Resources
 
 [Common formatting problems - Data Carpentry](https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes.html)
@@ -131,14 +166,46 @@ Python has the Pandas library, which follows similar principles. You may also fi
 
 ## What is your next step?
 
-#### As a Beginning step, a great place to start is....
+
+::: tab 
+
+
+### Beginner
+
+A great place to start is:
+
 - Decide how to handle missing data
 - Use YYYY-MM-DD for dates
 
+### Advanced
 
-#### As an Advanced step, your next move can be....
+Your next move can be:
+
 - You can start to work in a data science language such as R or Python. [The Carpentries](https://software-carpentry.org/lessons/) data science lessons are a great place to start, made for researchers who have never coded before. Workshops are held across the world.
 
+:::
+
+
+
+::: tab
+
+### Windows
+
+Some Windows instructions
+
+### Mac
+
+Maybe some for Mac
+
+### Linux
+
+And more for Linux users, including a code block:
+
+```python
+  print("Yay, tabs!")
+```
+
+:::
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: callout
