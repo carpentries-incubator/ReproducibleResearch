@@ -38,7 +38,7 @@ Each cell contains one value (either a number or character string)
 
 Let's look at an example:
 
-![First example with full address in one cell](/episodes/images/TidyDataExample1.png)
+![First example with full address in one cell](/episodes/fig/TidyDataExample1.png){alt='First Example where full address is in one cell'}
 
 This format could cause a number of issues.
 - There is little control or guidance around when to use spaces, new lines or commas in this format. Commas especially can lead to a shift in data across your cells - meaning half of your address may end up in neighbouring cells, overwriting or shifting the rest of the line.
@@ -48,7 +48,7 @@ This format could cause a number of issues.
 
 Let's look at a tidy example:
 
-![Second example with address across multiple cells](/episodes/images/TidyDataExample2.png)
+![Second example with address across multiple cells](/episodes/fig/TidyDataExample2.png){alt='Second example where information is broken down into individual cells'}
 
 This format includes a lot of benefits:
 - It is clear what is expected to include
