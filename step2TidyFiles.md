@@ -74,7 +74,7 @@ When multiple people are entering data manually, it may be beneficial to use a s
 
 # Other useful concepts:
 
-::::::::::::::::::::::::::::::::::::: callout
+::::::::::::::::::::::::::::::::::::: discussion
 
 #### Dates:
 
@@ -82,7 +82,7 @@ Where possible, always use the formal YYYY-MM-DD for your dates. It will make se
 
 ::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::: callout
+::::::::::::::::::::::::::::::::::::: discussion
 
 #### Special Characters:
 
@@ -131,7 +131,7 @@ Later, we will talk about how to test for missing data.
 
 
 
-:::::::::::::::::::::::::::::::::::::::::::::::  callout
+:::::::::::::::::::::::::::::::::::::::::::::::  discussion
 
 ## Tools
 
@@ -186,26 +186,6 @@ Your next move can be:
 :::
 
 
-
-::: tab
-
-### Windows
-
-Some Windows instructions
-
-### Mac
-
-Maybe some for Mac
-
-### Linux
-
-And more for Linux users, including a code block:
-
-```python
-  print("Yay, tabs!")
-```
-
-:::
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: callout

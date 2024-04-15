@@ -36,22 +36,35 @@ Have you kept details of your literature review? While you may not be publishing
 # Publishing your Protocol
 
 Benefits to publishing your protocols:
+
  - Builds trust in your work
+
  - Enables discovery 
+
  - Expands your publication records
+
  - Offers an early opportunity for peer review, with an opportunity for feedback and improvements
+
  - It creates an early record of your novel methodologies, software, and/or innovations
+
+
 
 Where can you publish your protocols?
 
- - [Protocols.io ](https://www.protocols.io/)
- - [PLOS](https://plos.org/protocols/)
-Open Science Framework (OSF) - a free open source project management tool.  You can register all types of review protocols including scoping reviews. 
- - [Cochrane Library](https://www.cochranelibrary.com/) - includes protocols of Cochrane Reviews that are planned or in progress. 
+ - [Protocols.io ](https://www.protocols.io/) is dedicated to protocol publication.
+
+ - [PLOS](https://plos.org/protocols/) PLOS is a nonprofit, Open Access publisher for science and medicine.
+
+ - [Open Science Framework (OSF)](https://osf.io/) - A free open source project management tool.  You can register all types of review protocols including scoping reviews. 
+
+ - [Cochrane Library](https://www.cochranelibrary.com/) - Includes protocols of Cochrane Reviews for the medicine and other healthcare specialties that are planned or in progress. 
+
  - Many journals will publish protocols - check the journals in your field. Instructions for authors will often have guidelines for the level of detail expected in the protocols they publish or where the protocol should be published.
 
 
 See [methods & protocols - ReproducibiliTeach](https://www.youtube.com/watch?v=CzpY4A5G70s&list=PLWb8IFSVeQ620plPweZIQSGQODpGOww8r&index=3) for the differences between protocol journals and protocol repositories (at 23:33).
+
+
 
 
 # Preregistration
@@ -61,11 +74,18 @@ When you preregister your research, you're simply specifying your research plan 
 Preregistration separates hypothesis-generating (exploratory) from hypothesis-testing (confirmatory) research. Both are important. But the same data cannot be used to generate and test a hypothesis, which can happen unintentionally and reduce the credibility of your results. Addressing this problem through planning improves the quality and transparency of your research. This helps you clearly report your study and helps others who may wish to build on it. 
 
 Prominent registries include:
+
  - [OSF Registries](https://osf.io/registries). OSF Registries is the most widely used repository for preregistering studies. 
+
  - [protocols.io](https://www.protocols.io/). A platform designed specifically for the preregistration of protocols and methods.
+
  - For clinical trials, there is a list of [international registries in the Cochrane](https://training.cochrane.org/handbook) handbook.
+
  - See the (Directory of Open Access Preprint Repositories)[https://doapr.coar-repositories.org/repositories/] for discipline specific repositories
+
  - [Wikipedia's list of Preprint Repositories](https://en.wikipedia.org/wiki/List_of_preprint_repositories) for more discipline specific repositories
+
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
@@ -80,16 +100,24 @@ You may want to consider a [Registered Report](https://the-turing-way.netlify.ap
 
 
 
-# What is your next step?
 
-#### As a Beginning step, a great place to start is....
+::: tab 
+
+
+### Beginner
+
+A great place to start is:
 
 Learning about how preregistration and registering protocols work by checking out some of these [ReproducibiliTeach videos](https://www.youtube.com/@reproducibiliteach/videos) or check out this [The Turing Way page on Methods and Protocols](https://book.the-turing-way.org/reproducible-research/rdm/rdm-methods.html?highlight=protocol#open-methods-protocols)
 
+### Advanced
 
-#### As an Advanced step, your next move can be....
+Your next move can be:
 
 Get started on publishing that protocol and prepublication! You can use  [How to write a reusable, step-by-step protocol - ReproducibiliTeach](https://youtu.be/aKiXFzj15dg) as a starter.
+
+:::
+
 
 
 
