@@ -21,19 +21,31 @@ Desc:
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
 
-
+This is a good time to talk about what research data storage options you have at your institute. Cover how backups work (and the difference between backup and whole system recovery, which are two different things).
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-What steps can I take?
+## What is your next step?
 
-Beginner
 
-Intermediate
+::: tab 
 
-Advanced
+
+### Beginner
+
+A great place to start is:
+
+
+### Advanced
+
+Your next move can be:
+
+
+
+:::
+
 
 
 

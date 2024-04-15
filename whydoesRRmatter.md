@@ -33,7 +33,7 @@ Aligned to that, how do we retain this knowledge in the long term, so it can be 
 
 ## The Reproducibility Crisis
 
-::::::::::::::::::::::::::::::::::::: callout
+::::::::::::::::::::::::::::::::::::: discussion
 
 #### Nature paper - 1,500 scientists lift the lid on reproducibility
 
@@ -63,7 +63,7 @@ A number of interesting insights came from this study:
 
 Let's take another example. 
 
-::::::::::::::::::::::::::::::::::::: callout
+::::::::::::::::::::::::::::::::::::: discussion
 
 #### The Reproducibility Project: Cancer Biology
 
