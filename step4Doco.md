@@ -223,12 +223,38 @@ It may feel like it chews into a lot of time to be so detailed, but you save tha
 
 # What do I include in my documentation?
 
-DMP
-SoP
-PreReg
-Protocol Reg
+[Data Management Plans](step1Folders.html#data-management-plan) - As discussed in lesson 1.
 
-New staff member
+A Standard Operating Procedure
+A standard operating procedure (SOP) is a set of step-by-step instructions to help carry out routine operations. SOPs aim to achieve efficiency, quality output, and uniformity of performance, while reducing miscommunication and failure to comply with industry regulations.
+
+::::::::::::::::::::::::::::::::::::::::::::::: discussion
+
+[Ten simple rules on how to write a standard operating procedure](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008095) is a great start to writing a SoP, and comes with this [useful template](https://zenodo.org/records/3678317#.Y2suUORByUk).
+
+::::::::::::::::::::::::::::::::::::::::::::::: 
+
+What and where you completed PreRegistration of your research project - As discussed in lesson 3.
+What and where you published your protocols - As discussed in lesson 3
+
+
+
+What didn't work in your project? Why did you make the decisions that you did?
+
+:::::::::::::::::::::::::::::: challenge
+
+If a key member of your team because unavailable suddenly, what do you need to know?
+
+::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+You could do this as a verbal activity, ask people to discuss or share on the board what you may need to know.
+
+:::::::::::::::::::::::::::::::::::::::::::::::
+
+
+::::::::::::::::::::::::::::::
+
+
 
 
 # Things to consider
@@ -293,6 +319,10 @@ Wikipedia contributors. (2024, April 12). List of Italian foods and drinks. In W
 Wikipedia contributors. (2024, January 14). Curse of knowledge. In Wikipedia, The Free Encyclopedia. Retrieved 23:46, April 13, 2024, from https://en.wikipedia.org/w/index.php?title=Curse_of_knowledge&oldid=1195502962
 
 Wikipedia contributors. (2024, March 11). List of electronic laboratory notebook software packages. In Wikipedia, The Free Encyclopedia. Retrieved 00:58, April 15, 2024, from https://en.wikipedia.org/w/index.php?title=List_of_electronic_laboratory_notebook_software_packages&oldid=1213192113
+
+Wikipedia contributors. (2024, February 20). Standard operating procedure. In Wikipedia, The Free Encyclopedia. Retrieved 01:20, April 15, 2024, from https://en.wikipedia.org/w/index.php?title=Standard_operating_procedure&oldid=1209098321
+
+Hollmann S, Frohme M, Endrullat C, Kremer A, D’Elia D, Regierer B, et al. (2020) Ten simple rules on how to write a standard operating procedure. PLoS Comput Biol 16(9): e1008095. https://doi.org/10.1371/journal.pcbi.1008095 published with a CC-BY licence.
 
 A shout out to the people in the Cauliflower Pizza story - Thanks for letting me share it! @amandamiotto
 
