@@ -15,8 +15,6 @@ Let's look at a few concepts that can help.
 # How to structure Column Data - Tidy data format
 
 
-
-
 Tidy data developed by Hadley Wickham offer a set of rules to record, organise, and maintain data to ensure your analysis is effective, reproducible, and manageable.
 
 The principles of tidy data provide a standard way to organize data values within a dataset.
@@ -127,6 +125,8 @@ A helpful resource can be found here: [Paper on the prevention and handling of t
 
 How to handle missing data in cells can be covered by this section of [Data Carpentry in Ecology](https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes.html#null)
 
+[What could go wrong?](https://github.com/Quartz/bad-data-guide?tab=readme-ov-file#issues-that-your-source-should-solve-1) may also be useful.
+
 Later, we will talk about how to test for missing data.
 
 
@@ -159,6 +159,7 @@ Python has the Pandas library, which follows similar principles. You may also fi
 
 [Paper on the prevention and handling of the missing data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3668100/)
 
+[Designing a data file structure by CESSDA](https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/Designing-a-data-file-structure)
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
@@ -200,5 +201,8 @@ White, Ethan & Baldridge, Elita & Brym, Zachary & Locey, Kenneth & McGlinn, Dani
  licenced as Creative Commons Attribution License (CC-BY)
 
 Kang H. The prevention and handling of the missing data. Korean J Anesthesiol. 2013 May;64(5):402-6. doi: 10.4097/kjae.2013.64.5.402. Epub 2013 May 24. PMID: 23741561; PMCID: PMC3668100. licenced as Creative Commons Attribution Non-Commercial License (CC-BY-NC)
+
+CESSDA Training Team (2017 - 2022). CESSDA Data Management Expert Guide.
+Bergen, Norway: CESSDA ERIC. Retrieved from https://dmeg.cessda.eu/ CESSDA Training Team (2017 - 2022). CESSDA Data Management Expert Guide, licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
 :::::::::::::::::::::::::::::::::::::::::::::::

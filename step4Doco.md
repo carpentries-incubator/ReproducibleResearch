@@ -16,15 +16,24 @@ We've talked about writing down or noting a lot of information .... but where do
 
 Think about this scenerio:
 
+
+
 :::::::::::::::::::::::::::::: challenge
 
-#### A key person from your research group suddenly disappears without warning or notice. 
+If a key member of your team because unavailable suddenly, what do you need to know?
+
+Do you know where their work is stored? Their data?
+Do you know where their procedures and protocols are stored?
+How about their research contract? Their data custodianship details?
+
+::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+You could do this as a verbal activity, ask people to discuss or share on the board what you may need to know.
+
+:::::::::::::::::::::::::::::::::::::::::::::::
 
 
-How does this affect your work? 
-How does this affect your research group?
-
-:::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
@@ -214,7 +223,9 @@ A good opportunity to give a personal experience here. Even as someone who works
 Another added benefit to documentation is for yourself. How often have you gone to redo something, or reference something you did a month ago, but you can't remember the details?
 Equally, did you do something yesterday and not write down the details because 'it was easy/made sense' and you believe you will just know how to do it later? You don't have the time, after all.
 
-It may feel like it chews into a lot of time to be so detailed, but you save that time back when you need to retrieve those details. When you are specific and detailed in your notes, _Future You_ will really appreciate how thoughtful _Past You_ was. 
+It may feel like it chews into a lot of time to be so detailed, but you save that time back when you need to retrieve those details. 
+
+When you are specific and detailed in your notes, _Future You_ will really appreciate how thoughtful _Past You_ was. 
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
@@ -223,44 +234,133 @@ It may feel like it chews into a lot of time to be so detailed, but you save tha
 
 # What do I include in my documentation?
 
-[Data Management Plans](step1Folders.html#data-management-plan) - As discussed in lesson 1.
+To start with, we've already talked about the following:
 
-A Standard Operating Procedure
-A standard operating procedure (SOP) is a set of step-by-step instructions to help carry out routine operations. SOPs aim to achieve efficiency, quality output, and uniformity of performance, while reducing miscommunication and failure to comply with industry regulations.
+ - [Data Management Plans](step1Folders.html#data-management-plan) - As discussed in lesson 1.
+
+ - What and where you completed PreRegistration of your research project - As discussed in lesson 3.
+
+ - What and where you published your protocols - As discussed in lesson 3
+
+ - How you handle missing data - As discussed in lesson 3
+
+ - Where is any downloaded data from and how is it licenced? As discussed in lesson 1.
+
+
+
+Primarily, this documentation is here for ***you***. It is to:
+
+ - Help you track what you are doing
+
+ - Have a point of reference for future you
+
+ - To alleviate some of the mental load of remembering everything
+
+ - If you realise you've taken a wrong turn, this can also act as a 'History' of changes.
+
+
+***From here, we can include anything you feel is important. You can just write what you are working on every day, like a diary.*** 
+
+
+Documentation can also include:
+
+
+ - Name and contact of all collaborators
+
+ - Ethics and Governance details
+
+ - Grant Details
+
+ - Contracts and agreements around data ownership, custodianship and permitted uses
+
+ - Data Transfer Agreements between institutes, partners and consultants
+
+ - Where has the data come from? 
+ 50% of research projects reuse at least some of their previous project data - Is this data a subset of a previous project's data? Did it come from an external collaborator or an open repository?
+
+ - How were participants recruited for?
+
+ - Participant information sheets & consent forms
+
+ - Survey questions
+
+ - What settings was your equipment in? What brand and model was that machine that produced output?
+
+ - Safety precautions needed
+
+ - A copy of your Literature Review
+
+ - Reasoning for experimental design
+
+ - Reasoning for chosen sample sizes
+
+ - How results were calculated and reported, including statistical analysis
+
+ - Any rules for predefining and documenting excluded data to avoid bias
+
+ - Detailed procedures
+
+ - What didn't work in your project? 
+
+Some of this, we would have discussed in folder structures in Step 1.
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::: discussion
 
+### Standard Operating Procedure
+
+A standard operating procedure (SOP) is a set of step-by-step instructions to help carry out routine operations. SOPs aim to achieve efficiency, quality output, and uniformity of performance, while reducing miscommunication and failure to comply with industry regulations.
+
+
 [Ten simple rules on how to write a standard operating procedure](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008095) is a great start to writing a SoP, and comes with this [useful template](https://zenodo.org/records/3678317#.Y2suUORByUk).
 
-::::::::::::::::::::::::::::::::::::::::::::::: 
-
-What and where you completed PreRegistration of your research project - As discussed in lesson 3.
-What and where you published your protocols - As discussed in lesson 3
-
-
-
-What didn't work in your project? Why did you make the decisions that you did?
-
-:::::::::::::::::::::::::::::: challenge
-
-If a key member of your team because unavailable suddenly, what do you need to know?
-
-::::::::::::::::::::::::::::::::::::::::::::::: instructor
-
-You could do this as a verbal activity, ask people to discuss or share on the board what you may need to know.
 
 :::::::::::::::::::::::::::::::::::::::::::::::
 
+### Workflow mapping / Analysis Pipelines
+
+How did you clean and analyse your data? 
+
+If you're using an analysis program like SPSS, Stata or even just Excel, you can download function list from SPSS/NVIVO to the code used to create it. Even just writing down and taking screenshots of the analysis screens is somewhere to start. 
+
+:::::::::::::::::::::::::::::: challenge
+
+Can you determine which file(s) was/were used as input in a process that produced a derived file?
+
+:::::::::::::::::::::::::::::: solution
+
+A common way is to name your files with a number at the front, so 1_rawdata.csv, 2_cleandata.csv, 3_analysisdata.csv etc.
+
+
+::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+A good opportunity to share ideas or brainstorm together different solutions.
+
+:::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::
+
+We'll talk about automation and testing in the following lessons.
+
+
+To fully automate your pipeline, you can start to work in a data science language such as R or Python. [The Carpentries](https://software-carpentry.org/lessons/) data science lessons are a great place to start, made for researchers who have never coded before. Workshops are held across the world.
+
+
+ ::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Good place to include any Carpentry or data science introduction resources - If you have none, feel free to borrow something from here: https://amandamiotto.github.io/HackyHourBookmarks/
+
+:::::::::::::::::::::::::::::::::::::::::::::::
 
 
 
 
 # Things to consider
 
+If you are working with newspapers, artwork or other GLAM (Gallery, Library, Art and Museum) media, have you noted what articles were around it? What context did location add?
 
-# Demonstrating authenticity and validity
 
 
 :::::::::::::::::::::::::::::: challenge
@@ -275,13 +375,11 @@ How do you show your workings?
 
 Thankfully, we can now do this! We can refer to our notes with our detailed methods, analysis pipelines and have links to where our data is backed up (from Lesson 1)
 
+
+The work you have done here can also help you with any audits.
+
 :::::::::::::::::::::::::::::::
 :::::::::::::::::::::::::::::::::::::::::::::::
-
-
-::::::::::::::::::::::::::::::::::::::::::::::: instructor
-:::::::::::::::::::::::::::::::::::::::::::::::
-
 
 
 ## What is your next step?
@@ -294,15 +392,45 @@ Thankfully, we can now do this! We can refer to our notes with our detailed meth
 
 A great place to start is:
 
+Open a document and start a diary. You can write at the end of the day what you did, any results, anything you got stuck on, and any notes to yourself. 
+
+You can also write down where your data is saved (On a cloud storage anywhere, external hard drive etc).
+
+That's it. That's a good start.
+
+::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+This could be a natural segway into your research storage solutions.
+
+:::::::::::::::::::::::::::::::::::::::::::::::
+
+
+### Intermediate
+
+Time to ***get detailed***. Add some of the 
+
+Here is a guide to [Documentation and Metadata](https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/Documentation-and-metadata)
+
 You can find a list of [eLabnotebooks here](https://en.wikipedia.org/wiki/List_of_electronic_laboratory_notebook_software_packages).
 
+::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
+Do you have an eLabNotebook or documentation platform for your institute? Stick a link here!
+
+:::::::::::::::::::::::::::::::::::::::::::::::
 
 
 ### Advanced
 
 Your next move can be:
 
+Set up Standard Operating Procedures and maintained Data Management Plans for your projects.
+
+::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+This is a good place to link any SoP templates or any Data management resources/templates here.
+
+:::::::::::::::::::::::::::::::::::::::::::::::
 
 :::
 
@@ -323,6 +451,9 @@ Wikipedia contributors. (2024, March 11). List of electronic laboratory notebook
 Wikipedia contributors. (2024, February 20). Standard operating procedure. In Wikipedia, The Free Encyclopedia. Retrieved 01:20, April 15, 2024, from https://en.wikipedia.org/w/index.php?title=Standard_operating_procedure&oldid=1209098321
 
 Hollmann S, Frohme M, Endrullat C, Kremer A, D’Elia D, Regierer B, et al. (2020) Ten simple rules on how to write a standard operating procedure. PLoS Comput Biol 16(9): e1008095. https://doi.org/10.1371/journal.pcbi.1008095 published with a CC-BY licence.
+
+CESSDA Training Team (2017 - 2022). CESSDA Data Management Expert Guide.
+Bergen, Norway: CESSDA ERIC. Retrieved from https://dmeg.cessda.eu/ CESSDA Training Team (2017 - 2022). CESSDA Data Management Expert Guide, licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
 A shout out to the people in the Cauliflower Pizza story - Thanks for letting me share it! @amandamiotto
 
