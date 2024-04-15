@@ -4,7 +4,7 @@ teaching: 30
 exercises: 2
 ---
 
-:::::::::::::::::::::: testamonial
+:::::::::::::::::::::: testimonial
 
 "Documentation is a love letter to your future self" - Damian Conway
 
@@ -37,18 +37,35 @@ Any personal stories here can also be useful if you have them, and are comfortab
 
 # How to start documenting
 
-Who is this documentation aimed at? Who is your audience? Your future self? Your lab group? Your reviewers?
 
-Electronic lab notebook
-Word/Google Doc
+Starting can be as simple as opening a word document and starting to type. 
+
+Your institute may have eLabNotebooks available, a cloud platform or similar available. You can even just have a text file that you store in the same place as your data.
+
+You may want to share it with your supervisor or trusted colleague, or just keep it to yourself.
+
+***Consider your audience***
+
+Are you writing for:
+ - Yourself?
+ - Your supervisors?
+ - Auditing purposes?
+ - Reviewers and external researchers wanting to replicate your work?
+ - Industry partners whom you may have a contract with?
+ - Your research group?
 
 
-DMP
-SoP
-PreReg
-Protocol Reg
+***Got a new team member?***
 
-New staff member
+If you want to document workings across members of a research group, the perfect person to do it is a new student or staff member. Not only does this make them familiar with your procedures, but they don't have _The Curse of Knowledge_ and are viewing everything with fresh eyes.
+
+::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Include the options here from your institute. 
+
+:::::::::::::::::::::::::::::::::::::::::::::::
+
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::: challenge
 
@@ -190,8 +207,28 @@ A good opportunity to give a personal experience here. Even as someone who works
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
+:::::::::::::::::::::: testimonial
+
+## Future you
+
+Another added benefit to documentation is for yourself. How often have you gone to redo something, or reference something you did a month ago, but you can't remember the details?
+Equally, did you do something yesterday and not write down the details because 'it was easy/made sense' and you believe you will just know how to do it later? You don't have the time, after all.
+
+It may feel like it chews into a lot of time to be so detailed, but you save that time back when you need to retrieve those details. When you are specific and detailed in your notes, _Future You_ will really appreciate how thoughtful _Past You_ was. 
+
+
+::::::::::::::::::::::::::::::::::::::::::::::: 
+
+
 
 # What do I include in my documentation?
+
+DMP
+SoP
+PreReg
+Protocol Reg
+
+New staff member
 
 
 # Things to consider
@@ -231,6 +268,9 @@ Thankfully, we can now do this! We can refer to our notes with our detailed meth
 
 A great place to start is:
 
+You can find a list of [eLabnotebooks here](https://en.wikipedia.org/wiki/List_of_electronic_laboratory_notebook_software_packages).
+
+
 
 
 ### Advanced
@@ -251,6 +291,8 @@ Wikipedia contributors. (2024, April 9). Pizza. In Wikipedia, The Free Encyclope
 Wikipedia contributors. (2024, April 12). List of Italian foods and drinks. In Wikipedia, The Free Encyclopedia. Retrieved 23:27, April 13, 2024, from https://en.wikipedia.org/w/index.php?title=List_of_Italian_foods_and_drinks&oldid=1218578719
 
 Wikipedia contributors. (2024, January 14). Curse of knowledge. In Wikipedia, The Free Encyclopedia. Retrieved 23:46, April 13, 2024, from https://en.wikipedia.org/w/index.php?title=Curse_of_knowledge&oldid=1195502962
+
+Wikipedia contributors. (2024, March 11). List of electronic laboratory notebook software packages. In Wikipedia, The Free Encyclopedia. Retrieved 00:58, April 15, 2024, from https://en.wikipedia.org/w/index.php?title=List_of_electronic_laboratory_notebook_software_packages&oldid=1213192113
 
 A shout out to the people in the Cauliflower Pizza story - Thanks for letting me share it! @amandamiotto
 
