@@ -9,7 +9,7 @@ exercises: 0
 
 Showing Provenance
 
-::::::::::::::::::::::::::::::::::::::::::::::: spoiler
+::::::::::::::::::::::::::::::::::::::::::::::: callout
 
 Provenance can mean different things to different people. 
 
@@ -81,17 +81,30 @@ Insert R and Python service plug here. You've probably already included it elsew
 
 ### Version Control
 
-Retaining a copy of your raw data prior to any cleaning or analysis can be useful here.
+
+
+Let's now consider tracking your versions of your analysis pipeline.
 
 If you are using R or Python, your next best friend is Git. 
 
 Git is a program to track changes in your code. You may have heard of Github or Gitlab - these are cloud platforms that use the Git program to track your code as you write it.
 
-To learn more about Git:
+Sharing your analysis pipeline then becomes easy. You can even write reports with both plain text, R or Python code and the results in graphs in platforms such as Jupyter.
+
+
+::::::::::::::::::::::::::::::::::::::::::::::: callout
+
+### To learn more about Git
 
 [The British Ecological Society](https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf) has a great Git tutorial under 'Version Control'.
 
 [Start your journey in GitHub](https://docs.github.com/en/get-started/start-your-journey/hello-world)
+
+The Carpentries has a [Software Carpentry - Version Control with Git](https://swcarpentry.github.io/git-novice/) lesson you can follow.
+
+::::::::::::::::::::::::::::::::::::::::::::::: 
+
+Retaining a copy of your raw data prior to any cleaning or analysis is also useful to version control.
 
 
 # Testing for Validity
@@ -105,6 +118,8 @@ There are a few checks we can run to help identify when this has happened.
 Is there the expected number of lines?
 
 Are there the expected number of columns?
+
+Again, R and Python have real strengths here, to have a list of tests you can run as often as you need.
 
 
 

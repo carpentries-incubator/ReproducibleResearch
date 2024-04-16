@@ -206,6 +206,7 @@ May also be referenced as Expert Bias or Curse of Expertise
 
 #### However, ***this is rarely true***. 
 
+::::::::::::::::::::::::::::::::::::::::::::::: challenge
 
 Let's stand on the other side:
 
@@ -226,6 +227,7 @@ You can ask for people to suggest different formats
 
 
 You would have to talk to the client to clarify what exactly they are after.
+::::::::::::::::::::::::::::::::::::::::::::::: 
 
 
 :::::::::::::::::::::: testimonial
