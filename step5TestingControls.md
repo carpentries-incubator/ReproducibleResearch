@@ -50,7 +50,11 @@ Have you noted where your source obtained the information?
 
 Your source may not be the data owner - who is?
 
+What copyright and access limitations are on the data?
+
 ::::::::::::::::::::::::::::::::::::::::::::::: 
+
+***This is all useful information to include in your documentation***
 
 
 This may be a good time for a refresh of Step 1 - [Metadata on your files](https://amandamiotto.github.io/ReproducibleResearch/instructor/step1Folders.html#metadata-of-your-files)
@@ -71,7 +75,31 @@ Let's start with data cleaning. Have you made a log of the changes you have made
 
 Open Refine, NVIVO and SPSS all have logs of actions that you can download and save.
 
+
+ - SPSS analysis pipeline comes as a .sps script file.
+
+ - SAS has a .sas file for pipelines
+
+ - STATA has a .do file for pipelines
+
+
 This is also where R and Python have huge strengths. Writing an R or Python script enables you to rerun with certainty the same analysis every time.
+
+If you are using a random number generator, take note of the seed number.
+
+
+***This is a lot of work. What are the benefits to me?***
+
+1. Infinite undo's: Control versions between active,
+live and archived.
+
+2. Branching and experimentation: Copy code or other
+technical formulae and change to test hypotheses
+
+3. Collaboration: Track changes, merge input.
+
+
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
@@ -79,11 +107,40 @@ Insert R and Python service plug here. You've probably already included it elsew
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
-### Version Control
+::::::::::::::::::::::::::::::::::::::::::::::: discussion
 
+### Resources
+
+[Reproducibility in Excel](https://osf.io/p2bdq/)
+
+
+
+::::::::::::::::::::::::::::::::::::::::::::::: 
+
+
+### Version Control and Tracking
 
 
 Let's now consider tracking your versions of your analysis pipeline.
+
+You may be making changes to your analysis pipeline as you go
+
+ - How are you taking notes of these changes?
+
+ - What version of software are you using? 
+
+ - Have you noted what version of the libraries you are using are? 
+
+ - Have you noted the name, model and version number of any hardware you may be using (for example, cameras, microscopes, MRI machines, IoT sensors)?
+
+::::::::::::::::::::::::::::::::::::::::::::::: discussion
+
+We have already learnt some skills in [step 1 - Organising your files and folders](step1Folders.html#file-naming-conventions) to track versions of files. We can use the same principles here. Your pipelines can be labelled V1.0, V1.1 etc.
+
+::::::::::::::::::::::::::::::::::::::::::::::: 
+
+
+#### Using computational tools
 
 If you are using R or Python, your next best friend is Git. 
 
@@ -105,6 +162,14 @@ The Carpentries has a [Software Carpentry - Version Control with Git](https://sw
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
 Retaining a copy of your raw data prior to any cleaning or analysis is also useful to version control.
+
+You may even want to try [Containers](https://carpentries-incubator.github.io/docker-introduction/) to publish your workflows. Think about Containers like a machine with all the instructions and installations inside - you can pass this box to others. They can put data into the machine, and processed data comes out the other side, without needing to pull apart and put the box together.
+
+### Using Machine Learning?
+
+The following paper may be useful to learn about ML platforms and reproducibility.
+
+[R. Isdahl and O. E. Gundersen, "Out-of-the-Box Reproducibility: A Survey of Machine Learning Platforms," 2019 15th International Conference on eScience (eScience), San Diego, CA, USA, 2019, pp. 86-95, doi: 10.1109/eScience.2019.00017.](10.1109/eScience.2019.00017)
 
 
 # Testing for Validity
@@ -166,6 +231,8 @@ https://dmeg.cessda.eu/Data-Management-Expert-Guide/3.-Process/Data-authenticity
 ## References
 
 Wikipedia contributors. (2024, March 12). Provenance. In Wikipedia, The Free Encyclopedia. Retrieved 04:46, April 16, 2024, from https://en.wikipedia.org/w/index.php?title=Provenance&oldid=1213412590 licenced under Creative Commons Attribution-ShareAlike License 4.0
+
+OFS. Valerie Collins Alicia Hofelich Mohr Samantha T Porter(2023) Reproducible research practices in Excel (yes, Excel) Retrieved on 2024-04-17 from https://osf.io/p2bdq/ licenced as CC-By Attribution 4.0 International 
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::
