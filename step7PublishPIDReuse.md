@@ -5,8 +5,12 @@ exercises: 0
 ---
 
 
+
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
+Does your institute have a 'Once your project is done' checklist?
+
+May be worth checking with your library or research office.
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
@@ -18,8 +22,8 @@ exercises: 0
 
 
 
-#### As an Advanced step, your next move can be....
 
+#### As an Advanced step, your next move can be....
 
 
 

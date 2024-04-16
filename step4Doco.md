@@ -318,7 +318,7 @@ Documentation can also include:
 
  - What didn't work in your project? 
 
-Some of this, we would have discussed in folder structures in Step 1.
+Some of this, we would have discussed in folder structures in Step 1. You may also have some of this information in your Data Management Plans.
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: discussion
@@ -375,8 +375,13 @@ Good place to include any Carpentry or data science introduction resources - If 
 
 # Things to consider
 
+## Media work
+
 If you are working with newspapers, artwork or other GLAM (Gallery, Library, Art and Museum) media, have you noted what articles were around it? What context did location add?
 
+## Passwords
+
+You may want to create a team password manager, or even just a personal one, to track accounts and passwords.
 
 
 :::::::::::::::::::::::::::::: challenge
@@ -400,6 +405,12 @@ The work you have done here can also help you with any audits.
 
 ## What is your next step?
 
+::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+The following tabs are a good place to link your SoP templates, Data management plan system/templates, talk about research storage solutions etc.
+
+:::::::::::::::::::::::::::::::::::::::::::::::
+
 
 ::: tab 
 
@@ -414,11 +425,6 @@ You can also write down where your data is saved (On a cloud storage anywhere, e
 
 That's it. That's a good start.
 
-::::::::::::::::::::::::::::::::::::::::::::::: instructor
-
-This could be a natural segway into your research storage solutions.
-
-:::::::::::::::::::::::::::::::::::::::::::::::
 
 
 ### Intermediate
@@ -429,11 +435,7 @@ Here is a guide to [Documentation and Metadata](https://dmeg.cessda.eu/Data-Mana
 
 You can find a list of [eLabnotebooks here](https://en.wikipedia.org/wiki/List_of_electronic_laboratory_notebook_software_packages).
 
-::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-Do you have an eLabNotebook or documentation platform for your institute? Stick a link here!
-
-:::::::::::::::::::::::::::::::::::::::::::::::
 
 
 ### Advanced
@@ -442,11 +444,6 @@ Your next move can be:
 
 Set up Standard Operating Procedures and maintained Data Management Plans for your projects.
 
-::::::::::::::::::::::::::::::::::::::::::::::: instructor
-
-This is a good place to link any SoP templates or any Data management resources/templates here.
-
-:::::::::::::::::::::::::::::::::::::::::::::::
 
 :::
 
