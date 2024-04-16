@@ -81,7 +81,7 @@ There are a number of things to consider when naming files:
 
 - Label any dates as YYYYMMDD . This can save confusion across international collaborators, and it makes it easier to search. We'll talk about this more in the next lesson.
 
-There is an excellent list [of 13 rules for naming conventions](https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions)
+There is an excellent list [of 13 rules for naming conventions](https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions) worth the read.
 
 
 ### Metadata of your files
@@ -95,9 +95,13 @@ You could also look into a format such as [Dublin Core](https://en.wikipedia.org
 Or you could use your own format, and cover simple metadata such as:
 
  - Publisher – "An entity responsible for making the resource available".
+
  - Rights – "Information about rights held in and over the resource, Copyright etc".
+
  - Source – "A related resource from which the described resource is derived. Where did this media come from?".
+
  - Subject – "The topic of the resource".
+
  - Title – "A name given to the resource".
 
 
