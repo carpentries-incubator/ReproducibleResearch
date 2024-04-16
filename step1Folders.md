@@ -67,6 +67,14 @@ This is a good time to talk about what research data storage options you have at
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
+:::::::::::::::::::::: testimonial
+
+Don't forget - backups are your friend here. 
+
+:::::::::::::::::::::::::::::::::::::::
+
+
+
 ### File naming conventions
 
 There are a number of things to consider when naming files:
@@ -119,7 +127,9 @@ A great place to start is:
 
  - Another idea is to put a copy of your raw data somewhere secure and backed up for safekeeping.
 
- - Come up with a plan on how you are going to name your files
+ - Come up with a plan on how you are going to name your files.
+
+ - Check your folders are being backed up.
 
 
 ### Advanced
@@ -131,9 +141,9 @@ Your next move can be:
 
  - Educate others in your space on good naming conventions and build a reference guide to be used across your group.
 
- - Get a metadata file set up for your media
+ - Get a metadata file set up for your media.
 
- - If you are working in Python, you can use a [python package](https://github.com/vukovicnikola/templateproject) developed by researcher Nikola Vukovic to generate a logical, standardised, and flexible directory hierarchy for academic research
+ - If you are working in Python, you can use a [python package](https://github.com/vukovicnikola/templateproject) developed by researcher Nikola Vukovic to generate a logical, standardised, and flexible directory hierarchy for academic research.
 
 :::
 

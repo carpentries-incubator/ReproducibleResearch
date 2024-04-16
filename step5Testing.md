@@ -52,6 +52,8 @@ Your source may not be the data owner - who is?
 
 What copyright and access limitations are on the data?
 
+If you are using a repository that is regularly updated (satellite images, weather patterns, government policies or legislations etc), have you noted the version of the data?
+
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
 ***This is all useful information to include in your documentation***
@@ -76,14 +78,21 @@ Let's start with data cleaning. Have you made a log of the changes you have made
 Open Refine, NVIVO and SPSS all have logs of actions that you can download and save.
 
 
- - SPSS analysis pipeline comes as a .sps script file.
+ - SPSS analysis pipeline comes as a .sps script file. You may see it referenced as 'Syntax'
 
  - SAS has a .sas file for pipelines
 
- - STATA has a .do file for pipelines
+ - STATA has a .do file for pipelines. You may see it referenced as ‘commandlog’
 
 
 This is also where R and Python have huge strengths. Writing an R or Python script enables you to rerun with certainty the same analysis every time.
+
+
+::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Insert R and Python service plug here. You've probably already included it elsewhere, just remind people at this point.
+
+::::::::::::::::::::::::::::::::::::::::::::::: 
 
 If you are using a random number generator, take note of the seed number.
 
@@ -100,10 +109,18 @@ technical formulae and change to test hypotheses
 
 
 
+***These analysis pipelines can be saved as part of your folder structure from lesson 1.***
+
+:::::::::::::::::::::: testimonial
+
+***Publishing these pipelines, either as part of your publication or in a public repository such as OFS, Github or similar improves your reproducibility, and provides others a greater understanding of your work.***
+
+::::::::::::::::::::::::::
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-Insert R and Python service plug here. You've probably already included it elsewhere, just remind people at this point.
+Include links from your institute about where to publish analysis pipelines - your institute may have a preferred place, or your Office of Research or Library may have a good write up on this.
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
@@ -112,7 +129,6 @@ Insert R and Python service plug here. You've probably already included it elsew
 ### Resources
 
 [Reproducibility in Excel](https://osf.io/p2bdq/)
-
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
@@ -212,7 +228,7 @@ https://carpentries-lab.github.io/good-enough-practices/06-track_changes.html
 
 #### As a Beginning step, a great place to start is....
 
-
+Save your analysis pipeline and store it safely in your organised folders.
 
 #### As an Advanced step, your next move can be....
 
