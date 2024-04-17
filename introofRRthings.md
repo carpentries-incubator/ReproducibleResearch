@@ -16,7 +16,7 @@ Let's learn about 7 different concepts that can help us build reproducibility in
 
  5. Automation
 
- 6. Testing and Controls
+ 6. Testing
 
  7. Publishing, Permenent Identifiers and Preparing for Reuse
 
