@@ -23,7 +23,7 @@ We've talked about writing down or noting a lot of information .... but where do
 
 
 
-Think about this scenerio:
+Think about this scenario:
 
 
 
@@ -47,7 +47,7 @@ You could do this as a verbal activity, ask people to discuss or share on the bo
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-Talk about that this scenerio does happen. There could be a medical emergency such as a stroke or heart attack. They could have won the lotto. Or even been offered a fantastic opportunity overseas with little time to transfer.
+Talk about that this scenario does happen. There could be a medical emergency such as a stroke or heart attack. They could have won the lotto. Or even been offered a fantastic opportunity overseas with little time to transfer.
 
 Any personal stories here can also be useful if you have them, and are comfortable to share.
 
@@ -113,7 +113,7 @@ In a virtual setting, you can put people in break out rooms and share them there
 
 Okay, so firstly, let's talk about our Base.
 
-Assumely, you included a base. But did you describe it? Was it thin or thick pan? Extra wide New York style?
+Assumedly, you included a base. But did you describe it? Was it thin or thick pan? Extra wide New York style?
 
 What was the base made out of? 
 
@@ -147,11 +147,11 @@ Further questions revealed they weren't using cauliflower as a topping - Their v
 
 There was much debate - Surely this wasn't a pizza, there was no base! But can a base be a slice of cauliflower? Should a base be a dough? Was this just a vegetable stack?
 
-This lead to the coversation of what a base must consist of. 
+This lead to the conversation of what a base must consist of. 
 
-***Does a base need to contain flour?*** If so, does a mix of egg, parmasan cheese and almond flour meet the criteria? Almond flour is a flour after all.
+***Does a base need to contain flour?*** If so, does a mix of egg, parmesan cheese and almond flour meet the criteria? Almond flour is a flour after all.
 
-***Does a base need to be a yeast based dough?*** If so, take the scenerio that someone used a naan as a base - if they made a yeast based naan, it would be pizza, but a yogurt based naan wouldn't? 
+***Does a base need to be a yeast based dough?*** If so, take the scenario that someone used a naan as a base - if they made a yeast based naan, it would be pizza, but a yogurt based naan wouldn't? 
 
 
 
@@ -173,7 +173,7 @@ This lead to the coversation of what a base must consist of.
 
 If you're Australian, there's a good chance you included pineapple on your pizza. Pineapple is a common ingredient on a range of Australian pizzas, and may even accompany a Barbeque sauce in place of a tomato passata or olive oil.
 
-In fact, Hawaiian (ham, pineapple and cheese) was the most popular pizza in Australia in 1999, accounting for 15% of pizza sales. Hawaiian Pizza was even named after the brand of canned pineapple initially used when the Hawaiian pizza was first created (by a greek cook in Canada, inspired by the sweet and sour combination of asian dishes). 
+In fact, Hawaiian (ham, pineapple and cheese) was the most popular pizza in Australia in 1999, accounting for 15% of pizza sales. Hawaiian Pizza was even named after the brand of canned pineapple initially used when the Hawaiian pizza was first created (by a Greek cook in Canada, inspired by the sweet and sour combination of Asian dishes). 
 
 However, if you come from Italy, none of the traditional pizzas would contain pineapple. So if you had to make a Hawaiian pizza for the first time, you may have some questions.
 
@@ -388,7 +388,7 @@ You may want to create a team password manager, or even just a personal one, to 
 
 :::::::::::::::::::::::::::::: challenge
 
-Another scenerio 
+Another scenario 
 
 #### You are contacted about a paper you published 2 years ago, as a similar paper was published with contradicting results. 
 

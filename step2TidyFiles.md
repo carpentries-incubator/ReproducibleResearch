@@ -1,11 +1,11 @@
 ---
-title: 'Step 2 - Keeping your files Tidy and Organized'
+title: 'Step 2 - Keeping your files Tidy and Organised'
 teaching: 30
 exercises: 1
 ---
 
 
-Build your knowledge trust when sharing with collaborators or publication with well organized datasets. This also saves time in data cleaning, and ensures analysis pipelines are robust.
+Build your knowledge trust when sharing with collaborators or publication with well organised datasets. This also saves time in data cleaning, and ensures analysis pipelines are robust.
 
 Let's look at a few concepts that can help.
 
@@ -65,7 +65,7 @@ This format includes a lot of benefits:
 
 
 
-When multiple people are entering data manually, it may be beneficial to use a survey that fills in a spreadsheet for you. This can include dropdown menu items to ensure consistancy in certain columns - for example, to eliminate a combination of "Monday, Mon, M, mon".
+When multiple people are entering data manually, it may be beneficial to use a survey that fills in a spreadsheet for you. This can include dropdown menu items to ensure consistency in certain columns - for example, to eliminate a combination of "Monday, Mon, M, mon".
 
 
 
@@ -109,11 +109,11 @@ Including any personal observations alongside a video can become incredibly usef
 
 # How to handle missing data
 
-As a project team, it is important to have a consistant way of managing missing data. 
+As a project team, it is important to have a consistent way of managing missing data. 
 
  - If data is missing from a cell, are you going to use a blank cell? Or a placeholder such as NA, NULL or N/A ? It's generally unadvisable to use zero, as this can have an effect on any calculations done in those cells.
 
- - Should the whole observation be discluded?
+ - Should the whole observation be excluded?
 
  - Has your methodology accounted for how to handle this scenario and any potential skewing of results?
 

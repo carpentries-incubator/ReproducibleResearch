@@ -126,12 +126,17 @@ This is a good opportunity to ask researchers what they wish they could automate
 
 ::: tab 
 
-#### As a Beginning step, a great place to start is....
+### Beginner
+
+A great place to start is:
+
 
 Automate a single thing. 
 
 
-#### As an Advanced step, your next move can be....
+### Advanced
+
+Your next move can be:
 
 Keep automating! It may be worth talking to your organisation's technical team to find out what licences are available or tools they could suggest for your workflow.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Step 1 - Organizing your files and folders'
+title: 'Step 1 - Organising your files and folders'
 teaching: 10
 exercises: 0
 ---
@@ -31,7 +31,7 @@ Link to your institutional Data Management Planning Page
 
 ### Folder Structures
 
-Having your folders structured in a heirachial format can be one of the best ways to stay organised.
+Having your folders structured in a hierarchical format can be one of the best ways to stay organised.
 
 There are benefits to this:
 

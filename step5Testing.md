@@ -262,11 +262,17 @@ Consider your 'consumables' - Have your reagents gone out of date? Stored and la
 
 
 
-### As a Beginning step, a great place to start is....
+### Beginner
+
+A great place to start is:
 
 Save your analysis pipeline and store it safely in your organised folders.
 
-### As an Advanced step, your next move can be....
+
+
+### Advanced
+
+Your next move can be:
 
  - Ensure your data is well described (As per Step 2).
 
