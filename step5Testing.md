@@ -115,7 +115,7 @@ technical formulae and change to test hypotheses
 
 :::::::::::::::::::::::::::::::::::::::: testimonial
 
-***Publishing these pipelines, either as part of your publication or in a public repository such as OFS, Github or similar improves your reproducibility, and provides others a greater understanding of your work.***
+***Publishing these pipelines, either as part of your publication, as a protocol or in a public repository such as OSF, Github or similar improves your reproducibility, and provides others a greater understanding of your work.***
 
 :::::::::::::::::::::::::::::::::::
 

@@ -13,7 +13,7 @@ There's a discussion to be had here on different terminology. Where a biologist 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
-# Transparent Methodologies and Protocols
+## Transparent Methodologies and Protocols
 
 Clarity in your methodology is important, and can offer an insight into how you've reduced bias in your research. Has that methodology come from a different area of the discipline? If so, why was it adopted?
 
@@ -33,7 +33,7 @@ This really did come up time and time again when talking to researchers on how t
 Have you kept details of your literature review? While you may not be publishing all the details of your literature review, it can be helpful for your future self to retain these details. You may want to use part of this data for your next study, and need to remember why you discounted a paper, or if you felt there was bias unaccounted for in a study.
 
 
-# Publishing your Protocol
+## Publishing your Protocol
 
 Benefits to publishing your protocols:
 
@@ -67,7 +67,7 @@ See [methods & protocols - ReproducibiliTeach](https://www.youtube.com/watch?v=C
 
 
 
-# Preregistration
+## Preregistration
 
 When you preregister your research, you're simply specifying your research plan in advance of your study and submitting it to a registry. 
 
