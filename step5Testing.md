@@ -7,7 +7,7 @@ exercises: 0
 
 # Proving Authenticity and Validity
 
-Showing Provenance
+#### Showing Provenance
 
 ::::::::::::::::::::::::::::::::::::::::::::::: callout
 
@@ -111,11 +111,13 @@ technical formulae and change to test hypotheses
 
 ***These analysis pipelines can be saved as part of your folder structure from lesson 1.***
 
-:::::::::::::::::::::: testimonial
+
+
+:::::::::::::::::::::::::::::::::::::::: testimonial
 
 ***Publishing these pipelines, either as part of your publication or in a public repository such as OFS, Github or similar improves your reproducibility, and provides others a greater understanding of your work.***
 
-::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
@@ -134,6 +136,7 @@ We talked about [Standard Operating Procedures](
 step4Doco.html#standard-operating-procedure) in Step 4 - Documentation. This is where a SOP is really powerful - your pipeline can even be part of your SOP.
 
 :::::::::::::::::::::::::::::::::::::::::::::::
+
 
 ### Version Control and Tracking
 
@@ -186,7 +189,7 @@ You may even want to try [Containers](https://carpentries-incubator.github.io/do
 
 The following paper may be useful to learn about ML platforms and reproducibility.
 
-[R. Isdahl and O. E. Gundersen, "Out-of-the-Box Reproducibility: A Survey of Machine Learning Platforms," 2019 15th International Conference on eScience (eScience), San Diego, CA, USA, 2019, pp. 86-95, doi: 10.1109/eScience.2019.00017.](10.1109/eScience.2019.00017)
+[R. Isdahl and O. E. Gundersen, "Out-of-the-Box Reproducibility: A Survey of Machine Learning Platforms," 2019 15th International Conference on eScience (eScience), San Diego, CA, USA, 2019, pp. 86-95, doi: 10.1109/eScience.2019.00017.](https://10.1109/eScience.2019.00017)
 
 
 # Testing for Validity and Integrity
