@@ -124,15 +124,16 @@ Include links from your institute about where to publish analysis pipelines - yo
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
+
+
 ::::::::::::::::::::::::::::::::::::::::::::::: discussion
 
-### Resources
+### Standard Operating Procedures
 
-[Reproducibility in Excel](https://osf.io/p2bdq/)
+We talked about [Standard Operating Procedures](
+step4Doco.html#standard-operating-procedure) in Step 4 - Documentation. This is where a SOP is really powerful - your pipeline can even be part of your SOP.
 
-
-::::::::::::::::::::::::::::::::::::::::::::::: 
-
+:::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Version Control and Tracking
 
@@ -188,7 +189,7 @@ The following paper may be useful to learn about ML platforms and reproducibilit
 [R. Isdahl and O. E. Gundersen, "Out-of-the-Box Reproducibility: A Survey of Machine Learning Platforms," 2019 15th International Conference on eScience (eScience), San Diego, CA, USA, 2019, pp. 86-95, doi: 10.1109/eScience.2019.00017.](10.1109/eScience.2019.00017)
 
 
-# Testing for Validity
+# Testing for Validity and Integrity
 
 Unintended changes to datasets happen all the time. An added comma in a sentence can throw out a line in a spreadsheet. Missing data can alter a calculation. A broken link or download that didn't complete properly can short us of data without us realising.
 
@@ -196,26 +197,41 @@ But what can we do about this?
 
 There are a few checks we can run to help identify when this has happened.
 
-Is there the expected number of lines?
+ - Is there the expected number of lines?
 
-Are there the expected number of columns?
+ - Are there the expected number of columns?
+
+ - If you sort a column and find the unique entries, do those entries make sense? For example, in a column that you're expecting to find months, is there the word "Monday" in it? If so, there may have been some movement in your cells.
+
+ - Do the calculations make sense? If you have a range of 1-100 for an attribute, is the mean of that column an impossible number such as 254?
+
+ - Does an analysis fail to run? If you look into it, there may be an unexpected value, such as a letter where it was expecting a number.
+
+[Open Refine](https://openrefine.org/) is a good tool for inspecting your data.
 
 Again, R and Python have real strengths here, to have a list of tests you can run as often as you need.
 
+::::::::::::::::::::::::::::::::::::::::::::::: callout
 
 
-# Having controls
+### Coding Resources for testing the integrity of data
 
 
+[Testing for Python](https://github.com/ADACS-Australia/good-code-etiquette/blob/master/Testing.ipynb)
 
+The [Carpentries software programming courses](https://software-carpentry.org/lessons/) also run through some basic tests in their workshops
 
+[Testing for R](https://r-pkgs.org/testing-basics.html)
+
+[The Turing Way](https://the-turing-way.netlify.app/reproducible-research/code-quality/code-quality-robust) has a great tutorial on how to write robust code.
+
+::::::::::::::::::::::::::::::::::::::::::::::: 
 
 
 # Understanding and handling Risks
 
 
 
-https://carpentries-lab.github.io/good-enough-practices/06-track_changes.html
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
@@ -232,12 +248,20 @@ Save your analysis pipeline and store it safely in your organised folders.
 
 #### As an Advanced step, your next move can be....
 
+Ensure your data is well described (As per Step 2).
+
+Check that it is clear which of your datasets pair with your Analysis pipelines and in what order.
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::: callout
 
 ## Resources
 
-https://dmeg.cessda.eu/Data-Management-Expert-Guide/3.-Process/Data-authenticity
+[Data authenticity](https://dmeg.cessda.eu/Data-Management-Expert-Guide/3.-Process/Data-authenticity)
+
+[Tracking Changes in Research](https://carpentries-lab.github.io/good-enough-practices/06-track_changes.html)
+
+[Reproducibility in Excel](https://osf.io/p2bdq/)
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
@@ -250,5 +274,10 @@ Wikipedia contributors. (2024, March 12). Provenance. In Wikipedia, The Free Enc
 
 OFS. Valerie Collins Alicia Hofelich Mohr Samantha T Porter(2023) Reproducible research practices in Excel (yes, Excel) Retrieved on 2024-04-17 from https://osf.io/p2bdq/ licenced as CC-By Attribution 4.0 International 
 
+The Turing Way Community. (updated 2023) Writing robust code . Github.com Retrieved April 11, 2024, from https://the-turing-way.netlify.app/reproducible-research/code-quality/code-quality-robust licenced under CC-BY 4.0 licence
+
+ADACS-Australia/good-code-etiquette. Manodeep Sinha, Paul Hancock, Rebecca Lange (2019, October 18). GitHub. Retrieved on 2024-04-17 from https://github.com/ADACS-Australia/good-code-etiquette/tree/master licenced as Creative Commons Attribution-ShareAlike 4.0 International License.
+
+R-Pkgs Hadley Wickham and Jennifer Bryan (2024) '13 Testing basics' Retrieved on 2024-04-17 https://r-pkgs.org/testing-basics.html licenced as CC BY-NC-ND 4.0
 
 :::::::::::::::::::::::::::::::::::::::::::::::
