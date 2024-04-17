@@ -225,8 +225,11 @@ Again, R and Python have real strengths here, to have a list of tests you can ru
 
 
  - [Testing for Python](https://github.com/ADACS-Australia/good-code-etiquette/blob/master/Testing.ipynb)
+
  - The [Carpentries software programming courses](https://software-carpentry.org/lessons/) also run through some basic tests in their workshops
+
  - [Testing for R](https://r-pkgs.org/testing-basics.html)
+ 
  - [The Turing Way](https://the-turing-way.netlify.app/reproducible-research/code-quality/code-quality-robust) has a great tutorial on how to write robust code.
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 

@@ -41,16 +41,23 @@ It could be a link in your work that directs to a 'Contact me' form or a 'book a
 For example, you may have a 'Contact me' form that asks for 
 
  - Name
+
  - Email
+
  - What organisation are they from? 
+
  - What paper or resource do they wish to discuss? (URL)
+
  - Do they want to request [Data, Code, Other]?
+
  - What are their plans for the Data/Code?
+
  - If they are reusing the Data/Code, what licence do they plan to use?
 
 This saves you:
 
 - Time and effort sending multiple emails to gather this information
+
 - Have only one place to update your email address if you move organisations or change name
 
 You can even add some commonly requested links in your form, directing them to your protocols and data repositories, your organisation's repositories or somewhere central like an ORCID id page. 
