@@ -302,7 +302,7 @@
       </div>
       <hr></nav><main id="main-content" class="main-content"><div class="container lesson-content">
         <h1>Step 6 - Automation</h1>
-        <p>Last updated on 2024-04-15 |
+        <p>Last updated on 2024-04-17 |
         
         <a href="https://github.com/carpentries/workbench-template-md/edit/main/episodes/step6Automate.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
         
@@ -316,35 +316,171 @@
 
         
 
+<div class="section level1">
+<h1 id="can-you-automate-any-repetitive-tasks">Can you automate any repetitive tasks?<a class="anchor" aria-label="anchor" href="#can-you-automate-any-repetitive-tasks"></a></h1>
+<p>Often, tasks that need to be done over and over again by a human can
+be opportunities for human error to sneak in. Setting up an automated
+way of doing this can eliminate this issue.</p>
+<p><strong><em>It can save you time, energy and mental
+load.</em></strong></p>
+<p>Automation doesn’t need to be fancy. Working on small incremental
+automated improvements over time is perfect.</p>
+<p>Coding allows you to be very automated, but there are tools you can
+use that don’t need coding:</p>
+<ul><li><p><a href="https://support.apple.com/en-au/guide/automator/welcome/mac" class="external-link">MacOS
+Automator</a></p></li>
+<li><p><a href="https://powerautomate.microsoft.com/en-us/blog/automate-tasks-with-power-automate-desktop-for-windows-10-no-additional-cost/" class="external-link">Microsoft
+Power Automate</a></p></li>
+<li><p>Any Spreadsheet Macros and formulas</p></li>
+<li><p>Workflow systems such as <a href="https://www.knime.com/" class="external-link">KNIME</a> and <a href="https://orangedatamining.com/" class="external-link">Orange Data Mining</a></p></li>
+</ul><p>There are many other workflow automation platforms out there.</p>
+<p>Even having an automated Sync client for your backups is a form of
+automation!</p>
+<div id="idea---contact-me-form" class="callout discussion">
+<div class="callout-square">
+<i class="callout-icon" data-feather="message-circle"></i>
+</div>
+<div id="idea---contact-me-form" class="callout-inner">
+<h3 class="callout-title">Idea - Contact me form<a class="anchor" aria-label="anchor" href="#idea---contact-me-form"></a>
+</h3>
+<div class="callout-content">
+<p>It could be a link in your work that directs to a ‘Contact me’ form
+or a ‘book a time with me’ system.</p>
+<p>For example, you may have a ‘Contact me’ form that asks for</p>
+<ul><li>Name</li>
+<li>Email</li>
+<li>What organisation are they from?</li>
+<li>What paper or resource do they wish to discuss? (URL)</li>
+<li>Do they want to request [Data, Code, Other]?</li>
+<li>What are their plans for the Data/Code?</li>
+<li>If they are reusing the Data/Code, what licence do they plan to
+use?</li>
+</ul><p>This saves you:</p>
+<ul><li>Time and effort sending multiple emails to gather this
+information</li>
+<li>Have only one place to update your email address if you move
+organisations or change name</li>
+</ul><p>You can even add some commonly requested links in your form,
+directing them to your protocols and data repositories, your
+organisation’s repositories or somewhere central like an ORCID id
+page.</p>
+<p>You could automatically send them back an email with some expectation
+management (“I will get back to you within 10 business days”), or have
+this form save to a spreadsheet, so you can keep a list of people who
+may be reusing your work. This can be useful when you are applying for
+grants etc.</p>
+</div>
+</div>
+</div>
+<div id="idea---photos-and-videos" class="callout discussion">
+<div class="callout-square">
+<i class="callout-icon" data-feather="message-circle"></i>
+</div>
+<div id="idea---photos-and-videos" class="callout-inner">
+<h3 class="callout-title">Idea - Photos and Videos<a class="anchor" aria-label="anchor" href="#idea---photos-and-videos"></a>
+</h3>
+<div class="callout-content">
+<p>If you are taking photos and want to automatically convert them, it
+may be worth looking into <a href="https://www.apple.com/sg/pro/photo/automation/renameconvertcaption.html" class="external-link">MacOS
+Automate</a> or . There’s also plenty of <a href="https://github.com/andrewning/sortphotos" class="external-link">python scripts</a> that
+have been published you could use.</p>
+<p>You could also use a command line such as <a href="https://learn.microsoft.com/en-us/windows/wsl/install" class="external-link">Windows on
+Linux Subsystem</a> or Linux Terminal with a tool called <a href="https://ffmpeg.org/ffmpeg.html" class="external-link">FFmpeg</a> or <a href="https://ss64.com/mac/sips.html" class="external-link">sips</a> on Mac Terminal.</p>
+<p>This eliminates potential manual mistakes of converting to the wrong
+format or different formats. If you have mixed formats in your folder,
+it may skew your analysis.</p>
+<p>This also enables you to migrate to an accessible and open file
+format.</p>
+</div>
+</div>
+</div>
+<div id="idea---survey" class="callout discussion">
+<div class="callout-square">
+<i class="callout-icon" data-feather="message-circle"></i>
+</div>
+<div id="idea---survey" class="callout-inner">
+<h3 class="callout-title">Idea - Survey<a class="anchor" aria-label="anchor" href="#idea---survey"></a>
+</h3>
+<div class="callout-content">
+<p>Does your survey tool allow for automatic reminders to be sent to
+those who have not completed your survey?</p>
+<p>Many survey tools have in-built functionality to speed up your
+workflow.</p>
+<p>This could potentially encourage more partipants to complete your
+surveys, growing your sample size.</p>
+</div>
+</div>
+</div>
+<div id="idea---automated-sentiment-analysis" class="callout discussion">
+<div class="callout-square">
+<i class="callout-icon" data-feather="message-circle"></i>
+</div>
+<div id="idea---automated-sentiment-analysis" class="callout-inner">
+<h3 class="callout-title">Idea - Automated Sentiment Analysis<a class="anchor" aria-label="anchor" href="#idea---automated-sentiment-analysis"></a>
+</h3>
+<div class="callout-content">
+<p>You could use a tool such as NLTK and Python to automate your
+sentiment analysis in a reproducible way.</p>
+<p>This paper has a great rundown on how to do this:</p>
+<p>Jiawei Yao 2019 J. Phys.: Conf. Ser. 1187 052020 Automated Sentiment
+Analysis of Text Data with NLTK, Retrieved 2024-04-17 at <a href="https://10.1088/1742-6596/1187/5/052020" class="external-link uri">https://10.1088/1742-6596/1187/5/052020</a> licenced under
+Creative Commons Attribution 3.0 licence</p>
+</div>
+</div>
+</div>
+<div id="idea---take-data-and-automate-reportsgraphs" class="callout discussion">
+<div class="callout-square">
+<i class="callout-icon" data-feather="message-circle"></i>
+</div>
+<div id="idea---take-data-and-automate-reportsgraphs" class="callout-inner">
+<h3 class="callout-title">Idea - Take data and automate
+reports/graphs<a class="anchor" aria-label="anchor" href="#idea---take-data-and-automate-reportsgraphs"></a>
+</h3>
+<div class="callout-content">
+<p>If you are regularly taking in new data from external sources
+(sensor, DNA expression, weather mapping etc), you can use <a href="https://kbroman.org/knitr_knutshell/" class="external-link">R</a> or <a href="https://docs.jupyter.org/en/latest/" class="external-link">Python with Jupyter</a> to
+clean every dataset the same way, graph the datasets and write reports
+for you. You can even add caveats that your code would only run a report
+if the findings from that dataset were significant.</p>
+<p>You can also use APIs or RSS feeds to automate the downloading of
+data.</p>
+<p>Coding will always make you more reproducible.</p>
+</div>
+</div>
+</div>
 <div id="accordionInstructor1" class="accordion instructor-note accordion-flush">
 <div class="accordion-item">
 <button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor1" aria-expanded="false" aria-controls="collapseInstructor1">
   <h3 class="accordion-header" id="headingInstructor1">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor1" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor1" aria-labelledby="headingInstructor1">
+<div id="collapseInstructor1" class="accordion-collapse collapse" aria-labelledby="headingInstructor1" data-bs-parent="#accordionInstructor1">
 <div class="accordion-body">
-
+<p>This is a good opportunity to ask researchers what they wish they
+could automate. If you have a research support IT team, local research
+software developers or eResearch team, this is a good plug for them.</p>
+</div>
 </div>
 </div>
 </div>
 </div>
 <div class="section level1">
 <h1 id="what-is-your-next-step">What is your next step?<a class="anchor" aria-label="anchor" href="#what-is-your-next-step"></a></h1>
-<div class="section level4">
-<h4 id="as-a-beginning-step-a-great-place-to-start-is-">As a Beginning step, a great place to start is….<a class="anchor" aria-label="anchor" href="#as-a-beginning-step-a-great-place-to-start-is-"></a></h4>
+<div class="tabs">
+<nav><div id="nav-tab-1" class="nav nav-tabs" role="tablist">
+
 </div>
-<div class="section level4">
-<h4 id="as-an-advanced-step-your-next-move-can-be-">As an Advanced step, your next move can be….<a class="anchor" aria-label="anchor" href="#as-an-advanced-step-your-next-move-can-be-"></a></h4>
-<div id="resources" class="callout discussion">
-<div class="callout-square">
-<i class="callout-icon" data-feather="message-circle"></i>
+</nav><div id="nav-tabContent-1" class="tab-content">
+<div id="nav-tabpanel-1-1" class="tab-pane show active" role="tabpanel" aria-labelledby="nav-tab-1-1">
+
 </div>
-<div id="resources" class="callout-inner">
-<h3 class="callout-title">Resources<a class="anchor" aria-label="anchor" href="#resources"></a>
-</h3>
-<div class="callout-content">
-<p><a href="https://kbroman.org/steps2rr/pages/reports.html" class="external-link uri">https://kbroman.org/steps2rr/pages/reports.html</a></p>
+<div id="nav-tabpanel-1-2" class="tab-pane" role="tabpanel" aria-labelledby="nav-tab-1-2">
+<p>Automate a single thing.</p>
+</div>
+<div id="nav-tabpanel-1-3" class="tab-pane" role="tabpanel" aria-labelledby="nav-tab-1-3">
+<p>Keep automating! It may be worth talking to your organisation’s
+technical team to find out what licences are available or tools they
+could suggest for your workflow.</p>
 </div>
 </div>
 </div>
@@ -356,7 +492,9 @@
 <h3 class="callout-title">References<a class="anchor" aria-label="anchor" href="#references"></a>
 </h3>
 <div class="callout-content">
-
+<p>Data Carpentry Reproducible Research Committee. “Automation for
+Reproducible Research.” Version 2016.1, December 2016. Retrieved on
+2024-04-17 at <a href="https://datacarpentry.org/rr-automation/" class="external-link uri">https://datacarpentry.org/rr-automation/</a></p>
 </div>
 </div>
 </div>
@@ -364,7 +502,6 @@
 Place links that you need to refer to multiple times across pages here. Delete
 any links that you are not going to use. 
  -->
-</div>
 </div>
 
 
@@ -427,7 +564,7 @@ any links that you are not going to use.
   "url": "https://carpentries.github.io/workbench-template-md/instructor/step6Automate.html",
   "identifier": "https://carpentries.github.io/workbench-template-md/instructor/step6Automate.html",
   "dateCreated": "2024-04-01",
-  "dateModified": "2024-04-15",
+  "dateModified": "2024-04-17",
   "datePublished": "2024-04-17"
 }
 
