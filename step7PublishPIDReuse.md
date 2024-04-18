@@ -1,5 +1,5 @@
 ---
-title: 'Publishing, Permanent Identifiers and Preparing for Reuse'
+title: 'Step 7 - Publishing, Permanent Identifiers and Preparing for Reuse'
 teaching: 15
 exercises: 0
 ---
@@ -15,9 +15,9 @@ You are nearing the end of this project, and need to start preparing for publica
 This [Project completion checklist](https://github.com/BahlaiLab/Policies/blob/master/Project_completion.md) may be helpful.
 
 
-[CESSDA Data Management Expert Guide](https://dmeg.cessda.eu/Data-Management-Expert-Guide/6.-Archive-Publish)
+[CESSDA Data Management Expert Guide- Archiving and Publishing](https://dmeg.cessda.eu/Data-Management-Expert-Guide/6.-Archive-Publish)
 
-[Ten simple rules for improving research data discovery](https://doi.org/10.1371/journal.pcbi.1009768)
+
 
 :::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -32,8 +32,11 @@ May be worth checking with your library or research office.
 
 # Permanent Identifiers
 
-### Identifiers vs Persistent Identifiers
-#### What is the difference?
+
+
+## Identifiers vs Persistent Identifiers
+
+### What is the difference?
 
 ***An identifier*** is any label used to name an item (whether digital or physical). URLs and serial numbers are an examples of digital identifiers. Personal names are also identifiers, but are not necessarily unique as you may share the same name with other researchers around the world.
 
@@ -48,13 +51,14 @@ Barcode: 32888493 may work in a lab, however may not be unique outside a lab. Or
 ***A persistent identifier*** is long-lasting unique digital reference to a webpage, digital object, even a person.
 
  - DOI
+
  - ORCID
 
 This video from [Research Data Netherlands](https://www.youtube.com/watch?v=PgqtiY7oZ6k) explains Persistant identifiers and data citation.
 
 Let's go into these in more detail.
 
-#### Digital Object Identifiers (DOIs)
+#### Digital Object Identifiers (DOIs) - Identify information
 
 Digital Object Identifiers (DOIs) are used to uniquely identify digital research objects, and provide a persistent link to the location of the object on the internet. They also enable citation and tracking of citation metrics.
 
@@ -64,7 +68,7 @@ They are the global standard for digital scholarly publications.
 
 A DOI looks like this: https://doi.org/10.31219/osf.io/8v2n7
 
-#### Minting DOI
+##### Minting DOI
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
@@ -81,7 +85,7 @@ In addition, [Open Science Framework](https://help.osf.io/article/220-create-doi
 
 #### ORCID - Identify a person
 
-ORCID (Open Researcher and Contributor ID)[https://info.orcid.org/researchers/] provides a persistent digital identifier (an ORCID iD) that you own and control, and that distinguishes you from every other researcher. 
+ORCID [Open Researcher and Contributor ID](https://info.orcid.org/researchers/) provides a persistent digital identifier (an ORCID iD) that you own and control, and that distinguishes you from every other researcher. 
 
 You can connect your iD with your professional information — affiliations, grants, publications, peer review, and more. You can use your iD to share your information with other systems, ensuring you get recognition for all your contributions, saving you time and hassle, and reducing the risk of errors.
 
@@ -89,7 +93,7 @@ An ORCID looks like https://orcid.org/0000-0002-0838-1771 .
 
 
 
-# Deposit your final dataset and protocol/analysis pipeline
+# Deposit your final data/analysis
 
 Let's get your work deposited so that others may access it.
 
@@ -102,7 +106,7 @@ Let's look at our options.
 
 :::::::::::::::::::::::::::::::::::::::::::::::
 
-### FAIR vs Open vs Can't share
+### Open vs FAIR vs Can't share
 
 Firstly, if you can share your work openly - Great!
 
@@ -194,9 +198,9 @@ You worked out something ***didn't work***, __which is important knowledge all i
 
 There are a number of journals that specialise in these results.
 
-(Positively Negative)[https://everyone.plos.org/2015/02/25/positively-negative-new-plos-one-collection-focusing-negative-null-inconclusive-results/] – a section of PLOS One specifically designed for studies that have negative results, but which are still of high quality and make a significant contribution to the field.
+[Positively Negative](https://everyone.plos.org/2015/02/25/positively-negative-new-plos-one-collection-focusing-negative-null-inconclusive-results/) – a section of PLOS One specifically designed for studies that have negative results, but which are still of high quality and make a significant contribution to the field.
 
-(The Missing Pieces)[https://collections.plos.org/collection/missing-pieces/] - A Collection of Negative; Null and Inconclusive Results– a section of PLOS One that is a broader collection of negative, null, and inconclusive results. The section accepts studies that do not meet the criteria for Positively Negative, but which still have the potential to be informative and valuable to the scientific community.
+[The Missing Pieces](https://collections.plos.org/collection/missing-pieces/) - A Collection of Negative; Null and Inconclusive Results– a section of PLOS One that is a broader collection of negative, null, and inconclusive results. The section accepts studies that do not meet the criteria for Positively Negative, but which still have the potential to be informative and valuable to the scientific community.
 
 [Journal of Articles in Support of the Null Hypothesis](https://www.jasnh.com/) - an outlet for experiments that do not reach the traditional significance levels (p < .05)
 
