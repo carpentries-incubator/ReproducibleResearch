@@ -4,14 +4,13 @@ teaching: 15
 exercises: 0
 ---
 
-# Preparing your research for Publication and Reuse
 
-You are nearing the end of this project, and need to start preparing for publication.
+You are nearing the end of this project, and need to start preparing for publication. What needs to be done?
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: discussion
 
-[Project completion checklist](https://github.com/BahlaiLab/Policies/blob/master/Project_completion.md) by @cbahlai licenced under Public Domain
+This useful [Project completion checklist](https://github.com/BahlaiLab/Policies/blob/master/Project_completion.md) may be helpful.
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
@@ -151,5 +150,7 @@ https://ardc.edu.au/resource/fair-data/
 
 [Project completion checklist](https://github.com/BahlaiLab/Policies/blob/master/Project_completion.md) by @cbahlai licenced under Public Domain
 
+
+CESSDA Training Team (2017 - 2022). CESSDA Data Management Expert Guide. Bergen, Norway: CESSDA ERIC. Retrieved from https://dmeg.cessda.eu/Data-Management-Expert-Guide/6.-Archive-Publish licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
 :::::::::::::::::::::::::::::::::::::::::::::::

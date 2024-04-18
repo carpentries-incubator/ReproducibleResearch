@@ -64,7 +64,7 @@ You can even add some commonly requested links in your form, directing them to y
 
 You could automatically send them back an email with some expectation management ("I will get back to you within 10 business days") and information about your work, and have this form save to a spreadsheet, so you can keep a list of people who may be reusing your work. 
 
-You can email them with your preferred citation. Knowing how your work has been reused and referenced can be useful when you are applying for the next round of grants.
+You can email them with your preferred citation ([helpful guide](https://the-turing-way.netlify.app/communication/citable/citable-cite)). Knowing how your work has been reused and referenced can be useful when you are applying for the next round of grants.
 
 :::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -161,6 +161,7 @@ Keep automating! It may be worth talking to your organisation's technical team t
 
 Data Carpentry Reproducible Research Committee. "Automation for Reproducible Research." Version 2016.1, December 2016. Retrieved on 2024-04-17 at https://datacarpentry.org/rr-automation/
 
+The Turing Way Community. (updated 2023) Citing Research Objects . Github.com Retrieved April 11, 2024, from https://the-turing-way.netlify.app/communication/citable/citable-cite licenced under CC-BY 4.0 licence
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::

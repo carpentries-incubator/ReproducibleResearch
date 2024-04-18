@@ -92,6 +92,79 @@ There are a number of things to consider when naming files:
 There is an excellent list [of 13 rules for naming conventions](https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions) worth the read.
 
 
+#### Who is reading your file names?
+
+Three principles for file names:
+There are three key principles to guide file naming convention development, as defined by Data Carpentry and Martinez (2015):
+
+ - Machine readable
+
+ - Human readable
+
+ - Plays well with default ordering
+
+
+Lets discuss each key principle below.
+
+##### ***Machine readable***
+
+Within the context of file naming conventions, being machine readable means:
+
+ - Spaces have been avoided. Ideally there are no spaces in any file names.
+
+ - Special characters are used in lieu of spaces i.e. _ or -
+
+ - Case sensitivity is consistent
+
+
+***Globbing***
+
+Another concept in machine readbilty is globbing.
+
+Globbing is the concept of using a wild card symbol, typically a * followed by an extension or consistent string. This wildcard tells the computer to search for all files with that extension or string. For example * .jpg will search for all JPEG files in a directory. An example is shown below
+
+![Source: Carpentry, D. and Martinez, C. (2015) File organization: Naming, File Organization: File Organization: Naming. The Carpentries. Available at: https://datacarpentry.org/rr-organization1/01-file-naming/index.html (Accessed: January 24, 2023).](episodes/fig/globbing.jpeg){Shows files in a column with parts of the names that are the same or align}
+
+
+
+##### ***Human readable***
+
+Ensuring your file naming convention is human readable will depend on the context, background knowledge of research user(s), and character spaces availability. In short, use descriptive words. There will be examples of this further below.
+
+
+
+##### ***Plays well with default ordering***
+
+
+Default ordering is best achieved with numbers. This can be chronological i.e. date, or logical i.e. 01, 02, 03…
+
+Depending on the research and your teams preference, a common word could prefix the numeric ordering system. For example:
+
+lake01_depth.r
+lake02_depth.r
+lake03_depth.r
+so on….
+
+#### Benefits
+
+If implemented early and consistently, a standardised system or convention for naming files can:
+
+ - Make file naming easier
+
+ - Facilitate access, retrieval and storage of files
+
+ - Make it faster to navigate files
+
+ - Guard against misplacing or losing files
+
+ - Assist with version control
+
+ - Identify obsolete or duplicate records
+
+ - Avoid backlogs or project delays by presenting a clear and real-time display of the current or completed work.
+
+
+
 ### Metadata of your files
 
 Are you collating photos, images, videos or other media? It is important to note information about each file alongside the files themselves.
@@ -173,5 +246,7 @@ TIER Protocol 4.0 | Project TIER | Teaching Integrity in Empirical Research. (n.
 Naming conventions. (n.d.). The University of Edinburgh. https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions
 
 DCMI: Home. (2019). Dublincore.org. https://www.dublincore.org licenced under Creative Commons Attribution 4.0 International License 
+
+Data Carpentry (2018) File Organization Retrieved on 2024-04-18 at https://datacarpentry.org/rr-organization1/01-file-naming/index.html licenced under CC BY 4.0 license.
 
 :::::::::::::::::::::::::::::::
