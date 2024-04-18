@@ -51,9 +51,7 @@ Let's look now on why this is important.
 
 ## References
 
-Reference: Definitions — The Turing Way Community. (2022). The Turing Way: A handbook for reproducible, ethical and collaborative research (Version 1.1.0) [Computer software]. https://doi.org/10.5281/zenodo.3233853
-
-Content licensed as CC-BY as per The Turing Way Community. (updated 2023) The Turing Way Licence . Github.com Retrieved April 4, 2024, from https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md
+Reference: Definitions — The Turing Way Community. (2022). The Turing Way: A handbook for reproducible, ethical and collaborative research (Version 1.1.0) [Computer software]. https://doi.org/10.5281/zenodo.3233853 licenced as CC-BY
 
 The Turing Way Community. This illustration is created by Scriberia with The Turing Way community, used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807
 

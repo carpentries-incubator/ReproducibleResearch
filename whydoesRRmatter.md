@@ -1,6 +1,6 @@
 ---
 title: "Why does Reproducibility matter?"
-teaching: 10
+teaching: 20
 exercises: 0
 ---
 
@@ -22,6 +22,8 @@ But how does our audience know this? A number of mechanisms are already in place
 Another way we ensure our research creditibility is reproducibility - can someone repeat your work and end up at the same conclusion? Knowledge should be reproducible, 
 
 This also has the added benefit of encouraging reuse of the data and research methods - with research being a costly exercise, often at government (and general public) expense, producing quality results and enabling reuse is our responsibilty to the world. 
+
+![](episodes/fig/findingdata.jpeg){a person looking for data through binoculars}
 
 The digital age brings us both benefits and dangers. While we have the knowledge of the world at our fingertips, sifting through the buzz to find the knowledge is difficult and nuanced. With all the information on the internet and social media, how do people know what to trust?
 
@@ -180,15 +182,19 @@ While all of these are relevant and valid, there are some things we can't change
 
 Baker, M. 1,500 scientists lift the lid on reproducibility. Nature 533, 452–454 (2016). Retrieved on 2024-04-04 https://doi.org/10.1038/533452a
 
-Wikipedia contributors. (2024, March 24). Replication crisis. In Wikipedia, The Free Encyclopedia. Retrieved 02:26, April 4, 2024, from https://en.wikipedia.org/w/index.php?title=Replication_crisis&oldid=1215379059
+Wikipedia contributors. (2024, March 24). Replication crisis. In Wikipedia, The Free Encyclopedia. Retrieved 02:26, April 4, 2024, from https://en.wikipedia.org/w/index.php?title=Replication_crisis&oldid=1215379059 as Creative Commons Attribution-ShareAlike License
 
-Center for Open Science. "Reproducibility Project: Cancer Biology" (2021). Retrieved 2024-5-8 from https://www.cos.io. (CC-BY)
+Center for Open Science. "Reproducibility Project: Cancer Biology" (2021). Retrieved 2024-5-8 from https://www.cos.io. licenced as CC-BY
 
 American Type Culture Collection (ATCC) Six factors affecting reproducibility in life science research and how to handle them . Nature Articles (?) Retrieved 2024-5-8 from https://www.nature.com/articles/d42473-019-00004-y#:~:text=Poorly%20designed%20studies%20without%20a,insufficient%2C%20reproducibility%20becomes%20more%20problematic. 
 
 Morton, L (2022, July 12). 5 Open Science practices that improve reproducibility & support trust in science. The Official PLOS Blog. Retrieved 2024-5-8 from https://theplosblog.plos.org/2022/07/reproducibility/
 
 Munafò, M., Nosek, B., Bishop, D. et al. A manifesto for reproducible science. Nat Hum Behav 1, 0021 (2017). https://doi.org/10.1038/s41562-016-0021
+
+Image:
+
+WikiMedia (2021) Dasaptaerwin Data-sharing.jpg. Retrieved 2024-04-19 from https://commons.wikimedia.org/wiki/File:Data-sharing.jpg licenced as Creative Commons CC0 License (Public Domain) 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
