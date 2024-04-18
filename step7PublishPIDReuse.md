@@ -4,7 +4,12 @@ teaching: 15
 exercises: 0
 ---
 
-# Preparing your research for reuse
+# Preparing your research for Publication and Reuse
+
+You are nearing the end of this project, and need to start preparing for publication.
+
+
+::::::::::::::::::::::::::::::::::::::::::::::: discussion
 
 [Project completion checklist](https://github.com/BahlaiLab/Policies/blob/master/Project_completion.md) by @cbahlai licenced under Public Domain
 
@@ -16,6 +21,8 @@ Does your institute have a 'Once your project is done' checklist?
 May be worth checking with your library or research office.
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
+
+:::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Deposit your final dataset and protocol/analysis pipeline
 

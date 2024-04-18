@@ -5,7 +5,65 @@ exercises: 0
 ---
 
 
-# Proving Authenticity and Validity
+# Testing for Validity and Integrity
+
+Unintended changes to datasets happen all the time. An added comma in a sentence can throw out a line in a spreadsheet. Missing data can alter a calculation. A broken link or download that didn't complete properly can short us of data without us realising.
+
+But what can we do about this?
+
+There are a few checks we can run to help identify when this has happened.
+
+ - Is there the expected number of lines?
+
+ - Are there the expected number of columns?
+
+ - If you sort a column and find the unique entries, do those entries make sense? For example, in a column that you're expecting to find months, is there the word "Monday" in it? If so, there may have been some movement in your cells.
+
+ - Do the calculations make sense? If you have a range of 1-100 for an attribute, is the mean of that column an impossible number such as 254?
+
+ - Does an analysis fail to run? If you look into it, there may be an unexpected value, such as a letter where it was expecting a number.
+
+[Open Refine](https://openrefine.org/) is a good tool for inspecting your data.
+
+Again, R and Python have real strengths here, to have a list of tests you can run as often as you need.
+
+::::::::::::::::::::::::::::::::::::::::::::::: callout
+
+
+### Coding Resources for testing the integrity of data
+
+
+ - [Testing for Python](https://github.com/ADACS-Australia/good-code-etiquette/blob/master/Testing.ipynb)
+
+ - The [Carpentries software programming courses](https://software-carpentry.org/lessons/) also run through some basic tests in their workshops
+
+ - [Testing for R](https://r-pkgs.org/testing-basics.html)
+
+ - [The Turing Way](https://the-turing-way.netlify.app/reproducible-research/code-quality/code-quality-robust) has a great tutorial on how to write robust code.
+
+::::::::::::::::::::::::::::::::::::::::::::::: 
+
+### Physical Testing and Quality Assurance
+
+Consider your 'hardware'- the machines and devices you use in your research. Are they callibrated? For your control samples, are you getting the expected outcomes?
+
+Consider your 'consumables' - Have your reagents gone out of date? Stored and labelled correctly? Did your blood samples heat up during transportation?
+
+***Document how you have checked and accounted for Quality Assurance***
+
+
+::::::::::::::::::::::::::::::::::::::::::::::: callout
+### Quality Assurance
+
+[Baker, M. How quality control could save your science. Nature 529, 456–458 (2016). https://doi.org/10.1038/529456a](https://doi.org/10.1038/529456a)
+
+
+::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+# Providing Authenticity and Validity
+
 
 #### Showing Provenance
 
@@ -194,62 +252,6 @@ You may even want to try [Containers](https://carpentries-incubator.github.io/do
 The following paper may be useful to learn about ML platforms and reproducibility.
 
 [R. Isdahl and O. E. Gundersen, "Out-of-the-Box Reproducibility: A Survey of Machine Learning Platforms," 2019 15th International Conference on eScience (eScience), San Diego, CA, USA, 2019, pp. 86-95, doi: 10.1109/eScience.2019.00017.](https://10.1109/eScience.2019.00017)
-
-
-# Testing for Validity and Integrity
-
-Unintended changes to datasets happen all the time. An added comma in a sentence can throw out a line in a spreadsheet. Missing data can alter a calculation. A broken link or download that didn't complete properly can short us of data without us realising.
-
-But what can we do about this?
-
-There are a few checks we can run to help identify when this has happened.
-
- - Is there the expected number of lines?
-
- - Are there the expected number of columns?
-
- - If you sort a column and find the unique entries, do those entries make sense? For example, in a column that you're expecting to find months, is there the word "Monday" in it? If so, there may have been some movement in your cells.
-
- - Do the calculations make sense? If you have a range of 1-100 for an attribute, is the mean of that column an impossible number such as 254?
-
- - Does an analysis fail to run? If you look into it, there may be an unexpected value, such as a letter where it was expecting a number.
-
-[Open Refine](https://openrefine.org/) is a good tool for inspecting your data.
-
-Again, R and Python have real strengths here, to have a list of tests you can run as often as you need.
-
-::::::::::::::::::::::::::::::::::::::::::::::: callout
-
-
-### Coding Resources for testing the integrity of data
-
-
- - [Testing for Python](https://github.com/ADACS-Australia/good-code-etiquette/blob/master/Testing.ipynb)
-
- - The [Carpentries software programming courses](https://software-carpentry.org/lessons/) also run through some basic tests in their workshops
-
- - [Testing for R](https://r-pkgs.org/testing-basics.html)
- 
- - [The Turing Way](https://the-turing-way.netlify.app/reproducible-research/code-quality/code-quality-robust) has a great tutorial on how to write robust code.
-
-::::::::::::::::::::::::::::::::::::::::::::::: 
-
-### Physical Testing and Quality Assurance
-
-Consider your 'hardware'- the machines and devices you use in your research. Are they callibrated? For your control samples, are you getting the expected outcomes?
-
-Consider your 'consumables' - Have your reagents gone out of date? Stored and labelled correctly? Did your blood samples heat up during transportation?
-
-***Document how you have checked and accounted for Quality Assurance***
-
-
-::::::::::::::::::::::::::::::::::::::::::::::: callout
-### Quality Assurance
-
-[Baker, M. How quality control could save your science. Nature 529, 456–458 (2016). https://doi.org/10.1038/529456a](https://doi.org/10.1038/529456a)
-
-
-::::::::::::::::::::::::::::::::::::::::::::
 
 
 

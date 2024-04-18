@@ -176,13 +176,16 @@ Python has the Pandas library, which follows similar principles. You may also fi
 A great place to start is:
 
 - Decide how to handle missing data
+
 - Use YYYY-MM-DD for dates
+
 
 ### Advanced
 
 Your next move can be:
 
 - You can start to work in a data science language such as R or Python. [The Carpentries](https://software-carpentry.org/lessons/) data science lessons are a great place to start, made for researchers who have never coded before. Workshops are held across the world.
+
 
 :::
 
