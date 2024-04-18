@@ -13,11 +13,14 @@ We expect that anyone conducting the same research should always come to the sam
 
 ## Replicability and Repeatability
 
-::: tab
-
 There are a number of terms you may hear when we talk about reproducible. Replicable and Repeatable are two common terms that may arise.
 
 The Turing Way offers the following descriptions:
+
+
+
+::: tab
+
 
 ### Reproducible
 A result is reproducible when the same analysis steps performed on the same dataset consistently produces the same answer.
