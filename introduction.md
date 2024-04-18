@@ -13,21 +13,25 @@ We expect that anyone conducting the same research should always come to the sam
 
 ## Replicability and Repeatability
 
+::: tab
+
 There are a number of terms you may hear when we talk about reproducible. Replicable and Repeatable are two common terms that may arise.
 
 The Turing Way offers the following descriptions:
 
-#### Reproducible
+### Reproducible
 A result is reproducible when the same analysis steps performed on the same dataset consistently produces the same answer.
 
-#### Replicable
+### Replicable
 A result is replicable when the same analysis performed on different datasets produces qualitatively similar answers.
 
-#### Robust
+### Robust
 A result is robust when the same dataset is subjected to different analysis workflows to answer the same research question (for example one pipeline written in R and another written in Python) and a qualitatively similar or identical answer is produced. Robust results show that the work is not dependent on the specificities of the programming language chosen to perform the analysis.
 
-#### Generalisable
+### Generalisable
 Combining replicable and robust findings allow us to form generalisable results. Note that running an analysis on a different software implementation and with a different dataset does not provide generalised results. There will be many more steps to know how well the work applies to all the different aspects of the research question. Generalisation is an important step towards understanding that the result is not dependent on a particular dataset nor a particular version of the analysis pipeline.
+
+:::
 
 ![](https://the-turing-way.netlify.app/_images/reproducible-definition-grid.svg){alt='A grid showing the above 4 definitions'}
 
