@@ -302,7 +302,7 @@
       </div>
       <hr></nav><main id="main-content" class="main-content"><div class="container lesson-content">
         <h1>Step 5 - Testing and Controls</h1>
-        <p>Last updated on 2024-04-17 |
+        <p>Last updated on 2024-04-18 |
         
         <a href="https://github.com/carpentries/workbench-template-md/edit/main/episodes/step5Testing.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
         
@@ -317,15 +317,88 @@
         
 
 <div class="section level1">
-<h1 id="proving-authenticity-and-validity">Proving Authenticity and Validity<a class="anchor" aria-label="anchor" href="#proving-authenticity-and-validity"></a></h1>
+<h1 id="testing-for-validity-and-integrity">Testing for Validity and Integrity<a class="anchor" aria-label="anchor" href="#testing-for-validity-and-integrity"></a></h1>
+<p>Unintended changes to datasets happen all the time. An added comma in
+a sentence can throw out a line in a spreadsheet. Missing data can alter
+a calculation. A broken link or download that didn’t complete properly
+can short us of data without us realising.</p>
+<p>But what can we do about this?</p>
+<p>There are a few checks we can run to help identify when this has
+happened.</p>
+<ul><li><p>Is there the expected number of lines?</p></li>
+<li><p>Are there the expected number of columns?</p></li>
+<li><p>If you sort a column and find the unique entries, do those
+entries make sense? For example, in a column that you’re expecting to
+find months, is there the word “Monday” in it? If so, there may have
+been some movement in your cells.</p></li>
+<li><p>Do the calculations make sense? If you have a range of 1-100 for
+an attribute, is the mean of that column an impossible number such as
+254?</p></li>
+<li><p>Does an analysis fail to run? If you look into it, there may be
+an unexpected value, such as a letter where it was expecting a
+number.</p></li>
+</ul><p><a href="https://openrefine.org/" class="external-link">Open Refine</a> is a good tool for
+inspecting your data.</p>
+<p>Again, R and Python have real strengths here, to have a list of tests
+you can run as often as you need.</p>
+<div id="coding-resources-for-testing-the-integrity-of-data" class="callout">
+<div class="callout-square">
+<i class="callout-icon" data-feather="bell"></i>
+</div>
+<div id="coding-resources-for-testing-the-integrity-of-data" class="callout-inner">
+<h3 class="callout-title">Coding Resources for testing the integrity of
+data<a class="anchor" aria-label="anchor" href="#coding-resources-for-testing-the-integrity-of-data"></a>
+</h3>
+<div class="callout-content">
+<ul><li><p><a href="https://github.com/ADACS-Australia/good-code-etiquette/blob/master/Testing.ipynb" class="external-link">Testing
+for Python</a></p></li>
+<li><p>The <a href="https://software-carpentry.org/lessons/" class="external-link">Carpentries
+software programming courses</a> also run through some basic tests in
+their workshops</p></li>
+<li><p><a href="https://r-pkgs.org/testing-basics.html" class="external-link">Testing for
+R</a></p></li>
+<li><p><a href="https://the-turing-way.netlify.app/reproducible-research/code-quality/code-quality-robust" class="external-link">The
+Turing Way</a> has a great tutorial on how to write robust
+code.</p></li>
+</ul></div>
+</div>
+</div>
+<div class="section level3">
+<h3 id="physical-testing-and-quality-assurance">Physical Testing and Quality Assurance<a class="anchor" aria-label="anchor" href="#physical-testing-and-quality-assurance"></a></h3>
+<p>Consider your ‘hardware’- the machines and devices you use in your
+research. Are they callibrated? For your control samples, are you
+getting the expected outcomes?</p>
+<p>Consider your ‘consumables’ - Have your reagents gone out of date?
+Stored and labelled correctly? Did your blood samples heat up during
+transportation?</p>
+<p><strong><em>Document how you have checked and accounted for Quality
+Assurance</em></strong></p>
+<div id="quality-assurance" class="callout">
+<div class="callout-square">
+<i class="callout-icon" data-feather="bell"></i>
+</div>
+<div id="quality-assurance" class="callout-inner">
+<h3 class="callout-title">Quality Assurance<a class="anchor" aria-label="anchor" href="#quality-assurance"></a>
+</h3>
+<div class="callout-content">
+<p><a href="https://doi.org/10.1038/529456a" class="external-link">Baker, M. How quality
+control could save your science. Nature 529, 456–458 (2016).
+https://doi.org/10.1038/529456a</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section level1">
+<h1 id="providing-authenticity-and-validity">Providing Authenticity and Validity<a class="anchor" aria-label="anchor" href="#providing-authenticity-and-validity"></a></h1>
 <div class="section level4">
 <h4 id="showing-provenance">Showing Provenance<a class="anchor" aria-label="anchor" href="#showing-provenance"></a></h4>
-<div id="callout1" class="callout">
+<div id="callout3" class="callout">
 <div class="callout-square">
 <i class="callout-icon" data-feather="bell"></i>
 </div>
 <div class="callout-inner">
-<h3 class="callout-title">Callout<a class="anchor" aria-label="anchor" href="#callout1"></a>
+<h3 class="callout-title">Callout<a class="anchor" aria-label="anchor" href="#callout3"></a>
 </h3>
 <div class="callout-content">
 <p>Provenance can mean different things to different people.</p>
@@ -554,79 +627,6 @@ Gundersen, “Out-of-the-Box Reproducibility: A Survey of Machine Learning
 Platforms,” 2019 15th International Conference on eScience (eScience),
 San Diego, CA, USA, 2019, pp. 86-95, doi:
 10.1109/eScience.2019.00017.</a></p>
-</div>
-</div>
-<div class="section level1">
-<h1 id="testing-for-validity-and-integrity">Testing for Validity and Integrity<a class="anchor" aria-label="anchor" href="#testing-for-validity-and-integrity"></a></h1>
-<p>Unintended changes to datasets happen all the time. An added comma in
-a sentence can throw out a line in a spreadsheet. Missing data can alter
-a calculation. A broken link or download that didn’t complete properly
-can short us of data without us realising.</p>
-<p>But what can we do about this?</p>
-<p>There are a few checks we can run to help identify when this has
-happened.</p>
-<ul><li><p>Is there the expected number of lines?</p></li>
-<li><p>Are there the expected number of columns?</p></li>
-<li><p>If you sort a column and find the unique entries, do those
-entries make sense? For example, in a column that you’re expecting to
-find months, is there the word “Monday” in it? If so, there may have
-been some movement in your cells.</p></li>
-<li><p>Do the calculations make sense? If you have a range of 1-100 for
-an attribute, is the mean of that column an impossible number such as
-254?</p></li>
-<li><p>Does an analysis fail to run? If you look into it, there may be
-an unexpected value, such as a letter where it was expecting a
-number.</p></li>
-</ul><p><a href="https://openrefine.org/" class="external-link">Open Refine</a> is a good tool for
-inspecting your data.</p>
-<p>Again, R and Python have real strengths here, to have a list of tests
-you can run as often as you need.</p>
-<div id="coding-resources-for-testing-the-integrity-of-data" class="callout">
-<div class="callout-square">
-<i class="callout-icon" data-feather="bell"></i>
-</div>
-<div id="coding-resources-for-testing-the-integrity-of-data" class="callout-inner">
-<h3 class="callout-title">Coding Resources for testing the integrity of
-data<a class="anchor" aria-label="anchor" href="#coding-resources-for-testing-the-integrity-of-data"></a>
-</h3>
-<div class="callout-content">
-<ul><li><p><a href="https://github.com/ADACS-Australia/good-code-etiquette/blob/master/Testing.ipynb" class="external-link">Testing
-for Python</a></p></li>
-<li><p>The <a href="https://software-carpentry.org/lessons/" class="external-link">Carpentries
-software programming courses</a> also run through some basic tests in
-their workshops</p></li>
-<li><p><a href="https://r-pkgs.org/testing-basics.html" class="external-link">Testing for
-R</a></p></li>
-<li><p><a href="https://the-turing-way.netlify.app/reproducible-research/code-quality/code-quality-robust" class="external-link">The
-Turing Way</a> has a great tutorial on how to write robust
-code.</p></li>
-</ul></div>
-</div>
-</div>
-<div class="section level3">
-<h3 id="physical-testing-and-quality-assurance">Physical Testing and Quality Assurance<a class="anchor" aria-label="anchor" href="#physical-testing-and-quality-assurance"></a></h3>
-<p>Consider your ‘hardware’- the machines and devices you use in your
-research. Are they callibrated? For your control samples, are you
-getting the expected outcomes?</p>
-<p>Consider your ‘consumables’ - Have your reagents gone out of date?
-Stored and labelled correctly? Did your blood samples heat up during
-transportation?</p>
-<p><strong><em>Document how you have checked and accounted for Quality
-Assurance</em></strong></p>
-<div id="quality-assurance" class="callout">
-<div class="callout-square">
-<i class="callout-icon" data-feather="bell"></i>
-</div>
-<div id="quality-assurance" class="callout-inner">
-<h3 class="callout-title">Quality Assurance<a class="anchor" aria-label="anchor" href="#quality-assurance"></a>
-</h3>
-<div class="callout-content">
-<p><a href="https://doi.org/10.1038/529456a" class="external-link">Baker, M. How quality
-control could save your science. Nature 529, 456–458 (2016).
-https://doi.org/10.1038/529456a</a></p>
-</div>
-</div>
-</div>
 <div id="accordionInstructor4" class="accordion instructor-note accordion-flush">
 <div class="accordion-item">
 <button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor4" aria-expanded="false" aria-controls="collapseInstructor4">
@@ -787,8 +787,8 @@ any links that you are not going to use.
   "url": "https://carpentries.github.io/workbench-template-md/instructor/step5Testing.html",
   "identifier": "https://carpentries.github.io/workbench-template-md/instructor/step5Testing.html",
   "dateCreated": "2024-04-01",
-  "dateModified": "2024-04-17",
-  "datePublished": "2024-04-17"
+  "dateModified": "2024-04-18",
+  "datePublished": "2024-04-18"
 }
 
   </script><script>
