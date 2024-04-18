@@ -619,7 +619,7 @@ reproducibility into our workflows.</p>
 Reuse</p></li>
 </ol></section><section id="aio-step1Folders"><p>Content from <a href="step1Folders.html">Step 1 - Organising your files and folders</a></p>
 <hr>
-<p>Last updated on 2024-04-17 |
+<p>Last updated on 2024-04-18 |
         
         <a href="https://github.com/carpentries/workbench-template-md/edit/main/episodes/step1Folders.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 <div class="text-end">
@@ -712,6 +712,78 @@ talk about this more in the next lesson.</p></li>
 </ul>
 <p>There is an excellent list <a href="https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions" class="external-link">of
 13 rules for naming conventions</a> worth the read.</p>
+<div class="section level4">
+<h4 id="who-is-reading-your-file-names">Who is reading your file names?<a class="anchor" aria-label="anchor" href="#who-is-reading-your-file-names"></a>
+</h4>
+<p>Three principles for file names: There are three key principles to
+guide file naming convention development, as defined by Data Carpentry
+and Martinez (2015):</p>
+<ul>
+<li><p>Machine readable</p></li>
+<li><p>Human readable</p></li>
+<li><p>Plays well with default ordering</p></li>
+</ul>
+<p>Lets discuss each key principle below.</p>
+<div class="section level5">
+<h5 id="machine-readable">
+<strong><em>Machine readable</em></strong><a class="anchor" aria-label="anchor" href="#machine-readable"></a>
+</h5>
+<p>Within the context of file naming conventions, being machine readable
+means:</p>
+<ul>
+<li><p>Spaces have been avoided. Ideally there are no spaces in any file
+names.</p></li>
+<li><p>Special characters are used in lieu of spaces i.e. _ or
+-</p></li>
+<li><p>Case sensitivity is consistent</p></li>
+</ul>
+<p><strong><em>Globbing</em></strong></p>
+<p>Another concept in machine readbilty is globbing.</p>
+<p>Globbing is the concept of using a wild card symbol, typically a *
+followed by an extension or consistent string. This wildcard tells the
+computer to search for all files with that extension or string. For
+example * .jpg will search for all JPEG files in a directory. An example
+is shown below</p>
+<p><img src="fig/globbing.jpeg" alt="Source: Carpentry, D. and Martinez, C. (2015) File organization: Naming, File Organization: File Organization: Naming. The Carpentries. Available at: https://datacarpentry.org/rr-organization1/01-file-naming/index.html (Accessed: January 24, 2023)." class="figure">{Shows
+files in a column with parts of the names that are the same or
+align}</p>
+</div>
+<div class="section level5">
+<h5 id="human-readable">
+<strong><em>Human readable</em></strong><a class="anchor" aria-label="anchor" href="#human-readable"></a>
+</h5>
+<p>Ensuring your file naming convention is human readable will depend on
+the context, background knowledge of research user(s), and character
+spaces availability. In short, use descriptive words. There will be
+examples of this further below.</p>
+</div>
+<div class="section level5">
+<h5 id="plays-well-with-default-ordering">
+<strong><em>Plays well with default ordering</em></strong><a class="anchor" aria-label="anchor" href="#plays-well-with-default-ordering"></a>
+</h5>
+<p>Default ordering is best achieved with numbers. This can be
+chronological i.e. date, or logical i.e. 01, 02, 03…</p>
+<p>Depending on the research and your teams preference, a common word
+could prefix the numeric ordering system. For example:</p>
+<p>lake01_depth.r lake02_depth.r lake03_depth.r so on….</p>
+</div>
+</div>
+<div class="section level4">
+<h4 id="benefits">Benefits<a class="anchor" aria-label="anchor" href="#benefits"></a>
+</h4>
+<p>If implemented early and consistently, a standardised system or
+convention for naming files can:</p>
+<ul>
+<li><p>Make file naming easier</p></li>
+<li><p>Facilitate access, retrieval and storage of files</p></li>
+<li><p>Make it faster to navigate files</p></li>
+<li><p>Guard against misplacing or losing files</p></li>
+<li><p>Assist with version control</p></li>
+<li><p>Identify obsolete or duplicate records</p></li>
+<li><p>Avoid backlogs or project delays by presenting a clear and
+real-time display of the current or completed work.</p></li>
+</ul>
+</div>
 </div>
 <div class="section level3">
 <h3 id="metadata-of-your-files">Metadata of your files<a class="anchor" aria-label="anchor" href="#metadata-of-your-files"></a>
@@ -829,6 +901,8 @@ Research. (n.d.). Www.projecttier.org. Retrieved April 16, 2024, from <a href="h
 <p>Naming conventions. (n.d.). The University of Edinburgh. <a href="https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions" class="external-link uri">https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions</a></p>
 <p>DCMI: Home. (2019). Dublincore.org. <a href="https://www.dublincore.org" class="external-link uri">https://www.dublincore.org</a> licenced under Creative
 Commons Attribution 4.0 International License</p>
+<p>Data Carpentry (2018) File Organization Retrieved on 2024-04-18 at <a href="https://datacarpentry.org/rr-organization1/01-file-naming/index.html" class="external-link uri">https://datacarpentry.org/rr-organization1/01-file-naming/index.html</a>
+licenced under CC BY 4.0 license.</p>
 </div>
 </div>
 </div>
@@ -1201,14 +1275,14 @@ Report</a></p>
 </button>
 </div>
 </nav><div id="nav-tabContent-1" class="tab-content">
-<div id="nav-tabpanel-1-1" class="tab-pane show active" aria-labelledby="nav-tab-1-1" role="tabpanel">
+<div id="nav-tabpanel-1-1" class="tab-pane show active" role="tabpanel" aria-labelledby="nav-tab-1-1">
 <p>A great place to start is:</p>
 <p>Learning about how preregistration and registering protocols work by
 checking out some of these <a href="https://www.youtube.com/@reproducibiliteach/videos" class="external-link">ReproducibiliTeach
 videos</a> or check out this <a href="https://book.the-turing-way.org/reproducible-research/rdm/rdm-methods.html?highlight=protocol#open-methods-protocols" class="external-link">The
 Turing Way page on Methods and Protocols</a></p>
 </div>
-<div id="nav-tabpanel-1-2" class="tab-pane" aria-labelledby="nav-tab-1-2" role="tabpanel">
+<div id="nav-tabpanel-1-2" class="tab-pane" role="tabpanel" aria-labelledby="nav-tab-1-2">
 <p>Your next move can be:</p>
 <p>Get started on publishing that protocol and prepublication! You can
 use <a href="https://youtu.be/aKiXFzj15dg" class="external-link">How to write a reusable,
@@ -1682,7 +1756,7 @@ backed up (from Lesson 1)</p>
 </button>
 </div>
 </nav><div id="nav-tabContent-1" class="tab-content">
-<div id="nav-tabpanel-1-1" class="tab-pane show active" role="tabpanel" aria-labelledby="nav-tab-1-1">
+<div id="nav-tabpanel-1-1" class="tab-pane show active" aria-labelledby="nav-tab-1-1" role="tabpanel">
 <p>A great place to start is:</p>
 <p>Open a document and start a diary. You can write at the end of the
 day what you did, any results, anything you got stuck on, and any notes
@@ -1691,7 +1765,7 @@ to yourself.</p>
 anywhere, external hard drive etc).</p>
 <p>That’s it. That’s a good start.</p>
 </div>
-<div id="nav-tabpanel-1-2" class="tab-pane" role="tabpanel" aria-labelledby="nav-tab-1-2">
+<div id="nav-tabpanel-1-2" class="tab-pane" aria-labelledby="nav-tab-1-2" role="tabpanel">
 <p>Time to <strong><em>get detailed</em></strong>. Add some of the
 information from <a href="step4Doco.html#expanding-into-details">Expanding into
 details</a></p>
@@ -1700,7 +1774,7 @@ and Metadata</a></p>
 <p>You can find a list of <a href="https://en.wikipedia.org/wiki/List_of_electronic_laboratory_notebook_software_packages" class="external-link">eLabnotebooks
 here</a>.</p>
 </div>
-<div id="nav-tabpanel-1-3" class="tab-pane" role="tabpanel" aria-labelledby="nav-tab-1-3">
+<div id="nav-tabpanel-1-3" class="tab-pane" aria-labelledby="nav-tab-1-3" role="tabpanel">
 <p>Your next move can be:</p>
 <p>Set up Standard Operating Procedures and maintained Data Management
 Plans for your projects.</p>
@@ -2071,12 +2145,12 @@ San Diego, CA, USA, 2019, pp. 86-95, doi:
 </button>
 </div>
 </nav><div id="nav-tabContent-1" class="tab-content">
-<div id="nav-tabpanel-1-1" class="tab-pane show active" aria-labelledby="nav-tab-1-1" role="tabpanel">
+<div id="nav-tabpanel-1-1" class="tab-pane show active" role="tabpanel" aria-labelledby="nav-tab-1-1">
 <p>A great place to start is:</p>
 <p>Save your analysis pipeline and store it safely in your organised
 folders.</p>
 </div>
-<div id="nav-tabpanel-1-2" class="tab-pane" aria-labelledby="nav-tab-1-2" role="tabpanel">
+<div id="nav-tabpanel-1-2" class="tab-pane" role="tabpanel" aria-labelledby="nav-tab-1-2">
 <p>Your next move can be:</p>
 <p>Ensure your data is well described (As per Step 2).</p>
 <p>Check that it is clear which of your datasets pair with your Analysis
@@ -2207,9 +2281,9 @@ page.</p>
 management (“I will get back to you within 10 business days”) and
 information about your work, and have this form save to a spreadsheet,
 so you can keep a list of people who may be reusing your work.</p>
-<p>You can email them with your preferred citation. Knowing how your
-work has been reused and referenced can be useful when you are applying
-for the next round of grants.</p>
+<p>You can email them with your preferred citation (<a href="https://the-turing-way.netlify.app/communication/citable/citable-cite" class="external-link">helpful
+guide</a>). Knowing how your work has been reused and referenced can be
+useful when you are applying for the next round of grants.</p>
 </div>
 </div>
 </div>
@@ -2308,11 +2382,11 @@ data.</p>
 </button>
 </div>
 </nav><div id="nav-tabContent-1" class="tab-content">
-<div id="nav-tabpanel-1-1" class="tab-pane show active" role="tabpanel" aria-labelledby="nav-tab-1-1">
+<div id="nav-tabpanel-1-1" class="tab-pane show active" aria-labelledby="nav-tab-1-1" role="tabpanel">
 <p>A great place to start is:</p>
 <p>Automate a single thing.</p>
 </div>
-<div id="nav-tabpanel-1-2" class="tab-pane" role="tabpanel" aria-labelledby="nav-tab-1-2">
+<div id="nav-tabpanel-1-2" class="tab-pane" aria-labelledby="nav-tab-1-2" role="tabpanel">
 <p>Your next move can be:</p>
 <p>Keep automating! It may be worth talking to your organisation’s
 technical team to find out what licences are available or tools they
@@ -2331,6 +2405,9 @@ could suggest for your workflow.</p>
 <p>Data Carpentry Reproducible Research Committee. “Automation for
 Reproducible Research.” Version 2016.1, December 2016. Retrieved on
 2024-04-17 at <a href="https://datacarpentry.org/rr-automation/" class="external-link uri">https://datacarpentry.org/rr-automation/</a></p>
+<p>The Turing Way Community. (updated 2023) Citing Research Objects .
+Github.com Retrieved April 11, 2024, from <a href="https://the-turing-way.netlify.app/communication/citable/citable-cite" class="external-link uri">https://the-turing-way.netlify.app/communication/citable/citable-cite</a>
+licenced under CC-BY 4.0 licence</p>
 </div>
 </div>
 </div>
@@ -2346,11 +2423,8 @@ any links that you are not going to use.
 <div class="text-end">
           <button role="button" aria-pressed="false" tabindex="0" id="expand-code" class="pull-right" data-expand="Expand All Solutions " data-collapse="Collapse All Solutions "> Expand All Solutions <i aria-hidden="true" data-feather="plus"></i></button>
         </div>
-<div class="section level1">
-<h1 id="preparing-your-research-for-publication-and-reuse">Preparing your research for Publication and Reuse<a class="anchor" aria-label="anchor" href="#preparing-your-research-for-publication-and-reuse"></a>
-</h1>
 <p>You are nearing the end of this project, and need to start preparing
-for publication.</p>
+for publication. What needs to be done?</p>
 <div id="discussion1" class="callout discussion">
 <div class="callout-square">
 <i class="callout-icon" data-feather="message-circle"></i>
@@ -2359,16 +2433,15 @@ for publication.</p>
 <h3 class="callout-title">Discussion<a class="anchor" aria-label="anchor" href="#discussion1"></a>
 </h3>
 <div class="callout-content">
-<p><a href="https://github.com/BahlaiLab/Policies/blob/master/Project_completion.md" class="external-link">Project
-completion checklist</a> by <span class="citation">@cbahlai</span>
-licenced under Public Domain</p>
+<p>This useful <a href="https://github.com/BahlaiLab/Policies/blob/master/Project_completion.md" class="external-link">Project
+completion checklist</a> may be helpful.</p>
 
 </div>
 </div>
 </div>
-<div class="section level2">
-<h2 id="deposit-your-final-dataset-and-protocolanalysis-pipeline">Deposit your final dataset and protocol/analysis pipeline<a class="anchor" aria-label="anchor" href="#deposit-your-final-dataset-and-protocolanalysis-pipeline"></a>
+<section id="deposit-your-final-dataset-and-protocolanalysis-pipeline"><h2 class="section-heading">Deposit your final dataset and protocol/analysis pipeline<a class="anchor" aria-label="anchor" href="#deposit-your-final-dataset-and-protocolanalysis-pipeline"></a>
 </h2>
+<hr class="half-width">
 <div class="section level3">
 <h3 id="fair-vs-open-vs-cant-share">FAIR vs Open vs Can’t share<a class="anchor" aria-label="anchor" href="#fair-vs-open-vs-cant-share"></a>
 </h3>
@@ -2410,9 +2483,7 @@ negative results, valuable pieces of information in Chemistry,
 Nanotechnology, Biology, or Physics.</p>
 </div>
 </div>
-</div>
-</div>
-<div class="section level1">
+</section><div class="section level1">
 <h1 id="what-could-you-include-when-publishing">What could you include when publishing<a class="anchor" aria-label="anchor" href="#what-could-you-include-when-publishing"></a>
 </h1>
 <p>Wood-Charlson EM, Crockett Z, Erdmann C, Arkin AP, Robinson CB (2022)
@@ -2475,10 +2546,10 @@ Software by ARDC</a></p>
 </button>
 </div>
 </nav><div id="nav-tabContent-1" class="tab-content">
-<div id="nav-tabpanel-1-1" class="tab-pane show active" role="tabpanel" aria-labelledby="nav-tab-1-1">
+<div id="nav-tabpanel-1-1" class="tab-pane show active" aria-labelledby="nav-tab-1-1" role="tabpanel">
 <p>A great place to start is:</p>
 </div>
-<div id="nav-tabpanel-1-2" class="tab-pane" role="tabpanel" aria-labelledby="nav-tab-1-2">
+<div id="nav-tabpanel-1-2" class="tab-pane" aria-labelledby="nav-tab-1-2" role="tabpanel">
 <p>Your next move can be:</p>
 </div>
 </div>
@@ -2495,6 +2566,10 @@ Software by ARDC</a></p>
 <p><a href="https://github.com/BahlaiLab/Policies/blob/master/Project_completion.md" class="external-link">Project
 completion checklist</a> by <span class="citation">@cbahlai</span>
 licenced under Public Domain</p>
+<p>CESSDA Training Team (2017 - 2022). CESSDA Data Management Expert
+Guide. Bergen, Norway: CESSDA ERIC. Retrieved from <a href="https://dmeg.cessda.eu/Data-Management-Expert-Guide/6.-Archive-Publish" class="external-link uri">https://dmeg.cessda.eu/Data-Management-Expert-Guide/6.-Archive-Publish</a>
+licensed under a Creative Commons Attribution-ShareAlike 4.0
+International License.</p>
 </div>
 </div>
 </div>
