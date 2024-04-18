@@ -116,6 +116,21 @@ Within the context of file naming conventions, being machine readable means:
 
  - Case sensitivity is consistent
 
+::::::::::::::::::::::::::::::::::::::::::::::: discussion
+
+#### Windows and mounted drive file name limits
+
+If you are working in a Windows system and mounting a drive on your computer, there is an upper limit to how long your file names can be. The joined file name and file path is limited to 256 characters.
+
+For example, if you have on a hard drive a file called 
+
+\mainDrive\ProjectWildMappingAcrossAust\Australia\Queensland\GoldCoast\SiteHinesDam\WildlifeMapping_2022_04_20\Collected_by_Amanda_Miotto\Griffith_UniversityQld\Dataset_WildIbis\Ibis_Observed_on_2022_4_20\Sector_35_x_328\Upper_Water_Level\Hourly_Count_of_organisms\2024_04_20_13h_53min.csv
+
+And you wanted to map this \mainDrive folder onto your computer, this would fail.
+
+A way to handle this is by mapping one of the folders further into the filepath. So for example, you may choose to mount the folder GoldCoast instead of mainDrive.
+
+:::::::::::::::::::::::::::::::::::::::::::::::
 
 ***Globbing***
 
@@ -231,6 +246,8 @@ Your next move can be:
 
 [File naming and folder structures by CESSDA](https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/File-naming-and-folder-structure)
 
+[Data Carpentry - Organization - File naming](https://datacarpentry.org/rr-organization1/01-file-naming/index.html)
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
@@ -238,12 +255,10 @@ Your next move can be:
 
 ## References
 
-CESSDA Training Team (2017 - 2022). CESSDA Data Management Expert Guide.
-Bergen, Norway: CESSDA ERIC. Retrieved from https://dmeg.cessda.eu/ CESSDA Training Team (2017 - 2022). CESSDA Data Management Expert Guide, licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+CESSDA Training Team (2017 - 2022). CESSDA Data Management Expert Guide.Bergen, Norway: CESSDA ERIC. Retrieved from https://dmeg.cessda.eu/  licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
-TIER Protocol 4.0 | Project TIER | Teaching Integrity in Empirical Research. (n.d.). Www.projecttier.org. Retrieved April 16, 2024, from https://www.projecttier.org/tier-protocol/protocol-4-0/
+TIER Protocol 4.0 | Project TIER | Teaching Integrity in Empirical Research. (n.d.). Www.projecttier.org. Retrieved April 16, 2024, from https://www.projecttier.org/tier-protocol/protocol-4-0/ licenced as CC-BY-NC
 
-Naming conventions. (n.d.). The University of Edinburgh. https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions
 
 DCMI: Home. (2019). Dublincore.org. https://www.dublincore.org licenced under Creative Commons Attribution 4.0 International License 
 
