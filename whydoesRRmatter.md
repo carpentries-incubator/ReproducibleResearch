@@ -178,7 +178,7 @@ While all of these are relevant and valid, there are some things we can't change
 
 Wikipedia contributors. (2024, March 24). Replication crisis. In Wikipedia, The Free Encyclopedia. Retrieved 02:26, April 4, 2024, from https://en.wikipedia.org/w/index.php?title=Replication_crisis&oldid=1215379059 as Creative Commons Attribution-ShareAlike License
 
-American Type Culture Collection (ATCC) Six factors affecting reproducibility in life science research and how to handle them . Nature Articles (?) Retrieved 2024-5-8 from https://www.nature.com/articles/d42473-019-00004-y#:~:text=Poorly%20designed%20studies%20without%20a,insufficient%2C%20reproducibility%20becomes%20more%20problematic. 
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
@@ -190,6 +190,9 @@ Baker, M. 1,500 scientists lift the lid on reproducibility. Nature 533, 452–45
 
 Center for Open Science. "Reproducibility Project: Cancer Biology" (2021). Retrieved 2024-5-8 from https://www.cos.io/rpcb. licenced as CC-BY
 
+American Type Culture Collection (ATCC) Six factors affecting reproducibility in life science research and how to handle them . Nature Articles (?) Retrieved 2024-5-8 from https://www.nature.com/articles/d42473-019-00004-y#:~:text=Poorly%20designed%20studies%20without%20a,insufficient%2C%20reproducibility%20becomes%20more%20problematic. 
+
+
 ## Referenced in text
 
 Center for Open Science. "Reproducibility Project: Cancer Biology" (2021). Retrieved 2024-5-8 from https://www.cos.io/rpcb. licenced as CC-BY
@@ -197,6 +200,7 @@ Center for Open Science. "Reproducibility Project: Cancer Biology" (2021). Retri
 Morton, L (2022, July 12). 5 Open Science practices that improve reproducibility & support trust in science. The Official PLOS Blog. Retrieved 2024-5-8 from https://theplosblog.plos.org/2022/07/reproducibility licenced as CC-BY
 
 Munafò, M., Nosek, B., Bishop, D. et al. A manifesto for reproducible science. Nat Hum Behav 1, 0021 (2017). https://doi.org/10.1038/s41562-016-0021 licenced as Creative Commons Attribution 4.0 International License
+
 
 Image:
 
