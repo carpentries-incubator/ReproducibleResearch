@@ -9,9 +9,9 @@ exercises: 0
 
 This may or may not be as relevant to your students - but it may lead to discussions at your own level, across research support staff or leadership staff. 
 
-Consider who is coming to your classes, and why. Has someone senior told everyone they need to go? That may be Top-down change, but do people feel prepared? Do they believe in the benefits.
+Consider who is coming to your classes, and why. Has someone senior told everyone they need to go? That may be Top-down change, but do people feel prepared? Do they see or believe in the benefits?
 
-Are their senior people looking to learn more about RR? This is a good time to suggest how they can get together and start prompting change.
+Are your senior leaders looking to learn more about RR? This is a good time to suggest how they can get together and start prompting change.
 
 Is it your researchers and research students? Change can happen at any level, and bottom up change is very real and can be quite powerful. It can consist of having groups of people meet informally and share ideas and strategies. It can be making personal changes, and gaining benefits that others may pay attention to. It can be through pushing for new systems that encourage RR. 
 
@@ -31,15 +31,36 @@ People need to understand why they should expend energy, time and effort into ma
 Florian Markowetz listed these "five selfish reasons to work reproducibly":
 
 Reason number 1: reproducibility helps to avoid disaster
+
 Reason number 2: reproducibility makes it easier to write papers
+
 Reason number 3: reproducibility helps reviewers see it your way
+
 Reason number 4: reproducibility enables continuity of your work
+
 Reason number 5: reproducibility helps to build your reputation
 
 Markowetz, F. Five selfish reasons to work reproducibly. Genome Biol 16, 274 (2015). https://doi.org/10.1186/s13059-015-0850-7 licenced as CC-BY 4.0
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
+
+
+
+::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+### Do all disciplines fit with Reproducible Research
+
+When @amandamiotto was interviewing HASS researchers, especially in the space of interpretive findings around culture and filling gaps in history, one of the things that a few researchers agreed on is that RR doesn't always make sense for some areas of research.
+
+Quote from a researcher (shared with permission)
+
+"With qualitative data in some areas, you do need rigour and a certain level of reproducibility, but it needs to be noted that at some stage reproducibility ends and it becomes about the inductive findings from the individual research context."
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
 
 # Building a culture of Reproducible Research in your group
 
@@ -100,7 +121,7 @@ Change can be uncomfortable and at times, even scary. Instead of doing the known
 
 "Behavior change is hard.  Whatever its faults, the status quo is familiar and the warts are known.  The status quo is also easy to maintain. Just do nothing, inertia takes care of everything.  We even have a tendency to defend the status quo. We’d rather believe that the way it is, is the way it should be."
 
-- June 11th, 2019, Brian Nosek, https://www.cos.io/blog/strategy-for-culture-change
+__June 11th, 2019, Brian Nosek, https://www.cos.io/blog/strategy-for-culture-change__
 
 :::::::::::::::::::::::::::::::::::::::
 
@@ -146,15 +167,24 @@ Put each hat of different people affected by your changes.
 <tbody>
   <tr>
     <td>Goal - My aim is to do ....</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Values - It is valuable spending my time on ....</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Experiences- When attempting this, I found...</td>
-  </tr>
-  <tr>
     <td></td>
     <td></td>
-    <td></td>
-  </tr>
-  <tr>
     <td></td>
     <td></td>
     <td></td>
@@ -164,6 +194,7 @@ Put each hat of different people affected by your changes.
 
 Or you could use this in a different way for individuals:
 
+<table>
 <thead>
   <tr>
     <th></th>
@@ -175,15 +206,18 @@ Or you could use this in a different way for individuals:
 <tbody>
   <tr>
     <td>Goal - My aim is to do ....</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Values - It is valuable spending my time on ....</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Experiences- When attempting this, I found...</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
     <td></td>
     <td></td>
     <td></td>
@@ -191,7 +225,7 @@ Or you could use this in a different way for individuals:
 </tbody>
 </table>
 
-## 
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::: discussion
 
