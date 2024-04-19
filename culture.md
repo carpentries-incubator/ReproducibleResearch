@@ -21,6 +21,26 @@ In Australia, a big ground-up movement was hacky hours - a space somewhere betwe
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
+
+::::::::::::::::::::::::::::::::::::::::::::::: testimonial
+
+# Making benefits clear
+
+People need to understand why they should expend energy, time and effort into making changes. 
+
+Florian Markowetz listed these "five selfish reasons to work reproducibly":
+
+Reason number 1: reproducibility helps to avoid disaster
+Reason number 2: reproducibility makes it easier to write papers
+Reason number 3: reproducibility helps reviewers see it your way
+Reason number 4: reproducibility enables continuity of your work
+Reason number 5: reproducibility helps to build your reputation
+
+Markowetz, F. Five selfish reasons to work reproducibly. Genome Biol 16, 274 (2015). https://doi.org/10.1186/s13059-015-0850-7 licenced as CC-BY 4.0
+
+
+::::::::::::::::::::::::::::::::::::::::::::::: 
+
 # Building a culture of Reproducible Research in your group
 
 The benefits of implementing changes for reproducibility need to be clear, so that the people around you understand why they are spending energy and efforts to change.
@@ -193,7 +213,7 @@ ARDC. (2023). Research data management framework for institutions (Version 2). Z
 
 Jacqueline Monaghan, Siobhan M Brady, Elizabeth S Haswell, Sonali Roy, Benjamin Schwessinger, Heather E McFarlane, Running a research group in the next generation: combining sustainable and reproducible research with values-driven leadership, Journal of Experimental Botany, Volume 74, Issue 1, 1 January 2023, Pages 1–6, https://doi.org/10.1093/jxb/erac407 licenced as Creative Commons CC-BY
 
-
+Markowetz, F. Five selfish reasons to work reproducibly. Genome Biol 16, 274 (2015). https://doi.org/10.1186/s13059-015-0850-7 licenced as CC-BY 4.0
 
 Nosek, B. Strategy for culture change, Center for Open Science, web log post 11 June 2019, viewed 26 May 2021. Available from: https:// www.cos.io/blog/strategy-for-change licenced as CC-BY 4.0
 
