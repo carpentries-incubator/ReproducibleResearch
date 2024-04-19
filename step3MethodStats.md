@@ -1,6 +1,6 @@
 ---
 title: 'Step 3 - Methodology and Protocols'
-teaching: 15
+teaching: 30
 exercises: 0
 ---
 
@@ -27,6 +27,14 @@ Have you explained why you chose that protocol, took those steps?
 
 This really did come up time and time again when talking to researchers on how they established trust in a paper. This lesson is a good opportunity to point out where in your institute researchers can get assistance with methodology and statistics, or relevant training. 
 
+
+::::::::::::::::::::::::::::::::::::::::::::::: 
+
+::::::::::::::::::::::::::::::::::::::::::::::: discussion
+
+## Resources
+
+Wikipedia contributors. (2023, December 12). Protocol (science). In Wikipedia, The Free Encyclopedia. Retrieved 00:36, April 11, 2024, from https://en.wikipedia.org/w/index.php?title=Protocol_(science)&oldid=1189512860 licenced as CC-BY-SA
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
@@ -81,7 +89,7 @@ Prominent registries include:
 
  - For clinical trials, there is a list of [international registries in the Cochrane](https://training.cochrane.org/handbook) handbook.
 
- - See the (Directory of Open Access Preprint Repositories)[https://doapr.coar-repositories.org/repositories/] for discipline specific repositories
+ - See the (Directory of Open Access Preprint Repositories)[https://doapr.coar-repositories.org/repositories] for discipline specific repositories
 
  - [Wikipedia's list of Preprint Repositories](https://en.wikipedia.org/wiki/List_of_preprint_repositories) for more discipline specific repositories
 
@@ -129,6 +137,5 @@ The Turing Way Community. (updated 2023) Methods and Protocols . Github.com Retr
 
 Center for Open Science (updated 2024) Home. COS Retrieved April 11, 2024 from https://www.cos.io/ licenced under CC-BY 4.0 licence
 
-Wikipedia contributors. (2023, December 12). Protocol (science). In Wikipedia, The Free Encyclopedia. Retrieved 00:36, April 11, 2024, from https://en.wikipedia.org/w/index.php?title=Protocol_(science)&oldid=1189512860
 
 :::::::::::::::::::::::::::::::::::::::::::::::

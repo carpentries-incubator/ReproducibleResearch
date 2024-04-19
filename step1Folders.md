@@ -5,9 +5,9 @@ exercises: 0
 ---
 
 
-# Step 1 - Organising your files and folders
-
 Having a standard folder structure can keep your files organised and save you time looking for data. 
+
+
 
 
 # Planning to be organised
@@ -248,14 +248,18 @@ Your next move can be:
 
 [Data Carpentry - Organization - File naming](https://datacarpentry.org/rr-organization1/01-file-naming/index.html)
 
+
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: callout
 
 ## References
 
-CESSDA Training Team (2017 - 2022). CESSDA Data Management Expert Guide.Bergen, Norway: CESSDA ERIC. Retrieved from https://dmeg.cessda.eu/  licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
 TIER Protocol 4.0 | Project TIER | Teaching Integrity in Empirical Research. (n.d.). Www.projecttier.org. Retrieved April 16, 2024, from https://www.projecttier.org/tier-protocol/protocol-4-0/ licenced as CC-BY-NC
 

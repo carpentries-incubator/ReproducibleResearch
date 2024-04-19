@@ -1,6 +1,6 @@
 ---
 title: 'Step 4 - Documentation'
-teaching: 30
+teaching: 50
 exercises: 2
 ---
 
@@ -197,6 +197,8 @@ We may underestimate or forget the extent of background knowledge we have on var
 ## The Curse of Knowledge
 
 May also be referenced as Expert Bias or Curse of Expertise
+
+Wikipedia describes it as:
 
 "The curse of knowledge is a cognitive bias that occurs when an individual, who is communicating with others, assumes that others have information that is only available to themselves, assuming they all share a background and understanding."
 
@@ -449,21 +451,27 @@ Set up Standard Operating Procedures and maintained Data Management Plans for yo
 
 :::
 
+::::::::::::::::::::::::::::::::::::::::::::::: discussion
+
+## Useful Resources
+
+Wikipedia contributors. (2024, March 11). List of electronic laboratory notebook software packages. In Wikipedia, The Free Encyclopedia. Retrieved 00:58, April 15, 2024, from https://en.wikipedia.org/w/index.php?title=List_of_electronic_laboratory_notebook_software_packages&oldid=1213192113
+
+Wikipedia contributors. (2024, February 20). Standard operating procedure. In Wikipedia, The Free Encyclopedia. Retrieved 01:20, April 15, 2024, from https://en.wikipedia.org/w/index.php?title=Standard_operating_procedure&oldid=1209098321
+
+:::::::::::::::::::::::::::::::::::::::::::::::
+
 ::::::::::::::::::::::::::::::::::::::::::::::: callout
 
 ## References
 
 Wikipedia contributors. (2024, April 5). Hawaiian pizza. In Wikipedia, The Free Encyclopedia. Retrieved 23:08, April 13, 2024, from https://en.wikipedia.org/w/index.php?title=Hawaiian_pizza&oldid=1217376466
 
-Wikipedia contributors. (2024, April 9). Pizza. In Wikipedia, The Free Encyclopedia. Retrieved 23:25, April 13, 2024, from https://en.wikipedia.org/w/index.php?title=Pizza#Italy&oldid=1218124686
 
-Wikipedia contributors. (2024, April 12). List of Italian foods and drinks. In Wikipedia, The Free Encyclopedia. Retrieved 23:27, April 13, 2024, from https://en.wikipedia.org/w/index.php?title=List_of_Italian_foods_and_drinks&oldid=1218578719
 
 Wikipedia contributors. (2024, January 14). Curse of knowledge. In Wikipedia, The Free Encyclopedia. Retrieved 23:46, April 13, 2024, from https://en.wikipedia.org/w/index.php?title=Curse_of_knowledge&oldid=1195502962
 
-Wikipedia contributors. (2024, March 11). List of electronic laboratory notebook software packages. In Wikipedia, The Free Encyclopedia. Retrieved 00:58, April 15, 2024, from https://en.wikipedia.org/w/index.php?title=List_of_electronic_laboratory_notebook_software_packages&oldid=1213192113
 
-Wikipedia contributors. (2024, February 20). Standard operating procedure. In Wikipedia, The Free Encyclopedia. Retrieved 01:20, April 15, 2024, from https://en.wikipedia.org/w/index.php?title=Standard_operating_procedure&oldid=1209098321
 
 Hollmann S, Frohme M, Endrullat C, Kremer A, D’Elia D, Regierer B, et al. (2020) Ten simple rules on how to write a standard operating procedure. PLoS Comput Biol 16(9): e1008095. https://doi.org/10.1371/journal.pcbi.1008095 published with a CC-BY licence.
 

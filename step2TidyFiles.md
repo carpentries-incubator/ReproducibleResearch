@@ -1,6 +1,6 @@
 ---
 title: 'Step 2 - Keeping your files Tidy and Organised'
-teaching: 30
+teaching: 20
 exercises: 1
 ---
 
@@ -205,7 +205,6 @@ White, Ethan & Baldridge, Elita & Brym, Zachary & Locey, Kenneth & McGlinn, Dani
 
 Kang H. The prevention and handling of the missing data. Korean J Anesthesiol. 2013 May;64(5):402-6. doi: 10.4097/kjae.2013.64.5.402. Epub 2013 May 24. PMID: 23741561; PMCID: PMC3668100. licenced as Creative Commons Attribution Non-Commercial License (CC-BY-NC)
 
-CESSDA Training Team (2017 - 2022). CESSDA Data Management Expert Guide.
-Bergen, Norway: CESSDA ERIC. Retrieved from https://dmeg.cessda.eu/ CESSDA Training Team (2017 - 2022). CESSDA Data Management Expert Guide, licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
 
 :::::::::::::::::::::::::::::::::::::::::::::::
