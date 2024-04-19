@@ -222,7 +222,7 @@ There are a number of journals that specialise in these results.
 
 ::::::::::::::::::::::::::::::::::::::::::::::: discussion
 
-### Resources
+### Useful Resources
 
 [Ten simple rules for improving research data discovery](https://doi.org/10.1371/journal.pcbi.1009768)
 
@@ -236,6 +236,10 @@ There are a number of journals that specialise in these results.
 
 
 [Discontinuing a research software project?](https://bssw.io/blog_posts/discontinuing-a-research-software-project)
+
+CESSDA Training Team (2017 - 2022). CESSDA Data Management Expert Guide. Bergen, Norway: CESSDA ERIC. Retrieved from https://dmeg.cessda.eu/Data-Management-Expert-Guide/6.-Archive-Publish licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+DOI Decision Tree for Data Managers Retrieved on 2024-04-17 at https://ardc.edu.au/resource/doi-decision-tree/ licenced as CC BY 4.0 as per https://au.creativecommons.net/attributing-cc-materials/
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::
@@ -270,11 +274,8 @@ ARDC (2024) 'FAIR data'. Retrieved from https://ardc.edu.au/resource/fair-data/ 
 [Project completion checklist](https://github.com/BahlaiLab/Policies/blob/master/Project_completion.md) by @cbahlai licenced under Public Domain
 
 
-CESSDA Training Team (2017 - 2022). CESSDA Data Management Expert Guide. Bergen, Norway: CESSDA ERIC. Retrieved from https://dmeg.cessda.eu/Data-Management-Expert-Guide/6.-Archive-Publish licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
-
 Contaxis N, Clark J, Dellureficio A, Gonzales S, Mannheimer S, Oxley PR, et al. (2022) Ten simple rules for improving research data discovery. PLoS Comput Biol 18(2): e1009768. https://doi.org/10.1371/journal.pcbi.1009768 licenced under CC-BY
 
-DOI Decision Tree for Data Managers Retrieved on 2024-04-17 at https://ardc.edu.au/resource/doi-decision-tree/ licenced as CC BY 4.0 as per https://au.creativecommons.net/attributing-cc-materials/
 
 ORCID (2024) Main Page. Retrieved on 2024-04-18 at https://orcid.org/ licenced as Public Domain.
 

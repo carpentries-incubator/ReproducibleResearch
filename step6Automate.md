@@ -159,7 +159,7 @@ Keep automating! It may be worth talking to your organisation's technical team t
 ## References
 
 
-Data Carpentry Reproducible Research Committee. "Automation for Reproducible Research." Version 2016.1, December 2016. Retrieved on 2024-04-17 at https://datacarpentry.org/rr-automation/
+Data Carpentry Reproducible Research Committee. "Automation for Reproducible Research." Version 2016.1, December 2016. Retrieved on 2024-04-17 at https://datacarpentry.org/rr-automation/ licenced as CC-BY 4.0
 
 The Turing Way Community. (updated 2023) Citing Research Objects . Github.com Retrieved April 11, 2024, from https://the-turing-way.netlify.app/communication/citable/citable-cite licenced under CC-BY 4.0 licence
 

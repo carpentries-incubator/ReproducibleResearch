@@ -300,6 +300,9 @@ Your next move can be:
 
 ADACS-Australia/good-code-etiquette. Manodeep Sinha, Paul Hancock, Rebecca Lange (2019, October 18). GitHub. Retrieved on 2024-04-17 from https://github.com/ADACS-Australia/good-code-etiquette/tree/master licenced as Creative Commons Attribution-ShareAlike 4.0 International License.
 
+
+R-Pkgs Hadley Wickham and Jennifer Bryan (2024) '13 Testing basics' Retrieved on 2024-04-17 https://r-pkgs.org/testing-basics.html licenced as CC BY-NC-ND 4.0
+
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
 
@@ -314,6 +317,5 @@ OFS. Valerie Collins Alicia Hofelich Mohr Samantha T Porter(2023) Reproducible r
 The Turing Way Community. (updated 2023) Writing robust code . Github.com Retrieved April 11, 2024, from https://the-turing-way.netlify.app/reproducible-research/code-quality/code-quality-robust licenced under CC-BY 4.0 licence
 
 
-R-Pkgs Hadley Wickham and Jennifer Bryan (2024) '13 Testing basics' Retrieved on 2024-04-17 https://r-pkgs.org/testing-basics.html licenced as CC BY-NC-ND 4.0
 
 :::::::::::::::::::::::::::::::::::::::::::::::
