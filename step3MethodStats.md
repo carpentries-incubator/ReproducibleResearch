@@ -1,6 +1,6 @@
 ---
 title: 'Step 3 - Methodology and Protocols'
-teaching: 30
+teaching: 15
 exercises: 0
 ---
 

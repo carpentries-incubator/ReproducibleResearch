@@ -1,7 +1,7 @@
 ---
 title: 'Step 4 - Documentation'
 teaching: 50
-exercises: 2
+exercises: 1
 ---
 
 

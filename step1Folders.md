@@ -1,6 +1,6 @@
 ---
 title: 'Step 1 - Organising your files and folders'
-teaching: 10
+teaching: 20
 exercises: 0
 ---
 

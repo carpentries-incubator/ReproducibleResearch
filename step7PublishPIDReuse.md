@@ -1,11 +1,17 @@
 ---
 title: 'Step 7 - Publishing, Permanent Identifiers and Preparing for Reuse'
-teaching: 15
-exercises: 0
+teaching: 25
+exercises: 1
 ---
 
 
 You are nearing the end of this project, and need to start preparing for publication. What needs to be done?
+
+::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Opportunity to ask people for ideas on what needs to be done, either on whiteboard or in chat.
+
+::::::::::::::::::::::::::::::::::::::::::::::: 
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: discussion

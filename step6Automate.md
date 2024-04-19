@@ -1,6 +1,6 @@
 ---
 title: 'Step 6 - Automation'
-teaching: 15
+teaching: 20
 exercises: 0
 ---
 

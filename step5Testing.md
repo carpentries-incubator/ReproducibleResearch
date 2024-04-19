@@ -1,11 +1,11 @@
 ---
 title: 'Step 5 - Testing and Controls'
-teaching: 15
+teaching: 20
 exercises: 0
 ---
 
 
-#s Testing for Validity and Integrity
+## Testing for Validity and Integrity
 
 Unintended changes to datasets happen all the time. An added comma in a sentence can throw out a line in a spreadsheet. Missing data can alter a calculation. A broken link or download that didn't complete properly can short us of data without us realising.
 
