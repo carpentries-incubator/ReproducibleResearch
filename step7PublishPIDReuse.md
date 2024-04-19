@@ -198,13 +198,13 @@ You worked out something ***didn't work***, __which is important knowledge all i
 
 There are a number of journals that specialise in these results.
 
-[Positively Negative](https://everyone.plos.org/2015/02/25/positively-negative-new-plos-one-collection-focusing-negative-null-inconclusive-results/) – a section of PLOS One specifically designed for studies that have negative results, but which are still of high quality and make a significant contribution to the field.
+[Positively Negative](https://everyone.plos.org/2015/02/25/positively-negative-new-plos-one-collection-focusing-negative-null-inconclusive-results/)
 
-[The Missing Pieces](https://collections.plos.org/collection/missing-pieces/) - A Collection of Negative; Null and Inconclusive Results– a section of PLOS One that is a broader collection of negative, null, and inconclusive results. The section accepts studies that do not meet the criteria for Positively Negative, but which still have the potential to be informative and valuable to the scientific community.
+[The Missing Pieces](https://collections.plos.org/collection/missing-pieces/)
 
-[Journal of Articles in Support of the Null Hypothesis](https://www.jasnh.com/) - an outlet for experiments that do not reach the traditional significance levels (p < .05)
+[Journal of Articles in Support of the Null Hypothesis](https://www.jasnh.com/)
 
-[The All Results Journals](https://arjournals.com/) – focuses on recovering and publishing negative results, valuable pieces of information in Chemistry, Nanotechnology, Biology, or Physics.
+[The All Results Journals](https://arjournals.com/)
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: discussion
@@ -265,7 +265,7 @@ Prepare your data, analysis pipelines/protocols and materials for FAIR or open p
 
 ## References
 
-https://ardc.edu.au/resource/fair-data/
+ARDC (2024) 'FAIR data'. Retrieved from https://ardc.edu.au/resource/fair-data/ licenced as CC-BY-4.0
 
 [Project completion checklist](https://github.com/BahlaiLab/Policies/blob/master/Project_completion.md) by @cbahlai licenced under Public Domain
 

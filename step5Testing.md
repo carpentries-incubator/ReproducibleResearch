@@ -5,7 +5,7 @@ exercises: 0
 ---
 
 
-# Testing for Validity and Integrity
+#s Testing for Validity and Integrity
 
 Unintended changes to datasets happen all the time. An added comma in a sentence can throw out a line in a spreadsheet. Missing data can alter a calculation. A broken link or download that didn't complete properly can short us of data without us realising.
 
@@ -53,6 +53,7 @@ Consider your 'consumables' - Have your reagents gone out of date? Stored and la
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: callout
+
 ### Quality Assurance
 
 [Baker, M. How quality control could save your science. Nature 529, 456–458 (2016). https://doi.org/10.1038/529456a](https://doi.org/10.1038/529456a)
@@ -297,6 +298,8 @@ Your next move can be:
 
 [Reproducibility in Excel](https://osf.io/p2bdq/)
 
+ADACS-Australia/good-code-etiquette. Manodeep Sinha, Paul Hancock, Rebecca Lange (2019, October 18). GitHub. Retrieved on 2024-04-17 from https://github.com/ADACS-Australia/good-code-etiquette/tree/master licenced as Creative Commons Attribution-ShareAlike 4.0 International License.
+
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
 
@@ -310,7 +313,6 @@ OFS. Valerie Collins Alicia Hofelich Mohr Samantha T Porter(2023) Reproducible r
 
 The Turing Way Community. (updated 2023) Writing robust code . Github.com Retrieved April 11, 2024, from https://the-turing-way.netlify.app/reproducible-research/code-quality/code-quality-robust licenced under CC-BY 4.0 licence
 
-ADACS-Australia/good-code-etiquette. Manodeep Sinha, Paul Hancock, Rebecca Lange (2019, October 18). GitHub. Retrieved on 2024-04-17 from https://github.com/ADACS-Australia/good-code-etiquette/tree/master licenced as Creative Commons Attribution-ShareAlike 4.0 International License.
 
 R-Pkgs Hadley Wickham and Jennifer Bryan (2024) '13 Testing basics' Retrieved on 2024-04-17 https://r-pkgs.org/testing-basics.html licenced as CC BY-NC-ND 4.0
 
