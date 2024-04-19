@@ -63,7 +63,7 @@ Consider the culture of the people you work directly with - collaborators, super
 - How can this value become an action?
 
 
-Actions can be in many forms. We've already talked about Standard Operating Procedures and how reproducibility can be built into procedures. This makes expectations clear.
+Actions can be in many forms. We've already talked about Standard Operating Procedures and how reproducibility can be built into procedures. This makes responsibilities clear on what part each person plays. Data Management Plans can set expectations early on how reproducibility is going to play a part in the project. 
 
 Another idea is to agree on a manifesto. You can use the following as a template:
 
