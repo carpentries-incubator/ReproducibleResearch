@@ -119,9 +119,11 @@ Change can be uncomfortable and at times, even scary. Instead of doing the known
 
 ::::::::::::::::::::::::::::::::::::::: testimonial
 
+#Behavior change is hard.
+
 "Behavior change is hard.  Whatever its faults, the status quo is familiar and the warts are known.  The status quo is also easy to maintain. Just do nothing, inertia takes care of everything.  We even have a tendency to defend the status quo. We’d rather believe that the way it is, is the way it should be."
 
-__June 11th, 2019, Brian Nosek, https://www.cos.io/blog/strategy-for-culture-change__
+June 11th, 2019, Brian Nosek, https://www.cos.io/blog/strategy-for-culture-change
 
 :::::::::::::::::::::::::::::::::::::::
 
