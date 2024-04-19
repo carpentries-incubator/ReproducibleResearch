@@ -202,6 +202,8 @@ Wikipedia describes it as:
 
 "The curse of knowledge is a cognitive bias that occurs when an individual, who is communicating with others, assumes that others have information that is only available to themselves, assuming they all share a background and understanding."
 
+![](episodes/fig/Open_Science_Training_Handbook_03.png){alt='Someone trying to explain a robot, the other person thinking of a different robot'}
+
 :::::::::::::::::::::::::::::::::::::::::::::::
 
 #### When explaining a concept, we assume that others have the same background knowledge and life experiences that we do. 
@@ -477,6 +479,11 @@ Hollmann S, Frohme M, Endrullat C, Kremer A, D’Elia D, Regierer B, et al. (202
 
 CESSDA Training Team (2017 - 2022). CESSDA Data Management Expert Guide.
 Bergen, Norway: CESSDA ERIC. Retrieved from https://dmeg.cessda.eu/ CESSDA Training Team (2017 - 2022). CESSDA Data Management Expert Guide, licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+Image:
+
+Sonja Bezjak, April Clyburne-Sherin, Philipp Conzett, Pedro Fernandes, Edit Görögh, Kerstin Helbig, Bianca Kramer, Ignasi Labastida, Kyle Niemeyer, Fotis Psomopoulos, Tony Ross-Hellauer, René Schneider, Jon Tennant, Ellen Verbakel, Helene Brinken, & Lambert Heller. (2018). Open Science Training Handbook (1.0) - File:Open Science Training Handbook 03.png[Computer software]. Zenodo. https://doi.org/10.5281/zenodo.1212496 licenced as CC0 Public Domain.
+
 
 A shout out to the people in the Cauliflower Pizza story - Thanks for letting me share it! @amandamiotto
 

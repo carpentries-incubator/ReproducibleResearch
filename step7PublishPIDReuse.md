@@ -136,6 +136,9 @@ More information on [FAIR can be found here](https://ardc.edu.au/resource/fair-d
 
 ## FAIR Data
 
+![](episodes/fig/FAIRnessOfData.png){alt='FAIR as images'}
+
+
 ::: tab 
 
 
@@ -161,6 +164,8 @@ The associated metadata provides rich and accurate information, and the data com
 ###
 
 :::
+
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::: discussion
 
@@ -286,5 +291,9 @@ Contaxis N, Clark J, Dellureficio A, Gonzales S, Mannheimer S, Oxley PR, et al. 
 ORCID (2024) Main Page. Retrieved on 2024-04-18 at https://orcid.org/ licenced as Public Domain.
 
 Wood-Charlson EM, Crockett Z, Erdmann C, Arkin AP, Robinson CB (2022) Ten simple rules for getting and giving credit for data. PLoS Comput Biol 18(9): e1010476. https://doi.org/10.1371/journal.pcbi.1010476
+
+Image:
+
+ As per Sonja Bezjak, April Clyburne-Sherin, Philipp Conzett, Pedro Fernandes, Edit Görögh, Kerstin Helbig, Bianca Kramer, Ignasi Labastida, Kyle Niemeyer, Fotis Psomopoulos, Tony Ross-Hellauer, René Schneider, Jon Tennant, Ellen Verbakel, Helene Brinken, & Lambert Heller. (2018). Open Science Training Handbook (1.0)]. Zenodo. https://doi.org/10.5281/zenodo.1212496 , Retrieved 2024-04-19 from https://open-science-training-handbook.gitbook.io/book/02opensciencebasics/02openresearchdataandmaterials#undefined-3 licenced as CC0 Universal Public Domain.
 
 :::::::::::::::::::::::::::::::::::::::::::::::
