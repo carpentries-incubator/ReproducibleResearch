@@ -240,7 +240,7 @@ There are a number of journals that specialise in these results.
 
 [Ten simple rules for getting and giving credit for data](https://doi.org/10.1371/journal.pcbi.1010476)
 
-[Citing Software by ARDC](https://ardc.edu.au/resource/citing-software/?utm_source=Researcher%27s+guide+%28all+RDCs%29)
+[Citing Software by ARDC](https://ardc.edu.au/resource/citing-software/)
 
 
 [Publishing a Jupyter notebook in a Findable, Accessible, Interoperable and Reusable (FAIR) way](https://ardc.edu.au/resource/fair-for-jupyter-notebooks-a-practical-guide/)
