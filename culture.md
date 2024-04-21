@@ -15,7 +15,7 @@ Are your senior leaders looking to learn more about RR? This is a good time to s
 
 Is it your researchers and research students? Change can happen at any level, and bottom up change is very real and can be quite powerful. It can consist of having groups of people meet informally and share ideas and strategies. It can be making personal changes, and gaining benefits that others may pay attention to. It can be through pushing for new systems that encourage RR. 
 
-In Australia, a big ground-up movement was hacky hours - a space somewhere between a help desk and a meetup where people who wanted to upskill in data science (especially after carpentry training) could meet. This led to Research Bazaar conferences for most states across the country, with each state having multiple universities sharing expertise and teachers.s
+In Australia, a big ground-up movement was [hacky hours](https://conference.eresearch.edu.au/hacky-hour-demographics-building-communities-and-sharing-local-expertise/) - a space somewhere between a help desk and a meetup where people who wanted to upskill in data science (especially after carpentry training) could meet. This led to Research Bazaar conferences for most states across the country, with each state having multiple universities sharing expertise and teachers.
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -28,7 +28,8 @@ In Australia, a big ground-up movement was hacky hours - a space somewhere betwe
 
 People need to understand why they should expend energy, time and effort into making changes. 
 
-Florian Markowetz listed these "five selfish reasons to work reproducibly":
+
+### Florian Markowetz listed these "five selfish reasons to work reproducibly":
 
 Reason number 1: reproducibility helps to avoid disaster
 
@@ -235,7 +236,7 @@ Or you could use this in a different way for individuals:
 
 #### Strategy for Culture Change
 
-Nosek, B. Strategy for culture change, Center for Open Science, web log post 11 June 2019, viewed 26 May 2021. Available from: https:// www.cos.io/blog/strategy-for-change licenced as CC-BY
+Nosek, B. Strategy for culture change, Center for Open Science, web log post 11 June 2019, viewed 26 May 2021. Available from: https://www.cos.io/blog/strategy-for-change licenced as CC-BY
 
 #### Culture Change- Research Data Management Frameworks
 

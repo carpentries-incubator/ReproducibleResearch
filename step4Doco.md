@@ -37,7 +37,9 @@ How about their research contract? Their data custodianship details?
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-You could do this as a verbal activity, ask people to discuss or share on the board what you may need to know.
+You could do this as a verbal activity or a written one.
+
+Ask people to pick someone they interact with regularly (supervisor, student, collaborator). Then ask them, if contact to this person was completely cut off, what information would they need to know to continue their own work?
 
 :::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -122,6 +124,9 @@ Now, the default answer here is dough. BUT here's the thing - not everyone may h
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
+You can pull a recipe from online to critique.
+
+
 You can ask participants to put their hand up if they had:
 
 - A base in their ingredients
@@ -133,6 +138,7 @@ You can ask participants to put their hand up if they had:
 Watch the hands go up and slowly come down.
 
 If you really want to be a bit dad joke/cheesy ha, you can play "All about the bass" as a 'pencils down' alarm after your 3 minutes.
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
@@ -231,6 +237,7 @@ You can ask for people to suggest different formats
 
 
 You would have to talk to the client to clarify what exactly they are after.
+
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
 
@@ -278,7 +285,7 @@ Primarily, this documentation is here for ***you***. It is to:
  - If you realise you've taken a wrong turn, this can also act as a 'History' of changes.
 
 
-***From here, we can include anything you feel is important. You can just write what you are working on every day, like a diary.*** 
+### ***From here, we can include anything you feel is important. You can just write what you are working on every day, like a diary.*** 
 
 
 

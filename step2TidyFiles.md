@@ -90,9 +90,11 @@ It is best to avoid punctuation or special characters in your cells or data entr
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-Point out the resources segment here, there's a really good tutorial in the Data Carpentry for Ecology page that covers a range of spreadsheet things
+Point out the resources segment here at the bottom of the page. There is a really good tutorial in the Data Carpentry for Ecology page that covers a range of spreadsheet things
 
 This is also an opportunity to do a live exercise - you could pull up a bad dataset and ask participants to point out potential improvements.
+
+Have a spreadsheet that has some messy data in it to clean. You can ask everyone to write down two changes they would make, then have an interactive session where you ask people to suggest their changes.
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
