@@ -98,6 +98,9 @@ You can connect your iD with your professional information — affiliations, gra
 An ORCID looks like https://orcid.org/0000-0002-0838-1771 .
 
 
+TODO an example of when peoples name changes.
+
+
 
 # Deposit your final data/analysis
 
