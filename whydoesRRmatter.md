@@ -168,7 +168,7 @@ Questions you could ask are:
 
 
 
-
+#### What can we change?
 
 While all of these are relevant and valid, there are some things we can't change today. But we can change our own behaviours and activities. The next lessons focus on what we can change in our everyday work.
 
