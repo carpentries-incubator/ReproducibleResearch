@@ -53,6 +53,12 @@ Ziemann, M., Eren, Y. & El-Osta, A. Gene name errors are widespread in the scien
 " The spreadsheet software Microsoft Excel, when used with default settings, is known to convert gene names to dates and floating-point numbers. A programmatic scan of leading genomics journals reveals that approximately one-fifth of papers with supplementary Excel gene lists contain erroneous gene name conversions."
 
 
+In a follow up story:
+Abeysooriya M, Soria M, Kasu MS, Ziemann M (2021) Gene name errors: Lessons not learned. PLoS Comput Biol 17(7): e1008984. https://doi.org/10.1371/journal.pcbi.1008984
+
+"[The previous] article on this topic led the Human Gene Name Consortium to change many of these gene names to be less susceptible to autocorrect."
+
+
 To remedy this, there is now an option to turn off automatic data conversion - but you need to be aware of it.
 
 It was suggested to reviewers and editorial staff:
@@ -336,5 +342,7 @@ OFS. Valerie Collins Alicia Hofelich Mohr Samantha T Porter(2023) Reproducible r
 The Turing Way Community. (updated 2023) Writing robust code . Github.com Retrieved April 11, 2024, from https://the-turing-way.netlify.app/reproducible-research/code-quality/code-quality-robust licenced under CC-BY 4.0 licence
 
 Ziemann, M., Eren, Y. & El-Osta, A. Gene name errors are widespread in the scientific literature. Genome Biol 17, 177 (2016). https://doi.org/10.1186/s13059-016-1044-7 licenced as CC-BY 4.0
+
+Abeysooriya M, Soria M, Kasu MS, Ziemann M (2021) Gene name errors: Lessons not learned. PLoS Comput Biol 17(7): e1008984. https://doi.org/10.1371/journal.pcbi.1008984 licenced as CC-BY 4.0
 
 :::::::::::::::::::::::::::::::::::::::::::::::
