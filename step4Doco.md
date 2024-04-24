@@ -13,7 +13,7 @@ This is a massive lesson - you may want to put a break in the middle or just bef
 
 ## What is documentation
 
-TODO
+
 
 :::::::::::::::::::::: testimonial
 
@@ -21,8 +21,17 @@ TODO
 
 :::::::::::::::::::::::::::::::::::::::
 
-We've talked about writing down or noting a lot of information .... but where do we do this? How? 
+We've talked about writing down or noting a lot of information .... but where do we do this? How? What exactly should we write down?
 
+
+Some researchers may think about a lab handbook, a group instruction guide, a team wiki or a knowledge repository. In the IT and computation space, the word "Documentation" is used as a place to store all information about that project. 
+
+For our purposes today, we'll use "Documentation" as a place to write down notes about your work, link to important documents or share information across a research group.
+
+Examples include:
+
+[The Fay Lab - Lab manual](https://thefaylab.github.io/lab-manual/)
+[The Peelle Lab Manual](https://github.com/jpeelle/peellelab_manual/blob/master/peellelab_manual.pdf)
 
 
 Think about this scenario:
@@ -62,7 +71,7 @@ Any personal stories here can also be useful if you have them, and are comfortab
 
 Starting can be as simple as opening a word document and starting to type. 
 
-Your institute may have eLabNotebooks available, a cloud platform or similar available. You can even just have a text file that you store in the same place as your data.
+Your institute may have eLabNotebooks available, a cloud platform or similar available. You can even just have a text file or word document that you store in the same place as your data.
 
 You may want to share it with your supervisor or trusted colleague, or just keep it to yourself.
 
@@ -83,15 +92,85 @@ Are you writing for:
  - Your research group?
 
 
-***Got a new team member?***
-
-If you want to document workings across members of a research group, the perfect person to do it is a new student or staff member. Not only does this make them familiar with your procedures, but they don't have _The Curse of Knowledge_ and are viewing everything with fresh eyes.
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
 Include the options here from your institute. 
 
 :::::::::::::::::::::::::::::::::::::::::::::::
+
+
+### Staff onboarding and offboarding
+
+#### Onboarding
+
+***Got a new team member?***
+
+If you want to document workings across members of a research group, the perfect person to do it is a new student or staff member. Not only does this make them familiar with your procedures, but they don't have any background knowledge and are viewing everything with fresh eyes.
+
+This is a good time to set expectations in your research group, such as :
+
+- Expected contact and work hours?
+
+- Best methods of communication across the team?
+
+- What is the expected research culture and values?
+
+- How to contact IT/Library/Researcher support/campus security/safety officer? 
+
+- Where do you expect research data is stored?
+
+- How do they find out about restrictions and rules around custodianship and sharing of data
+
+- How is authorship and author order decided when submitting papers?
+
+- Does the research group post papers as preprints?
+
+- Do you expect data to be published as open or FAIR? Is there commercial interest around the data? What licences are expected for research data/code?
+
+- How does someone learn about data sensitivity and what they need to be aware of?
+
+- Examples of previous ethics, governance, grant applications
+
+- What technologies are usually used in the group?
+
+- What analysis tools or methodologies are usually used in the group?
+
+- How does hardware hire/booking work?
+
+[What to include and examples can be found here](https://elifesciences.org/articles/79627)
+
+
+#### Offboarding
+
+As researchers or research students leave for their next adventure, the knowledge that they've collated is also leaving. It's helpful to have an offboarding checklist to ensure your group is across this information.
+
+Checklist items could include:
+
+- Is a copy of their data being stored at your institute? Where?
+
+- Is there any colleagues in the research group or supervisors that currently also have access to the data?
+
+- Is this raw data, processed data and final data? Or just one of these? Which is which?
+
+- What is the details on ownership, custodianship and reuse of this data?
+
+- Who were/are the collaborators?
+
+- What is the retention date of this data?
+
+- Is a copy of the data also going to another institute (whether it be a collaborator or the staff member's future institute)?
+
+- Have you got grant ids, publication links and any other public information associated with this data? Is the dataset published or stored in an external repository
+
+- Where is any ethics or governance approvals for this data?
+
+- What information is there available on analysis, methodology and protocols?
+
+- What tools were used for analysis? What software and software versions? What hardware and hardware models? (if applicable)
+
+
+
 
 
 
@@ -469,6 +548,9 @@ Set up Standard Operating Procedures and maintained Data Management Plans for yo
 Wikipedia contributors. (2024, March 11). List of electronic laboratory notebook software packages. In Wikipedia, The Free Encyclopedia. Retrieved 00:58, April 15, 2024, from https://en.wikipedia.org/w/index.php?title=List_of_electronic_laboratory_notebook_software_packages&oldid=1213192113
 
 Wikipedia contributors. (2024, February 20). Standard operating procedure. In Wikipedia, The Free Encyclopedia. Retrieved 01:20, April 15, 2024, from https://en.wikipedia.org/w/index.php?title=Standard_operating_procedure&oldid=1209098321
+
+Andrey AndreevValerie KomatsuPaula AlmironKasey RoseAlexandria HughesMaurice Y Lee (2022) Research Culture: Welcome to the lab eLife 11:e79627.
+https://doi.org/10.7554/eLife.79627
 
 :::::::::::::::::::::::::::::::::::::::::::::::
 

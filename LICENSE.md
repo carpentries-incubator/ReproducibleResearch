@@ -2,6 +2,9 @@
 title: "Licenses"
 ---
 
+Apart from any specific 3rd party copyright material included (where indicated), this resource is licensed under a CCBY 4.0 licence. 
+
+
 ## Instructional Material
 
 All Carpentries (Software Carpentry, Data Carpentry, and Library Carpentry)

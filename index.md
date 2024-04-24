@@ -22,13 +22,15 @@ This workshop aims to take you further down your reproducibility path, by provid
 We will also examine how Reproducible Research builds business continuity into your research group, how the culture in your institute ecosystem can affect Reproducibility and how you can identify and address risks to your knowledge.
 
 
-### Intended Audience
+### Intended audience
 
-This course is suitable for any researcher or research student who would like to upskill in reproducible research practices.
+This course is suitable for any researcher or research student who would like to upskill in reproducible research practices. No prior skills or knowledge is needed.
+
 
 #### All disciplines welcome
 
 Due to the number of other RR courses focusing on computational research, this workshop takes a step back to focus more on practices that both non-computational and computational researchers can use. This course intends to be discipline-agnostic, however the authors acknowledge that reproducibility may not fit in some areas of interpretative research.
+
 
 #### All skill levels welcome
 
