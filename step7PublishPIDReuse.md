@@ -168,6 +168,35 @@ The associated metadata provides rich and accurate information, and the data com
 
 :::
 
+# Licensing
+
+When publishing supplimentary data, or wanting to share code, analysis pipelines, any datasets or other grey outputs, it is incredibly important to attach a license.
+
+A licences provides guidence and sets legal obligations on
+
+- Who can reuse this material and for what?
+
+- Can this be used commercially?
+
+- No warranties are given or similar
+
+- If someone uses your work as part of their project, are they obligated to also use the same license?
+
+- Do they need to attribute your work?
+
+Attribution especially is very important as it can help with redirecting people to your original work and builds your reputation. 
+
+This [guide on licencing](https://help.osf.io/article/148-licensing) from OSF is a good place to start on what are the different types of licenses, what are the restrictions on each, how to license material such as preprints, registrations and projects and more.
+
+Connect with your organisation's IP, Copyright and Commercialisation team for more assistance.
+
+
+::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Link to your organisation's commercialisation team.
+
+::::::::::::::::::::::::::::::::::::::::::::::: 
+
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: discussion
