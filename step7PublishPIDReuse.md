@@ -263,6 +263,36 @@ There are a number of journals that specialise in these results.
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
+::::::::::::::::::::::::::::::::::::::::::::::: challenge
+
+## What if a collaborative relationship sours?
+
+Imagine you have been working with a collaborative partner in a different organisation. As you finish your project, they state that they are no longer interested in working together and are going to apply for the next grant with another partner.
+
+They've stated that they aren't confident in the validity of the datasets you've shared.
+
+How will this affect you?
+
+What steps have we taken so far to help protect our position?
+
+:::::::::::::::::::::::::::::: solution
+
+This may affect you 
+
+
+However, we've already taken steps to protect ourselves and safeguard against any potential fallout.
+
+We've documented our [ethics and governance](episodes/step4Doco.html) documents and have clarified the conditions around reuse of the data, whether the data can be shared and what the data can be used for.
+
+We've licensed our pipelines and data to specify whether it can be reused or if it can be commercialised, and if we need to be cited.
+
+We can show [what testing](episodes/step5Testing.html) we've done to our datasets to ensure validity.
+
+
+:::::::::::::::::::::::::::::: 
+
+::::::::::::::::::::::::::::::::::::::::::::::: 
+
 ::::::::::::::::::::::::::::::::::::::::::::::: discussion
 
 ### Useful Resources
