@@ -82,4 +82,8 @@ In this lesson, we have learnt:
 
 :::::::::::::::::::::::::::::::::::::::::::::::
 
-{% include episodes/testinsert.html %}
+
+
+```{r}
+  htmltools::includeMarkdown('episodes/testinsert.md')
+```
