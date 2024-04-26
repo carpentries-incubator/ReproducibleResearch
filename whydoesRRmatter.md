@@ -215,4 +215,11 @@ The Nature paper has some excellent graphics that you may like reference in your
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+::::::::::::::::::::::::::::::::::::::::::::::: keypoints
+
+In this lesson, we have learnt:
+
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::
 

@@ -273,3 +273,43 @@ Image:
 Source: Carpentry, D. and Martinez, C. (2015) File organization: Naming, File Organization: File Organization: Naming. The Carpentries. Available at: https://datacarpentry.org/rr-organization1/01-file-naming/index.html (Accessed: January 24, 2023). licenced under CC BY 4.0 license
 
 :::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::: keypoints
+
+### In this lesson, we have learnt:
+
+- How to plan our research by considering Standard Operating Procedures, Data Management Plans and implementing a folder structure
+
+- To keep a copy of raw data safe and secure separate to our working data
+
+- How to consistantly name our files
+
+- To consider and map the metadata of our files
+
+
+
+#### We build trust in our knowledge by:
+
+- Keeping our raw data safe and secure
+
+- Having consistant and standard operating procedures
+
+
+
+#### We retain knowledge using:
+
+- Having our files and folders organised, so nothing is lost
+
+- Mapping the metadata of our files, so we know where they came from
+
+
+
+#### We build business continuity by:
+
+- Having our data and materials well organised, so others in our team can find data
+
+- By being clear in our plans and processes through Data Management Plans and Standard Operating Procedures
+
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::

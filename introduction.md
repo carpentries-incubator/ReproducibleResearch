@@ -57,3 +57,13 @@ The Turing Way Community. This illustration is created by Scriberia with The Tur
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+
+::::::::::::::::::::::::::::::::::::::::::::::: keypoints
+
+In this lesson, we have learnt:
+
+- What is reproducible research
+
+- The different terms around reproducibility
+
+:::::::::::::::::::::::::::::::::::::::::::::::

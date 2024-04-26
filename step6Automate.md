@@ -165,3 +165,11 @@ The Turing Way Community. (updated 2023) Citing Research Objects . Github.com Re
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::: keypoints
+
+In this lesson, we have learnt:
+
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::

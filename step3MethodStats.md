@@ -139,3 +139,12 @@ Center for Open Science (updated 2024) Home. COS Retrieved April 11, 2024 from h
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::
+
+
+::::::::::::::::::::::::::::::::::::::::::::::: keypoints
+
+In this lesson, we have learnt:
+
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::

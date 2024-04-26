@@ -257,3 +257,11 @@ Nosek, B. Strategy for culture change, Center for Open Science, web log post 11 
 Government of South Australia (2020, July 6). Change Management Toolkit. Office of the Commissioner for Public Sector Employment. https://www.publicsector.sa.gov.au/about/Resources-and-Publications/innovation-lab/the-tools/change-management-toolkit licenced as CC-BY
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::: keypoints
+
+In this lesson, we have learnt:
+
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::

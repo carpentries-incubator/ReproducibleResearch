@@ -579,3 +579,11 @@ Sonja Bezjak, April Clyburne-Sherin, Philipp Conzett, Pedro Fernandes, Edit Gör
 A shout out to the people in the Cauliflower Pizza story - Thanks for letting me share it! @amandamiotto
 
 :::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::: keypoints
+
+In this lesson, we have learnt:
+
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::

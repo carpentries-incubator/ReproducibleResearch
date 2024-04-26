@@ -359,3 +359,11 @@ Image:
  As per Sonja Bezjak, April Clyburne-Sherin, Philipp Conzett, Pedro Fernandes, Edit Görögh, Kerstin Helbig, Bianca Kramer, Ignasi Labastida, Kyle Niemeyer, Fotis Psomopoulos, Tony Ross-Hellauer, René Schneider, Jon Tennant, Ellen Verbakel, Helene Brinken, & Lambert Heller. (2018). Open Science Training Handbook (1.0)]. Zenodo. https://doi.org/10.5281/zenodo.1212496 , Retrieved 2024-04-19 from https://open-science-training-handbook.gitbook.io/book/02opensciencebasics/02openresearchdataandmaterials#undefined-3 licenced as CC0 Universal Public Domain.
 
 :::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::: keypoints
+
+In this lesson, we have learnt:
+
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::

@@ -210,3 +210,11 @@ Kang H. The prevention and handling of the missing data. Korean J Anesthesiol. 2
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::: keypoints
+
+In this lesson, we have learnt:
+
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::
