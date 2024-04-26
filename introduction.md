@@ -87,3 +87,7 @@ In this lesson, we have learnt:
 ```{r}
   htmltools::includeMarkdown('episodes/testinsert.md')
 ```
+
+htmltools::includeMarkdown('episodes/testinsert.md')
+
+

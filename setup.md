@@ -2,6 +2,7 @@
 title: Setup
 ---
 
+## What to bring?
 
 As a researcher, you won't need to prepare anything for this workshop. It is suggested you have a notepad or document open for activities.
 
