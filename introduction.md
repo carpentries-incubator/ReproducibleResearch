@@ -93,4 +93,8 @@ htmltools::includeMarkdown('./episodes/testinsert.md')
 
 shiny::includeHTML('./episodes/testinsert.html')
 
+{% include ./episodes/testinsert.html %}
+
+{% include ./episodes/testinsert.md %}
+
 
