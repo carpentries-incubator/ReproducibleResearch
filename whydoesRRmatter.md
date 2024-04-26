@@ -167,6 +167,14 @@ Questions you could ask are:
 - Conduct and publish replication and validation studies
 
 
+### What is happening on the global scale
+
+UKRN
+
+[AUSORN](https://www.aus-rn.org/aus-rn-events)
+
+https://reproducibilitea.org/ - A grassroots journal club initiative, focusing on open science, ideas on improving science and reproducibility.
+
 
 #### What can we change?
 

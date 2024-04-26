@@ -86,8 +86,11 @@ In this lesson, we have learnt:
 
 ```{r}
   htmltools::includeMarkdown('episodes/testinsert.md')
+  htmltools::includeHTML('./episodes/testinsert.html')
 ```
 
 htmltools::includeMarkdown('episodes/testinsert.md')
+
+htmltools::includeMarkdown
 
 
