@@ -82,4 +82,4 @@ In this lesson, we have learnt:
 
 :::::::::::::::::::::::::::::::::::::::::::::::
 
-{% include episodes/testinsert.md %}
+{% include episodes/testinsert.html %}
