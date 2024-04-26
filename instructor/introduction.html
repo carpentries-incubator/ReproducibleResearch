@@ -261,6 +261,15 @@
   </div><!--/div.accordion-item-->
 </div><!--/div.accordion-flush-->
 
+<div class="accordion accordion-flush" id="accordionFlush13">
+  <div class="accordion-item">
+    <div class="accordion-header" id="flush-heading13">
+        <a href="risks.html">12. Have you considered risks to your research?</a>
+    </div><!--/div.accordion-header-->
+        
+  </div><!--/div.accordion-item-->
+</div><!--/div.accordion-flush-->
+
                 </div>
               </div>
             </div>
@@ -369,15 +378,15 @@ arise.</p>
 </button>
 </div>
 </nav><div id="nav-tabContent-1" class="tab-content">
-<div id="nav-tabpanel-1-1" class="tab-pane show active" aria-labelledby="nav-tab-1-1" role="tabpanel">
+<div id="nav-tabpanel-1-1" class="tab-pane show active" role="tabpanel" aria-labelledby="nav-tab-1-1">
 <p>A result is reproducible when the same analysis steps performed on
 the same dataset consistently produces the same answer.</p>
 </div>
-<div id="nav-tabpanel-1-2" class="tab-pane" aria-labelledby="nav-tab-1-2" role="tabpanel">
+<div id="nav-tabpanel-1-2" class="tab-pane" role="tabpanel" aria-labelledby="nav-tab-1-2">
 <p>A result is replicable when the same analysis performed on different
 datasets produces qualitatively similar answers.</p>
 </div>
-<div id="nav-tabpanel-1-3" class="tab-pane" aria-labelledby="nav-tab-1-3" role="tabpanel">
+<div id="nav-tabpanel-1-3" class="tab-pane" role="tabpanel" aria-labelledby="nav-tab-1-3">
 <p>A result is robust when the same dataset is subjected to different
 analysis workflows to answer the same research question (for example one
 pipeline written in R and another written in Python) and a qualitatively
@@ -385,7 +394,7 @@ similar or identical answer is produced. Robust results show that the
 work is not dependent on the specificities of the programming language
 chosen to perform the analysis.</p>
 </div>
-<div id="nav-tabpanel-1-4" class="tab-pane" aria-labelledby="nav-tab-1-4" role="tabpanel">
+<div id="nav-tabpanel-1-4" class="tab-pane" role="tabpanel" aria-labelledby="nav-tab-1-4">
 <p>Combining replicable and robust findings allow us to form
 generalisable results. Note that running an analysis on a different
 software implementation and with a different dataset does not provide
@@ -443,11 +452,19 @@ with The Turing Way community, used under a CC-BY 4.0 licence. DOI:
 </ul></div>
 </div>
 </div>
-<p><code>{r}   htmltools::includeMarkdown('episodes/testinsert.md')   shiny::includeHTML('./episodes/testinsert.html')</code></p>
+<p><code>{r}   htmltools::includeMarkdown('episodes/testinsert.md')   shiny::includeHTML('./episodes/testinsert.html')   xfun::embed_file('./episodes/testinsert.md')</code></p>
 <p>htmltools::includeMarkdown(‘./episodes/testinsert.md’)</p>
 <p>shiny::includeHTML(‘./episodes/testinsert.html’)</p>
 <p>{% include ./episodes/testinsert.html %}</p>
 <p>{% include ./episodes/testinsert.md %}</p>
+<div>
+<div class="codewrapper sourceCode" id="cb1">
+<h3 class="code-label">SH<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
+</h3>
+<pre class="sourceCode sh" tabindex="0"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" tabindex="-1"></a><span class="op">&lt;</span>iframe <span class="va">src</span><span class="op">=</span><span class="st">"./episodes/testinsert.html"</span> <span class="va">name</span><span class="op">=</span><span class="st">"targetframe"</span> <span class="va">allowTransparency</span><span class="op">=</span><span class="st">"true"</span> <span class="va">scrolling</span><span class="op">=</span><span class="st">"no"</span> <span class="va">frameborder</span><span class="op">=</span><span class="st">"0"</span> <span class="op">&gt;</span></span>
+<span id="cb1-2"><a href="#cb1-2" tabindex="-1"></a><span class="op">&lt;</span>/iframe<span class="op">&gt;</span></span></code></pre>
+</div>
+</div>
 <!-- 
 Place links that you need to refer to multiple times across pages here. Delete
 any links that you are not going to use. 
