@@ -494,9 +494,9 @@ with The Turing Way community, used under a CC-BY 4.0 licence. DOI:
 </div>
 </div>
 </div>
-<p><code>{r}   htmltools::includeMarkdown('episodes/testinsert.md')   htmltools::includeHTML('./episodes/testinsert.html')</code></p>
-<p>htmltools::includeMarkdown(‘episodes/testinsert.md’)</p>
-<p>htmltools::includeMarkdown</p>
+<p><code>{r}   htmltools::includeMarkdown('episodes/testinsert.md')   shiny::includeHTML('./episodes/testinsert.html')</code></p>
+<p>htmltools::includeMarkdown(‘./episodes/testinsert.md’)</p>
+<p>shiny::includeHTML(‘./episodes/testinsert.html’)</p>
 <!-- 
 Place links that you need to refer to multiple times across pages here. Delete
 any links that you are not going to use. 
@@ -952,7 +952,7 @@ derived. Where did this media come from?”.</p></li>
 </button>
 </div>
 </nav><div id="nav-tabContent-1" class="tab-content">
-<div id="nav-tabpanel-1-1" class="tab-pane show active" aria-labelledby="nav-tab-1-1" role="tabpanel">
+<div id="nav-tabpanel-1-1" class="tab-pane show active" role="tabpanel" aria-labelledby="nav-tab-1-1">
 <p>A great place to start is:</p>
 <p>Download a folder template and start using it!</p>
 <p>Another idea is to put a copy of your raw data somewhere secure and
@@ -968,7 +968,7 @@ files.</p></li>
 <li><p>Check your folders are being backed up.</p></li>
 </ul>
 </div>
-<div id="nav-tabpanel-1-2" class="tab-pane" aria-labelledby="nav-tab-1-2" role="tabpanel">
+<div id="nav-tabpanel-1-2" class="tab-pane" role="tabpanel" aria-labelledby="nav-tab-1-2">
 <p>Your next move can be:</p>
 <p>Ensure all your projects are well organised. This could extend to
 projects across your research group.</p>
@@ -1276,7 +1276,7 @@ a data file structure by CESSDA</a></p>
 </button>
 </div>
 </nav><div id="nav-tabContent-1" class="tab-content">
-<div id="nav-tabpanel-1-1" class="tab-pane show active" role="tabpanel" aria-labelledby="nav-tab-1-1">
+<div id="nav-tabpanel-1-1" class="tab-pane show active" aria-labelledby="nav-tab-1-1" role="tabpanel">
 <p>A great place to start is:</p>
 <p>Decide how to handle missing data</p>
 <p>Use YYYY-MM-DD for dates</p>
@@ -1285,7 +1285,7 @@ a data file structure by CESSDA</a></p>
 <li><p>Use YYYY-MM-DD for dates</p></li>
 </ul>
 </div>
-<div id="nav-tabpanel-1-2" class="tab-pane" role="tabpanel" aria-labelledby="nav-tab-1-2">
+<div id="nav-tabpanel-1-2" class="tab-pane" aria-labelledby="nav-tab-1-2" role="tabpanel">
 <p>Your next move can be:</p>
 <ul>
 <li>You can start to work in a data science language such as R or
@@ -1473,14 +1473,14 @@ Report</a></p>
 </button>
 </div>
 </nav><div id="nav-tabContent-1" class="tab-content">
-<div id="nav-tabpanel-1-1" class="tab-pane show active" aria-labelledby="nav-tab-1-1" role="tabpanel">
+<div id="nav-tabpanel-1-1" class="tab-pane show active" role="tabpanel" aria-labelledby="nav-tab-1-1">
 <p>A great place to start is:</p>
 <p>Learning about how preregistration and registering protocols work by
 checking out some of these <a href="https://www.youtube.com/@reproducibiliteach/videos" class="external-link">ReproducibiliTeach
 videos</a> or check out this <a href="https://book.the-turing-way.org/reproducible-research/rdm/rdm-methods.html?highlight=protocol#open-methods-protocols" class="external-link">The
 Turing Way page on Methods and Protocols</a></p>
 </div>
-<div id="nav-tabpanel-1-2" class="tab-pane" aria-labelledby="nav-tab-1-2" role="tabpanel">
+<div id="nav-tabpanel-1-2" class="tab-pane" role="tabpanel" aria-labelledby="nav-tab-1-2">
 <p>Your next move can be:</p>
 <p>Get started on publishing that protocol and prepublication! You can
 use <a href="https://youtu.be/aKiXFzj15dg" class="external-link">How to write a reusable,
@@ -1962,7 +1962,7 @@ that produced a derived file?</p>
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
   <h4 class="accordion-header" id="headingSolution1">Show me the solution</h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
 <div class="accordion-body">
 <p>A common way is to name your files with a number at the front, so
 1_rawdata.csv, 2_cleandata.csv, 3_analysisdata.csv etc.</p>
@@ -2017,7 +2017,7 @@ similar paper was published with contradicting results.<a class="anchor" aria-la
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution2" aria-expanded="false" aria-controls="collapseSolution2">
   <h4 class="accordion-header" id="headingSolution2">Show me the solution</h4>
 </button>
-<div id="collapseSolution2" class="accordion-collapse collapse" data-bs-parent="#accordionSolution2" aria-labelledby="headingSolution2">
+<div id="collapseSolution2" class="accordion-collapse collapse" aria-labelledby="headingSolution2" data-bs-parent="#accordionSolution2">
 <div class="accordion-body">
 <p>Thankfully, we can now do this! We can refer to our notes with our
 detailed methods, analysis pipelines and have links to where our data is
@@ -2756,11 +2756,11 @@ data.</p>
 </button>
 </div>
 </nav><div id="nav-tabContent-1" class="tab-content">
-<div id="nav-tabpanel-1-1" class="tab-pane show active" role="tabpanel" aria-labelledby="nav-tab-1-1">
+<div id="nav-tabpanel-1-1" class="tab-pane show active" aria-labelledby="nav-tab-1-1" role="tabpanel">
 <p>A great place to start is:</p>
 <p>Automate a single thing.</p>
 </div>
-<div id="nav-tabpanel-1-2" class="tab-pane" role="tabpanel" aria-labelledby="nav-tab-1-2">
+<div id="nav-tabpanel-1-2" class="tab-pane" aria-labelledby="nav-tab-1-2" role="tabpanel">
 <p>Your next move can be:</p>
 <p>Keep automating! It may be worth talking to your organisation’s
 technical team to find out what licences are available or tools they
