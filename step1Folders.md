@@ -290,7 +290,7 @@ Source: Carpentry, D. and Martinez, C. (2015) File organization: Naming, File Or
 
 #### We build trust in our knowledge by:
 
-- Keeping our raw data safe and secure
+- Keeping our raw data safe and secure, so we can always come back to it and confirm our work
 
 - Having consistant and standard operating procedures
 
