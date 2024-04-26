@@ -41,7 +41,21 @@ Combining replicable and robust findings allow us to form generalisable results.
 
 ## For our workshop today....
 
-For our workshop today, we will use the term reproducible to mean that if someone had your data, and your notes on how to redo your work, they would get the same answer. 
+
+For our workshop today, we will use the term reproducible to mean:
+
+"Research that is sufficiently transparent that someone with the relevant expertise
+can clearly follow, as relevant for different types of research:
+
+- how it was done;
+
+- why it was done in that way;
+
+- the evidence that it established;
+
+- the reasoning and/or judgements that were used; and
+
+- how all of that led justifiably to the research findings and conclusions." 
 
 Let's look now on why this is important.
 

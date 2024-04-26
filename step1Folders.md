@@ -184,7 +184,7 @@ If implemented early and consistently, a standardised system or convention for n
 
 Are you collating photos, images, videos or other media? It is important to note information about each file alongside the files themselves.
 
-The university of Chicago has [this useful guide to building a catalogue of information about your research images](https://vrc.uchicago.edu/guide-cataloging-your-images)
+The University of Chicago has [this useful guide to building a catalogue of information about your research images](https://vrc.uchicago.edu/guide-cataloging-your-images)
 
 You could also look into a format such as [Dublin Core](https://en.wikipedia.org/wiki/Dublin_Core). Learn about [Dublin Core metadata basics](https://www.dublincore.org/resources/metadata-basics/).
 
