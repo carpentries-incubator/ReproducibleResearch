@@ -81,3 +81,5 @@ In this lesson, we have learnt:
 - The different terms around reproducibility
 
 :::::::::::::::::::::::::::::::::::::::::::::::
+
+{% include episodes/testinsert.md %}
