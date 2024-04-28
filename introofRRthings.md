@@ -23,3 +23,26 @@ Let's learn about 7 different concepts that can help us build reproducibility in
 @DMPcontact
 
 {{ site.DMPcontact }}
+
+
+<div class="accordion accordion-flush" id="accordionFlush09">
+  <div class="accordion-item">
+    <div class="accordion-header" id="flush-heading4">
+        <a href="risks.md">3. Introducing 7 Reproducible Research Things</a>
+    </div>
+<!--/div.accordion-header-->
+        
+  </div>
+<!--/div.accordion-item-->
+</div>
+
+<div class="accordion accordion-flush" id="accordionFlush10">
+  <div class="accordion-item">
+    <div class="accordion-header" id="flush-heading4">
+        <a href="risks.html">3. Introducing 7 Reproducible Research Things</a>
+    </div>
+<!--/div.accordion-header-->
+        
+  </div>
+<!--/div.accordion-item-->
+</div>
