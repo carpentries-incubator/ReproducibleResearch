@@ -69,8 +69,8 @@ episodes:
 - step5Testing.md
 - step6Automate.md
 - step7PublishPIDReuse.md
-- culture.md
-- risks.md
+#- culture.md
+#- risks.md
 
 # Information for Learners
 learners: 
