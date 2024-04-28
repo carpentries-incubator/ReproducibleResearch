@@ -262,6 +262,4 @@ Government of South Australia (2020, July 6). Change Management Toolkit. Office 
 
 In this lesson, we have learnt:
 
-
-
 :::::::::::::::::::::::::::::::::::::::::::::::
