@@ -169,11 +169,11 @@ Questions you could ask are:
 
 ### What is happening on the global scale
 
-UKRN
+[UKRN](https://www.ukrn.org/) is the UK Reproducibility Network
 
-[AUSORN](https://www.aus-rn.org/aus-rn-events)
+[AUS-RN](https://www.aus-rn.org/aus-rn-events) is the Australian Reproducibility network.
 
-https://reproducibilitea.org/ - A grassroots journal club initiative, focusing on open science, ideas on improving science and reproducibility.
+[ReproducibiliTEA](https://reproducibilitea.org/) - A grassroots journal club initiative, focusing on open science, ideas on improving science and reproducibility.
 
 
 #### What can we change?

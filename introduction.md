@@ -83,27 +83,3 @@ In this lesson, we have learnt:
 :::::::::::::::::::::::::::::::::::::::::::::::
 
 
-
-```{r}
-  htmltools::includeMarkdown('episodes/testinsert.md')
-  shiny::includeHTML('./episodes/testinsert.html')
-  xfun::embed_file('./episodes/testinsert.md')
-```
-
-htmltools::includeMarkdown('./episodes/testinsert.md')
-
-shiny::includeHTML('./episodes/testinsert.html')
-
-
-
-{% include ./episodes/testinsert.html %}
-
-{% include ./episodes/testinsert.md %}
-
-
- <div>
-    <iframe src="./episodes/testinsert.html" name="targetframe" allowTransparency="true" scrolling="no" frameborder="0" >
-    </iframe>
-  </div>
-
-

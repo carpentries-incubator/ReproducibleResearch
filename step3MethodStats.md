@@ -107,6 +107,14 @@ Does your library have pages on prepublications and protocols? Is there people a
 You may want to consider a [Registered Report](https://the-turing-way.netlify.app/communication/dif-articles/reg#cm-dif-articles-registered-reports)
 
 
+
+The [Center for Open Science](https://www.cos.io/initiatives/registered-reports) provides the following definition:
+
+"Registered Reports is a publishing format that emphasizes the importance of the research question and the quality of methodology by conducting peer review prior to data collection. High quality protocols are then provisionally accepted for publication if the authors follow through with the registered methodology.
+
+This format is designed to reward best practices in adhering to the hypothetico-deductive model of the scientific method. It eliminates a variety of questionable research practices, including low statistical power, selective reporting of results, and publication bias, while allowing complete flexibility to report serendipitous findings. "
+
+
 # What is your next step?
 
 ::: tab 
@@ -136,6 +144,9 @@ Get started on publishing that protocol and prepublication! You can use  [How to
 The Turing Way Community. (updated 2023) Methods and Protocols . Github.com Retrieved April 11, 2024, from https://book.the-turing-way.org/reproducible-research/rdm/rdm-methods.html?highlight=protocol#open-methods-protocols licenced under CC-BY 4.0 licence
 
 Center for Open Science (updated 2024) Home. COS Retrieved April 11, 2024 from https://www.cos.io/ licenced under CC-BY 4.0 licence
+
+Center for Open Science (updated 2024) Registered Reports. COS Retrieved April 11, 2024 from https://www.cos.io/initiatives/registered-reports licenced under CC-BY 4.0 licence
+
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::
