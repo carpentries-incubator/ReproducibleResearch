@@ -14,7 +14,6 @@
 "episodes/step5Testing.md" "6d71a45edadc77a51fc4948d19432ea7" "site/built/step5Testing.md" "2024-04-26"
 "episodes/step6Automate.md" "25a2f8f8a369b75e0584ee5130f8476f" "site/built/step6Automate.md" "2024-04-26"
 "episodes/step7PublishPIDReuse.md" "a979b6353aa55d64214aed03d6505c7a" "site/built/step7PublishPIDReuse.md" "2024-04-26"
-"instructors/Customise.md" "da5a150d210fe43216c4b3a1b5ec7fc1" "site/built/Customise.md" "2024-04-28"
 "instructors/instructor-notes.md" "d5d62282b1d57fc0fa51db7541bc914f" "site/built/instructor-notes.md" "2024-04-28"
 "instructors/thingstoknowI.md" "bdbae429f0d49bac300c44eb91b23b7e" "site/built/thingstoknowI.md" "2024-04-28"
 "learners/index.md" "ce0f43891500ac394dfe18ab47b4ef66" "site/built/index.md" "2024-04-24"
