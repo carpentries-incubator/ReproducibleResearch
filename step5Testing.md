@@ -349,7 +349,23 @@ Abeysooriya M, Soria M, Kasu MS, Ziemann M (2021) Gene name errors: Lessons not 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: keypoints
 
-In this lesson, we have learnt:
+### In this lesson, we have learnt:
+
+
+
+
+#### We build trust in our knowledge by:
+
+
+
+
+#### We retain knowledge using:
+
+
+
+
+
+#### We build business continuity by:
 
 
 

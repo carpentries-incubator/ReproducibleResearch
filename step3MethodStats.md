@@ -13,32 +13,7 @@ There's a discussion to be had here on different terminology. Where a biologist 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
-## Transparent Methodologies and Protocols
-
-Clarity in your methodology is important, and can offer an insight into how you've reduced bias in your research. Has that methodology come from a different area of the discipline? If so, why was it adopted?
-
-Have you described your protocols in depth? Part of being reproducible is explaining your steps in such depth that someone can replicate your work.
-
-Consider what detail to include - In addition to detailed procedures, equipment, and instruments, protocols should also contain study objectives, reasoning for experimental design, reasoning for chosen sample sizes, safety precautions, and how results were calculated and reported, including statistical analysis and any rules for predefining and documenting excluded data to avoid bias.
-
-Have you explained why you chose that protocol, took those steps? 
-
-::::::::::::::::::::::::::::::::::::::::::::::: instructor
-
-This really did come up time and time again when talking to researchers on how they established trust in a paper. This lesson is a good opportunity to point out where in your institute researchers can get assistance with methodology and statistics, or relevant training. 
-
-
-::::::::::::::::::::::::::::::::::::::::::::::: 
-
-::::::::::::::::::::::::::::::::::::::::::::::: discussion
-
-## Resources
-
-Wikipedia contributors. (2023, December 12). Protocol (science). In Wikipedia, The Free Encyclopedia. Retrieved 00:36, April 11, 2024, from https://en.wikipedia.org/w/index.php?title=Protocol_(science)&oldid=1189512860 licenced as CC-BY-SA
-
-::::::::::::::::::::::::::::::::::::::::::::::: 
-
-### Literature Review
+## Literature Review
 
 Have you kept details of your literature review? 
 
@@ -51,40 +26,6 @@ While you may not be publishing all the details of your literature review, it ca
 - What filters did you use?
 
 - Why did you include or dismiss certain papers?
-
-
-## Publishing your Protocol
-
-Benefits to publishing your protocols:
-
- - Builds trust in your work
-
- - Enables discovery 
-
- - Expands your publication records
-
- - Offers an early opportunity for peer review, with an opportunity for feedback and improvements
-
- - It creates an early record of your novel methodologies, software, and/or innovations
-
-
-
-Where can you publish your protocols?
-
- - [Protocols.io ](https://www.protocols.io/) is dedicated to protocol publication.
-
- - [PLOS](https://plos.org/protocols/) PLOS is a nonprofit, Open Access publisher for science and medicine.
-
- - [Open Science Framework (OSF)](https://osf.io/) - A free open source project management tool.  You can register all types of review protocols including scoping reviews. 
-
- - [Cochrane Library](https://www.cochranelibrary.com/) - Includes protocols of Cochrane Reviews for the medicine and other healthcare specialties that are planned or in progress. 
-
- - Many journals will publish protocols - check the journals in your field. Instructions for authors will often have guidelines for the level of detail expected in the protocols they publish or where the protocol should be published.
-
-
-See [methods & protocols - ReproducibiliTeach](https://www.youtube.com/watch?v=CzpY4A5G70s&list=PLWb8IFSVeQ620plPweZIQSGQODpGOww8r&index=3) for the differences between protocol journals and protocol repositories (at 23:33).
-
-
 
 
 ## Preregistration
@@ -127,6 +68,70 @@ The [Center for Open Science](https://www.cos.io/initiatives/registered-reports)
 This format is designed to reward best practices in adhering to the hypothetico-deductive model of the scientific method. It eliminates a variety of questionable research practices, including low statistical power, selective reporting of results, and publication bias, while allowing complete flexibility to report serendipitous findings. "
 
 
+
+
+## Transparent Methodologies and Protocols
+
+Clarity in your methodology is important, and can offer an insight into how you've reduced bias in your research. Has that methodology come from a different area of the discipline? If so, why was it adopted?
+
+Have you described your protocols in depth? Part of being reproducible is explaining your steps in such depth that someone can replicate your work.
+
+Consider what detail to include - In addition to detailed procedures, equipment, and instruments, protocols should also contain study objectives, reasoning for experimental design, reasoning for chosen sample sizes, safety precautions, and how results were calculated and reported, including statistical analysis and any rules for predefining and documenting excluded data to avoid bias.
+
+Have you explained why you chose that protocol, took those steps? 
+
+::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+This really did come up time and time again when talking to researchers on how they established trust in a paper. This lesson is a good opportunity to point out where in your institute researchers can get assistance with methodology and statistics, or relevant training. 
+
+
+::::::::::::::::::::::::::::::::::::::::::::::: 
+
+::::::::::::::::::::::::::::::::::::::::::::::: discussion
+
+## Resources
+
+Wikipedia contributors. (2023, December 12). Protocol (science). In Wikipedia, The Free Encyclopedia. Retrieved 00:36, April 11, 2024, from https://en.wikipedia.org/w/index.php?title=Protocol_(science)&oldid=1189512860 licenced as CC-BY-SA
+
+::::::::::::::::::::::::::::::::::::::::::::::: 
+
+
+
+## Publishing your Protocol
+
+Benefits to publishing your protocols:
+
+ - Builds trust in your work
+
+ - Enables discovery 
+
+ - Expands your publication records
+
+ - Offers an early opportunity for peer review, with an opportunity for feedback and improvements
+
+ - It creates an early record of your novel methodologies, software, and/or innovations
+
+
+
+Where can you publish your protocols?
+
+ - [Protocols.io ](https://www.protocols.io/) is dedicated to protocol publication.
+
+ - [PLOS](https://plos.org/protocols/) PLOS is a nonprofit, Open Access publisher for science and medicine.
+
+ - [Open Science Framework (OSF)](https://osf.io/) - A free open source project management tool.  You can register all types of review protocols including scoping reviews. 
+
+ - [Cochrane Library](https://www.cochranelibrary.com/) - Includes protocols of Cochrane Reviews for the medicine and other healthcare specialties that are planned or in progress. 
+
+ - Many journals will publish protocols - check the journals in your field. Instructions for authors will often have guidelines for the level of detail expected in the protocols they publish or where the protocol should be published.
+
+
+See [methods & protocols - ReproducibiliTeach](https://www.youtube.com/watch?v=CzpY4A5G70s&list=PLWb8IFSVeQ620plPweZIQSGQODpGOww8r&index=3) for the differences between protocol journals and protocol repositories (at 23:33).
+
+
+
+
+
 # What is your next step?
 
 ::: tab 
@@ -166,8 +171,44 @@ Center for Open Science (updated 2024) Registered Reports. COS Retrieved April 1
 
 ::::::::::::::::::::::::::::::::::::::::::::::: keypoints
 
-In this lesson, we have learnt:
+### In this lesson, we have learnt:
+
+- What details to keep about our literature reviews
+
+- About Preregistrations and where to submit
+
+- About Registered Reporting formats and when they are appropriate
+
+- What details to include about your methodologies and protocols
+
+- Why and where to publish your protocols
 
 
+
+#### We build trust in our knowledge by:
+
+- By being open on our plans in our registered reports and preregistrations
+
+- Publishing our protocols
+
+- Being detailed in our methodologies
+
+
+
+#### We retain knowledge using:
+
+- Detailed recording of our literature review, so we can understand why those papers were reviewed
+
+- By saving our protocols for use later
+
+
+
+#### We build business continuity by:
+
+- By saving our protocols for use later
+
+- By sharing our registered reports and preregistrations
+
+- By sharing with the team why those papers were reviewed in your literature review
 
 :::::::::::::::::::::::::::::::::::::::::::::::

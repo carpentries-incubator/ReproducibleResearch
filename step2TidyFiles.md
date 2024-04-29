@@ -213,7 +213,35 @@ Kang H. The prevention and handling of the missing data. Korean J Anesthesiol. 2
 
 ::::::::::::::::::::::::::::::::::::::::::::::: keypoints
 
-In this lesson, we have learnt:
+### In this lesson, we have learnt:
+
+- How to tidy the data inside our files
+
+- How to organise columns and rows
+
+- How to handle dates
+
+- How to handle missing data
+
+
+
+#### We build trust in our knowledge by:
+
+- Having clarity in our processes for handling missing data
+
+- Having well structured data
+
+
+
+#### We retain knowledge using:
+
+- Having well structured data
+
+
+
+#### We build business continuity by:
+
+- By being organised, others can quickly gain an understanding of the data
 
 
 

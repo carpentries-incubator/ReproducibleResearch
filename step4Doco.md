@@ -582,7 +582,23 @@ A shout out to the people in the Cauliflower Pizza story - Thanks for letting me
 
 ::::::::::::::::::::::::::::::::::::::::::::::: keypoints
 
-In this lesson, we have learnt:
+### In this lesson, we have learnt:
+
+
+
+
+#### We build trust in our knowledge by:
+
+
+
+
+#### We retain knowledge using:
+
+
+
+
+
+#### We build business continuity by:
 
 
 
