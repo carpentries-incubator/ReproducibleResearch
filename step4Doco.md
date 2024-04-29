@@ -584,12 +584,22 @@ A shout out to the people in the Cauliflower Pizza story - Thanks for letting me
 
 ### In this lesson, we have learnt:
 
+- What documentation is and how it can help us
+
+- How to consider the audience you are writing for
+
+- What to document for staff onboarding and offboarding
+
+- The curse of knowledge and how that skews our perception
+
+- What to include for documentation
+
 
 
 
 #### We build trust in our knowledge by:
 
-
+- 
 
 
 #### We retain knowledge using:
@@ -600,6 +610,8 @@ A shout out to the people in the Cauliflower Pizza story - Thanks for letting me
 
 #### We build business continuity by:
 
+- Having proper onboarding and offboarding
 
+- Sharing segments of documentation across the team
 
 :::::::::::::::::::::::::::::::::::::::::::::::
