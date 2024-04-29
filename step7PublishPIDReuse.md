@@ -1,5 +1,5 @@
 ---
-title: 'Step 7 - Publishing, Permanent Identifiers and Preparing for Reuse'
+title: 'Step 7 - Publishing, Persistent Identifiers and Preparing for Reuse'
 teaching: 25
 exercises: 1
 ---
@@ -36,7 +36,7 @@ May be worth checking with your library or research office.
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
-# Permanent Identifiers
+# Persistent Identifiers
 
 
 
@@ -98,7 +98,13 @@ You can connect your iD with your professional information — affiliations, gra
 An ORCID looks like https://orcid.org/0000-0002-0838-1771 .
 
 
-TODO an example of when peoples name changes.
+This can assist people to find you :
+
+- When you move across institutes
+
+- If you have a common last name
+
+- If you change your name
 
 
 
@@ -362,7 +368,45 @@ Image:
 
 ::::::::::::::::::::::::::::::::::::::::::::::: keypoints
 
-In this lesson, we have learnt:
+### In this lesson, we have learnt:
+
+- What the difference is between an identifier and a persistent identifier
+
+- What a DOI and ORCID is
+
+- How to get a DOI minted for your articles and datasets
+
+- If and how to share your datasets
+
+- What FAIR sharing is, and how mediated sharing works
+
+- What to consider for licensing
+
+- Where you can deposit your datasets or grey materials
+
+- Negative results and how this still can be important to publish
+
+
+#### We build trust in our knowledge by:
+
+- Publishing our data with a license, so that others can reuse it
+
+- Sharing your data as FAIR, so that people can find you and request your data in a safe way
+
+- Helping people track who you are via an ORCID id
+
+
+#### We retain knowledge using:
+
+- Having our datasets saved with persistent URL links, so that they are never lost.
+
+- Attaching our outputs and papers to our ORCID id, so that people can always find us as authors and our scope of work
+
+
+
+#### We build business continuity by:
+
+- Attaching persistent identifiers to our data when publishing datasets, so that others in the team can reference them
 
 
 

@@ -168,8 +168,28 @@ The Turing Way Community. (updated 2023) Citing Research Objects . Github.com Re
 
 ::::::::::::::::::::::::::::::::::::::::::::::: keypoints
 
-In this lesson, we have learnt:
+### In this lesson, we have learnt:
+
+- Why automation can be beneficial
+
+- What tools are useful for automation
+
+- Ideas on what to automate
 
 
+#### We build trust in our knowledge by:
+
+- Showing how we automated work, to eliminate human error
+
+
+#### We retain knowledge using:
+
+- Keeping a copy of these automations
+
+
+
+#### We build business continuity by:
+
+- Having an automation, so that you are not relying on a staff member to perform this job. 
 
 :::::::::::::::::::::::::::::::::::::::::::::::

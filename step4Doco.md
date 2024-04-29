@@ -599,12 +599,12 @@ A shout out to the people in the Cauliflower Pizza story - Thanks for letting me
 
 #### We build trust in our knowledge by:
 
-- 
+- When asked, we can refer to our notes for further information on what we did, how we did it and why
 
 
 #### We retain knowledge using:
 
-
+- Having notes on what we did, how we did it and why saved for our past projects
 
 
 

@@ -229,7 +229,7 @@ step4Doco.html#standard-operating-procedure) in Step 4 - Documentation. This is 
 ### Version Control and Tracking
 
 
-Let's now consider tracking your versions of your analysis pipeline.
+Let's now consider tracking your versions of your analysis pipeline. 
 
 You may be making changes to your analysis pipeline as you go
 
@@ -240,6 +240,10 @@ You may be making changes to your analysis pipeline as you go
  - Have you noted what version of the libraries you are using are? 
 
  - Have you noted the name, model and version number of any hardware you may be using (for example, cameras, microscopes, MRI machines, IoT sensors)?
+
+Version control is keeping track of each change you have made, so that if you need to go back to a previous version of your analysis pipeline, you can!
+
+Think of version control as an 'undo' button.
 
 ::::::::::::::::::::::::::::::::::::::::::::::: discussion
 
@@ -280,12 +284,6 @@ The following paper may be useful to learn about ML platforms and reproducibilit
 [R. Isdahl and O. E. Gundersen, "Out-of-the-Box Reproducibility: A Survey of Machine Learning Platforms," 2019 15th International Conference on eScience (eScience), San Diego, CA, USA, 2019, pp. 86-95, doi: 10.1109/eScience.2019.00017.](https://10.1109/eScience.2019.00017)
 
 
-
-::::::::::::::::::::::::::::::::::::::::::::::: instructor
-# Understanding and handling Risks
- TODO
-
-::::::::::::::::::::::::::::::::::::::::::::::: 
 
 # What is your next step?
 
@@ -351,22 +349,44 @@ Abeysooriya M, Soria M, Kasu MS, Ziemann M (2021) Gene name errors: Lessons not 
 
 ### In this lesson, we have learnt:
 
+- Why we should be checking our data for validity and integrity during processing
 
+- What we should be looking for when inspecting our data
+
+- Tools for inspecting data
+
+- Physical testing and hardware QA plays an important part too
+
+- Our data may have a lineage of origin, and we need to be aware and document the provenance of our data
+
+- It is important to track our analysis history (and how to record it)
+
+- That version control is a way to track changes over time
 
 
 #### We build trust in our knowledge by:
 
+- We are testing our data for validity and integrity - and being able to show how we are testing!
 
+- We are tracking our versions of software, hardware and analysis pipelines, so that it is easier to reproduce later
 
 
 #### We retain knowledge using:
 
+- Tracking metadata about our data (for example, where did an image come from? Who originally made the dataset?) for later reference
 
+- Recording the different versions of software and hardware, so we can go back to previous versions for reproducibility.
+
+- Tracking the different versions of our analysis pipelines
 
 
 
 #### We build business continuity by:
 
+- Keeping versions of our analysis pipeline, so that it is clear what the latest version of the analysis pipeline was
 
+- Recording the different version hardware and software
+
+- Sharing where the data originated from via its data lineage information
 
 :::::::::::::::::::::::::::::::::::::::::::::::
