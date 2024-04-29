@@ -20,5 +20,3 @@ Let's learn about 7 different concepts that can help us build reproducibility in
 
  7. Publishing, Permanent Identifiers and Preparing for Reuse
 
- {{ site.DMPcontact }}
-

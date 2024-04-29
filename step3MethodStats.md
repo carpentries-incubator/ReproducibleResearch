@@ -38,7 +38,19 @@ Wikipedia contributors. (2023, December 12). Protocol (science). In Wikipedia, T
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
-Have you kept details of your literature review? While you may not be publishing all the details of your literature review, it can be helpful for your future self to retain these details. You may want to use part of this data for your next study, and need to remember why you discounted a paper, or if you felt there was bias unaccounted for in a study.
+### Literature Review
+
+Have you kept details of your literature review? 
+
+While you may not be publishing all the details of your literature review, it can be helpful for your future self to retain these details. You may want to use part of this data for your next study, and need to remember why you discounted a paper, or if you felt there was bias unaccounted for in a study.
+
+- What databases did you search?
+
+- What search terms did you use?
+
+- What filters did you use?
+
+- Why did you include or dismiss certain papers?
 
 
 ## Publishing your Protocol
