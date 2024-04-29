@@ -245,7 +245,7 @@
 <div class="accordion accordion-flush" id="accordionFlush11">
   <div class="accordion-item">
     <div class="accordion-header" id="flush-heading11">
-        <a href="step7PublishPIDReuse.html">10. Step 7 - Publishing, Permanent Identifiers and Preparing for Reuse</a>
+        <a href="step7PublishPIDReuse.html">10. Step 7 - Publishing, Persistent Identifiers and Preparing for Reuse</a>
     </div><!--/div.accordion-header-->
         
   </div><!--/div.accordion-item-->
@@ -515,7 +515,7 @@ on your files</a></p>
   <h3 class="accordion-header" id="headingInstructor1">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor1" class="accordion-collapse collapse" aria-labelledby="headingInstructor1" data-bs-parent="#accordionInstructor1">
+<div id="collapseInstructor1" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor1" aria-labelledby="headingInstructor1">
 <div class="accordion-body">
 <p>May be a natural space to ask people what types of data they are
 working with, where is it coming from?</p>
@@ -546,7 +546,7 @@ every time.</p>
   <h3 class="accordion-header" id="headingInstructor2">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor2" class="accordion-collapse collapse" aria-labelledby="headingInstructor2" data-bs-parent="#accordionInstructor2">
+<div id="collapseInstructor2" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor2" aria-labelledby="headingInstructor2">
 <div class="accordion-body">
 <p>Insert R and Python service plug here. You’ve probably already
 included it elsewhere, just remind people at this point.</p>
@@ -588,7 +588,7 @@ Publishing Protocols link.</a></p>
   <h3 class="accordion-header" id="headingInstructor3">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor3" class="accordion-collapse collapse" aria-labelledby="headingInstructor3" data-bs-parent="#accordionInstructor3">
+<div id="collapseInstructor3" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor3" aria-labelledby="headingInstructor3">
 <div class="accordion-body">
 <p>Include links from your institute about where to publish analysis
 pipelines - your institute may have a preferred place, or your Office of
@@ -624,7 +624,11 @@ are?</p></li>
 <li><p>Have you noted the name, model and version number of any hardware
 you may be using (for example, cameras, microscopes, MRI machines, IoT
 sensors)?</p></li>
-</ul><div id="discussion4" class="callout discussion">
+</ul><p>Version control is keeping track of each change you have made, so
+that if you need to go back to a previous version of your analysis
+pipeline, you can!</p>
+<p>Think of version control as an ‘undo’ button.</p>
+<div id="discussion4" class="callout discussion">
 <div class="callout-square">
 <i class="callout-icon" data-feather="message-circle"></i>
 </div>
@@ -684,19 +688,6 @@ Gundersen, “Out-of-the-Box Reproducibility: A Survey of Machine Learning
 Platforms,” 2019 15th International Conference on eScience (eScience),
 San Diego, CA, USA, 2019, pp. 86-95, doi:
 10.1109/eScience.2019.00017.</a></p>
-<div id="accordionInstructor4" class="accordion instructor-note accordion-flush">
-<div class="accordion-item">
-<button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor4" aria-expanded="false" aria-controls="collapseInstructor4">
-  <h3 class="accordion-header" id="headingInstructor4">
-<div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Understanding and handling Risks</h3>
-</button>
-<div id="collapseInstructor4" class="accordion-collapse collapse" aria-labelledby="headingInstructor4" data-bs-parent="#accordionInstructor4">
-<div class="accordion-body">
-<p>TODO</p>
-</div>
-</div>
-</div>
-</div>
 </div>
 </div>
 <div class="section level1">
@@ -792,15 +783,42 @@ CC-BY 4.0</p>
 <h3 class="callout-title">In this lesson, we have learnt:<a class="anchor" aria-label="anchor" href="#in-this-lesson-we-have-learnt"></a>
 </h3>
 <div class="callout-content">
-<div class="section level4">
+<ul><li><p>Why we should be checking our data for validity and integrity
+during processing</p></li>
+<li><p>What we should be looking for when inspecting our data</p></li>
+<li><p>Tools for inspecting data</p></li>
+<li><p>Physical testing and hardware QA plays an important part
+too</p></li>
+<li><p>Our data may have a lineage of origin, and we need to be aware
+and document the provenance of our data</p></li>
+<li><p>It is important to track our analysis history (and how to record
+it)</p></li>
+<li><p>That version control is a way to track changes over time</p></li>
+</ul><div class="section level4">
 <h4 id="we-build-trust-in-our-knowledge-by">We build trust in our knowledge by:<a class="anchor" aria-label="anchor" href="#we-build-trust-in-our-knowledge-by"></a></h4>
-</div>
+<ul><li><p>We are testing our data for validity and integrity - and being
+able to show how we are testing!</p></li>
+<li><p>We are tracking our versions of software, hardware and analysis
+pipelines, so that it is easier to reproduce later</p></li>
+</ul></div>
 <div class="section level4">
 <h4 id="we-retain-knowledge-using">We retain knowledge using:<a class="anchor" aria-label="anchor" href="#we-retain-knowledge-using"></a></h4>
-</div>
+<ul><li><p>Tracking metadata about our data (for example, where did an image
+come from? Who originally made the dataset?) for later
+reference</p></li>
+<li><p>Recording the different versions of software and hardware, so we
+can go back to previous versions for reproducibility.</p></li>
+<li><p>Tracking the different versions of our analysis
+pipelines</p></li>
+</ul></div>
 <div class="section level4">
 <h4 id="we-build-business-continuity-by">We build business continuity by:<a class="anchor" aria-label="anchor" href="#we-build-business-continuity-by"></a></h4>
-</div>
+<ul><li><p>Keeping versions of our analysis pipeline, so that it is clear
+what the latest version of the analysis pipeline was</p></li>
+<li><p>Recording the different version hardware and software</p></li>
+<li><p>Sharing where the data originated from via its data lineage
+information</p></li>
+</ul></div>
 </div>
 </div>
 </div>
