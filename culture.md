@@ -29,17 +29,17 @@ In Australia, a big ground-up movement was [hacky hours](https://conference.eres
 People need to understand why they should expend energy, time and effort into making changes. 
 
 
-### Florian Markowetz listed these "five selfish reasons to work reproducibly":
+Florian Markowetz listed these "five selfish reasons to work reproducibly":
 
-Reason number 1: reproducibility helps to avoid disaster
+- 1: reproducibility helps to avoid disaster
 
-Reason number 2: reproducibility makes it easier to write papers
+- 2: reproducibility makes it easier to write papers
 
-Reason number 3: reproducibility helps reviewers see it your way
+- 3: reproducibility helps reviewers see it your way
 
-Reason number 4: reproducibility enables continuity of your work
+- 4: reproducibility enables continuity of your work
 
-Reason number 5: reproducibility helps to build your reputation
+- 5: reproducibility helps to build your reputation
 
 Markowetz, F. Five selfish reasons to work reproducibly. Genome Biol 16, 274 (2015). https://doi.org/10.1186/s13059-015-0850-7 licenced as CC-BY 4.0
 
@@ -261,5 +261,9 @@ Government of South Australia (2020, July 6). Change Management Toolkit. Office 
 ::::::::::::::::::::::::::::::::::::::::::::::: keypoints
 
 In this lesson, we have learnt:
+
+- Culture plays a big part, and can happen at many levels
+
+- Change can be scary for you and the people around you, but there are ways to help people through it
 
 :::::::::::::::::::::::::::::::::::::::::::::::
