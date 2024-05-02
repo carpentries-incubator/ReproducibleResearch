@@ -181,10 +181,18 @@ If implemented early and consistently, a standardised system or convention for n
 
  - Avoid backlogs or project delays by presenting a clear and real-time display of the current or completed work.
 
+::::::::::::::::::::::::::::::::::::::::::::::: discussion
+
+### Example of disorganised files and the retractions that can follow
+
+A paper on peerpub was revealed to have duplications in some of their images. When the authors were notified, they promptly investigated and found that their files were disorganised, causing duplication of images in place of some originals. Images that should have stayed in the same folder were separated, and had been arranged via memory, which then lead to confusion during processing.
+
+The authors retracted the paper.
+
+K. Li, D. Li, C. Li, P. Zhuang, C. Dai, X. Hu, D. Wang, Y. Liu, X. Mei and V. M. Rotello, Nanoscale, 2022, 14, 3972 DOI: 10.1039/D2NR90041F or via this [link](https://pubs.rsc.org/en/content/articlelanding/2022/nr/d2nr90041f) licensed as CC-BY
 
 
-
-
+::::::::::::::::::::::::::::::::::::::::::::::: 
 
 ### Metadata of your files
 

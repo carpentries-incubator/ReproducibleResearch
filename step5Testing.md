@@ -91,21 +91,6 @@ Consider your 'consumables' - Have your reagents gone out of date? Stored and la
 # Providing Authenticity and Validity
 
 
-#### Showing Provenance
-
-::::::::::::::::::::::::::::::::::::::::::::::: callout
-
-Provenance can mean different things to different people. 
-
-Archaeology and anthropology researchers use provenience to refer to the exact location or find spot of an artifact, a bone or other remains, a soil sample, or a feature within an ancient site, whereas provenance covers an object's complete documented history. 
-
-Alternatively, in the geologic use of the term, provenance instead refers to the origin or source area of particles within a rock, most commonly in sedimentary rocks. It does not refer to the circumstances of the collection of the rock.
-
-
-:::::::::::::::::::::::::::::::::::::::::::::::
-
-Today, we'll focus on data provenance, otherwise known as data lineage.
-
 ### Data lineage
 
 Data lineage considers the data origin, what happens to it, and where it moves over time.
@@ -332,8 +317,6 @@ R-Pkgs Hadley Wickham and Jennifer Bryan (2024) '13 Testing basics' Retrieved on
 ::::::::::::::::::::::::::::::::::::::::::::::: callout
 
 ## References
-
-Wikipedia contributors. (2024, March 12). Provenance. In Wikipedia, The Free Encyclopedia. Retrieved 04:46, April 16, 2024, from https://en.wikipedia.org/w/index.php?title=Provenance&oldid=1213412590 licenced under Creative Commons Attribution-ShareAlike License 4.0
 
 OFS. Valerie Collins Alicia Hofelich Mohr Samantha T Porter(2023) Reproducible research practices in Excel (yes, Excel) Retrieved on 2024-04-17 from https://osf.io/p2bdq/ licenced as CC-By Attribution 4.0 International 
 

@@ -30,8 +30,9 @@ For our purposes today, we'll use "Documentation" as a place to write down notes
 
 Examples include:
 
-[The Fay Lab - Lab manual](https://thefaylab.github.io/lab-manual/)
-[The Peelle Lab Manual](https://github.com/jpeelle/peellelab_manual/blob/master/peellelab_manual.pdf)
+- [The Fay Lab - Lab manual](https://thefaylab.github.io/lab-manual/)
+
+- [The Peelle Lab Manual](https://github.com/jpeelle/peellelab_manual/blob/master/peellelab_manual.pdf)
 
 
 Think about this scenario:
@@ -278,20 +279,13 @@ We may underestimate or forget the extent of background knowledge we have on var
 
 
 
-
-::::::::::::::::::::::::::::::::::::::::::::::: discussion
-
 ## The Curse of Knowledge
 
 May also be referenced as Expert Bias or Curse of Expertise
-
-Wikipedia describes it as:
-
-"The curse of knowledge is a cognitive bias that occurs when an individual, who is communicating with others, assumes that others have information that is only available to themselves, assuming they all share a background and understanding."
+ 
 
 ![](episodes/fig/Open_Science_Training_Handbook_03.png){alt='Someone trying to explain a robot, the other person thinking of a different robot'}
 
-:::::::::::::::::::::::::::::::::::::::::::::::
 
 #### When explaining a concept, we assume that others have the same background knowledge and life experiences that we do. 
 
