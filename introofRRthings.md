@@ -8,15 +8,15 @@ Let's learn about 7 different concepts that can help us build reproducibility in
 
  1. Organising your files and folders
 
- 2. Inside your files - Tidy and Quality Data
+ 2. Keeping your files Tidy and Organised
 
  3. Methodology and Protocols
 
- 4. Documentation
+ 4. Documentation and writing it down
 
- 5. Testing
+ 5. Testing and Controls
 
  6. Automation
 
- 7. Publishing, Permanent Identifiers and Preparing for Reuse
+ 7. Publishing, Persistent Identifiers and Preparing for Reuse
 

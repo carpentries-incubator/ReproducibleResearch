@@ -1,6 +1,6 @@
 ---
 title: 'Step 7 - Publishing, Persistent Identifiers and Preparing for Reuse'
-teaching: 25
+teaching: 20
 exercises: 1
 ---
 

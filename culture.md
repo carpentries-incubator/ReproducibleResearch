@@ -1,6 +1,6 @@
 ---
 title: "How does culture plays a part?"
-teaching: 10
+teaching: 20
 exercises: 0
 ---
 

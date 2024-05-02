@@ -1,5 +1,5 @@
 ---
-title: 'Step 4 - Documentation'
+title: 'Step 4 - Documentation and writing it down'
 teaching: 50
 exercises: 1
 ---

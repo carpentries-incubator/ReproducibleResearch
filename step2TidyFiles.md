@@ -1,6 +1,6 @@
 ---
 title: 'Step 2 - Keeping your files Tidy and Organised'
-teaching: 20
+teaching: 10
 exercises: 1
 ---
 
