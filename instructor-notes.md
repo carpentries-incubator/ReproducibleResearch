@@ -1,157 +1,32 @@
 ---
-title: "Information for instructors"
+title: "Background information for instructors"
 teaching: 10
 exercises: 0
 ---
 
 
-# Introduction and information for Instructors
+## Considerations about this course material
 
+This training was written with a few things in mind:
 
+- There is little RR training for those that are not doing computational based research. This course attempts to offer skills that are not coding-focused, so that a wider range of people can use them. While we do offer opportunities to introduce the idea of coding, we wanted to make this course inclusive to all disciplines and all levels of technical literacy. 
 
+- People are in different stages and maturities on any topic. To make them feel welcome and comfortable, we highlight that this training won't make them an expert, and we don't expect them to have background knowledge. This training is moreso about helping them further down the path. We wrote the courses so that for each area, everyone should be able to walk away with an action item to improve their processes.
 
-## How we will use the callout components for this course
+- There are some RR improvements that need to happen in a bigger scale, such as the 'publish or perish' affect on reproducibility. We can't solve the world's problems today, but we can help the people in front of us, and that matters.
 
 
-::::::::::::::::::: prereq
+#### Career stage and how that will affect your talk
 
-### Find out More!
+TODO
 
-This is the component guide for the workbench. For details on how to create 
-components from ....
 
-::::::::::::::::::::::::::
 
-## Required Sections
+#### Different terminology and disciplines may respond differently
 
-The workbench requires `objectives` and `questions` at the beginning and 
-`keypoints` at the end of each episode.
+There’s a discussion to be had here on different terminology. Where a biologist may talk about a protocol, a humanities researcher may talk more of analysis, and a data scientist may talk about their code or pipeline.
 
+The UKRN hosted a webinar on "Reproducibility, Transparency, Positionality?  Perspectives From Different Research Fields" that may be a helpful resource. The [recording](https://www.youtube.com/watch?v=8XaBkhs9yFg) and [slides](https://osf.io/mgqra/) are available.
 
 
-::::::::::::::::: questions
-
-### QUESTIONS (`questions`)
-
-QUESTIONS callouts are created with the `questions` tag and offer questions for
-the learner before they start the episode.
-
-:::::::::::::::::::::::::::
-
-
-::::::::::::::::: keypoints
-
-### KEYPOINTS (`keypoints`)
-
-KEYPOINTS callouts are created with the `keypoints` tag and offer key takeaways
-from the episode to summarise what the learners should have learned.
-
-:::::::::::::::::::::::::::
-
-
-
-## Instructor Notes
-
-Special sections that only appear on the instructor view (use the button at the
-top right of the page to toggle).
-
-::::::::::::::::::: instructor
-
-### INSTRUCTOR NOTE (`instructor`)
-
-Instructor notes are created with the `instructor` tag
-
-::::::::::::::::::::::::::::::
-
-
-
-## Callout Blocks
-
-Sections to pause the narrative flow of an episode for learners to reflect.
-
-::::::::::::::::: callout
-
-### CALLOUT (`callout`)
-
-CALLOUT callouts are created with the `callout` tag and are an aside or comment.
-
-:::::::::::::::::::::::::
-
-::::::::::::::::: prereq
-
-### PREREQUISITES (`prereq`)
-
-PREREQUISITES callouts are created with the `prereq` tag and indicate things a
-learner needs before starting the episodes (e.g. data from a previous episode or
-and understanding of a particular concept).
-
-::::::::::::::::::::::::
-
-::::::::::::::::: checklist
-
-### CHECKLIST (`checklist`)
-
-CHECKLIST callouts are created with the `checklist` tag and are a way to more
-strongly emphasise particular steps.
-
-:::::::::::::::::::::::::::
-
-::::::::::::::::::::::::::::::::: challenge
-
-### CHALLENGE (`challenge`)
-
-CHALLENGE callouts are created with the `challenge` tag and represent formative
-assessment opportunities for the learners to practice their skills.
-
-::::::::::::::::: hint
-
-### HINT (`hint`)
-
-HINT accordions are created with the `hint` tag and nested within 
-`challenge` callouts. These offer more context for the challenge that can help
-the learner find the solution.
-
-::::::::::::::::::::::
-
-::::::::::::::::: solution
-
-### SOLUTION (`solution`)
-
-SOLUTION accordions are created with the `solution` tag and nested within 
-`challenge` callouts. These provide the learners with the solution to the
-challenge so they can confirm their answers.
-
-::::::::::::::::::::::::::
-
-
-:::::::::::::::::::::::::::::::::::::::::::
-
-::::::::::::::::: discussion
-
-### DISCUSSION (`discussion`)
-
-DISCUSSION callouts are created with the `discussion` tag and represent an
-open-ended formative assessment in which the learners are expected to discuss
-a particular topic with other learners.
-
-::::::::::::::::::::::::::::
-
-::::::::::::::::: testimonial
-
-### TESTIMONIAL (`testimonial`)
-
-TESTIMONIAL callouts are created with the `testimonial` tag and are quotations
-from previous learners or instructors.
-
-:::::::::::::::::::::::::::::
-
-::::::::::::::::: spoiler
-
-### SPOILER (`spoiler`)
-
-SPOILER callouts are created with the `spoiler` tag and
-are a way to provide additional details/content 
-that can be expanded and collapsed on demand.
-
-:::::::::::::::::::::::::
 

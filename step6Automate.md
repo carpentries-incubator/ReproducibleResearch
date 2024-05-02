@@ -68,7 +68,16 @@ You can email them with your preferred citation ([helpful guide](https://the-tur
 
 :::::::::::::::::::::::::::::::::::::::::::::::
 
+::::::::::::::::::::::::::::::::::::::::::::::: challenge
 
+### Idea - Automated systematic review
+
+There are a number of tools available that can help you to conduct systematic literature reviews, including automation tools. 
+
+Tools are often discipline specific, and your library or graduate school could provide some guidence on the best one to use.
+
+
+::::::::::::::::::::::::::::::::::::::::::::::: 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: challenge
 

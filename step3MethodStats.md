@@ -7,11 +7,6 @@ exercises: 0
 One of the top reasons that reproducibility studies failed was the lack of detail in methodology and protocols. It is also one of the topics that came up again and again when interviewing researchers on how they judged whether a paper was trustworthy.
 
 
-::::::::::::::::::::::::::::::::::::::::::::::: instructor
-
-There's a discussion to be had here on different terminology. Where a biologist may talk about a protocol, a humanities researcher may talk more of analysis, and a data scientist may talk about their code or pipeline.
-
-::::::::::::::::::::::::::::::::::::::::::::::: 
 
 ## Literature Review
 
