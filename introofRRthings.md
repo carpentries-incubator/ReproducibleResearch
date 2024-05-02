@@ -1,5 +1,5 @@
 ---
-title: 'Introducing 7 Reproducible Research Things'
+title: 'Introducing 7 Steps towards Reproducible Research'
 teaching: 2
 exercises: 0
 ---

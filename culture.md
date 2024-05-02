@@ -84,7 +84,7 @@ Some change comes from the organisation. Change in organisations can come from t
 
 - ***Top down*** - from your senior leaders team, they may have an interest building Reproducible Research into the Organisation's Values and Goals. They may see the benefits Reproducible Research brings to business continuity, auditing and reputation.
 
-- ***Bottom up*** - researchers and research students may change the way they work and advocate for tools that enable them. They may see the direct benefits to citation, investment in data and automation or 
+- ***Bottom up*** - researchers and research students may change the way they work and advocate for tools that enable them. They may see the direct benefits to citation, clarity in data storage or investment in automation.
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
@@ -105,7 +105,7 @@ Consider the culture of the people you work directly with - collaborators, super
 - How can this value become an action?
 
 
-Actions can be in many forms. We've already talked about Standard Operating Procedures and how reproducibility can be built into procedures. This makes responsibilities clear on what part each person plays. Data Management Plans can set expectations early on how reproducibility is going to play a part in the project. 
+Actions can be in many forms. We've already talked about Standard Operating Procedures and how reproducibility can be built into procedures. This makes responsibilities clear on what part each person will play. Data Management Plans can set expectations early on how reproducibility is going to play a part in the project. 
 
 Another idea is to agree on a manifesto. You can use the following as a template:
 
@@ -149,7 +149,7 @@ There are steps we can do to make change less scary.
 
 - Ensure "What does this mean for my work" is clear
 
-The following [toolkit for Chance Management](https://www.publicsector.sa.gov.au/about/Resources-and-Publications/innovation-lab/the-tools/change-management-toolkit) is a great place to start.
+The following [toolkit for Change Management](https://www.publicsector.sa.gov.au/about/Resources-and-Publications/innovation-lab/the-tools/change-management-toolkit) is a great place to start.
 
 
 ### How to see a culture change from different viewpoints

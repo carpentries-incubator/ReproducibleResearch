@@ -17,8 +17,11 @@ Having a standard folder structure can keep your files organised and save you ti
 
 A data management plan (DMP) is a living document for a research project, which outlines data creation, data policies, access and ownership rules, management practices, management facilities and equipment, and who will be responsible for what.
 
-You can find [example templates here](https://ardc.edu.au/resource/data-management-plans/)
+You can find examples here:
 
+- [Aust Research Data Commons - DMP](https://ardc.edu.au/resource/data-management-plans/)
+
+- 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
@@ -180,6 +183,9 @@ If implemented early and consistently, a standardised system or convention for n
 
 
 
+
+
+
 ### Metadata of your files
 
 Are you collating photos, images, videos or other media? It is important to note information about each file alongside the files themselves.
@@ -278,7 +284,7 @@ Source: Carpentry, D. and Martinez, C. (2015) File organization: Naming, File Or
 
 ### In this lesson, we have learnt:
 
-- How to plan our research by considering Standard Operating Procedures, Data Management Plans and implementing a folder structure
+- How to plan our research by considering Data Management Plans and implementing a folder structure
 
 - To keep a copy of raw data safe and secure separate to our working data
 

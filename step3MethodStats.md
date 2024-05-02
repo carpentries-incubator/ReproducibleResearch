@@ -42,7 +42,7 @@ Prominent registries include:
 
  - For clinical trials, there is a list of [international registries in the Cochrane](https://training.cochrane.org/handbook) handbook.
 
- - See the (Directory of Open Access Preprint Repositories)[https://doapr.coar-repositories.org/repositories] for discipline specific repositories
+ - See the [Directory of Open Access Preprint Repositories](https://doapr.coar-repositories.org/repositories) for discipline specific repositories
 
  - [Wikipedia's list of Preprint Repositories](https://en.wikipedia.org/wiki/List_of_preprint_repositories) for more discipline specific repositories
 
