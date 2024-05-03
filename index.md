@@ -8,7 +8,7 @@ title: "What are we going to learn today?"
 
 - Learn what is reproducibility and why does it matter?
 - Gain a number of skills and resources to help us build reproducibility in our everyday workflows
-- Understand the relationship between Reproducible Research and other areas such as Culture, Risk and Business Continuity
+- Understand the relationship between Reproducible Research and other areas such as Culture and Business Continuity
 
 ::::::::::::::::::::::::::::::::::::: instructor
 
@@ -24,7 +24,7 @@ We will also examine how Reproducible Research builds business continuity into y
 
 ### Intended audience
 
-This course is suitable for any researcher or research student who would like to upskill in reproducible research practices. No prior skills or knowledge is needed.
+This course is suitable for any researcher, research student or professional services staff who would like to upskill in reproducible research practices. No prior skills or knowledge is needed.
 
 
 #### All disciplines welcome

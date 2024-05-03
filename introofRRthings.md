@@ -6,7 +6,7 @@ exercises: 0
 
 Let's learn about 7 different concepts that can help us build reproducibility into our workflows.
 
- 1. Organising your files and folders
+ 1. Planning to be organised
 
  2. Keeping your files Tidy and Organised
 

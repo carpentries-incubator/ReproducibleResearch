@@ -15,7 +15,7 @@ exercises: 0
 
 
 
-We write research papers to contribute knowledge, insights, or perspectives to a field of study. By publishing in a peer reviewed journal, we ask our audience to believe in what we say, to accept that the knowledge we have created is true.
+We write research papers to contribute knowledge, insights, or perspectives to a field of study. By publishing a research output (for example, in a peer reviewed journal or a dataset), we ask our audience to believe in what we say, to accept that the knowledge we have created is true.
 
 But how does our audience know this? A number of mechanisms are already in place to support this. Peer review, citations, acceptance into a reputable journal all add support into a paper. 
 
@@ -89,7 +89,7 @@ When preparing replications of 193 experiments from 53 papers there were a numbe
 
 
 
-::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
 
 Let's talk about this: 
 
@@ -100,10 +100,12 @@ On unresponsive authors, it's not always malicious:
 
 * Can drop out of academia
 
-* May be HDR students who didn't continue with research
+* May be research students who didn't continue with research
 
-* Data may have left with HDR students and supervisor may lack details or data on how the experiment was done
+* Data may have left with research students and supervisor may lack details or data on how the experiment was done
 
+
+::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
 In my own experience (as @amandamiotto ) for a project where I had to contact researchers regarding moving their old data, a good third had left and either moved overseas and changed 2-3 institutes, were no longer in research or had names that were 'Australian-ised' or had changed for various reasons, meaning it was hard (and at times impossible) to track and find them. 
 
@@ -154,17 +156,22 @@ Questions you could ask are:
 ## Suggested changes to improve reproducibility across the industry
 
 
-- Prepublication of experiments
-
-- Publishing openly or [FAIR](https://ardc.edu.au/resource/fair-data/) sharing of data, materials and software
-
-- Training on statistical models and study design
-
-- Publish negative results
+- Preregistration of experiments
 
 - Full and detailed documentation and publication of methods 
 
+- Training on statistical models and study design
+
+- Openly or [FAIR](https://ardc.edu.au/resource/fair-data/) sharing of data, materials and software
+
+- Publishing preprints
+
+- Open access  
+
+- Publish negative results
+
 - Conduct and publish replication and validation studies
+
 
 
 ### What is happening on the global scale
@@ -176,24 +183,30 @@ Questions you could ask are:
 [ReproducibiliTEA](https://reproducibilitea.org/) - A grassroots journal club initiative, focusing on open science, ideas on improving science and reproducibility.
 
 
+
+#### What can we change?
+
+While all of these are relevant and valid, there are some things we can't change today. But we can change our own behaviours and activities. The next lessons focus on what we can change in our everyday work.
+
+
 ::::::::::::::::::::::::::::::::::::::::::::::: testimonial
 
-# Making benefits clear
+### How this can benefit you?
 
-People need to understand why they should expend energy, time and effort into making changes. 
+Working reproducibly has many benefits for the research ecosystem. However, there are also direct benefits for yourself.
 
 
 Florian Markowetz listed these "five selfish reasons to work reproducibly":
 
-- 1: reproducibility helps to avoid disaster
+1. Reproducibility helps to avoid disaster
 
-- 2: reproducibility makes it easier to write papers
+2. Reproducibility makes it easier to write papers
 
-- 3: reproducibility helps reviewers see it your way
+3. Reproducibility helps reviewers see it your way
 
-- 4: reproducibility enables continuity of your work
+4. Reproducibility enables continuity of your work
 
-- 5: reproducibility helps to build your reputation
+5. Reproducibility helps to build your reputation
 
 Markowetz, F. Five selfish reasons to work reproducibly. Genome Biol 16, 274 (2015). https://doi.org/10.1186/s13059-015-0850-7 licenced as CC-BY 4.0
 
@@ -201,10 +214,6 @@ Markowetz, F. Five selfish reasons to work reproducibly. Genome Biol 16, 274 (20
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
 
-
-#### What can we change?
-
-While all of these are relevant and valid, there are some things we can't change today. But we can change our own behaviours and activities. The next lessons focus on what we can change in our everyday work.
 
 ::::::::::::::::::::::::::::::::::::::::::::::: discussion
 
@@ -227,7 +236,7 @@ Center for Open Science. "Reproducibility Project: Cancer Biology" (2021). Retri
 American Type Culture Collection (ATCC) Six factors affecting reproducibility in life science research and how to handle them . Nature Articles Retrieved 2024-5-8 from https://www.nature.com/articles/d42473-019-00004-y. 
 
 
-## Referenced in text
+### Referenced in text
 
 Center for Open Science. "Reproducibility Project: Cancer Biology" (2021). Retrieved 2024-5-8 from https://www.cos.io/rpcb. licenced as CC-BY
 
@@ -252,6 +261,12 @@ The Nature paper has some excellent graphics that you may like reference in your
 ::::::::::::::::::::::::::::::::::::::::::::::: keypoints
 
 In this lesson, we have learnt:
+
+- About the reproducibility crisis
+
+- How reproducibility can be improved broadly
+
+- How by changing our work to be more reproducible, it can also benefit ourselves
 
 
 

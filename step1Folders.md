@@ -1,55 +1,15 @@
 ---
-title: 'Step 1 - Organising your files and folders'
+title: 'Step 1 - Planning to be organised'
 teaching: 20
 exercises: 0
 ---
 
 
-Having a standard folder structure can keep your files organised and save you time looking for data. 
 
 
-
-
-# Planning to be organised
-
-
-#### Data Management Plan
+### Data Management Plan
 
 A data management plan (DMP) is a living document for a research project, which outlines data creation, data policies, access and ownership rules, management practices, management facilities and equipment, and who will be responsible for what.
-
-Referenced from ARDC, a data management plan should include:
-
-- a back-up strategy
-- an existing data survey
-- outline of data to be created
-- file format guidance
-- metadata instructions
-- ownership, access and security information
-- data organisation and naming conventions
-- information on managing data transfers and synchronisation between machines
-- guidelines for collaborative writing with colleagues
-- version control
-- data storage locations
-- hardware budget and management information
-- bibliography management tools
-- data sharing, publishing, archiving and licensing instructions
-- data destruction rules
-- responsibility allocations
-- a budget for the overall DMP
-
- Around 50% of research projects reuse at least some of their previous project data - Is this data a subset of a previous project's data? Did it come from an external collaborator or an open repository? How does this affect your project?
-
-The following resources can help you build your plan:
-
-- [Aust Research Data Commons - Data Management Plans](https://ardc.edu.au/resource/data-management-plans/)
-
-- [Elixir - What to include in your data management plan](https://rdmkit.elixir-europe.org/data_management_plan)
-
-- [University of Oxford - DMP template examples](https://researchdata.ox.ac.uk/dmp-templates)
-
-- [DCC - Example UK plans](https://www.dcc.ac.uk/resources/data-management-plans/guidance-examples)
-
-- [Where can I find DMP plans](https://www.youtube.com/watch?v=HooeSaj3dQM)
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
@@ -62,6 +22,21 @@ Link to your institutional Data Management Planning Page
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+The following resources can help you build your plan:
+
+- [Aust Research Data Commons - Data Management Plans](https://ardc.edu.au/resource/data-management-plans/)
+
+- [Elixir - What to include in your data management plan](https://rdmkit.elixir-europe.org/data_management_plan)
+
+- [University of Oxford - DMP template examples](https://researchdata.ox.ac.uk/dmp-templates)
+
+- [DCC - Example UK plans](https://www.dcc.ac.uk/resources/data-management-plans/guidance-examples)
+
+- [Where can I find DMP templates?](https://www.youtube.com/watch?v=HooeSaj3dQM)
+
+
+Around 50% of research projects reuse at least some of their previous project data - Is this data a subset of a previous project's data? Did it come from an external collaborator or an open repository? How does this affect your project?
 
 
 ### Folder Structures
@@ -96,17 +71,17 @@ Keep a copy of your raw data backed up elsewhere, and never alter it. This means
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
 
-This is a good time to talk about what research data storage options you have at your institute. Cover how backups work (and the difference between backup and whole system recovery, which are two different things).
+This is a good time to talk about what research data storage options you have at your institute. Discuss backing up your data.
+
+You may get a question on recovery verses backup - have a chat to your storage team who can assist you with understanding the differences.
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-:::::::::::::::::::::: testimonial
+***Don't forget - backups are your friend here. ***
 
-Don't forget - backups are your friend here. 
 
-:::::::::::::::::::::::::::::::::::::::
 
 
 
@@ -122,6 +97,8 @@ There are a number of things to consider when naming files:
 
 - Instead of using 'Draft' in a filename, consider using version numbers. Your first version may be 1.0, so your filename may be ProjectReportv1.0 , then when someone edits it and sends it back, it may then become ProjectReportv1.1 .You could use a date and initials to mark it as well. So a report edited on 1st May 2024 by Amanda Miotto could be ProjectReportv1.1_20240501_AM
 
+TODO example here from my board
+
 - Label any dates as YYYYMMDD . This can save confusion across international collaborators, and it makes it easier to search. We'll talk about this more in the next lesson.
 
 There is an excellent list [of 13 rules for naming conventions](https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions) worth the read.
@@ -129,7 +106,8 @@ There is an excellent list [of 13 rules for naming conventions](https://www.ed.a
 
 #### Who is reading your file names?
 
-Three principles for file names:
+##### Three principles for file names
+
 There are three key principles to guide file naming convention development, as defined by Data Carpentry and Martinez (2015):
 
  - Machine readable
@@ -153,26 +131,9 @@ Within the context of file naming conventions, being machine readable means:
 
 An example is shown below
 
-![Source: Carpentry, D. and Martinez, C. (2015) File organization: Naming, File Organization: File Organization: Naming. The Carpentries. Available at: https://datacarpentry.org/rr-organization1/01-file-naming/index.html (Accessed: January 24, 2023).](episodes/fig/globbing.jpeg){alt='Shows files in a column with parts of the names that are the same or align'}
+![Data Carpentry Reproducible Research Committee. 2016. "File organization for reproducible research." https://github.com/data-carpentry/rr-organization1](episodes/fig/globbing.jpeg){alt='Shows files in a column with parts of the names that are the same or align'}
 
-::::::::::::::::::::::::::::::::::::::::::::::: discussion
-
-#### Windows and mounted drive file name limits
-
-If you are working in a Windows system and mounting a drive on your computer, there is an upper limit to how long your file names can be. The joined file name and file path is limited to 256 characters.
-
-For example, if you have on a hard drive a file called 
-
-\mainDrive\ProjectWildMappingAcrossAust\Australia\Queensland\
-GoldCoast\SiteHinesDam\WildlifeMapping_2022_04_20\Collected_by_Amanda_Miotto\
-Griffith_UniversityQld\Dataset_WildIbis\Ibis_Observed_on_2022_4_20\
-Sector_35_x_328\Upper_Water_Level\Hourly_Count_of_organisms\2024_04_20_13h_53min.csv
-
-And you wanted to map this \mainDrive folder onto your computer, this would fail.
-
-A way to handle this is by mapping one of the folders further into the filepath. So for example, you may choose to mount the folder GoldCoast instead of mainDrive.
-
-:::::::::::::::::::::::::::::::::::::::::::::::
+TODO change this 
 
 
 
@@ -220,7 +181,7 @@ If implemented early and consistently, a standardised system or convention for n
 
 ### Example of disorganised files and the retractions that can follow
 
-A paper on peerpub was revealed to have duplications in some of their images. When the authors were notified, they promptly investigated and found that their files were disorganised, causing duplication of images in place of some originals. Images that should have stayed in the same folder were separated, and had been arranged via memory, which then lead to confusion during processing.
+A paper on pubpeer was revealed to have duplications in some of their images. When the authors were notified, they promptly investigated and found that their files were disorganised, causing duplication of images in place of originals. Images that should have stayed in the same folder were separated, and had been arranged via memory, which then lead to confusion during processing.
 
 The authors retracted the paper.
 

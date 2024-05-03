@@ -5,7 +5,26 @@ exercises: 0
 ---
 
 
-Reproducible Research is the concept that someone can, given your data and methods, redo your research and come to the same conclusion.
+## For our workshop today....
+
+
+For our workshop today, as the training was designed to be relevant to all disciplines, we are using the UKRN's broad definition of reproducibility:
+
+"Research that is sufficiently transparent that someone with the relevant expertise
+can clearly follow, as relevant for different types of research:
+
+- how it was done;
+
+- why it was done in that way;
+
+- the evidence that it established;
+
+- the reasoning and/or judgements that were used; and
+
+- how all of that led justifiably to the research findings and conclusions." 
+
+
+In most discussions of reproducible research, especially in STEM disciplines, reproducible research is the concept that someone can, given your data and methods, redo your research and come to the same conclusion.
 
 We expect that anyone conducting the same research should always come to the same conclusion. This enables us to trust that the knowledge derived from this research can be accepted as fact.
 
@@ -39,23 +58,7 @@ Combining replicable and robust findings allow us to form generalisable results.
 ![](https://the-turing-way.netlify.app/_images/reproducible-definition-grid.svg){alt='A grid showing the above 4 definitions'}
 
 
-## For our workshop today....
 
-
-For our workshop today, we will use the term reproducible to mean:
-
-"Research that is sufficiently transparent that someone with the relevant expertise
-can clearly follow, as relevant for different types of research:
-
-- how it was done;
-
-- why it was done in that way;
-
-- the evidence that it established;
-
-- the reasoning and/or judgements that were used; and
-
-- how all of that led justifiably to the research findings and conclusions." 
 
 Let's look now on why this is important.
 
@@ -67,7 +70,7 @@ Let's look now on why this is important.
 
 Reference: Definitions — The Turing Way Community. (2022). The Turing Way: A handbook for reproducible, ethical and collaborative research (Version 1.1.0) [Computer software]. https://doi.org/10.5281/zenodo.3233853 licenced as CC-BY
 
-The Turing Way Community. This illustration is created by Scriberia with The Turing Way community, used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807
+The Turing Way Community. This illustration is created by Scriberia with The Turing Way community, used under a CC-BY 4.0 licence. DOI: https://doi.org/10.5281/zenodo.3332807
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -76,7 +79,7 @@ The Turing Way Community. This illustration is created by Scriberia with The Tur
 
 In this lesson, we have learnt:
 
-- What is reproducible research
+- What is reproducible research?
 
 - The different terms around reproducibility
 
