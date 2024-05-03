@@ -17,11 +17,35 @@ Having a standard folder structure can keep your files organised and save you ti
 
 A data management plan (DMP) is a living document for a research project, which outlines data creation, data policies, access and ownership rules, management practices, management facilities and equipment, and who will be responsible for what.
 
-You can find examples here:
+Referenced from ARDC, a data management plan should include:
 
-- [Aust Research Data Commons - DMP](https://ardc.edu.au/resource/data-management-plans/)
+- a back-up strategy
+- an existing data survey
+- outline of data to be created
+- file format guidance
+- metadata instructions
+- ownership, access and security information
+- data organisation and naming conventions
+- information on managing data transfers and synchronisation between machines
+- guidelines for collaborative writing with colleagues
+- version control
+- data storage locations
+- hardware budget and management information
+- bibliography management tools
+- data sharing, publishing, archiving and licensing instructions
+- data destruction rules
+- responsibility allocations
+- a budget for the overall DMP
 
-- 
+The following resources can help you build your plan:
+
+- [Aust Research Data Commons - Data Management Plans](https://ardc.edu.au/resource/data-management-plans/)
+
+- [Elixer - What to include in your data management plan](https://rdmkit.elixir-europe.org/data_management_plan)
+
+- [University of Oxford - DMP template examples](https://researchdata.ox.ac.uk/dmp-templates)
+
+- [DCC - Example UK plans](https://www.dcc.ac.uk/resources/data-management-plans/guidance-examples)
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
@@ -82,7 +106,7 @@ Don't forget - backups are your friend here.
 
 There are a number of things to consider when naming files:
 
-- Name folders in a meaningful way. 
+- Name folders in a meaningful way
 
 - Don't use staff names
 
@@ -274,8 +298,7 @@ Your next move can be:
 
 ## References
 
-
-TIER Protocol 4.0 | Project TIER | Teaching Integrity in Empirical Research. (n.d.). Www.projecttier.org. Retrieved April 16, 2024, from https://www.projecttier.org/tier-protocol/protocol-4-0/ licenced as CC-BY-NC
+Data Management Plans | ARDC. (2022, May 14). Https://Ardc.edu.au/. Retrieved on 2024-05-03 at https://ardc.edu.au/resource/data-management-plans/, licenced as CC-BY
 
 
 DCMI: Home. (2019). Dublincore.org. https://www.dublincore.org licenced under Creative Commons Attribution 4.0 International License 

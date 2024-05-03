@@ -55,12 +55,13 @@ Does your library have pages on prepublications and protocols? Is there people a
 You may want to consider a [Registered Report](https://the-turing-way.netlify.app/communication/dif-articles/reg#cm-dif-articles-registered-reports)
 
 
-
 The [Center for Open Science](https://www.cos.io/initiatives/registered-reports) provides the following definition:
 
 "Registered Reports is a publishing format that emphasizes the importance of the research question and the quality of methodology by conducting peer review prior to data collection. High quality protocols are then provisionally accepted for publication if the authors follow through with the registered methodology.
 
 This format is designed to reward best practices in adhering to the hypothetico-deductive model of the scientific method. It eliminates a variety of questionable research practices, including low statistical power, selective reporting of results, and publication bias, while allowing complete flexibility to report serendipitous findings. "
+
+Here is a [list of participating journals](https://docs.google.com/spreadsheets/d/1D4_k-8C_UENTRtbPzXfhjEyu3BfLxdOsn9j-otrO870/edit#gid=0) with details on their options.
 
 
 
@@ -82,13 +83,6 @@ This really did come up time and time again when talking to researchers on how t
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
-::::::::::::::::::::::::::::::::::::::::::::::: discussion
-
-## Resources
-
-Wikipedia contributors. (2023, December 12). Protocol (science). In Wikipedia, The Free Encyclopedia. Retrieved 00:36, April 11, 2024, from https://en.wikipedia.org/w/index.php?title=Protocol_(science)&oldid=1189512860 licenced as CC-BY-SA
-
-::::::::::::::::::::::::::::::::::::::::::::::: 
 
 
 

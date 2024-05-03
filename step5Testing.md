@@ -234,6 +234,8 @@ Think of version control as an 'undo' button.
 
 We have already learnt some skills in [step 1 - Organising your files and folders](step1Folders.html#file-naming-conventions) to track versions of files. We can use the same principles here. Your pipelines can be labelled V1.0, V1.1 etc.
 
+You can use the first number as a major step in versions (for example, Draft v1.0 to Reviewed v2.0), and the second number as a minor step in versions to indicate a change has occured (from v1.1 to v1.2).
+
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
 
@@ -260,7 +262,11 @@ The Carpentries has a [Software Carpentry - Version Control with Git](https://sw
 
 Retaining a copy of your raw data prior to any cleaning or analysis is also useful to version control.
 
+### Containers
+
 You may even want to try [Containers](https://carpentries-incubator.github.io/docker-introduction/) to publish your workflows. Think about Containers like a machine with all the instructions and installations inside - you can pass this box to others. They can put data into the machine, and processed data comes out the other side, without needing to pull apart and put the box together.
+
+Containers also build automation into our workflows - we'll talk more about automation in our next lesson.
 
 ### Using Machine Learning?
 
