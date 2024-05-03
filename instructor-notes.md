@@ -31,6 +31,9 @@ The UKRN hosted a webinar on "Reproducibility, Transparency, Positionality?  Per
 
 ## As a teacher
 
+
+#### You don't need to be an expert
+
 People often mistakenly think that to teach a subject, you should be an expert. 
 
 As per orchid00's article:
@@ -41,4 +44,28 @@ Experts are frequently so familiar with their subject that they can no longer im
 
 orchid00 (last updated Sept 2019) A Brief Introduction to the Carpentries Pedagogic Model. Retrieved on 2024-05-03 from https://orchid00.github.io/The_Carpentries_info/overview-of-carpentries-pedagogic-model.html licenced as CC-BY
 
-https://carpentries.org/blog/2015/03/teaching-tips/
+
+#### People remember stories, not statistics
+
+A study by Stanford professor Chip Heath found that during the recall of speeches, 63 per cent of people remember stories and how they made them feel, but only 5 per cent remember a single statistic.
+
+Stories help people to relate to your lessons, to understand how and why it affects them.
+
+#### Not sure on a question?
+
+If a student asks you a question you don't have an answer for, it is ***completely okay*** to say "I'm going to do some research into that, and get back to you." 
+
+
+### Contributing to these lessons
+
+We aim to continuously improve these lessons and would love your feedback. To provide feedback or suggest changes, please contact Adam Partridge on a.partridge at sheffield.ac.uk or via a git issue submission here https://github.com/amandamiotto/ReproducibleResearch/issues .
+
+
+
+
+
+Some other helpful resources are 
+- [teaching tips by the carpentries](https://carpentries.org/blog/2015/03/teaching-tips/)
+- [Data storytelling and getting the impact across to non-experts](https://griffithunilibrary.github.io/data-storytelling/)
+
+

@@ -64,11 +64,18 @@ Some change comes from the organisation. Change in organisations can come from t
 - ***Bottom up*** - researchers and research students may change the way they work and advocate for tools that enable them. They may see the direct benefits to citation, clarity in data storage or investment in automation.
 
 
+
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
 This is a good time to highlight movement in your groups or organisations that encourage RR. 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+### Consider your audience
+
+Considering your audience when encouraging RR is incredibly important. Your senior executives will have vastly different motivations to your researchers on why they may benefit from RR. Your HDRs will again have another view.
+
+TODO
 
 
 # Where are you now?

@@ -37,15 +37,19 @@ Referenced from ARDC, a data management plan should include:
 - responsibility allocations
 - a budget for the overall DMP
 
+ Around 50% of research projects reuse at least some of their previous project data - Is this data a subset of a previous project's data? Did it come from an external collaborator or an open repository? How does this affect your project?
+
 The following resources can help you build your plan:
 
 - [Aust Research Data Commons - Data Management Plans](https://ardc.edu.au/resource/data-management-plans/)
 
-- [Elixer - What to include in your data management plan](https://rdmkit.elixir-europe.org/data_management_plan)
+- [Elixir - What to include in your data management plan](https://rdmkit.elixir-europe.org/data_management_plan)
 
 - [University of Oxford - DMP template examples](https://researchdata.ox.ac.uk/dmp-templates)
 
 - [DCC - Example UK plans](https://www.dcc.ac.uk/resources/data-management-plans/guidance-examples)
+
+- [Where can I find DMP plans](https://www.youtube.com/watch?v=HooeSaj3dQM)
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
@@ -178,6 +182,9 @@ Ensuring your file naming convention is human readable will depend on the contex
 
 TODO either graphic or comic
 
+put it as a challenge and solution, either with v1.0 or dates.
+
+
 ##### ***Plays well with default ordering***
 
 
@@ -207,6 +214,7 @@ If implemented early and consistently, a standardised system or convention for n
  - Identify obsolete or duplicate records
 
  - Avoid backlogs or project delays by presenting a clear and real-time display of the current or completed work.
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::: discussion
 

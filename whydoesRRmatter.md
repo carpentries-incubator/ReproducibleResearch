@@ -176,6 +176,32 @@ Questions you could ask are:
 [ReproducibiliTEA](https://reproducibilitea.org/) - A grassroots journal club initiative, focusing on open science, ideas on improving science and reproducibility.
 
 
+::::::::::::::::::::::::::::::::::::::::::::::: testimonial
+
+# Making benefits clear
+
+People need to understand why they should expend energy, time and effort into making changes. 
+
+
+Florian Markowetz listed these "five selfish reasons to work reproducibly":
+
+- 1: reproducibility helps to avoid disaster
+
+- 2: reproducibility makes it easier to write papers
+
+- 3: reproducibility helps reviewers see it your way
+
+- 4: reproducibility enables continuity of your work
+
+- 5: reproducibility helps to build your reputation
+
+Markowetz, F. Five selfish reasons to work reproducibly. Genome Biol 16, 274 (2015). https://doi.org/10.1186/s13059-015-0850-7 licenced as CC-BY 4.0
+
+
+::::::::::::::::::::::::::::::::::::::::::::::: 
+
+
+
 #### What can we change?
 
 While all of these are relevant and valid, there are some things we can't change today. But we can change our own behaviours and activities. The next lessons focus on what we can change in our everyday work.
@@ -192,13 +218,13 @@ Wikipedia contributors. (2024, March 24). Replication crisis. In Wikipedia, The 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: callout
 
-## Paper References
+## Paper References resources
 
 Baker, M. 1,500 scientists lift the lid on reproducibility. Nature 533, 452–454 (2016). Retrieved on 2024-04-04 https://doi.org/10.1038/533452a
 
 Center for Open Science. "Reproducibility Project: Cancer Biology" (2021). Retrieved 2024-5-8 from https://www.cos.io/rpcb. licenced as CC-BY
 
-American Type Culture Collection (ATCC) Six factors affecting reproducibility in life science research and how to handle them . Nature Articles (?) Retrieved 2024-5-8 from https://www.nature.com/articles/d42473-019-00004-y#:~:text=Poorly%20designed%20studies%20without%20a,insufficient%2C%20reproducibility%20becomes%20more%20problematic. 
+American Type Culture Collection (ATCC) Six factors affecting reproducibility in life science research and how to handle them . Nature Articles Retrieved 2024-5-8 from https://www.nature.com/articles/d42473-019-00004-y. 
 
 
 ## Referenced in text
