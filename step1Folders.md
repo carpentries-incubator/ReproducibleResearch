@@ -242,11 +242,10 @@ Or you could use your own format, and cover simple metadata such as:
  - Title – "A name given to the resource".
 
 
-## What is your next step?
 
+# What is your next step?
 
 ::: tab 
-
 
 ### Beginner
 
@@ -265,8 +264,7 @@ A great place to start is:
 
 Your next move can be:
 
-
- - Ensure all your projects are well organised. This could extend to projects across your research group.
+- Ensure all your projects are well organised. This could extend to projects across your research group.
 
  - Educate others in your space on good naming conventions and build a reference guide to be used across your group.
 
@@ -274,8 +272,8 @@ Your next move can be:
 
  - If you are working in Python, you can use a [python package](https://github.com/vukovicnikola/templateproject) developed by researcher Nikola Vukovic to generate a logical, standardised, and flexible directory hierarchy for academic research.
 
-:::
 
+:::
 
 
 
