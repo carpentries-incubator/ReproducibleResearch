@@ -109,6 +109,9 @@
     <loc>https://carpentries.github.io/workbench-template-md/instructor/whydoesRRmatter.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/workbench-template-md/instructor/wrapup.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/workbench-template-md/instructor-notes.html</loc>
   </url>
   <url>
@@ -164,5 +167,8 @@
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-md/whydoesRRmatter.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-md/wrapup.html</loc>
   </url>
 </urlset>

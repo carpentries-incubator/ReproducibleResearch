@@ -93,6 +93,7 @@
             More <i data-feather="chevron-down"></i>
           </button>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+<li><a class="dropdown-item" href="culture.html">How does culture plays a part?</a></li>
 <li><a class="dropdown-item" href="customforyourorg.html">Customise this page for your organisation</a></li>
 <hr>
 <li><a class="dropdown-item" href="index.html">What are we going to learn today?</a></li>
@@ -308,7 +309,7 @@
 <div class="accordion accordion-flush" id="accordionFlush12">
   <div class="accordion-item">
     <div class="accordion-header" id="flush-heading12">
-        <a href="culture.html">11. How does culture plays a part?</a>
+        <a href="wrapup.html">11. Wrapping up</a>
     </div>
 <!--/div.accordion-header-->
         
@@ -341,7 +342,8 @@
                       <li>
                         <a href="../instructor/images.html">Extract All Images</a>
                       </li>
-                      <li><a href="customforyourorg.html">Customise this page for your organisation</a></li>
+                      <li><a href="culture.html">How does culture plays a part?</a></li>
+<li><a href="customforyourorg.html">Customise this page for your organisation</a></li>
 <hr>
 <li><a class="dropdown-item" href="index.html">What are we going to learn today?</a></li>
 <li><a class="dropdown-item" href="reference.html">Reference</a></li>
@@ -505,7 +507,7 @@ any links that you are not going to use.
  -->
 </section></section><section id="aio-whydoesRRmatter"><p>Content from <a href="whydoesRRmatter.html">Why does Reproducibility matter?</a></p>
 <hr>
-<p>Last updated on 2024-04-28 |
+<p>Last updated on 2024-05-03 |
         
         <a href="https://github.com/carpentries/workbench-template-md/edit/main/episodes/whydoesRRmatter.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 <p>Estimated time: <i aria-hidden="true" data-feather="clock"></i> 20 minutes</p>
@@ -519,7 +521,7 @@ the knowledge we have created is true.</p>
 <p>But how does our audience know this? A number of mechanisms are
 already in place to support this. Peer review, citations, acceptance
 into a reputable journal all add support into a paper.</p>
-<p>Another way we ensure our research creditibility is reproducibility -
+<p>Another way we ensure our research credibility is reproducibility -
 can someone repeat your work and end up at the same conclusion?
 Knowledge should be reproducible.</p>
 <p>This also has the added benefit of encouraging reuse of the data and
@@ -854,8 +856,11 @@ of Oxford - DMP template examples</a></p></li>
   <h3 class="accordion-header" id="headingInstructor1">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor1" class="accordion-collapse collapse" aria-labelledby="headingInstructor1" data-bs-parent="#accordionInstructor1">
+<div id="collapseInstructor1" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor1" aria-labelledby="headingInstructor1">
 <div class="accordion-body">
+<p>Does your institute have a Data Management policy, procedure or page
+that can be linked for your attendees?</p>
+<p>This is a great place to put it!</p>
 <p>Link to your institutional Data Management Planning Page</p>
 </div>
 </div>
@@ -898,7 +903,7 @@ it.</p>
   <h3 class="accordion-header" id="headingInstructor2">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor2" class="accordion-collapse collapse" aria-labelledby="headingInstructor2" data-bs-parent="#accordionInstructor2">
+<div id="collapseInstructor2" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor2" aria-labelledby="headingInstructor2">
 <div class="accordion-body">
 <p>This is a good time to talk about what research data storage options
 you have at your institute. Cover how backups work (and the difference
@@ -969,7 +974,12 @@ names.</p></li>
 -</p></li>
 <li><p>Case sensitivity is consistent</p></li>
 </ul>
-<div id="windows-and-mounted-drive-file-name-limits" class="callout discussion">
+<p>An example is shown below</p>
+<figure><img src="../fig/globbing.jpeg" alt="Shows files in a column with parts of the names that are the same or align" class="figure mx-auto d-block"><div class="figcaption">Source: Carpentry, D. and Martinez, C. (2015)
+File organization: Naming, File Organization: File Organization: Naming.
+The Carpentries. Available at: <a href="https://datacarpentry.org/rr-organization1/01-file-naming/index.html" class="external-link uri">https://datacarpentry.org/rr-organization1/01-file-naming/index.html</a>
+(Accessed: January 24, 2023).</div>
+</figure><div id="windows-and-mounted-drive-file-name-limits" class="callout discussion">
 <div class="callout-square">
 <i class="callout-icon" data-feather="message-circle"></i>
 </div>
@@ -982,7 +992,10 @@ limits<a class="anchor" aria-label="anchor" href="#windows-and-mounted-drive-fil
 computer, there is an upper limit to how long your file names can be.
 The joined file name and file path is limited to 256 characters.</p>
 <p>For example, if you have on a hard drive a file called</p>
-<p>_2022_04_20_by_Amanda_Miotto_UniversityQld_WildIbis_Observed_on_2022_4_20_35_x_328_Water_Level_Count_of_organisms\2024_04_20_13h_53min.csv</p>
+<p><br>
+GoldCoast_2022_04_20_by_Amanda_Miotto<br>
+Griffith_UniversityQld_WildIbis_Observed_on_2022_4_20<br>
+Sector_35_x_328_Water_Level_Count_of_organisms\2024_04_20_13h_53min.csv</p>
 <p>And you wanted to map this folder onto your computer, this would
 fail.</p>
 <p>A way to handle this is by mapping one of the folders further into
@@ -991,18 +1004,6 @@ GoldCoast instead of mainDrive.</p>
 </div>
 </div>
 </div>
-<p><strong><em>Globbing</em></strong></p>
-<p>Another concept in machine readbilty is globbing.</p>
-<p>Globbing is the concept of using a wild card symbol, typically a *
-followed by an extension or consistent string. This wildcard tells the
-computer to search for all files with that extension or string. For
-example * .jpg will search for all JPEG files in a directory. An example
-is shown below</p>
-<figure><img src="../fig/globbing.jpeg" alt="Shows files in a column with parts of the names that are the same or align" class="figure mx-auto d-block"><div class="figcaption">Source: Carpentry, D. and Martinez, C. (2015)
-File organization: Naming, File Organization: File Organization: Naming.
-The Carpentries. Available at: <a href="https://datacarpentry.org/rr-organization1/01-file-naming/index.html" class="external-link uri">https://datacarpentry.org/rr-organization1/01-file-naming/index.html</a>
-(Accessed: January 24, 2023).</div>
-</figure>
 </div>
 <div class="section level5">
 <h5 id="human-readable">
@@ -1337,7 +1338,7 @@ incorrectly or produce an error.</p>
   <h3 class="accordion-header" id="headingInstructor1">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor1" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor1" aria-labelledby="headingInstructor1">
+<div id="collapseInstructor1" class="accordion-collapse collapse" aria-labelledby="headingInstructor1" data-bs-parent="#accordionInstructor1">
 <div class="accordion-body">
 <p>Point out the resources segment here at the bottom of the page. There
 is a really good tutorial in the Data Carpentry for Ecology page that
@@ -1606,7 +1607,7 @@ repositories</p></li>
   <h3 class="accordion-header" id="headingInstructor1">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor1" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor1" aria-labelledby="headingInstructor1">
+<div id="collapseInstructor1" class="accordion-collapse collapse" aria-labelledby="headingInstructor1" data-bs-parent="#accordionInstructor1">
 <div class="accordion-body">
 <p>Does your library have pages on prepublications and protocols? Is
 there people at your institute who assist researchers with this? Include
@@ -1656,7 +1657,7 @@ and documenting excluded data to avoid bias.</p>
   <h3 class="accordion-header" id="headingInstructor2">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor2" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor2" aria-labelledby="headingInstructor2">
+<div id="collapseInstructor2" class="accordion-collapse collapse" aria-labelledby="headingInstructor2" data-bs-parent="#accordionInstructor2">
 <div class="accordion-body">
 <p>This really did come up time and time again when talking to
 researchers on how they established trust in a paper. This lesson is a
@@ -1819,7 +1820,7 @@ any links that you are not going to use.
   <h3 class="accordion-header" id="headingInstructor1">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor1" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor1" aria-labelledby="headingInstructor1">
+<div id="collapseInstructor1" class="accordion-collapse collapse" aria-labelledby="headingInstructor1" data-bs-parent="#accordionInstructor1">
 <div class="accordion-body">
 <p>This is a massive lesson - you may want to put a break in the middle
 or just before this one.</p>
@@ -1882,7 +1883,7 @@ contract? Their data custodianship details?</p>
   <h3 class="accordion-header" id="headingInstructor2">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor2" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor2" aria-labelledby="headingInstructor2">
+<div id="collapseInstructor2" class="accordion-collapse collapse" aria-labelledby="headingInstructor2" data-bs-parent="#accordionInstructor2">
 <div class="accordion-body">
 <p>You could do this as a verbal activity or a written one.</p>
 <p>Ask people to pick someone they interact with regularly (supervisor,
@@ -1899,7 +1900,7 @@ their own work?</p>
   <h3 class="accordion-header" id="headingInstructor3">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor3" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor3" aria-labelledby="headingInstructor3">
+<div id="collapseInstructor3" class="accordion-collapse collapse" aria-labelledby="headingInstructor3" data-bs-parent="#accordionInstructor3">
 <div class="accordion-body">
 <p>Talk about that this scenario does happen. There could be a medical
 emergency such as a stroke or heart attack. They could have won the
@@ -1938,7 +1939,7 @@ work?</p></li>
   <h3 class="accordion-header" id="headingInstructor4">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor4" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor4" aria-labelledby="headingInstructor4">
+<div id="collapseInstructor4" class="accordion-collapse collapse" aria-labelledby="headingInstructor4" data-bs-parent="#accordionInstructor4">
 <div class="accordion-body">
 <p>Include the options here from your institute.</p>
 </div>
@@ -2037,7 +2038,7 @@ what ingredients you’ve used, and to write how you’ve made it.</p>
   <h3 class="accordion-header" id="headingInstructor5">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor5" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor5" aria-labelledby="headingInstructor5">
+<div id="collapseInstructor5" class="accordion-collapse collapse" aria-labelledby="headingInstructor5" data-bs-parent="#accordionInstructor5">
 <div class="accordion-body">
 <p>If you’re in a classroom, get them to then stick them on the
 wall.</p>
@@ -2060,7 +2061,7 @@ base.</p>
   <h3 class="accordion-header" id="headingInstructor6">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor6" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor6" aria-labelledby="headingInstructor6">
+<div id="collapseInstructor6" class="accordion-collapse collapse" aria-labelledby="headingInstructor6" data-bs-parent="#accordionInstructor6">
 <div class="accordion-body">
 <p>You can pull a recipe from online to critique.</p>
 <p>You can ask participants to put their hand up if they had:</p>
@@ -2181,7 +2182,7 @@ asked for egg on their pizza. How do you do it?</p>
   <h3 class="accordion-header" id="headingInstructor7">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor7" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor7" aria-labelledby="headingInstructor7">
+<div id="collapseInstructor7" class="accordion-collapse collapse" aria-labelledby="headingInstructor7" data-bs-parent="#accordionInstructor7">
 <div class="accordion-body">
 <p>You can ask for people to suggest different formats</p>
 </div>
@@ -2347,7 +2348,7 @@ that produced a derived file?</p>
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
   <h4 class="accordion-header" id="headingSolution1">Show me the solution</h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
 <div class="accordion-body">
 <p>A common way is to name your files with a number at the front, so
 1_rawdata.csv, 2_cleandata.csv, 3_analysisdata.csv etc.</p>
@@ -2357,7 +2358,7 @@ that produced a derived file?</p>
   <h3 class="accordion-header" id="headingInstructor8">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor8" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor8" aria-labelledby="headingInstructor8">
+<div id="collapseInstructor8" class="accordion-collapse collapse" aria-labelledby="headingInstructor8" data-bs-parent="#accordionInstructor8">
 <div class="accordion-body">
 <p>A good opportunity to share ideas or brainstorm together different
 solutions.</p>
@@ -2380,7 +2381,7 @@ have never coded before. Workshops are held across the world.</p>
   <h3 class="accordion-header" id="headingInstructor9">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor9" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor9" aria-labelledby="headingInstructor9">
+<div id="collapseInstructor9" class="accordion-collapse collapse" aria-labelledby="headingInstructor9" data-bs-parent="#accordionInstructor9">
 <div class="accordion-body">
 <p>Good place to include any Carpentry or data science introduction
 resources - If you have none, feel free to borrow something from here:
@@ -2429,7 +2430,7 @@ similar paper was published with contradicting results.<a class="anchor" aria-la
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution2" aria-expanded="false" aria-controls="collapseSolution2">
   <h4 class="accordion-header" id="headingSolution2">Show me the solution</h4>
 </button>
-<div id="collapseSolution2" class="accordion-collapse collapse" data-bs-parent="#accordionSolution2" aria-labelledby="headingSolution2">
+<div id="collapseSolution2" class="accordion-collapse collapse" aria-labelledby="headingSolution2" data-bs-parent="#accordionSolution2">
 <div class="accordion-body">
 <p>Thankfully, we can now do this! We can refer to our notes with our
 detailed methods, analysis pipelines and have links to where our data is
@@ -2449,7 +2450,7 @@ backed up (from Lesson 1)</p>
   <h3 class="accordion-header" id="headingInstructor10">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor10" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor10" aria-labelledby="headingInstructor10">
+<div id="collapseInstructor10" class="accordion-collapse collapse" aria-labelledby="headingInstructor10" data-bs-parent="#accordionInstructor10">
 <div class="accordion-body">
 <p>The following tabs are a good place to link your SoP templates, Data
 management plan system/templates, talk about research storage solutions
@@ -2477,7 +2478,7 @@ etc.</p>
 </button>
 </div>
 </nav><div id="nav-tabContent-1" class="tab-content">
-<div id="nav-tabpanel-1-1" class="tab-pane show active" role="tabpanel" aria-labelledby="nav-tab-1-1">
+<div id="nav-tabpanel-1-1" class="tab-pane show active" aria-labelledby="nav-tab-1-1" role="tabpanel">
 <p>A great place to start is:</p>
 <p>Open a document and start a diary. You can write at the end of the
 day what you did, any results, anything you got stuck on, and any notes
@@ -2486,7 +2487,7 @@ to yourself.</p>
 anywhere, external hard drive etc).</p>
 <p>That’s it. That’s a good start.</p>
 </div>
-<div id="nav-tabpanel-1-2" class="tab-pane" role="tabpanel" aria-labelledby="nav-tab-1-2">
+<div id="nav-tabpanel-1-2" class="tab-pane" aria-labelledby="nav-tab-1-2" role="tabpanel">
 <p>Time to <strong><em>get detailed</em></strong>. Add some of the
 information from <a href="step4Doco.html#expanding-into-details">Expanding into
 details</a></p>
@@ -2495,7 +2496,7 @@ and Metadata</a></p>
 <p>You can find a list of <a href="https://en.wikipedia.org/wiki/List_of_electronic_laboratory_notebook_software_packages" class="external-link">eLabnotebooks
 here</a>.</p>
 </div>
-<div id="nav-tabpanel-1-3" class="tab-pane" role="tabpanel" aria-labelledby="nav-tab-1-3">
+<div id="nav-tabpanel-1-3" class="tab-pane" aria-labelledby="nav-tab-1-3" role="tabpanel">
 <p>Your next move can be:</p>
 <p>Set up Standard Operating Procedures and maintained Data Management
 Plans for your projects.</p>
@@ -2773,7 +2774,7 @@ on your files</a></p>
   <h3 class="accordion-header" id="headingInstructor1">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor1" class="accordion-collapse collapse" aria-labelledby="headingInstructor1" data-bs-parent="#accordionInstructor1">
+<div id="collapseInstructor1" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor1" aria-labelledby="headingInstructor1">
 <div class="accordion-body">
 <p>May be a natural space to ask people what types of data they are
 working with, where is it coming from?</p>
@@ -2807,7 +2808,7 @@ every time.</p>
   <h3 class="accordion-header" id="headingInstructor2">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor2" class="accordion-collapse collapse" aria-labelledby="headingInstructor2" data-bs-parent="#accordionInstructor2">
+<div id="collapseInstructor2" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor2" aria-labelledby="headingInstructor2">
 <div class="accordion-body">
 <p>Insert R and Python service plug here. You’ve probably already
 included it elsewhere, just remind people at this point.</p>
@@ -2851,7 +2852,7 @@ Publishing Protocols link.</a></p>
   <h3 class="accordion-header" id="headingInstructor3">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor3" class="accordion-collapse collapse" aria-labelledby="headingInstructor3" data-bs-parent="#accordionInstructor3">
+<div id="collapseInstructor3" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor3" aria-labelledby="headingInstructor3">
 <div class="accordion-body">
 <p>Include links from your institute about where to publish analysis
 pipelines - your institute may have a preferred place, or your Office of
@@ -2985,12 +2986,12 @@ San Diego, CA, USA, 2019, pp. 86-95, doi:
 </button>
 </div>
 </nav><div id="nav-tabContent-1" class="tab-content">
-<div id="nav-tabpanel-1-1" class="tab-pane show active" role="tabpanel" aria-labelledby="nav-tab-1-1">
+<div id="nav-tabpanel-1-1" class="tab-pane show active" aria-labelledby="nav-tab-1-1" role="tabpanel">
 <p>A great place to start is:</p>
 <p>Save your analysis pipeline and store it safely in your organised
 folders.</p>
 </div>
-<div id="nav-tabpanel-1-2" class="tab-pane" role="tabpanel" aria-labelledby="nav-tab-1-2">
+<div id="nav-tabpanel-1-2" class="tab-pane" aria-labelledby="nav-tab-1-2" role="tabpanel">
 <p>Your next move can be:</p>
 <p>Ensure your data is well described (As per Step 2).</p>
 <p>Check that it is clear which of your datasets pair with your Analysis
@@ -3402,7 +3403,7 @@ for publication. What needs to be done?</p>
   <h3 class="accordion-header" id="headingInstructor1">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor1" class="accordion-collapse collapse" aria-labelledby="headingInstructor1" data-bs-parent="#accordionInstructor1">
+<div id="collapseInstructor1" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor1" aria-labelledby="headingInstructor1">
 <div class="accordion-body">
 <p>Opportunity to ask people for ideas on what needs to be done, either
 on whiteboard or in chat.</p>
@@ -3431,7 +3432,7 @@ Data Management Expert Guide- Archiving and Publishing</a></p>
   <h3 class="accordion-header" id="headingInstructor2">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor2" class="accordion-collapse collapse" aria-labelledby="headingInstructor2" data-bs-parent="#accordionInstructor2">
+<div id="collapseInstructor2" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor2" aria-labelledby="headingInstructor2">
 <div class="accordion-body">
 <p>Does your institute have a ‘Once your project is done’ checklist?</p>
 <p>May be worth checking with your library or research office.</p>
@@ -3492,7 +3493,7 @@ DOI.</p>
   <h3 class="accordion-header" id="headingInstructor3">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor3" class="accordion-collapse collapse" aria-labelledby="headingInstructor3" data-bs-parent="#accordionInstructor3">
+<div id="collapseInstructor3" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor3" aria-labelledby="headingInstructor3">
 <div class="accordion-body">
 <p>Include information around who mints DOIs at your organisation.</p>
 </div>
@@ -3558,7 +3559,7 @@ attribution attached to your work.</p>
   <h3 class="accordion-header" id="headingInstructor4">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor4" class="accordion-collapse collapse" aria-labelledby="headingInstructor4" data-bs-parent="#accordionInstructor4">
+<div id="collapseInstructor4" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor4" aria-labelledby="headingInstructor4">
 <div class="accordion-body">
 <p>Link to your organisation’s IP/Copyright person.</p>
 </div>
@@ -3609,14 +3610,14 @@ here</a></p>
 </button>
 </div>
 </nav><div id="nav-tabContent-1" class="tab-content">
-<div id="nav-tabpanel-1-1" class="tab-pane show active" aria-labelledby="nav-tab-1-1" role="tabpanel">
+<div id="nav-tabpanel-1-1" class="tab-pane show active" role="tabpanel" aria-labelledby="nav-tab-1-1">
 <p>The data has sufficiently rich metadata and a unique and persistent
 identifier to be easily discovered by others. This includes assigning a
 persistent identifier (like a DOI or Handle), having rich metadata to
 describe the data and making sure it is findable through disciplinary
 local or international discovery portals.</p>
 </div>
-<div id="nav-tabpanel-1-2" class="tab-pane" aria-labelledby="nav-tab-1-2" role="tabpanel">
+<div id="nav-tabpanel-1-2" class="tab-pane" role="tabpanel" aria-labelledby="nav-tab-1-2">
 <p>The data is retrievable by humans and machines through a standardised
 communication protocol, with authentication and authorisation where
 necessary. The data does not necessarily have to be open. Data can be
@@ -3624,7 +3625,7 @@ sensitive due to privacy concerns, national security or commercial
 interests. When it’s not able to be open, there should be clarity and
 transparency around the conditions governing access and reuse.</p>
 </div>
-<div id="nav-tabpanel-1-3" class="tab-pane" aria-labelledby="nav-tab-1-3" role="tabpanel">
+<div id="nav-tabpanel-1-3" class="tab-pane" role="tabpanel" aria-labelledby="nav-tab-1-3">
 <p>The associated data and metadata uses a ‘formal, accessible, shared,
 and broadly applicable language for knowledge representation’. This
 involves using community accepted languages, formats and vocabularies in
@@ -3632,7 +3633,7 @@ the data and metadata. Metadata should reference and describe
 relationships to other data, metadata and information through
 identifiers.</p>
 </div>
-<div id="nav-tabpanel-1-4" class="tab-pane" aria-labelledby="nav-tab-1-4" role="tabpanel">
+<div id="nav-tabpanel-1-4" class="tab-pane" role="tabpanel" aria-labelledby="nav-tab-1-4">
 <p>The associated metadata provides rich and accurate information, and
 the data comes with a clear usage licence and detailed provenance
 information. Reusable data should maintain its initial richness. For
@@ -3676,7 +3677,7 @@ team for more assistance.</p>
   <h3 class="accordion-header" id="headingInstructor5">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor5" class="accordion-collapse collapse" aria-labelledby="headingInstructor5" data-bs-parent="#accordionInstructor5">
+<div id="collapseInstructor5" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor5" aria-labelledby="headingInstructor5">
 <div class="accordion-body">
 <p>Link to your organisation’s commercialisation team.</p>
 </div>
@@ -3778,7 +3779,7 @@ datasets you’ve shared.</p>
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
   <h4 class="accordion-header" id="headingSolution1">Show me the solution</h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
 <div class="accordion-body">
 <p>This may affect you</p>
 <p>However, we’ve already taken steps to protect ourselves and safeguard
@@ -3842,12 +3843,12 @@ as CC BY 4.0 as per <a href="https://au.creativecommons.net/attributing-cc-mater
 </button>
 </div>
 </nav><div id="nav-tabContent-2" class="tab-content">
-<div id="nav-tabpanel-2-1" class="tab-pane show active" aria-labelledby="nav-tab-2-1" role="tabpanel">
+<div id="nav-tabpanel-2-1" class="tab-pane show active" role="tabpanel" aria-labelledby="nav-tab-2-1">
 <p>A great place to start is:</p>
 <p>Get yourself an ORCID id. This allows people to find and reach you
 easily. You can even include it in your email signature.</p>
 </div>
-<div id="nav-tabpanel-2-2" class="tab-pane" aria-labelledby="nav-tab-2-2" role="tabpanel">
+<div id="nav-tabpanel-2-2" class="tab-pane" role="tabpanel" aria-labelledby="nav-tab-2-2">
 <p>Your next move can be:</p>
 <p>Prepare your data, analysis pipelines/protocols and materials for
 FAIR or open publication. Make sure you’ve got your IP and licence
@@ -3944,12 +3945,12 @@ datasets, so that others in the team can reference them</li>
 Place links that you need to refer to multiple times across pages here. Delete
 any links that you are not going to use. 
  -->
-</div></section><section id="aio-culture"><p>Content from <a href="culture.html">How does culture plays a part?</a></p>
+</div></section><section id="aio-wrapup"><p>Content from <a href="wrapup.html">Wrapping up</a></p>
 <hr>
-<p>Last updated on 2024-05-02 |
+<p>Last updated on 2024-05-03 |
         
-        <a href="https://github.com/carpentries/workbench-template-md/edit/main/episodes/culture.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
-<p>Estimated time: <i aria-hidden="true" data-feather="clock"></i> 20 minutes</p>
+        <a href="https://github.com/carpentries/workbench-template-md/edit/main/episodes/wrapup.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
+<p>Estimated time: <i aria-hidden="true" data-feather="clock"></i> 10 minutes</p>
 <div class="text-end">
           <button role="button" aria-pressed="false" tabindex="0" id="expand-code" class="pull-right" data-expand="Expand All Solutions " data-collapse="Collapse All Solutions "> Expand All Solutions <i aria-hidden="true" data-feather="plus"></i></button>
         </div>
@@ -3961,390 +3962,43 @@ any links that you are not going to use.
 </button>
 <div id="collapseInstructor1" class="accordion-collapse collapse" aria-labelledby="headingInstructor1" data-bs-parent="#accordionInstructor1">
 <div class="accordion-body">
-<p>This may or may not be as relevant to your students - but it may lead
-to discussions at your own level, across research support staff or
-leadership staff.</p>
-<p>Consider who is coming to your classes, and why. Has someone senior
-told everyone they need to go? That may be Top-down change, but do
-people feel prepared? Do they see or believe in the benefits?</p>
-<p>Are your senior leaders looking to learn more about RR? This is a
-good time to suggest how they can get together and start prompting
-change.</p>
-<p>Is it your researchers and research students? Change can happen at
-any level, and bottom up change is very real and can be quite powerful.
-It can consist of having groups of people meet informally and share
-ideas and strategies. It can be making personal changes, and gaining
-benefits that others may pay attention to. It can be through pushing for
-new systems that encourage RR.</p>
-<p>In Australia, a big ground-up movement was <a href="https://conference.eresearch.edu.au/hacky-hour-demographics-building-communities-and-sharing-local-expertise/" class="external-link">hacky
-hours</a> - a space somewhere between a help desk and a meetup where
-people who wanted to upskill in data science (especially after carpentry
-training) could meet. This led to Research Bazaar conferences for most
-states across the country, with each state having multiple universities
-sharing expertise and teachers.</p>
+<p>If you have spare time, you may want to share the ‘culture’ page
+that’s in the instructor menu. Consider your audience - this may be less
+relevant to an audience of students and ECR’s, however your more senior
+academics and leaders may find the content thought-provoking.</p>
 </div>
 </div>
 </div>
 </div>
-<div id="making-benefits-clear" class="callout testimonial">
-<div class="callout-square">
-<i class="callout-icon" data-feather="heart"></i>
-</div>
-<div id="making-benefits-clear" class="callout-inner">
-<h3 class="callout-title">Making benefits clear<a class="anchor" aria-label="anchor" href="#making-benefits-clear"></a>
-</h3>
-<div class="callout-content">
-<p>People need to understand why they should expend energy, time and
-effort into making changes.</p>
-<p>Florian Markowetz listed these “five selfish reasons to work
-reproducibly”:</p>
-<ul>
-<li><p>1: reproducibility helps to avoid disaster</p></li>
-<li><p>2: reproducibility makes it easier to write papers</p></li>
-<li><p>3: reproducibility helps reviewers see it your way</p></li>
-<li><p>4: reproducibility enables continuity of your work</p></li>
-<li><p>5: reproducibility helps to build your reputation</p></li>
-</ul>
-<p>Markowetz, F. Five selfish reasons to work reproducibly. Genome Biol
-16, 274 (2015). <a href="https://doi.org/10.1186/s13059-015-0850-7" class="external-link uri">https://doi.org/10.1186/s13059-015-0850-7</a> licenced as
-CC-BY 4.0</p>
-</div>
-</div>
-</div>
+<section id="where-to-from-here"><h2 class="section-heading">Where to from here?<a class="anchor" aria-label="anchor" href="#where-to-from-here"></a>
+</h2>
+<hr class="half-width">
 <div id="accordionInstructor2" class="accordion instructor-note accordion-flush">
 <div class="accordion-item">
 <button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor2" aria-expanded="false" aria-controls="collapseInstructor2">
   <h3 class="accordion-header" id="headingInstructor2">
-<div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Do all disciplines fit with Reproducible Research</h3>
+<div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
 <div id="collapseInstructor2" class="accordion-collapse collapse" aria-labelledby="headingInstructor2" data-bs-parent="#accordionInstructor2">
 <div class="accordion-body">
-<p>When <span class="citation">@amandamiotto</span> was interviewing
-HASS researchers, especially in the space of interpretive findings
-around culture and filling gaps in history, one of the things that a few
-researchers agreed on is that RR doesn’t always make sense for some
-areas of research.</p>
-<p>Quote from a researcher (shared with permission)</p>
-<p>“With qualitative data in some areas, you do need rigour and a
-certain level of reproducibility, but it needs to be noted that at some
-stage reproducibility ends and it becomes about the inductive findings
-from the individual research context.”</p>
+<p>A place to share what is happening at your own institutes, and where
+attendees can get support.</p>
 </div>
 </div>
 </div>
 </div>
-<div class="section level1">
-<h1 id="building-a-culture-of-reproducible-research-in-your-group">Building a culture of Reproducible Research in your group<a class="anchor" aria-label="anchor" href="#building-a-culture-of-reproducible-research-in-your-group"></a>
-</h1>
-<p>The benefits of implementing changes for reproducibility need to be
-clear, so that the people around you understand why they are spending
-energy and efforts to change.</p>
-<p>Change can start….</p>
-<div class="section level3">
-<h3 id="with-ourselves">With Ourselves<a class="anchor" aria-label="anchor" href="#with-ourselves"></a>
-</h3>
-<p>Some change can start with ourselves, and the fact you are here today
-is a perfect example of that.</p>
-</div>
-<div class="section level3">
-<h3 id="as-a-group">As a Group<a class="anchor" aria-label="anchor" href="#as-a-group"></a>
-</h3>
-<p>Change can come from a group leader or the people in the research
-group. Often, practical changes with clear outcomes and goals offer
-incremental improvements over time.</p>
-</div>
-<div class="section level3">
-<h3 id="as-a-organisation">As a Organisation<a class="anchor" aria-label="anchor" href="#as-a-organisation"></a>
-</h3>
-<p>Some change comes from the organisation. Change in organisations can
-come from two directions:</p>
-<ul>
-<li><p><strong><em>Top down</em></strong> - from your senior leaders
-team, they may have an interest building Reproducible Research into the
-Organisation’s Values and Goals. They may see the benefits Reproducible
-Research brings to business continuity, auditing and
-reputation.</p></li>
-<li><p><strong><em>Bottom up</em></strong> - researchers and research
-students may change the way they work and advocate for tools that enable
-them. They may see the direct benefits to citation, clarity in data
-storage or investment in automation.</p></li>
-</ul>
-<div id="accordionInstructor3" class="accordion instructor-note accordion-flush">
-<div class="accordion-item">
-<button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor3" aria-expanded="false" aria-controls="collapseInstructor3">
-  <h3 class="accordion-header" id="headingInstructor3">
-<div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
-</button>
-<div id="collapseInstructor3" class="accordion-collapse collapse" aria-labelledby="headingInstructor3" data-bs-parent="#accordionInstructor3">
-<div class="accordion-body">
-<p>This is a good time to highlight movement in your groups or
-organisations that encourage RR.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="section level1">
-<h1 id="where-are-you-now">Where are you now?<a class="anchor" aria-label="anchor" href="#where-are-you-now"></a>
-</h1>
-<p>Consider the culture of the people you work directly with -
-collaborators, supervisors, students etc.</p>
-<ul>
-<li><p>What values does your team have?</p></li>
-<li><p>Is reproducibility currently a value?</p></li>
-<li><p>How can this value become an action?</p></li>
-</ul>
-<p>Actions can be in many forms. We’ve already talked about Standard
-Operating Procedures and how reproducibility can be built into
-procedures. This makes responsibilities clear on what part each person
-will play. Data Management Plans can set expectations early on how
-reproducibility is going to play a part in the project.</p>
-<p>Another idea is to agree on a manifesto. You can use the following as
-a template:</p>
-<p>“Reproducibility PI Manifesto”, L. A. Barba. (13 December 2012). <a href="https://10.6084/m9.figshare.104539" class="external-link uri">https://10.6084/m9.figshare.104539</a> Presentation for a
-talk given at the ICERM workshop “Reproducibility in Computational and
-Experimental Mathematics”. Published on figshare under CC-BY.</p>
-</div>
-<div class="section level1">
-<h1 id="change-management">Change Management<a class="anchor" aria-label="anchor" href="#change-management"></a>
-</h1>
-<p>Change can be uncomfortable and at times, even scary. Instead of
-doing the known, you are trying the unknown…. and asking others to do
-the same.</p>
-<div id="testimonial2" class="callout testimonial">
-<div class="callout-square">
-<i class="callout-icon" data-feather="heart"></i>
-</div>
-<div class="callout-inner">
-<h3 class="callout-title">Testimonial<a class="anchor" aria-label="anchor" href="#testimonial2"></a>
-</h3>
-<div class="callout-content">
-<p>#Behavior change is hard.</p>
-<p>“Behavior change is hard. Whatever its faults, the status quo is
-familiar and the warts are known. The status quo is also easy to
-maintain. Just do nothing, inertia takes care of everything. We even
-have a tendency to defend the status quo. We’d rather believe that the
-way it is, is the way it should be.”</p>
-<p>June 11th, 2019, Brian Nosek, <a href="https://www.cos.io/blog/strategy-for-culture-change" class="external-link uri">https://www.cos.io/blog/strategy-for-culture-change</a></p>
-</div>
-</div>
-</div>
-<p>There are ways we can prepare people for change. Good change
-management practices are important. Consider the information and context
-people require to understand and make sense of the change.</p>
-<ul>
-<li><p>What is happening?</p></li>
-<li><p>Why is it happening?</p></li>
-<li><p>How is this happening?</p></li>
-<li><p>Who is doing this?</p></li>
-<li><p>When is it happening?</p></li>
-</ul>
-<p>There are steps we can do to make change less scary.</p>
-<ul>
-<li><p>Offer information early and consistantly</p></li>
-<li><p>Provide opportunities for training</p></li>
-<li><p>Ensure “What does this mean for my work” is clear</p></li>
-</ul>
-<p>The following <a href="https://www.publicsector.sa.gov.au/about/Resources-and-Publications/innovation-lab/the-tools/change-management-toolkit" class="external-link">toolkit
-for Change Management</a> is a great place to start.</p>
-<div class="section level3">
-<h3 id="how-to-see-a-culture-change-from-different-viewpoints">How to see a culture change from different viewpoints<a class="anchor" aria-label="anchor" href="#how-to-see-a-culture-change-from-different-viewpoints"></a>
-</h3>
-<p>Put each hat of different people affected by your changes.</p>
-<table class="table">
-<thead><tr>
-<th>
-</th>
-<th>
-Yourself
-</th>
-<th>
-Research Students
-</th>
-<th>
-Research Staff
-</th>
-<th>
-Research Leader
-</th>
-<th>
-Senior Leadership team
-</th>
-</tr></thead>
-<tbody>
-<tr>
-<td>
-Goal - My aim is to do ….
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-</tr>
-<tr>
-<td>
-Values - It is valuable spending my time on ….
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-</tr>
-<tr>
-<td>
-Experiences- When attempting this, I found…
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Or you could use this in a different way for individuals:</p>
-<table class="table">
-<thead><tr>
-<th>
-</th>
-<th>
-When it comes to knowledge trust….
-</th>
-<th>
-When it comes to knowledge retention….
-</th>
-<th>
-When it comes to being reproducible….
-</th>
-</tr></thead>
-<tbody>
-<tr>
-<td>
-Goal - My aim is to do ….
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-</tr>
-<tr>
-<td>
-Values - It is valuable spending my time on ….
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-</tr>
-<tr>
-<td>
-Experiences- When attempting this, I found…
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-</tr>
-</tbody>
-</table>
-<div id="useful-resources" class="callout discussion">
-<div class="callout-square">
-<i class="callout-icon" data-feather="message-circle"></i>
-</div>
-<div id="useful-resources" class="callout-inner">
-<h3 class="callout-title">Useful Resources:<a class="anchor" aria-label="anchor" href="#useful-resources"></a>
-</h3>
-<div class="callout-content">
-<div class="section level4">
-<h4 id="strategy-for-culture-change">Strategy for Culture Change<a class="anchor" aria-label="anchor" href="#strategy-for-culture-change"></a>
-</h4>
-<p>Nosek, B. Strategy for culture change, Center for Open Science, web
-log post 11 June 2019, viewed 26 May 2021. Available from: <a href="https://www.cos.io/blog/strategy-for-change" class="external-link uri">https://www.cos.io/blog/strategy-for-change</a> licenced as
-CC-BY</p>
-</div>
-<div class="section level4">
-<h4 id="culture-change--research-data-management-frameworks">Culture Change- Research Data Management Frameworks<a class="anchor" aria-label="anchor" href="#culture-change--research-data-management-frameworks"></a>
-</h4>
-<p>ARDC. (2023). Research data management framework for institutions
-(Version 2). Zenodo. <a href="https://doi.org/10.5281/zenodo.8433246" class="external-link uri">https://doi.org/10.5281/zenodo.8433246</a> licenced as
-CC-BY</p>
-</div>
-</div>
-</div>
-</div>
-<div id="references" class="callout">
-<div class="callout-square">
-<i class="callout-icon" data-feather="bell"></i>
-</div>
-<div id="references" class="callout-inner">
-<h3 class="callout-title">References<a class="anchor" aria-label="anchor" href="#references"></a>
-</h3>
-<div class="callout-content">
-<p>Jacqueline Monaghan, Siobhan M Brady, Elizabeth S Haswell, Sonali
-Roy, Benjamin Schwessinger, Heather E McFarlane, Running a research
-group in the next generation: combining sustainable and reproducible
-research with values-driven leadership, Journal of Experimental Botany,
-Volume 74, Issue 1, 1 January 2023, Pages 1–6, <a href="https://doi.org/10.1093/jxb/erac407" class="external-link uri">https://doi.org/10.1093/jxb/erac407</a> licenced as Creative
-Commons CC-BY</p>
-<p>Markowetz, F. Five selfish reasons to work reproducibly. Genome Biol
-16, 274 (2015). <a href="https://doi.org/10.1186/s13059-015-0850-7" class="external-link uri">https://doi.org/10.1186/s13059-015-0850-7</a> licenced as
-CC-BY 4.0</p>
-<p>Nosek, B. Strategy for culture change, Center for Open Science, web
-log post 11 June 2019, viewed 26 May 2021. Available from: <a href="https://" class="external-link uri">https://</a>
-www.cos.io/blog/strategy-for-change licenced as CC-BY 4.0</p>
-<p>Government of South Australia (2020, July 6). Change Management
-Toolkit. Office of the Commissioner for Public Sector Employment. <a href="https://www.publicsector.sa.gov.au/about/Resources-and-Publications/innovation-lab/the-tools/change-management-toolkit" class="external-link uri">https://www.publicsector.sa.gov.au/about/Resources-and-Publications/innovation-lab/the-tools/change-management-toolkit</a>
-licenced as CC-BY</p>
-</div>
-</div>
-</div>
-<div id="keypoints1" class="callout keypoints">
-<div class="callout-square">
-<i class="callout-icon" data-feather="key"></i>
-</div>
-<div class="callout-inner">
-<h3 class="callout-title">Key Points<a class="anchor" aria-label="anchor" href="#keypoints1"></a>
-</h3>
-<div class="callout-content">
-<p>In this lesson, we have learnt:</p>
-<ul>
-<li><p>Culture plays a big part, and can happen at many levels</p></li>
-<li><p>Change can be scary for you and the people around you, but there
-are ways to help people through it</p></li>
-</ul>
-</div>
-</div>
-</div>
-<!-- 
+<p>TODO reflect on their 7 steps - get them to write action steps -
+calendar invite, thing to learn etc</p>
+</section><section id="this-lesson"><h2 class="section-heading">This lesson<a class="anchor" aria-label="anchor" href="#this-lesson"></a>
+</h2>
+<hr class="half-width">
+<p>These lessons will stay available for you to refer to going into the
+future. You are welcome to pass on any feedback to your trainer, as we
+aim to continuously improve our lessons. <!-- 
 Place links that you need to refer to multiple times across pages here. Delete
 any links that you are not going to use. 
- -->
-</div>
-</div></section>
+ --></p>
+</section></section>
 </div>
     </main>
 </div>

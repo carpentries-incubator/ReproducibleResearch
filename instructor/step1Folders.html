@@ -73,7 +73,7 @@
           <button class="nav-link dropdown-toggle" id="navbarDropdown" data-bs-toggle="dropdown" aria-expanded="false">
             More <i data-feather="chevron-down"></i>
           </button>
-          <ul class="dropdown-menu" aria-labelledby="navbarDropdown"><li><a class="dropdown-item" href="customforyourorg.html">Customise this page for your organisation</a></li><hr><li><a class="dropdown-item" href="index.html">What are we going to learn today?</a></li><li><a class="dropdown-item" href="reference.html">Reference</a></li>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown"><li><a class="dropdown-item" href="culture.html">How does culture plays a part?</a></li><li><a class="dropdown-item" href="customforyourorg.html">Customise this page for your organisation</a></li><hr><li><a class="dropdown-item" href="index.html">What are we going to learn today?</a></li><li><a class="dropdown-item" href="reference.html">Reference</a></li>
           </ul></li>
       </ul></div>
     <!--
@@ -92,11 +92,11 @@
   7 Steps towards Reproducible Research
 </div>
 
-<aside class="col-md-12 lesson-progress"><div style="width: 16%" class="percentage">
-    16%
+<aside class="col-md-12 lesson-progress"><div style="width: 17%" class="percentage">
+    17%
   </div>
   <div class="progress incubator">
-    <div class="progress-bar incubator" role="progressbar" style="width: 16%" aria-valuenow="16" aria-label="Lesson Progress" aria-valuemin="0" aria-valuemax="100">
+    <div class="progress-bar incubator" role="progressbar" style="width: 17%" aria-valuenow="17" aria-label="Lesson Progress" aria-valuemin="0" aria-valuemax="100">
     </div>
   </div>
 </aside><div class="container">
@@ -247,7 +247,7 @@
 <div class="accordion accordion-flush" id="accordionFlush12">
   <div class="accordion-item">
     <div class="accordion-header" id="flush-heading12">
-        <a href="culture.html">11. How does culture plays a part?</a>
+        <a href="wrapup.html">11. Wrapping up</a>
     </div><!--/div.accordion-header-->
         
   </div><!--/div.accordion-item-->
@@ -275,7 +275,7 @@
                       <li>
                         <a href="../instructor/images.html">Extract All Images</a>
                       </li>
-                      <li><a href="customforyourorg.html">Customise this page for your organisation</a></li><hr><li><a class="dropdown-item" href="index.html">What are we going to learn today?</a></li><li><a class="dropdown-item" href="reference.html">Reference</a></li>
+                      <li><a href="culture.html">How does culture plays a part?</a></li><li><a href="customforyourorg.html">Customise this page for your organisation</a></li><hr><li><a class="dropdown-item" href="index.html">What are we going to learn today?</a></li><li><a class="dropdown-item" href="reference.html">Reference</a></li>
                     </ul></div>
                 </div>
               </div>
@@ -369,8 +369,11 @@ of Oxford - DMP template examples</a></p></li>
   <h3 class="accordion-header" id="headingInstructor1">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor1" class="accordion-collapse collapse" aria-labelledby="headingInstructor1" data-bs-parent="#accordionInstructor1">
+<div id="collapseInstructor1" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor1" aria-labelledby="headingInstructor1">
 <div class="accordion-body">
+<p>Does your institute have a Data Management policy, procedure or page
+that can be linked for your attendees?</p>
+<p>This is a great place to put it!</p>
 <p>Link to your institutional Data Management Planning Page</p>
 </div>
 </div>
@@ -409,7 +412,7 @@ it.</p>
   <h3 class="accordion-header" id="headingInstructor2">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor2" class="accordion-collapse collapse" aria-labelledby="headingInstructor2" data-bs-parent="#accordionInstructor2">
+<div id="collapseInstructor2" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor2" aria-labelledby="headingInstructor2">
 <div class="accordion-body">
 <p>This is a good time to talk about what research data storage options
 you have at your institute. Cover how backups work (and the difference
@@ -470,7 +473,12 @@ names.</p></li>
 <li><p>Special characters are used in lieu of spaces i.e. _ or
 -</p></li>
 <li><p>Case sensitivity is consistent</p></li>
-</ul><div id="windows-and-mounted-drive-file-name-limits" class="callout discussion">
+</ul><p>An example is shown below</p>
+<figure><img src="../fig/globbing.jpeg" alt="Shows files in a column with parts of the names that are the same or align" class="figure mx-auto d-block"><div class="figcaption">Source: Carpentry, D. and Martinez, C. (2015)
+File organization: Naming, File Organization: File Organization: Naming.
+The Carpentries. Available at: <a href="https://datacarpentry.org/rr-organization1/01-file-naming/index.html" class="external-link uri">https://datacarpentry.org/rr-organization1/01-file-naming/index.html</a>
+(Accessed: January 24, 2023).</div>
+</figure><div id="windows-and-mounted-drive-file-name-limits" class="callout discussion">
 <div class="callout-square">
 <i class="callout-icon" data-feather="message-circle"></i>
 </div>
@@ -483,7 +491,10 @@ limits<a class="anchor" aria-label="anchor" href="#windows-and-mounted-drive-fil
 computer, there is an upper limit to how long your file names can be.
 The joined file name and file path is limited to 256 characters.</p>
 <p>For example, if you have on a hard drive a file called</p>
-<p>_2022_04_20_by_Amanda_Miotto_UniversityQld_WildIbis_Observed_on_2022_4_20_35_x_328_Water_Level_Count_of_organisms\2024_04_20_13h_53min.csv</p>
+<p><br>
+GoldCoast_2022_04_20_by_Amanda_Miotto<br>
+Griffith_UniversityQld_WildIbis_Observed_on_2022_4_20<br>
+Sector_35_x_328_Water_Level_Count_of_organisms\2024_04_20_13h_53min.csv</p>
 <p>And you wanted to map this folder onto your computer, this would
 fail.</p>
 <p>A way to handle this is by mapping one of the folders further into
@@ -492,18 +503,7 @@ GoldCoast instead of mainDrive.</p>
 </div>
 </div>
 </div>
-<p><strong><em>Globbing</em></strong></p>
-<p>Another concept in machine readbilty is globbing.</p>
-<p>Globbing is the concept of using a wild card symbol, typically a *
-followed by an extension or consistent string. This wildcard tells the
-computer to search for all files with that extension or string. For
-example * .jpg will search for all JPEG files in a directory. An example
-is shown below</p>
-<figure><img src="../fig/globbing.jpeg" alt="Shows files in a column with parts of the names that are the same or align" class="figure mx-auto d-block"><div class="figcaption">Source: Carpentry, D. and Martinez, C. (2015)
-File organization: Naming, File Organization: File Organization: Naming.
-The Carpentries. Available at: <a href="https://datacarpentry.org/rr-organization1/01-file-naming/index.html" class="external-link uri">https://datacarpentry.org/rr-organization1/01-file-naming/index.html</a>
-(Accessed: January 24, 2023).</div>
-</figure></div>
+</div>
 <div class="section level5">
 <h5 id="human-readable"><strong><em>Human readable</em></strong><a class="anchor" aria-label="anchor" href="#human-readable"></a></h5>
 <p>Ensuring your file naming convention is human readable will depend on
