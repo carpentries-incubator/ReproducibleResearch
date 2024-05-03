@@ -22,29 +22,6 @@ In Australia, a big ground-up movement was [hacky hours](https://conference.eres
 
 
 
-::::::::::::::::::::::::::::::::::::::::::::::: testimonial
-
-# Making benefits clear
-
-People need to understand why they should expend energy, time and effort into making changes. 
-
-
-Florian Markowetz listed these "five selfish reasons to work reproducibly":
-
-- 1: reproducibility helps to avoid disaster
-
-- 2: reproducibility makes it easier to write papers
-
-- 3: reproducibility helps reviewers see it your way
-
-- 4: reproducibility enables continuity of your work
-
-- 5: reproducibility helps to build your reputation
-
-Markowetz, F. Five selfish reasons to work reproducibly. Genome Biol 16, 274 (2015). https://doi.org/10.1186/s13059-015-0850-7 licenced as CC-BY 4.0
-
-
-::::::::::::::::::::::::::::::::::::::::::::::: 
 
 
 

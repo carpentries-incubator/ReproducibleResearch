@@ -50,6 +50,10 @@ The following resources can help you build your plan:
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
 
+Does your institute have a Data Management policy, procedure or page that can be linked for your attendees?
+
+This is a great place to put it!
+
 Link to your institutional Data Management Planning Page
 
 
@@ -143,6 +147,10 @@ Within the context of file naming conventions, being machine readable means:
 
  - Case sensitivity is consistent
 
+An example is shown below
+
+![Source: Carpentry, D. and Martinez, C. (2015) File organization: Naming, File Organization: File Organization: Naming. The Carpentries. Available at: https://datacarpentry.org/rr-organization1/01-file-naming/index.html (Accessed: January 24, 2023).](episodes/fig/globbing.jpeg){alt='Shows files in a column with parts of the names that are the same or align'}
+
 ::::::::::::::::::::::::::::::::::::::::::::::: discussion
 
 #### Windows and mounted drive file name limits
@@ -151,21 +159,16 @@ If you are working in a Windows system and mounting a drive on your computer, th
 
 For example, if you have on a hard drive a file called 
 
-\mainDrive\ProjectWildMappingAcrossAust\Australia\Queensland\GoldCoast\SiteHinesDam\WildlifeMapping_2022_04_20\Collected_by_Amanda_Miotto\Griffith_UniversityQld\Dataset_WildIbis\Ibis_Observed_on_2022_4_20\Sector_35_x_328\Upper_Water_Level\Hourly_Count_of_organisms\2024_04_20_13h_53min.csv
+\mainDrive\ProjectWildMappingAcrossAust\Australia\Queensland\
+GoldCoast\SiteHinesDam\WildlifeMapping_2022_04_20\Collected_by_Amanda_Miotto\
+Griffith_UniversityQld\Dataset_WildIbis\Ibis_Observed_on_2022_4_20\
+Sector_35_x_328\Upper_Water_Level\Hourly_Count_of_organisms\2024_04_20_13h_53min.csv
 
 And you wanted to map this \mainDrive folder onto your computer, this would fail.
 
 A way to handle this is by mapping one of the folders further into the filepath. So for example, you may choose to mount the folder GoldCoast instead of mainDrive.
 
 :::::::::::::::::::::::::::::::::::::::::::::::
-
-***Globbing***
-
-Another concept in machine readbilty is globbing.
-
-Globbing is the concept of using a wild card symbol, typically a * followed by an extension or consistent string. This wildcard tells the computer to search for all files with that extension or string. For example * .jpg will search for all JPEG files in a directory. An example is shown below
-
-![Source: Carpentry, D. and Martinez, C. (2015) File organization: Naming, File Organization: File Organization: Naming. The Carpentries. Available at: https://datacarpentry.org/rr-organization1/01-file-naming/index.html (Accessed: January 24, 2023).](episodes/fig/globbing.jpeg){alt='Shows files in a column with parts of the names that are the same or align'}
 
 
 

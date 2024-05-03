@@ -19,7 +19,7 @@ We write research papers to contribute knowledge, insights, or perspectives to a
 
 But how does our audience know this? A number of mechanisms are already in place to support this. Peer review, citations, acceptance into a reputable journal all add support into a paper. 
 
-Another way we ensure our research creditibility is reproducibility - can someone repeat your work and end up at the same conclusion? Knowledge should be reproducible. 
+Another way we ensure our research credibility is reproducibility - can someone repeat your work and end up at the same conclusion? Knowledge should be reproducible. 
 
 This also has the added benefit of encouraging reuse of the data and research methods - with research being a costly exercise, often at government (and general public) expense, producing quality results and enabling reuse is our responsibilty to the world. 
 

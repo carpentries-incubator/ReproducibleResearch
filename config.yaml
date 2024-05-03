@@ -69,7 +69,7 @@ episodes:
 - step5Testing.md
 - step6Automate.md
 - step7PublishPIDReuse.md
-- culture.md
+- wrapup.md
 
 
 # Information for Learners
@@ -78,6 +78,7 @@ learners:
 # Information for Instructors
 instructors: 
 - instructor-notes.md
+- culture.md
 - customforyourorg.md
 
 # Learner Profiles
