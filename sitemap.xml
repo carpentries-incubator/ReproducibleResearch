@@ -19,6 +19,9 @@
     <loc>https://carpentries.github.io/workbench-template-md/culture.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/workbench-template-md/customforyourorg.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/workbench-template-md/images.html</loc>
   </url>
   <url>
@@ -41,6 +44,9 @@
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-md/instructor/culture.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-md/instructor/customforyourorg.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-md/instructor/images.html</loc>

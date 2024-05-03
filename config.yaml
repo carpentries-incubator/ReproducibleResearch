@@ -78,6 +78,7 @@ learners:
 # Information for Instructors
 instructors: 
 - instructor-notes.md
+- customforyourorg.md
 
 # Learner Profiles
 profiles: 
