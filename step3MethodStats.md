@@ -4,7 +4,7 @@ teaching: 15
 exercises: 0
 ---
 
-One of the top reasons that reproducibility studies failed was the lack of detail in methodology and protocols. It is also one of the topics that came up again and again when interviewing researchers on how they judged whether a paper was trustworthy.
+One of the top reasons that reproducibility studies failed was the lack of detail in methodology and protocols. 
 
 
 
@@ -25,7 +25,7 @@ While you may not be publishing all the details of your literature review, it ca
 
 ## Preregistration
 
-When you preregister your research, you're simply specifying your research plan in advance of your study and submitting it to a registry. 
+When you preregister your research, you are specifying your research plan in advance of your study and submitting it to a registry. 
 
 Preregistration separates hypothesis-generating (exploratory) from hypothesis-testing (confirmatory) research. Both are important. But the same data cannot be used to generate and test a hypothesis, which can happen unintentionally and reduce the credibility of your results. Addressing this problem through planning improves the quality and transparency of your research. This helps you clearly report your study and helps others who may wish to build on it. 
 
@@ -39,13 +39,11 @@ Prominent registries include:
 
  - See the [Directory of Open Access Preprint Repositories](https://doapr.coar-repositories.org/repositories) for discipline specific repositories
 
- - [Wikipedia's list of Preprint Repositories](https://en.wikipedia.org/wiki/List_of_preprint_repositories) for more discipline specific repositories
-
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-Does your library have pages on prepublications and protocols? Is there people at your institute who assist researchers with this? Include them here!
+Does your library have pages on preregistration and registering protocols? Is there people at your institute who assist researchers with this? Include them here!
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
@@ -68,7 +66,7 @@ Here is a [list of participating journals](https://docs.google.com/spreadsheets/
 
 ## Transparent Methodologies and Protocols
 
-Clarity in your methodology is important, and can offer an insight into how you've reduced bias in your research. Has that methodology come from a different area of the discipline? If so, why was it adopted?
+Clarity in your methodology is important, and can offer an insight into how you have reduced bias in your research. Has that methodology come from a different area of the discipline? If so, why was it adopted?
 
 Have you described your protocols in depth? Part of being reproducible is explaining your steps in such depth that someone can replicate your work.
 

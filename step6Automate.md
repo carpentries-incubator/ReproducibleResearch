@@ -74,7 +74,7 @@ You can email them with your preferred citation ([helpful guide](https://the-tur
 
 There are a number of tools available that can help you to conduct systematic literature reviews, including automation tools. 
 
-Tools are often discipline specific, and your library or graduate school could provide some guidence on the best one to use.
+Tools are often discipline specific, and your library or graduate school could provide some guidance on the best one to use.
 
 TODO case study maybe pauls
 
@@ -190,17 +190,17 @@ The Turing Way Community. (updated 2023) Citing Research Objects . Github.com Re
 
 #### We build trust in our knowledge by:
 
-- Showing how we automated work, to eliminate human error
+Showing how we automated work, to eliminate human error
 
 
 #### We retain knowledge using:
 
-- Keeping a copy of these automations
+Keeping a copy of these automations
 
 
 
 #### We build business continuity by:
 
-- Having an automation, so that you are not relying on a staff member to perform this job. 
+Having an automation, so that you are not relying on a staff member to perform this job. 
 
 :::::::::::::::::::::::::::::::::::::::::::::::

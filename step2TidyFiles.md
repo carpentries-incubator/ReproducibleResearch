@@ -235,15 +235,17 @@ Kang H. The prevention and handling of the missing data. Korean J Anesthesiol. 2
 
 
 
-#### We retain knowledge using:
+#### We retain knowledge by:
 
-- Having well structured data
+
+Minimising the risk of data loss by being well organised
 
 
 
 #### We build business continuity by:
 
-- By being organised, others can quickly gain an understanding of the data
+
+By being organised, others can quickly gain an understanding of the data
 
 
 

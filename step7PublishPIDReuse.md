@@ -60,7 +60,7 @@ Barcode: 32888493 may work in a lab, however may not be unique outside a lab. Or
 
  - ORCID
 
-This video from [Research Data Netherlands](https://www.youtube.com/watch?v=PgqtiY7oZ6k) explains Persistant identifiers and data citation.
+This video from [Research Data Netherlands](https://www.youtube.com/watch?v=PgqtiY7oZ6k) explains persistent identifiers and data citation.
 
 Let's go into these in more detail.
 
@@ -93,7 +93,7 @@ In addition, [Open Science Framework](https://help.osf.io/article/220-create-doi
 
 ORCID [Open Researcher and Contributor ID](https://info.orcid.org/researchers/) provides a persistent digital identifier (an ORCID iD) that you own and control, and that distinguishes you from every other researcher. 
 
-You can connect your iD with your professional information — affiliations, grants, publications, peer review, and more. You can use your iD to share your information with other systems, ensuring you get recognition for all your contributions, saving you time and hassle, and reducing the risk of errors.
+You can connect your ID with your professional information — affiliations, grants, publications, peer review, and more. You can use your ID to share your information with other systems, ensuring you get recognition for all your contributions, saving you time and hassle, and reducing the risk of errors.
 
 An ORCID looks like https://orcid.org/0000-0002-0838-1771 .
 
@@ -126,7 +126,7 @@ Let's look at our options.
 Firstly, if you can share your work openly - Great!
 
 
-Learn more about [open data here.](https://insights.uksg.org/articles/10.1629/uksg.468). 
+Learn more about the distinction between [open data, FAIR data and Research Data Management here.](https://insights.uksg.org/articles/10.1629/uksg.468). 
 Considering why you should share your data? Check [this video](https://www.youtube.com/watch?v=8qsHFHHPrw0)
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
@@ -150,9 +150,9 @@ Link to your organisation's IP/Copyright person.
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
-There are plenty of reasons you may not be able to share your data and pipelines as open access. 
+There are plenty of reasons you may not be able to share your data and pipelines openly. 
 
-In these cases, you could consider sharing your data as FAIR. 
+In these cases, you could consider making your data as FAIR as possible. 
 
 This means you want to share the data, have it well described and have it in a good shape for sharing, but you can mediate requests and access. 
 
@@ -420,7 +420,7 @@ Image:
 
 #### We build business continuity by:
 
-- Attaching persistent identifiers to our data when publishing datasets, so that others in the team can reference them
+Attaching persistent identifiers to our data when publishing datasets, so that others in the team can reference them
 
 
 

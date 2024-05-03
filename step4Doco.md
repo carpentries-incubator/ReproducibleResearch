@@ -26,14 +26,14 @@ We've talked about writing down or noting a lot of information .... but where do
 
 Some researchers may think about a lab handbook, a group instruction guide, a team wiki or a knowledge repository. In the IT and computation space, the word "Documentation" is used as a place to store all information about that project. 
 
-For our purposes today, we'll use "Documentation" as a place to write down notes about your work, link to important documents or share information across a research group.
+For our purposes today, we will use "Documentation" as a place to write down notes about your work, link to important documents or share information across a research group.
 
 
 Examples include:
 
 - [The Fay Lab - Lab manual](https://thefaylab.github.io/lab-manual/)
 
-- [The Peelle - Lab Manual](https://github.com/jpeelle/peellelab_manual/blob/master/peellelab_manual.pdf)
+- [The Peelle Lab - Lab Manual](https://github.com/jpeelle/peellelab_manual/blob/master/peellelab_manual.pdf)
 
 
 These are living documents - processes may improve or lessons are learnt, and this should be reflected in your updates to your manual.
@@ -47,9 +47,14 @@ Think about this scenario:
 
 If a key member of your team because unavailable suddenly, what do you need to know?
 
-Do you know where their work is stored? Their data?
+Do you know where their work is stored? 
+
+Their data?
+
 Do you know where their procedures and protocols are stored?
+
 How about their research contract? Their data custodianship details?
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
@@ -100,7 +105,7 @@ Are you writing for:
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-Include the options here from your institute. 
+Include the options for documentation platforms or elabnotebooks here from your institute. 
 
 :::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -265,7 +270,7 @@ This lead to the conversation of what a base must consist of.
 
 If you're Australian, there's a good chance you included pineapple on your pizza. Pineapple is a common ingredient on a range of Australian pizzas, and may even accompany a Barbeque sauce in place of a tomato passata or olive oil.
 
-In fact, Hawaiian (ham, pineapple and cheese) was the most popular pizza in Australia in 1999, accounting for 15% of pizza sales. Hawaiian Pizza was even named after the brand of canned pineapple initially used when the Hawaiian pizza was first created (by a Greek cook in Canada, inspired by the sweet and sour combination of Asian dishes). 
+In fact, Hawaiian (ham, pineapple and cheese) is a popular pizza in Australia. Hawaiian Pizza was even named after the brand of canned pineapple initially used when the Hawaiian pizza was first created (by a Greek cook in Canada, inspired by the sweet and sour combination of Asian dishes). 
 
 However, if you come from Italy, none of the traditional pizzas would contain pineapple. So if you had to make a Hawaiian pizza for the first time, you may have some questions.
 
@@ -291,9 +296,11 @@ May also be referenced as Expert Bias or Curse of Expertise
 ![](episodes/fig/Open_Science_Training_Handbook_03.png){alt='Someone trying to explain a robot, the other person thinking of a different robot'}
 
 
-#### When explaining a concept, we assume that others have the same background knowledge and life experiences that we do. 
+When explaining a concept, we assume that others have the same background knowledge and life experiences that we do. 
 
-#### However, ***this is rarely true***. 
+
+
+However, ***this is rarely true***. 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: challenge
 
@@ -349,8 +356,6 @@ To start with, we've already talked about the following:
 
  - How you handle missing data - As discussed in lesson 3
 
- - Where is any downloaded data from and how is it licenced? As discussed in lesson 1.
-
 
 
 Primarily, this documentation is here for ***you***. It is to:
@@ -364,13 +369,11 @@ Primarily, this documentation is here for ***you***. It is to:
  - If you realise you've taken a wrong turn, this can also act as a 'History' of changes.
 
 
-### ***From here, we can include anything you feel is important. You can just write what you are working on every day, like a diary.*** 
+***From here, we can include anything you feel is important. You can just write what you are working on every day, like a diary.*** 
 
 
 
-### Expanding into details
-
-Documentation can also include:
+### Documentation can also include:
 
 
  - Name and contact of all collaborators
@@ -490,13 +493,14 @@ Thankfully, we can now do this! We can refer to our notes with our detailed meth
 
 The work you have done here can also help you with any audits.
 
-A great example of this is "Sorting Out the FACS: A Devil in the Details" . Two laboratories in USA had contradicting results when replicating fluorescence-activated cell sorting (FACS) profiles of primary breast cells. They worked together for over a year, swapping machines, samples and even working side by side to find the difference. In the end, the method for stirring were different, which caused different results. They published on their findings.
-
-William C. Hines, Ying Su, Irene Kuhn, Kornelia Polyak, Mina J. Bissell, (2014) Sorting Out the FACS: A Devil in the Details, Cell Reports, Volume 6, Issue 5, Pages 779-781, https://doi.org/10.1016/j.celrep.2014.02.021.
 
 
 :::::::::::::::::::::::::::::::
 :::::::::::::::::::::::::::::::::::::::::::::::
+
+A great example of this is "Sorting Out the FACS: A Devil in the Details" . Two laboratories in USA had contradicting results when replicating fluorescence-activated cell sorting (FACS) profiles of primary breast cells. They worked together for over a year, swapping machines, samples and even working side by side to find the difference. In the end, the methods for stirring a liquid were different, which caused different results. 
+
+William C. Hines, Ying Su, Irene Kuhn, Kornelia Polyak, Mina J. Bissell, (2014) Sorting Out the FACS: A Devil in the Details, Cell Reports, Volume 6, Issue 5, Pages 779-781, https://doi.org/10.1016/j.celrep.2014.02.021.
 
 
 ## What is your next step?
@@ -551,8 +555,11 @@ Wikipedia contributors. (2024, March 11). List of electronic laboratory notebook
 
 Wikipedia contributors. (2024, February 20). Standard operating procedure. In Wikipedia, The Free Encyclopedia. Retrieved 01:20, April 15, 2024, from https://en.wikipedia.org/w/index.php?title=Standard_operating_procedure&oldid=1209098321
 
-Andrey AndreevValerie KomatsuPaula AlmironKasey RoseAlexandria HughesMaurice Y Lee (2022) Research Culture: Welcome to the lab eLife 11:e79627.
+Andrey Andreev, Valerie Komatsu, Paula Almiron, Kasey Rose, Alexandria Hughes, Maurice Y Lee (2022) Research Culture: Welcome to the lab eLife 11:e79627.
 https://doi.org/10.7554/eLife.79627
+
+CESSDA Training Team (2017 - 2022). CESSDA Data Management Expert Guide.
+Bergen, Norway: CESSDA ERIC. Retrieved from https://dmeg.cessda.eu/ CESSDA Training Team (2017 - 2022). CESSDA Data Management Expert Guide, licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
 :::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -560,18 +567,10 @@ https://doi.org/10.7554/eLife.79627
 
 ## References
 
-Wikipedia contributors. (2024, April 5). Hawaiian pizza. In Wikipedia, The Free Encyclopedia. Retrieved 23:08, April 13, 2024, from https://en.wikipedia.org/w/index.php?title=Hawaiian_pizza&oldid=1217376466
-
-
-
-Wikipedia contributors. (2024, January 14). Curse of knowledge. In Wikipedia, The Free Encyclopedia. Retrieved 23:46, April 13, 2024, from https://en.wikipedia.org/w/index.php?title=Curse_of_knowledge&oldid=1195502962
-
 
 
 Hollmann S, Frohme M, Endrullat C, Kremer A, D’Elia D, Regierer B, et al. (2020) Ten simple rules on how to write a standard operating procedure. PLoS Comput Biol 16(9): e1008095. https://doi.org/10.1371/journal.pcbi.1008095 published with a CC-BY licence.
 
-CESSDA Training Team (2017 - 2022). CESSDA Data Management Expert Guide.
-Bergen, Norway: CESSDA ERIC. Retrieved from https://dmeg.cessda.eu/ CESSDA Training Team (2017 - 2022). CESSDA Data Management Expert Guide, licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
 Image:
 
@@ -601,12 +600,12 @@ A shout out to the people in the Cauliflower Pizza story - Thanks for letting me
 
 #### We build trust in our knowledge by:
 
-- When asked, we can refer to our notes for further information on what we did, how we did it and why
+When asked, we can refer to our notes for further information on what we did, how we did it and why
 
 
 #### We retain knowledge using:
 
-- Having notes on what we did, how we did it and why saved for our past projects
+Having notes on what we did, how we did it and why saved for our past projects
 
 
 
