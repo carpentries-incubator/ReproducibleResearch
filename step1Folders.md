@@ -181,7 +181,7 @@ If implemented early and consistently, a standardised system or convention for n
 
 ### Example of disorganised files and the retractions that can follow
 
-A paper on pubpeer was revealed to have duplications in some of their images. When the authors were notified, they promptly investigated and found that their files were disorganised, causing duplication of images in place of originals. Images that should have stayed in the same folder were separated, and had been arranged via memory, which then lead to confusion during processing.
+A paper on pubpeer was revealed to have duplications in some of their images. When the authors were notified, they promptly investigated and found that their files were disorganised, causing duplication of images in place of originals. 
 
 The authors retracted the paper.
 
@@ -250,7 +250,7 @@ Your next move can be:
 
 ## Further Resources
 
-[Project TIER](https://www.projecttier.org/tier-protocol/protocol-4-0/)
+[The TIER Protocol](https://www.projecttier.org/tier-protocol/protocol-4-0/)
 
 [File naming and folder structures by CESSDA](https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/File-naming-and-folder-structure)
 
@@ -315,8 +315,7 @@ Source: Carpentry, D. and Martinez, C. (2015) File organization: Naming, File Or
 
 - Having our data and materials well organised, so others in our team can find data
 
-- By being clear in our plans and processes through Data Management Plans and Standard Operating Procedures
-
+- By being clear in our plans through Data Management Plans
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::

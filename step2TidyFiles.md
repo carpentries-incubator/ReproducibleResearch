@@ -5,7 +5,8 @@ exercises: 1
 ---
 
 
-Build your knowledge trust when sharing with collaborators or publication with well organised datasets. This also saves time in data cleaning, and ensures analysis pipelines are robust.
+Build your knowledge trust when sharing with collaborators or publication with well organised datasets and metadata. This also saves time in data cleaning, and ensures analysis pipelines are robust.
+
 
 Let's look at a few concepts that can help.
 
@@ -104,7 +105,7 @@ Have a spreadsheet that has some messy data in it to clean. You can ask everyone
 
 #### Interview considerations
 
-When working with interviews, you may choose to only retain transcripts. However, it is also worth recording what non-verbal queues were shown. Is there a part of the interview where the participant expressed a strong emotion? Were they comfortable or nervous? Did they fidget a lot or laugh a lot? Long pauses? 
+When working with interviews, you may choose to only retain transcripts. However, it is also worth recording what non-verbal cues were shown. Is there a part of the interview where the participant expressed a strong emotion? Were they comfortable or nervous? Did they fidget a lot or laugh a lot? Long pauses? 
 
 Including any personal observations alongside a video can become incredibly useful when it comes to analysis time, or to refresh your memory upon review. It could also be important to support your insights when writing your paper.
 
@@ -147,7 +148,7 @@ Any survey tool may also be of benefit.
 
 #### Programming Tools:
 
-R has the Tidyverse library, also written by Hadley Wickham
+R has the Tidyverse library, also written by Hadley Wickham. 
 Python has the Pandas library, which follows similar principles. You may also find NumPy useful.
 
 
@@ -178,16 +179,16 @@ Python has the Pandas library, which follows similar principles. You may also fi
 
 A great place to start is:
 
-- Decide how to handle missing data
+Decide how to handle missing data
 
-- Use YYYY-MM-DD for dates
+Use YYYY-MM-DD for dates
 
 
 ### Advanced
 
 Your next move can be:
 
-- You can start to work in a data science language such as R or Python. [The Carpentries](https://software-carpentry.org/lessons/) data science lessons are a great place to start, made for researchers who have never coded before. Workshops are held across the world.
+You can start to work in a data science language such as R or Python. [The Carpentries](https://software-carpentry.org/lessons/) data science lessons are a great place to start, made for researchers who have never coded before. Workshops are held across the world.
 
 
 :::
