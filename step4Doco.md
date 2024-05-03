@@ -28,11 +28,15 @@ Some researchers may think about a lab handbook, a group instruction guide, a te
 
 For our purposes today, we'll use "Documentation" as a place to write down notes about your work, link to important documents or share information across a research group.
 
+
 Examples include:
 
 - [The Fay Lab - Lab manual](https://thefaylab.github.io/lab-manual/)
 
-- [The Peelle Lab Manual](https://github.com/jpeelle/peellelab_manual/blob/master/peellelab_manual.pdf)
+- [The Peelle - Lab Manual](https://github.com/jpeelle/peellelab_manual/blob/master/peellelab_manual.pdf)
+
+
+These are living documents - processes may improve or lessons are learnt, and this should be reflected in your updates to your manual.
 
 
 Think about this scenario:
@@ -380,7 +384,6 @@ Documentation can also include:
  - Data Transfer Agreements between institutes, partners and consultants
 
  - Where has the data come from? 
- 50% of research projects reuse at least some of their previous project data - Is this data a subset of a previous project's data? Did it come from an external collaborator or an open repository?
 
  - How were participants recruited for?
 
@@ -469,7 +472,7 @@ If you are working with newspapers, artwork or other GLAM (Gallery, Library, Art
 
 ## Passwords
 
-You may want to create a team password manager, or even just a personal one, to track accounts and passwords.
+You may want to create a team password manager, or even just a personal one, to track accounts and passwords. This should prevent losing account logins where data or analysis may have occured.
 
 
 :::::::::::::::::::::::::::::: challenge
@@ -486,6 +489,11 @@ Thankfully, we can now do this! We can refer to our notes with our detailed meth
 
 
 The work you have done here can also help you with any audits.
+
+A great example of this is "Sorting Out the FACS: A Devil in the Details" . Two laboratories in USA had contradicting results when replicating fluorescence-activated cell sorting (FACS) profiles of primary breast cells. They worked together for over a year, swapping machines, samples and even working side by side to find the difference. In the end, the method for stirring were different, which caused different results. They published on their findings.
+
+William C. Hines, Ying Su, Irene Kuhn, Kornelia Polyak, Mina J. Bissell, (2014) Sorting Out the FACS: A Devil in the Details, Cell Reports, Volume 6, Issue 5, Pages 779-781, https://doi.org/10.1016/j.celrep.2014.02.021.
+
 
 :::::::::::::::::::::::::::::::
 :::::::::::::::::::::::::::::::::::::::::::::::

@@ -166,7 +166,7 @@ Center for Open Science (updated 2024) Registered Reports. COS Retrieved April 1
 
 - About Preregistrations and where to submit
 
-- About Registered Reporting formats and when they are appropriate
+- About Registered Reports formats and when they are appropriate
 
 - What details to include about your methodologies and protocols
 

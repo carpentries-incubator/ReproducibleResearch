@@ -64,6 +64,7 @@ This format includes a lot of benefits:
  - Less likely to get extra whitespace or punctuation that could cause issues with analysis software
 
 
+### How to encourage tidy data in others
 
 When multiple people are entering data manually, it may be beneficial to use a survey that fills in a spreadsheet for you. This can include dropdown menu items to ensure consistency in certain columns - for example, to eliminate a combination of "Monday, Mon, M, mon".
 
@@ -202,10 +203,10 @@ Wickham, H. . (2014). Tidy Data. Journal of Statistical Software, 59(10), 1–23
 
 Broman, K. W., & Woo, K. H. (2018). Data Organization in Spreadsheets. The American Statistician, 72(1), 2–10. https://doi.org/10.1080/00031305.2017.1375989 licenced as Attribution-NonCommercial-NoDerivatives (CC-BY-NC-ND)
 
-White, Ethan & Baldridge, Elita & Brym, Zachary & Locey, Kenneth & McGlinn, Daniel & Supp, Sarah. (2013). Nine simple ways to make it easier to (re)use your data. 10.7287/peerj.preprints.7v1. 
+White, Ethan & Baldridge, Elita & Brym, Zachary & Locey, Kenneth & McGlinn, Daniel & Supp, Sarah. (2013). Nine simple ways to make it easier to (re)use your data. https://doi.org/10.7287/peerj.preprints.7v1 . 
  licenced as Creative Commons Attribution License (CC-BY)
 
-Kang H. The prevention and handling of the missing data. Korean J Anesthesiol. 2013 May;64(5):402-6. doi: 10.4097/kjae.2013.64.5.402. Epub 2013 May 24. PMID: 23741561; PMCID: PMC3668100. licenced as Creative Commons Attribution Non-Commercial License (CC-BY-NC)
+Kang H. The prevention and handling of the missing data. Korean J Anesthesiol. 2013 May;64(5):402-6. doi: https://doi.org/10.4097/kjae.2013.64.5.402 . Epub 2013 May 24. PMID: 23741561; PMCID: PMC3668100. licenced as Creative Commons Attribution Non-Commercial License (CC-BY-NC)
 
 
 

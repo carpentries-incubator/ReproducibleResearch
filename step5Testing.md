@@ -25,7 +25,7 @@ There are a few checks we can run to help identify when this has happened.
 
 [Open Refine](https://openrefine.org/) is a good tool for inspecting your data.
 
-Again, R and Python have real strengths here, to have a list of tests you can run as often as you need.
+Again, R and Python have real strengths here, to have a list of tests you can run as often as you need. For example, R has a function called 'head' that prints the first 6 lines of any file, so you can do a visual check of the data quickly.
 
 ::::::::::::::::::::::::::::::::::::::::::::::: callout
 
@@ -67,6 +67,11 @@ It was suggested to reviewers and editorial staff:
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
+
+TODO examples of where things go wrong.
+\ vs / win to mac
+encoding 
+
 
 ### Physical Testing and Quality Assurance
 
@@ -133,6 +138,12 @@ This may be a good time for a refresh of Step 1 - [Metadata on your files](https
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
 May be a natural space to ask people what types of data they are working with, where is it coming from?
+
+::::::::::::::::::::::::::::::::::::::::::::::: 
+
+::::::::::::::::::::::::::::::::::::::::::::::: challenge
+
+Pizza test
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 

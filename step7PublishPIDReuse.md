@@ -121,9 +121,26 @@ Let's look at our options.
 
 :::::::::::::::::::::::::::::::::::::::::::::::
 
-### Open vs FAIR vs Can't share
+# Open vs FAIR vs Can't share
 
 Firstly, if you can share your work openly - Great!
+
+
+Learn more about [open data here.](https://insights.uksg.org/articles/10.1629/uksg.468). 
+Considering why you should share your data? Check [this video](https://www.youtube.com/watch?v=8qsHFHHPrw0)
+
+::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Does your institute have a policy, statement, procedure or resources on open access or publishing data and materials openly?
+
+Link to them here.
+
+You can also find examples of who has published openly in your institute.
+
+Have you got an open network?
+
+::::::::::::::::::::::::::::::::::::::::::::::: 
+
 
 Prior to sharing, ensure you have clearly defined the licence, IP and attribution attached to your work.
 
@@ -275,8 +292,6 @@ There are a number of journals that specialise in these results.
 
 Imagine you have been working with a collaborative partner in a different organisation. As you finish your project, they state that they are no longer interested in working together and are going to apply for the next grant with another partner.
 
-They've stated that they aren't confident in the validity of the datasets you've shared.
-
 How will this affect you?
 
 What steps have we taken so far to help protect our position?
@@ -292,7 +307,6 @@ We've documented our [ethics and governance](episodes/step4Doco.html) documents 
 
 We've licensed our pipelines and data to specify whether it can be reused or if it can be commercialised, and if we need to be cited.
 
-We can show [what testing](episodes/step5Testing.html) we've done to our datasets to ensure validity.
 
 
 :::::::::::::::::::::::::::::: 

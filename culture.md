@@ -1,5 +1,5 @@
 ---
-title: "How does culture plays a part?"
+title: "How does culture play a part?"
 teaching: 20
 exercises: 0
 ---

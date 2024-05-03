@@ -176,7 +176,7 @@ A way to handle this is by mapping one of the folders further into the filepath.
 
 Ensuring your file naming convention is human readable will depend on the context, background knowledge of research user(s), and character spaces availability. In short, use descriptive words. There will be examples of this further below.
 
-
+TODO either graphic or comic
 
 ##### ***Plays well with default ordering***
 
