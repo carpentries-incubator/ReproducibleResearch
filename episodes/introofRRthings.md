@@ -4,19 +4,18 @@ teaching: 2
 exercises: 0
 ---
 
-Let's learn about 7 different concepts that can help us build reproducibility into our workflows.
+Let's learn about seven different concepts that can help us build reproducibility into our workflows.
 
  1. Planning to be organised
 
- 2. Keeping your files Tidy and Organised
+ 2. Keeping files tidy and organised
 
- 3. Methodology and Protocols
+ 3. Methodology and protocols
 
- 4. Documentation and writing it down
+ 4. Documentation and writing things down
 
- 5. Testing and Controls
+ 5. Testing and controls
 
  6. Automation
 
- 7. Publishing, Persistent Identifiers and Preparing for Reuse
-
+ 7. Publishing, Persistent Identifiers and preparing for re-use
