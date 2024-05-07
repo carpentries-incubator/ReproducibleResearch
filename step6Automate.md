@@ -76,7 +76,7 @@ There are a number of tools available that can help you to conduct systematic li
 
 Tools are often discipline specific, and your library or graduate school could provide some guidance on the best one to use.
 
-TODO case study maybe pauls
+For example, this list of resources from the[ University of North Carolina library](https://guides.lib.unc.edu/automation) has some great papers on different systems available.
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
