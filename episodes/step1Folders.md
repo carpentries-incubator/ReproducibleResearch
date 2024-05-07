@@ -9,16 +9,16 @@ exercises: 0
 
 ### Data Management Plan
 
-A data management plan (DMP) is a living document for a research project, which outlines data creation, data policies, access and ownership rules, management practices, management facilities and equipment, and who will be responsible for what.
+A data management plan (DMP) is a living document for a research project, which outlines data creation or acquisition, data policies, access, sharing and ownership rules, management practices, management facilities and equipment, and who will be responsible for what.
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
 
-Does your institute have a Data Management policy, procedure or page that can be linked for your attendees?
+Does your institute have a data management policy, procedure or page that can be linked for your attendees?
 
 This is a great place to put it!
 
-Link to your institutional Data Management Planning Page
+Link to your institutional Data Management Planning Page.
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -36,7 +36,13 @@ The following resources can help you build your plan:
 - [Where can I find DMP templates?](https://www.youtube.com/watch?v=HooeSaj3dQM)
 
 
-Around 50% of research projects reuse at least some of their previous project data - Is this data a subset of a previous project's data? Did it come from an external collaborator or an open repository? How does this affect your project?
+Around 50% of research projects re-use at least some of their previous project data. 
+
+- Is this data a subset of a previous project's data? 
+
+- Did it come from an external collaborator or organisation or from an open repository? 
+
+- How does this affect your project?
 
 
 ### Folder Structures
@@ -66,7 +72,7 @@ Once your projects have finished, you may want to consider archiving your projec
 
 #### Raw data
 
-Keep a copy of your raw data backed up elsewhere, and never alter it. This means if you realise early in your work, there has been an error introduced into the data, you can retrieve a raw copy and reanalyse it.
+Keep a copy of your raw data backed up elsewhere, and never alter it. This means if you realise early in your work, there has been an error introduced into the data, you can retrieve a raw copy and re-analyse it.
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
@@ -93,13 +99,13 @@ There are a number of things to consider when naming files:
 
 - Don't use staff names
 
-- Decide on a standard vocabulary across the research group and stick to it.  For example, will everyone call a location by Town name, town initials, postcode, state etc. 
+- Decide on a standard vocabulary across the research group and stick to it.  For example, will everyone call a location by Town name, town initials, postcode, state, etc? 
 
-- Instead of using 'Draft' in a filename, consider using version numbers. Your first version may be 1.0, so your filename may be ProjectReportv1.0 , then when someone edits it and sends it back, it may then become ProjectReportv1.1 .You could use a date and initials to mark it as well. So a report edited on 1st May 2024 by Amanda Miotto could be ProjectReportv1.1_20240501_AM
+- Instead of using 'Draft' in a filename, consider using version numbers. Your first version may be 1.0, so your filename may be ProjectReportv1.0, then when someone edits it and sends it back, it may then become ProjectReportv1.1. You could use a date and initials to mark it as well. So a report edited on 1st May 2024 by Amanda Miotto could be ProjectReportv1.1_20240501_AM
 
 TODO example here from my board
 
-- Label any dates as YYYYMMDD . This can save confusion across international collaborators, and it makes it easier to search. We'll talk about this more in the next lesson.
+- Label any dates as YYYYMMDD. This can save confusion across international collaborators, and it makes it easier to search. We'll talk about this more in the next lesson.
 
 There is an excellent list [of 13 rules for naming conventions](https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions) worth the read.
 
@@ -110,24 +116,24 @@ There is an excellent list [of 13 rules for naming conventions](https://www.ed.a
 
 There are three key principles to guide file naming convention development, as defined by Data Carpentry and Martinez (2015):
 
- - Machine readable
+ - Machine-readable
 
  - Human readable
 
  - Plays well with default ordering
 
 
-Lets discuss each key principle below.
+Let's discuss each key principle below.
 
 ##### ***Machine readable***
 
-Within the context of file naming conventions, being machine readable means:
+Within the context of file naming conventions, being machine-readable means:
 
- - Spaces have been avoided. Ideally there are no spaces in any file names.
+ - Spaces have been avoided. Ideally, there should be no spaces within any file names.
 
- - Special characters are used in lieu of spaces i.e. _ or -
+ - Special characters are used in lieu of spaces, i.e. underscore(_) or hyphen (-).
 
- - Case sensitivity is consistent
+ - Case sensitivity is consistent throughout.
 
 An example is shown below
 
@@ -149,14 +155,14 @@ put it as a challenge and solution, either with v1.0 or dates.
 ##### ***Plays well with default ordering***
 
 
-Default ordering is best achieved with numbers. This can be chronological i.e. date, or logical i.e. 01, 02, 03…
+Default ordering is best achieved with numbers. This can be chronological, i.e. date, or logical, i.e. 01, 02, 03…
 
 Depending on the research and your teams preference, a common word could prefix the numeric ordering system. For example:
 
 lake01_depth.r
 lake02_depth.r
 lake03_depth.r
-so on….
+so on ...
 
 #### Benefits
 
@@ -166,7 +172,7 @@ If implemented early and consistently, a standardised system or convention for n
 
  - Facilitate access, retrieval and storage of files
 
- - Make it faster to navigate files
+ - Make it faster to find and navigate files
 
  - Guard against misplacing or losing files
 
@@ -222,11 +228,11 @@ A great place to start is:
 
  - Download a folder template and start using it!
 
- - Another idea is to put a copy of your raw data somewhere secure and backed up for safekeeping.
+ - Put a copy of your raw data somewhere secure and ensure it is backed up for safekeeping.
 
  - Come up with a plan on how you are going to name your files.
 
- - Check your folders are being backed up.
+ - Check your folders are being regularly backed up.
 
 
 ### Advanced
@@ -235,9 +241,9 @@ Your next move can be:
 
 - Ensure all your projects are well organised. This could extend to projects across your research group.
 
- - Educate others in your space on good naming conventions and build a reference guide to be used across your group.
+- Educate others in your space on good naming conventions and build a reference guide to be used across your group.
 
- - Get a metadata file set up for your media.
+- Set up a metadata file for your media.
 
  - If you are working in Python, you can use a [python package](https://github.com/vukovicnikola/templateproject) developed by researcher Nikola Vukovic to generate a logical, standardised, and flexible directory hierarchy for academic research.
 
