@@ -68,6 +68,47 @@ It was suggested to reviewers and editorial staff:
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
+::::::::::::::::::::::::::::::::::::::::::::::: challenge
+
+# Where did the pizza go wrong?
+
+We've shared our pizza recipe with our friend, who attempted to cook it last night. They've called you up today and said "It didn't work out... why?"
+
+What questions can we ask to discover what could have gone wrong?
+
+:::::::::::::::::::::::::::::::: solution
+
+Questions could include?
+
+ - Was it burnt? Or did the cheese not melt?
+
+ - Is the base too thick/tough?
+
+ - Does the ingredients taste 'off'?
+
+
+
+::::::::::::::::::::::::::::::::
+
+Now for each question, let's develop a test. We want to offer a way for our friend at each step to 'test' that their pizza is on the correct track.
+
+:::::::::::::::::::::::::::::::: solution
+
+Tests could include:
+
+ - Was the oven on 190 degrees celsius, for 20 minutes?
+
+ - Did the dough double in size when it rose?
+
+ - Were the ingredients still in their use by or due date?
+
+
+
+::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::: 
+
+
 TODO examples of where things go wrong.
 \ vs / win to mac
 encoding 

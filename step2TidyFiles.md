@@ -154,17 +154,17 @@ Note: #NAME? should be -O
 
 There are a number of suggested changes:
 
- - Dates in the same format
+Dates in the same format
 
- - Standard way to handle missing data
+Standard way to handle missing data
 
- - DoB instead of Age, as Age can change depending on the date of the year
+DoB instead of Age, as Age can change depending on the date of the year
 
- - Standard way to handle location
+Standard way to handle location
 
- - Spelling mistake in Mail
+Spelling mistake in Mail
 
- - Because it's been migrated from Excel, the format of -O was changed.
+Because it's been migrated from Excel, the format of -O was changed.
 
 ::::::::::::::::::::::::::::::::::::
 
