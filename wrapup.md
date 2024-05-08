@@ -20,12 +20,28 @@ A place to share what is happening at your own institutes, and where attendees c
 
 :::::::::::::::::::::::::::::::::::::::::::::::
 
-TODO reflect on their 7 steps
-- get them to write action steps
-	- calendar invite, thing to learn etc
+
+For each of our 7 lessons, do we have an action item?
+
+Let’s establish concrete action items for the upcoming week or two based on the tasks we’ve just documented.
+
+::::::::::::::::::::::::::::::::::::::::::::::: challenge
+
+***Take this time to do one of the following:***
+
+Email yourself a website you've found today to read through later.
+
+Set a calendar entry to dedicate some time to complete a task.
+
+Pair with someone here to encourage each other.
+
+Talk to your colleagues about a suggestedchange to make in your project.
+
+:::::::::::::::::::::::::::::::::::::::::::::::
+
+Even by only taking small steps, you are now further down the reproducible research path.
 
 
-
-## This lesson
+## This lesson website
 
 These lessons will stay available for you to refer to going into the future. You are welcome to pass on any feedback to your trainer, as we aim to continuously improve our lessons.

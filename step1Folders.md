@@ -97,12 +97,15 @@ There are a number of things to consider when naming files:
 
 - Instead of using 'Draft' in a filename, consider using version numbers. Your first version may be 1.0, so your filename may be ProjectReportv1.0 , then when someone edits it and sends it back, it may then become ProjectReportv1.1 .You could use a date and initials to mark it as well. So a report edited on 1st May 2024 by Amanda Miotto could be ProjectReportv1.1_20240501_AM
 
-TODO example here from my board
-
 - Label any dates as YYYYMMDD . This can save confusion across international collaborators, and it makes it easier to search. We'll talk about this more in the next lesson.
 
 There is an excellent list [of 13 rules for naming conventions](https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions) worth the read.
 
+##### Consider these two examples:
+
+![](episodes/fig/Naming-pre.png){alt='disorganised and poorly named files'}
+
+![](episodes/fig/Naming-post.png){alt='well organised files'}
 
 #### Who is reading your file names?
 

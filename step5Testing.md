@@ -68,6 +68,12 @@ It was suggested to reviewers and editorial staff:
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
+::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Can do this next challenge in the class, either pen and paper, on the board or in the chat.
+
+::::::::::::::::::::::::::::::::::::::::::::::: 
+
 ::::::::::::::::::::::::::::::::::::::::::::::: challenge
 
 # Where did the pizza go wrong?
@@ -78,7 +84,7 @@ What questions can we ask to discover what could have gone wrong?
 
 :::::::::::::::::::::::::::::::: solution
 
-Questions could include:
+***Questions could include:***
 
 Was it burnt? Or did the cheese not melt?
 
@@ -94,7 +100,7 @@ Now for each question, let's develop a test. We want to offer a way for our frie
 
 :::::::::::::::::::::::::::::::: solution
 
-Tests could include:
+***Tests could include:***
 
 Was the oven on 190 degrees celsius, for 20 minutes?
 
@@ -110,10 +116,6 @@ Were the ingredients still in their use by or due date?
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
-
-TODO examples of where things go wrong.
-\ vs / win to mac
-encoding 
 
 
 ### Physical Testing and Quality Assurance
