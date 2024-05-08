@@ -172,6 +172,7 @@ Here's an example survey:
 
 ![](episodes/fig/ExampleSurvey2.png){alt='Second part of survey'}
 
+
 :::::::::::::::::::::::::::::::::::: 
 
 :::::::::::::::::::::::::::::::::::::::::::::::
