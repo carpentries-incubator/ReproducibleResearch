@@ -69,8 +69,6 @@ This format includes a lot of benefits:
 
 When multiple people are entering data manually, it may be beneficial to use a survey that fills in a spreadsheet for you. This can include dropdown menu items to ensure consistency in certain columns - for example, to eliminate a combination of "Monday, Mon, M, mon".
 
-TODO example of messy data, how would we make a survey
-
 
 # Other useful concepts:
 
@@ -166,7 +164,15 @@ There are a number of suggested changes:
 
 Now instead of working on an excel sheet, let's turn this into a survey, to make the data more consistant. What would this survey look like?
 
+:::::::::::::::::::::::::::::::::::: solution
 
+Here's an example survey:
+
+![](episodes/fig/ExampleSurvey.png){alt='First part of survey'}
+
+![](episodes/fig/ExampleSurvey2.png){alt='Second part of survey'}
+
+:::::::::::::::::::::::::::::::::::: 
 
 :::::::::::::::::::::::::::::::::::::::::::::::
 
