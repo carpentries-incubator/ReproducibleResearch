@@ -83,8 +83,6 @@ You may get a question on recovery verses backup - have a chat to your storage t
 
 
 
-
-
 ### File naming conventions
 
 There are a number of things to consider when naming files:
@@ -101,11 +99,7 @@ There are a number of things to consider when naming files:
 
 There is an excellent list [of 13 rules for naming conventions](https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions) worth the read.
 
-##### Consider these two examples:
 
-![](episodes/fig/Naming-pre.png){alt='disorganised and poorly named files'}
-
-![](episodes/fig/Naming-post.png){alt='well organised files'}
 
 #### Who is reading your file names?
 
@@ -132,13 +126,6 @@ Within the context of file naming conventions, being machine readable means:
 
  - Case sensitivity is consistent
 
-An example is shown below
-
-![Data Carpentry Reproducible Research Committee. 2016. "File organization for reproducible research." https://github.com/data-carpentry/rr-organization1](episodes/fig/globbing.jpeg){alt='Shows files in a column with parts of the names that are the same or align'}
-
-TODO change this 
-
-
 
 ##### ***Human readable***
 
@@ -160,6 +147,29 @@ lake01_depth.r
 lake02_depth.r
 lake03_depth.r
 so on….
+
+
+:::::::::::::::::::::::::::::::::::::::::::::: challenge
+
+##### Consider these two examples:
+
+Consider this folder - is it clear what order they should go in? 
+
+![](episodes/fig/Naming-pre.png){alt='disorganised and poorly named files'}
+
+How would you change this?
+
+:::::::::::::::::::::::::::::::::::::::: solution
+
+
+Now consider this folder - is it clear what the order is? Do you feel you could track this better?
+
+![](episodes/fig/Naming-post.png){alt='well organised files'}
+
+
+::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::
 
 #### Benefits
 
