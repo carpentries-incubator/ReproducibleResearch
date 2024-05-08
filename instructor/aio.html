@@ -855,7 +855,7 @@ equipment, and who will be responsible for what.</p>
   <h3 class="accordion-header" id="headingInstructor1">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor1" class="accordion-collapse collapse" aria-labelledby="headingInstructor1" data-bs-parent="#accordionInstructor1">
+<div id="collapseInstructor1" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor1" aria-labelledby="headingInstructor1">
 <div class="accordion-body">
 <p>Does your institute have a Data Management policy, procedure or page
 that can be linked for your attendees?</p>
@@ -919,7 +919,7 @@ it.</p>
   <h3 class="accordion-header" id="headingInstructor2">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor2" class="accordion-collapse collapse" aria-labelledby="headingInstructor2" data-bs-parent="#accordionInstructor2">
+<div id="collapseInstructor2" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor2" aria-labelledby="headingInstructor2">
 <div class="accordion-body">
 <p>This is a good time to talk about what research data storage options
 you have at your institute. Discuss backing up your data.</p>
@@ -1451,16 +1451,14 @@ collate data, but it’s gotten messy!</p>
 <div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
 <div class="accordion-body">
 <p>There are a number of suggested changes:</p>
-<ul>
-<li><p>Dates in the same format</p></li>
-<li><p>Standard way to handle missing data</p></li>
-<li><p>DoB instead of Age, as Age can change depending on the date of
-the year</p></li>
-<li><p>Standard way to handle location</p></li>
-<li><p>Spelling mistake in Mail</p></li>
-<li><p>Because it’s been migrated from Excel, the format of -O was
-changed.</p></li>
-</ul>
+<p>Dates in the same format</p>
+<p>Standard way to handle missing data</p>
+<p>DoB instead of Age, as Age can change depending on the date of the
+year</p>
+<p>Standard way to handle location</p>
+<p>Spelling mistake in Mail</p>
+<p>Because it’s been migrated from Excel, the format of -O was
+changed.</p>
 </div>
 </div>
 </div>
@@ -1802,14 +1800,14 @@ protocol journals and protocol repositories (at 23:33).</p>
 </button>
 </div>
 </nav><div id="nav-tabContent-1" class="tab-content">
-<div id="nav-tabpanel-1-1" class="tab-pane show active" role="tabpanel" aria-labelledby="nav-tab-1-1">
+<div id="nav-tabpanel-1-1" class="tab-pane show active" aria-labelledby="nav-tab-1-1" role="tabpanel">
 <p>A great place to start is:</p>
 <p>Learning about how preregistration and registering protocols work by
 checking out some of these <a href="https://www.youtube.com/@reproducibiliteach/videos" class="external-link">ReproducibiliTeach
 videos</a> or check out this <a href="https://book.the-turing-way.org/reproducible-research/rdm/rdm-methods.html?highlight=protocol#open-methods-protocols" class="external-link">The
 Turing Way page on Methods and Protocols</a></p>
 </div>
-<div id="nav-tabpanel-1-2" class="tab-pane" role="tabpanel" aria-labelledby="nav-tab-1-2">
+<div id="nav-tabpanel-1-2" class="tab-pane" aria-labelledby="nav-tab-1-2" role="tabpanel">
 <p>Your next move can be:</p>
 <p>Get started on publishing that protocol and prepublication! You can
 use <a href="https://youtu.be/aKiXFzj15dg" class="external-link">How to write a reusable,
@@ -2682,7 +2680,7 @@ any links that you are not going to use.
 </div>
 </div></section><section id="aio-step5Testing"><p>Content from <a href="step5Testing.html">Step 5 - Testing and Controls</a></p>
 <hr>
-<p>Last updated on 2024-05-03 |
+<p>Last updated on 2024-05-08 |
         
         <a href="https://github.com/carpentries/workbench-template-md/edit/main/episodes/step5Testing.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 <p>Estimated time: <i aria-hidden="true" data-feather="clock"></i> 20 minutes</p>
@@ -2773,6 +2771,69 @@ conversion - but you need to be aware of it.</p>
 of gene names and pasting it into a new sheet, and then sorting the
 column. Any gene symbols converted to dates will appear as numbers at
 the top of the column.”</p>
+</div>
+</div>
+</div>
+<div id="where-did-the-pizza-go-wrong" class="callout challenge">
+<div class="callout-square">
+<i class="callout-icon" data-feather="zap"></i>
+</div>
+<div id="where-did-the-pizza-go-wrong" class="callout-inner">
+<h3 class="callout-title">Where did the pizza go wrong?<a class="anchor" aria-label="anchor" href="#where-did-the-pizza-go-wrong"></a>
+</h3>
+<div class="callout-content">
+<p>We’ve shared our pizza recipe with our friend, who attempted to cook
+it last night. They’ve called you up today and said “It didn’t work out…
+why?”</p>
+<p>What questions can we ask to discover what could have gone wrong?</p>
+</div>
+</div>
+</div>
+<div id="accordionSolution1" class="accordion challenge-accordion accordion-flush">
+<div class="accordion-item">
+<button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
+  <h4 class="accordion-header" id="headingSolution1">Show me the solution</h4>
+</button>
+<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
+<div class="accordion-body">
+<p>Questions could include?</p>
+<ul>
+<li><p>Was it burnt? Or did the cheese not melt?</p></li>
+<li><p>Is the base too thick/tough?</p></li>
+<li><p>Does the ingredients taste ‘off’?</p></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="where-did-the-pizza-go-wrong" class="callout challenge">
+<div class="callout-square">
+<i class="callout-icon" data-feather="zap"></i>
+</div>
+<div id="where-did-the-pizza-go-wrong" class="callout-inner">
+<h3 class="callout-title">Where did the pizza go wrong?<em>(continued)</em><a class="anchor" aria-label="anchor" href="#where-did-the-pizza-go-wrong"></a>
+</h3>
+<div class="callout-content">
+<p>Now for each question, let’s develop a test. We want to offer a way
+for our friend at each step to ‘test’ that their pizza is on the correct
+track.</p>
+</div>
+</div>
+</div>
+<div id="accordionSolution2" class="accordion challenge-accordion accordion-flush">
+<div class="accordion-item">
+<button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution2" aria-expanded="false" aria-controls="collapseSolution2">
+  <h4 class="accordion-header" id="headingSolution2">Show me the solution</h4>
+</button>
+<div id="collapseSolution2" class="accordion-collapse collapse" data-bs-parent="#accordionSolution2" aria-labelledby="headingSolution2">
+<div class="accordion-body">
+<p>Tests could include:</p>
+<ul>
+<li><p>Was the oven on 190 degrees celsius, for 20 minutes?</p></li>
+<li><p>Did the dough double in size when it rose?</p></li>
+<li><p>Were the ingredients still in their use by or due date?</p></li>
+</ul>
+</div>
 </div>
 </div>
 </div>
@@ -3489,7 +3550,7 @@ for publication. What needs to be done?</p>
   <h3 class="accordion-header" id="headingInstructor1">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor1" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor1" aria-labelledby="headingInstructor1">
+<div id="collapseInstructor1" class="accordion-collapse collapse" aria-labelledby="headingInstructor1" data-bs-parent="#accordionInstructor1">
 <div class="accordion-body">
 <p>Opportunity to ask people for ideas on what needs to be done, either
 on whiteboard or in chat.</p>
@@ -3518,7 +3579,7 @@ Data Management Expert Guide- Archiving and Publishing</a></p>
   <h3 class="accordion-header" id="headingInstructor2">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor2" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor2" aria-labelledby="headingInstructor2">
+<div id="collapseInstructor2" class="accordion-collapse collapse" aria-labelledby="headingInstructor2" data-bs-parent="#accordionInstructor2">
 <div class="accordion-body">
 <p>Does your institute have a ‘Once your project is done’ checklist?</p>
 <p>May be worth checking with your library or research office.</p>
@@ -3579,7 +3640,7 @@ DOI.</p>
   <h3 class="accordion-header" id="headingInstructor3">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor3" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor3" aria-labelledby="headingInstructor3">
+<div id="collapseInstructor3" class="accordion-collapse collapse" aria-labelledby="headingInstructor3" data-bs-parent="#accordionInstructor3">
 <div class="accordion-body">
 <p>Include information around who mints DOIs at your organisation.</p>
 </div>
@@ -3647,7 +3708,7 @@ should share your data? Check <a href="https://www.youtube.com/watch?v=8qsHFHHPr
   <h3 class="accordion-header" id="headingInstructor4">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor4" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor4" aria-labelledby="headingInstructor4">
+<div id="collapseInstructor4" class="accordion-collapse collapse" aria-labelledby="headingInstructor4" data-bs-parent="#accordionInstructor4">
 <div class="accordion-body">
 <p>Does your institute have a policy, statement, procedure or resources
 on open access or publishing data and materials openly?</p>
@@ -3667,7 +3728,7 @@ attribution attached to your work.</p>
   <h3 class="accordion-header" id="headingInstructor5">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor5" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor5" aria-labelledby="headingInstructor5">
+<div id="collapseInstructor5" class="accordion-collapse collapse" aria-labelledby="headingInstructor5" data-bs-parent="#accordionInstructor5">
 <div class="accordion-body">
 <p>Link to your organisation’s IP/Copyright person.</p>
 </div>
@@ -3785,7 +3846,7 @@ team for more assistance.</p>
   <h3 class="accordion-header" id="headingInstructor6">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div>Instructor Note</h3>
 </button>
-<div id="collapseInstructor6" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor6" aria-labelledby="headingInstructor6">
+<div id="collapseInstructor6" class="accordion-collapse collapse" aria-labelledby="headingInstructor6" data-bs-parent="#accordionInstructor6">
 <div class="accordion-body">
 <p>Link to your organisation’s commercialisation team.</p>
 </div>
@@ -3885,7 +3946,7 @@ the next grant with another partner.</p>
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
   <h4 class="accordion-header" id="headingSolution1">Show me the solution</h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
 <div class="accordion-body">
 <p>This may affect you</p>
 <p>However, we’ve already taken steps to protect ourselves and safeguard
