@@ -18,8 +18,13 @@ This training was written with a few things in mind:
 
 #### Career stage and how that will affect your talk
 
-TODO
 
+
+As per the culture page in your instructor menu, researchers from different career stages will have different considerations.
+
+Generally, career level of attendees are skewed towards research students and early career researchers. However, depending on your department, you may find more senior staff in your cohort.
+
+You may also consider how your attendees came to be here- did they sign up themselves? Were they encouraged to sign up by a supervisor or senior leader? You will find people who have signed up may have more background knowledge then those who were encouraged to go.
 
 
 #### Different terminology and disciplines may respond differently
@@ -38,7 +43,7 @@ People often mistakenly think that to teach a subject, you should be an expert.
 
 As per orchid00's article:
 
-Expert Blind Spot
+***Expert Blind Spot***
 
 Experts are frequently so familiar with their subject that they can no longer imagine what it’s like to not see the world that way. This is called expert blind spot and can lead to what’s known as the expertise-reversal effect - experts are often less good at teaching a subject to novices than people with less expertise who still remember what it’s like to have to learn the things. This effect can be overcome with training, but it’s part of the reason world-famous researchers are often poor lecturers. The challenge of identifying and working around expert blind spots is one reason why we welcome instructors who still identify as “novices”! Someone who is still in the process of learning can be a more effective instructor because they are speaking from their own recent experience. In these ways and others, the high connectivity of an expert’s mental model poses challenges while teaching novices. However, that’s not to say that experts can’t be good teachers. Experts can be effective as long as they take the time to identify and correct for their own expert blind spots.
 
@@ -50,6 +55,15 @@ orchid00 (last updated Sept 2019) A Brief Introduction to the Carpentries Pedago
 A study by Stanford professor Chip Heath found that during the recall of speeches, 63 per cent of people remember stories and how they made them feel, but only 5 per cent remember a single statistic.
 
 Stories help people to relate to your lessons, to understand how and why it affects them.
+
+#### Get a feel for your cohort
+
+It can be helpful to ask your attendees a bit about themselves. 
+
+Finding out what area of research they are in can help you highlight resources that are more relatable. (Qualitative vs quantitative, computational vs not.)
+
+Finding out their career level can help guage what they are familiar with already, and what their underlying concerns, risks and opportunities are.
+
 
 #### Not sure on a question?
 

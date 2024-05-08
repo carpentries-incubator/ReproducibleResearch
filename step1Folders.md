@@ -153,7 +153,7 @@ so on….
 
 ##### Consider these two examples:
 
-Consider this folder - is it clear what order they should go in? 
+Consider this folder - does this feel organised? Are you sure what contains what? 
 
 ![](episodes/fig/Naming-pre.png){alt='disorganised and poorly named files'}
 

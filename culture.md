@@ -75,7 +75,9 @@ This is a good time to highlight movement in your groups or organisations that e
 
 Considering your audience when encouraging RR is incredibly important. Your senior executives will have vastly different motivations to your researchers on why they may benefit from RR. Your HDRs will again have another view.
 
-TODO
+Also consider, for each of those audiences, what is important to them? What are the risks to their work?
+
+We'll discuss this further down in this lesson.
 
 
 # Where are you now?
