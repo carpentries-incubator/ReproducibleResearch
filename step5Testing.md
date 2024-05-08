@@ -98,6 +98,8 @@ Tests could include:
 
  - Was the oven on 190 degrees celsius, for 20 minutes?
 
+ - Did the cheese melt?
+
  - Did the dough double in size when it rose?
 
  - Were the ingredients still in their use by or due date?
