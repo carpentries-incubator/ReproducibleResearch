@@ -135,6 +135,45 @@ Later, we will talk about how to test for missing data.
 
 
 
+::::::::::::::::::::::::::::::::::::::::::::::: challenge
+
+We've had a number of people collaborating on an excel sheet to collate data, but it's gotten messy! 
+
+Let's clean this messy data. What changes would you make?
+
+
+| Date     | Age                | Where was the article    | Blood type |  Preferred Gender|
+| ----------    | :-----: | ----------------: | ----: | ---------: |
+| 23/1/2023 | 32 | United States | AB | Female |
+| Feb-17 | 54 |  | A | N/A |
+| 2/2/2000 | 12 | USA | 0 | Male |
+| 23-Mar-93 | 53 | Brisbane, Australia | #NAME? | Mail |
+
+
+Note: #NAME? should be -O
+
+:::::::::::::::::::::::::::::::::::: solution
+
+There are a number of suggested changes:
+- Dates in the same format
+- Standard way to handle missing data
+- DoB instead of Age, as Age can change depending on the date of the year
+- Standard way to handle location
+- Spelling mistake in Mail
+- Because it's been migrated from Excel, the format of -O was changed.
+
+::::::::::::::::::::::::::::::::::::
+
+Now instead of working on an excel sheet, let's turn this into a survey, to make the data more consistant. What would this survey look like?
+
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+
+
 :::::::::::::::::::::::::::::::::::::::::::::::  discussion
 
 ## Tools
