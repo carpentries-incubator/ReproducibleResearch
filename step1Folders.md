@@ -131,10 +131,6 @@ Within the context of file naming conventions, being machine readable means:
 
 Ensuring your file naming convention is human readable will depend on the context, background knowledge of research user(s), and character spaces availability. In short, use descriptive words. There will be examples of this further below.
 
-TODO either graphic or comic
-
-put it as a challenge and solution, either with v1.0 or dates.
-
 
 ##### ***Plays well with default ordering***
 
