@@ -78,13 +78,13 @@ What questions can we ask to discover what could have gone wrong?
 
 :::::::::::::::::::::::::::::::: solution
 
-Questions could include?
+Questions could include:
 
- - Was it burnt? Or did the cheese not melt?
+Was it burnt? Or did the cheese not melt?
 
- - Is the base too thick/tough?
+Is the base too thick/tough?
 
- - Does the ingredients taste 'off'?
+Does the ingredients taste 'off'?
 
 
 
@@ -96,13 +96,13 @@ Now for each question, let's develop a test. We want to offer a way for our frie
 
 Tests could include:
 
- - Was the oven on 190 degrees celsius, for 20 minutes?
+Was the oven on 190 degrees celsius, for 20 minutes?
 
- - Did the cheese melt?
+Did the cheese melt?
 
- - Did the dough double in size when it rose?
+Did the dough double in size when it rose?
 
- - Were the ingredients still in their use by or due date?
+Were the ingredients still in their use by or due date?
 
 
 
