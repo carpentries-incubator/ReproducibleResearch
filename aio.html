@@ -1185,7 +1185,6 @@ cause issues with analysis software</p></li>
 to use a survey that fills in a spreadsheet for you. This can include
 dropdown menu items to ensure consistency in certain columns - for
 example, to eliminate a combination of “Monday, Mon, M, mon”.</p>
-<p>TODO example of messy data, how would we make a survey</p>
 </div>
 </div>
 <div class="section level1">
@@ -1326,7 +1325,7 @@ collate data, but it’s gotten messy!</p>
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
   <h4 class="accordion-header" id="headingSolution1">Show me the solution</h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
 <div class="accordion-body">
 <p>There are a number of suggested changes: - Dates in the same format -
 Standard way to handle missing data - DoB instead of Age, as Age can
@@ -1337,17 +1336,30 @@ Excel, the format of -O was changed.</p>
 </div>
 </div>
 </div>
-<div id="discussion3" class="callout discussion">
+<div id="challenge2" class="callout challenge">
 <div class="callout-square">
-<i class="callout-icon" data-feather="message-circle"></i>
+<i class="callout-icon" data-feather="zap"></i>
 </div>
 <div class="callout-inner">
-<h3 class="callout-title">Challenge<em>(continued)</em><a class="anchor" aria-label="anchor" href="#discussion3"></a>
+<h3 class="callout-title">Challenge<em>(continued)</em><a class="anchor" aria-label="anchor" href="#challenge2"></a>
 </h3>
 <div class="callout-content">
 <p>Now instead of working on an excel sheet, let’s turn this into a
 survey, to make the data more consistant. What would this survey look
 like?</p>
+</div>
+</div>
+</div>
+<div id="accordionSolution2" class="accordion challenge-accordion accordion-flush">
+<div class="accordion-item">
+<button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution2" aria-expanded="false" aria-controls="collapseSolution2">
+  <h4 class="accordion-header" id="headingSolution2">Show me the solution</h4>
+</button>
+<div id="collapseSolution2" class="accordion-collapse collapse" aria-labelledby="headingSolution2" data-bs-parent="#accordionSolution2">
+<div class="accordion-body">
+<p>Here’s an example survey:</p>
+<figure><img src="fig/ExampleSurvey.png" alt="First part of survey" class="figure mx-auto d-block"></figure><figure><img src="fig/ExampleSurvey2.png" alt="Second part of survey" class="figure mx-auto d-block"></figure>
+</div>
 </div>
 </div>
 </div>
@@ -1411,12 +1423,12 @@ a data file structure by CESSDA</a></p>
 </button>
 </div>
 </nav><div id="nav-tabContent-1" class="tab-content">
-<div id="nav-tabpanel-1-1" class="tab-pane show active" aria-labelledby="nav-tab-1-1" role="tabpanel">
+<div id="nav-tabpanel-1-1" class="tab-pane show active" role="tabpanel" aria-labelledby="nav-tab-1-1">
 <p>A great place to start is:</p>
 <p>Decide how to handle missing data</p>
 <p>Use YYYY-MM-DD for dates</p>
 </div>
-<div id="nav-tabpanel-1-2" class="tab-pane" aria-labelledby="nav-tab-1-2" role="tabpanel">
+<div id="nav-tabpanel-1-2" class="tab-pane" role="tabpanel" aria-labelledby="nav-tab-1-2">
 <p>Your next move can be:</p>
 <p>You can start to work in a data science language such as R or Python.
 <a href="https://software-carpentry.org/lessons/" class="external-link">The Carpentries</a>
@@ -2135,7 +2147,7 @@ that produced a derived file?</p>
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
   <h4 class="accordion-header" id="headingSolution1">Show me the solution</h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
 <div class="accordion-body">
 <p>A common way is to name your files with a number at the front, so
 1_rawdata.csv, 2_cleandata.csv, 3_analysisdata.csv etc.</p>
@@ -2191,7 +2203,7 @@ similar paper was published with contradicting results.<a class="anchor" aria-la
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution2" aria-expanded="false" aria-controls="collapseSolution2">
   <h4 class="accordion-header" id="headingSolution2">Show me the solution</h4>
 </button>
-<div id="collapseSolution2" class="accordion-collapse collapse" aria-labelledby="headingSolution2" data-bs-parent="#accordionSolution2">
+<div id="collapseSolution2" class="accordion-collapse collapse" data-bs-parent="#accordionSolution2" aria-labelledby="headingSolution2">
 <div class="accordion-body">
 <p>Thankfully, we can now do this! We can refer to our notes with our
 detailed methods, analysis pipelines and have links to where our data is
@@ -2235,7 +2247,7 @@ Reports, Volume 6, Issue 5, Pages 779-781, <a href="https://doi.org/10.1016/j.ce
 </button>
 </div>
 </nav><div id="nav-tabContent-1" class="tab-content">
-<div id="nav-tabpanel-1-1" class="tab-pane show active" aria-labelledby="nav-tab-1-1" role="tabpanel">
+<div id="nav-tabpanel-1-1" class="tab-pane show active" role="tabpanel" aria-labelledby="nav-tab-1-1">
 <p>A great place to start is:</p>
 <p>Open a document and start a diary. You can write at the end of the
 day what you did, any results, anything you got stuck on, and any notes
@@ -2244,7 +2256,7 @@ to yourself.</p>
 anywhere, external hard drive etc).</p>
 <p>That’s it. That’s a good start.</p>
 </div>
-<div id="nav-tabpanel-1-2" class="tab-pane" aria-labelledby="nav-tab-1-2" role="tabpanel">
+<div id="nav-tabpanel-1-2" class="tab-pane" role="tabpanel" aria-labelledby="nav-tab-1-2">
 <p>Time to <strong><em>get detailed</em></strong>. Add some of the
 information from <a href="step4Doco.html#expanding-into-details">Expanding into
 details</a></p>
@@ -2253,7 +2265,7 @@ and Metadata</a></p>
 <p>You can find a list of <a href="https://en.wikipedia.org/wiki/List_of_electronic_laboratory_notebook_software_packages" class="external-link">eLabnotebooks
 here</a>.</p>
 </div>
-<div id="nav-tabpanel-1-3" class="tab-pane" aria-labelledby="nav-tab-1-3" role="tabpanel">
+<div id="nav-tabpanel-1-3" class="tab-pane" role="tabpanel" aria-labelledby="nav-tab-1-3">
 <p>Your next move can be:</p>
 <p>Set up Standard Operating Procedures and maintained Data Management
 Plans for your projects.</p>
@@ -2707,12 +2719,12 @@ San Diego, CA, USA, 2019, pp. 86-95, doi:
 </button>
 </div>
 </nav><div id="nav-tabContent-1" class="tab-content">
-<div id="nav-tabpanel-1-1" class="tab-pane show active" aria-labelledby="nav-tab-1-1" role="tabpanel">
+<div id="nav-tabpanel-1-1" class="tab-pane show active" role="tabpanel" aria-labelledby="nav-tab-1-1">
 <p>A great place to start is:</p>
 <p>Save your analysis pipeline and store it safely in your organised
 folders.</p>
 </div>
-<div id="nav-tabpanel-1-2" class="tab-pane" aria-labelledby="nav-tab-1-2" role="tabpanel">
+<div id="nav-tabpanel-1-2" class="tab-pane" role="tabpanel" aria-labelledby="nav-tab-1-2">
 <p>Your next move can be:</p>
 <p>Ensure your data is well described (As per Step 2).</p>
 <p>Check that it is clear which of your datasets pair with your Analysis
@@ -3023,11 +3035,11 @@ data.</p>
 </button>
 </div>
 </nav><div id="nav-tabContent-1" class="tab-content">
-<div id="nav-tabpanel-1-1" class="tab-pane show active" aria-labelledby="nav-tab-1-1" role="tabpanel">
+<div id="nav-tabpanel-1-1" class="tab-pane show active" role="tabpanel" aria-labelledby="nav-tab-1-1">
 <p>A great place to start is:</p>
 <p>Automate a single thing.</p>
 </div>
-<div id="nav-tabpanel-1-2" class="tab-pane" aria-labelledby="nav-tab-1-2" role="tabpanel">
+<div id="nav-tabpanel-1-2" class="tab-pane" role="tabpanel" aria-labelledby="nav-tab-1-2">
 <p>Your next move can be:</p>
 <p>Keep automating! It may be worth talking to your organisation’s
 technical team to find out what licences are available or tools they
@@ -3420,7 +3432,7 @@ the next grant with another partner.</p>
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
   <h4 class="accordion-header" id="headingSolution1">Show me the solution</h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
 <div class="accordion-body">
 <p>This may affect you</p>
 <p>However, we’ve already taken steps to protect ourselves and safeguard
