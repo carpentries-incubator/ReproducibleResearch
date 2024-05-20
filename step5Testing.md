@@ -41,6 +41,10 @@ Again, R and Python have real strengths here, to have a list of tests you can ru
 
  - [The Turing Way](https://the-turing-way.netlify.app/reproducible-research/code-quality/code-quality-robust) has a great tutorial on how to write robust code.
 
+```
+{r child="files/DataSciCode.Rmd"}
+```
+
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: discussion
@@ -215,9 +219,14 @@ This is also where R and Python have huge strengths. Writing an R or Python scri
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-Insert R and Python service plug here. You've probably already included it elsewhere, just remind people at this point.
+A good time for suggestions on where to learn R and Python. You've probably already included it elsewhere, just remind people at this point.
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
+
+
+<!-- Got any organisation information on where to learn R or Python? Does your institute run carpentries training or data science help? Include it below. -->
+
+DATA SCI CODE
 
 If you are using a random number generator, take note of the seed number.
 
@@ -255,6 +264,10 @@ Include links from your institute about where to publish analysis pipelines - yo
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
+
+<!-- Got any organisation information on publishing analysis pipelines? Do you suggest github etc? Do you have a licencing person? Include it below. -->
+
+PUBLISH ANALYTICS
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: discussion

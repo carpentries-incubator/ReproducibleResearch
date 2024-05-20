@@ -36,6 +36,11 @@ May be worth checking with your library or research office.
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
+
+<!-- Can you link to an internal 'what to do at the end of a project' checklist? Include it below. -->
+
+END OF PROJ CHECKLIST
+
 # Persistent Identifiers
 
 
@@ -82,7 +87,13 @@ Include information around who mints DOIs at your organisation.
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
+
+<!-- Who do researchers talk to, to get a DOI minted? What other information around DOIs do you want to share? Include it below- you can delete the existing text. -->
+
+
 Often, your institute library will mint a DOI for you.
+MINT DOI
+
 
 Journal publishers assign DOIs to electronic versions of individual articles & datasets.
 
@@ -142,6 +153,11 @@ Have you got an open network?
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
 
+<!-- Include information about open access/publishing here. -->
+
+OPEN ACCESS
+
+
 Prior to sharing, ensure you have clearly defined the licence, IP and attribution attached to your work.
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
@@ -149,6 +165,11 @@ Prior to sharing, ensure you have clearly defined the licence, IP and attributio
 Link to your organisation's IP/Copyright person.
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
+
+
+<!-- Who do researchers talk to for copyright and IP help? Got a website? -->
+
+COPYRIGHT AND IP
 
 There are plenty of reasons you may not be able to share your data and pipelines openly. 
 
@@ -221,6 +242,14 @@ Link to your organisation's commercialisation team.
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
 
+<!-- Who do researchers talk to for copyright and IP help? Got a website? -->
+
+COPYRIGHT AND IP
+
+
+<!-- Include information about your commercialisation team here. -->
+
+COMMERCIAL TEAM
 
 ::::::::::::::::::::::::::::::::::::::::::::::: discussion
 
@@ -239,6 +268,11 @@ Here's a great guide on [Publishing with sensitive data](https://ardc.edu.au/res
 Deposit final state data to support your publications in an
 institutional or discipline data repository which can mint a DOI and
 create a citation for your work.
+
+
+<!-- Include information about your organisational data repository here. -->
+
+DATA DEPOSIT
 
 [Here is a helpful guide to choosing a data repository](https://ardc.edu.au/resource/guide-to-choosing-a-data-repository/)
 

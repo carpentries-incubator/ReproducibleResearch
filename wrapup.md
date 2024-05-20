@@ -21,6 +21,11 @@ A place to share what is happening at your own institutes, and where attendees c
 :::::::::::::::::::::::::::::::::::::::::::::::
 
 
+<!-- Does your institute have a Reproducibility club, ReproducibiliTea group or webpages on reproducibility? This is where to include it. Also add any further follow up information you would like to share. -->
+
+FUTURE PLANS
+
+
 For each of our 7 lessons, do we have an action item?
 
 Let’s establish concrete action items for the upcoming week or two based on the tasks we’ve just documented.

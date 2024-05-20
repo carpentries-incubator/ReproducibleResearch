@@ -110,6 +110,9 @@ Include the options for documentation platforms or elabnotebooks here from your 
 :::::::::::::::::::::::::::::::::::::::::::::::
 
 
+<!-- Got any organisation information on where researchers can save documentation or notes on their research? This could be eLabNotebooks, documentation platforms/wikis etc? Even google docs or onedrive can be good to point out.  Include it below. -->
+
+
 ### Staff onboarding and offboarding
 
 #### Onboarding
@@ -350,11 +353,11 @@ To start with, we've already talked about the following:
 
  - [Data Management Plans](step1Folders.html#data-management-plan) - As discussed in lesson 1.
 
- - What and where you completed PreRegistration of your research project - As discussed in lesson 3.
+ - What and where you completed [PreRegistration](step3MethodStats.html#preregistration) of your research project - As discussed in lesson 3.
 
- - What and where you published your protocols - As discussed in lesson 3
+ - What and where you [published your protocols](step3MethodStats.html#transparent-methodologies-and-protocols) - As discussed in lesson 3
 
- - How you handle missing data - As discussed in lesson 3
+ - How you handle [missing data](step2TidyFiles.html#interview-considerations) - As discussed in lesson 2
 
 
 
@@ -426,6 +429,12 @@ A standard operating procedure (SOP) is a set of step-by-step instructions to he
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::
+
+
+<!-- Got any organisation information on Standard Operating Plans? Include it below. -->
+STANDARD OP
+
+
 
 ### Workflow mapping / Analysis Pipelines
 
