@@ -31,7 +31,6 @@ Link to your institutional Data Management Planning Page
 
 Contact your institute's library or research office to find out more about data management and data management plans at your organisation.
 
-DMP INFO
 
 
 
@@ -96,7 +95,6 @@ You may get a question on recovery verses backup - have a chat to your storage t
 
 Ask your IT department about Research data storage and consider a backup plan.
 
-DATA STORAGE
 
 
 ***Don't forget - backups are your friend here. ***

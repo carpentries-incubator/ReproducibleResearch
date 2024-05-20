@@ -44,7 +44,6 @@ Prominent registries include:
 
 <!-- Got any organisation information on preregistration or registering protocols? Include it below. -->
 
-PREREG
 
 
 ## Registered Reports
@@ -83,7 +82,6 @@ This really did come up time and time again when talking to researchers on how t
 
 <!-- Got any organisation information on statistics support or research methodology? Include it below. -->
 
-STATISTIC SUPPORT
 
 
 ## Publishing your Protocol

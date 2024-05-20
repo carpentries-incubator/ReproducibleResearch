@@ -226,7 +226,6 @@ A good time for suggestions on where to learn R and Python. You've probably alre
 
 <!-- Got any organisation information on where to learn R or Python? Does your institute run carpentries training or data science help? Include it below. -->
 
-DATA SCI CODE
 
 If you are using a random number generator, take note of the seed number.
 
@@ -267,7 +266,6 @@ Include links from your institute about where to publish analysis pipelines - yo
 
 <!-- Got any organisation information on publishing analysis pipelines? Do you suggest github etc? Do you have a licencing person? Include it below. -->
 
-PUBLISH ANALYTICS
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: discussion

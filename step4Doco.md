@@ -113,6 +113,7 @@ Include the options for documentation platforms or elabnotebooks here from your 
 <!-- Got any organisation information on where researchers can save documentation or notes on their research? This could be eLabNotebooks, documentation platforms/wikis etc? Even google docs or onedrive can be good to point out.  Include it below. -->
 
 
+
 ### Staff onboarding and offboarding
 
 #### Onboarding
@@ -432,7 +433,8 @@ A standard operating procedure (SOP) is a set of step-by-step instructions to he
 
 
 <!-- Got any organisation information on Standard Operating Plans? Include it below. -->
-STANDARD OP
+
+
 
 
 
