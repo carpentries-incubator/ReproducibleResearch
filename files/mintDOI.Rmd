@@ -2,4 +2,3 @@
 
 
 Often, your institute library will mint a DOI for you.
-MINT DOI

@@ -3,4 +3,3 @@
 
 Ask your IT department about Research data storage and consider a backup plan.
 
-DATA STORAGE
