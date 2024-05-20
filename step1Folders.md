@@ -23,6 +23,15 @@ Link to your institutional Data Management Planning Page
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+
+
+
+
+<!-- This is where you can write information on your organisation's data management and data management plan webpage and support contacts. Replace the text below with anything you like, and it will appear in relevant places in the lessons. -->
+
+Contact your institute's library or research office to find out more about data management and data management plans at your organisation.
+
+
 The following resources can help you build your plan:
 
 - [Aust Research Data Commons - Data Management Plans](https://ardc.edu.au/resource/data-management-plans/)
@@ -77,6 +86,9 @@ You may get a question on recovery verses backup - have a chat to your storage t
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+Testing data management inserts
 
 
 ***Don't forget - backups are your friend here. ***

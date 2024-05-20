@@ -45,3 +45,7 @@ Even by only taking small steps, you are now further down the reproducible resea
 ## This lesson website
 
 These lessons will stay available for you to refer to going into the future. You are welcome to pass on any feedback to your trainer, as we aim to continuously improve our lessons.
+
+
+
+

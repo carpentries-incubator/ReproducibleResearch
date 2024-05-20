@@ -40,3 +40,5 @@ This course is not aimed taking your from 0% to 100% in Reproducible Research - 
 ### Terminology
 
 We acknowledge that different disciplines use different terminology. For the purposes of this workshop, when we talk about data, we are referring to the information/knowledge you will gather and study to come to your conclusion.
+
+
