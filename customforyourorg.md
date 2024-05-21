@@ -67,6 +67,8 @@ And change the branch that Github is looking for the webpages.
 ![](episodes/fig/SetBranch.png){alt='Settings Cog'}
 
 ***Source*** should be set to ***Deploy from a branch***
+
+
 ***Branch*** should be set to ***gh-pages*** and ***/(root)*** and press save.
 
 Now we can go back to our repository by clicking "Code" at the top menu.
