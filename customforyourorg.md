@@ -99,7 +99,7 @@ We can now see our website link under "About". Click it!
 Your website should now look identical to "https://amandamiotto.github.io/ReproducibleResearch/".
 
 
-### Customising for your institute
+### 6. Customising for your institute
 
 To add information that is relevant for your institute, there are a few files to edit. 
 
@@ -142,17 +142,15 @@ A Commit box comes up - press "Commit Change".
 
 The change should now save. 
 
-You can now continue to update all the files in the folder "files".
+You can now continue to update all the files in the folder "files". It may take 5-10 minutes to update the webpage - again, you can look for the green tick on your repository https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.
 
+And you are done! All your custom information should now appear in your lessons.
 
+#### 7. Optional step - Provide workshop details
 
+If you would like to add some overarching information about your workshop, such as if it is virtual or in person, the location and link, you can edit the following file.
 
+https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME/blob/main/learners/setup.md
 
+This will appear at the bottom of your start page at https://YOUR-USERNAME.github.io/YOUR-REPOSITORY-NAME/
 
-
-
-Optional:
-
-learner/setup.md
-
-You may choose to include in this page details on whether your workshop is virtual or in person, and where.
