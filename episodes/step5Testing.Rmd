@@ -29,7 +29,6 @@ Again, R and Python have real strengths here, to have a list of tests you can ru
 
 ::::::::::::::::::::::::::::::::::::::::::::::: callout
 
-
 ### Coding Resources for testing the integrity of data
 
 
@@ -41,12 +40,7 @@ Again, R and Python have real strengths here, to have a list of tests you can ru
 
  - [The Turing Way](https://the-turing-way.netlify.app/reproducible-research/code-quality/code-quality-robust) has a great tutorial on how to write robust code.
 
-
-
 ::::::::::::::::::::::::::::::::::::::::::::::: 
-```
-{r child="files/DataSciCode.Rmd"}
-```
 
 ::::::::::::::::::::::::::::::::::::::::::::::: discussion
 
