@@ -44,9 +44,7 @@ Again, R and Python have real strengths here, to have a list of tests you can ru
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
-```
-{r child="files/DataSciCode.Rmd"}
-```
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::: discussion
 
