@@ -247,26 +247,26 @@ Or you could use your own format, and cover simple metadata such as:
 
 A great place to start is:
 
- - Download a folder template and start using it!
+Download a folder template and start using it!
 
- - Another idea is to put a copy of your raw data somewhere secure and backed up for safekeeping.
+Another idea is to put a copy of your raw data somewhere secure and backed up for safekeeping.
 
- - Come up with a plan on how you are going to name your files.
+Come up with a plan on how you are going to name your files.
 
- - Check your folders are being backed up.
+Check your folders are being backed up.
 
 
 ### Advanced
 
 Your next move can be:
 
-- Ensure all your projects are well organised. This could extend to projects across your research group.
+Ensure all your projects are well organised. This could extend to projects across your research group.
 
- - Educate others in your space on good naming conventions and build a reference guide to be used across your group.
+Educate others in your space on good naming conventions and build a reference guide to be used across your group.
 
- - Get a metadata file set up for your media.
+Get a metadata file set up for your media.
 
- - If you are working in Python, you can use a [python package](https://github.com/vukovicnikola/templateproject) developed by researcher Nikola Vukovic to generate a logical, standardised, and flexible directory hierarchy for academic research.
+If you are working in Python, you can use a [python package](https://github.com/vukovicnikola/templateproject) developed by researcher Nikola Vukovic to generate a logical, standardised, and flexible directory hierarchy for academic research.
 
 
 :::
