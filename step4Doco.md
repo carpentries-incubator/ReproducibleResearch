@@ -432,7 +432,11 @@ A standard operating procedure (SOP) is a set of step-by-step instructions to he
 :::::::::::::::::::::::::::::::::::::::::::::::
 
 
-<!-- Got any organisation information on Standard Operating Plans? Include it below. -->
+<!-- Got any organisation information on Standard Operating Plans? Include it below. 
+
+It will appear here: https://amandamiotto.github.io/ReproducibleResearch/instructor/step4Doco.html#standard-operating-procedure
+
+-->
 
 
 
