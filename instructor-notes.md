@@ -4,6 +4,11 @@ teaching: 10
 exercises: 0
 ---
 
+## Experience as a instructor
+
+This course material assumes that the instructor has taught workshops before .... but if you haven't, this is a great time to start! It is highly recommended you complete https://carpentries.github.io/instructor-training/ if this is your first time teaching a workshop.
+
+
 
 ## Considerations about this course material
 
