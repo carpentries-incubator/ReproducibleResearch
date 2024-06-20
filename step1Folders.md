@@ -91,7 +91,11 @@ You may get a question on recovery verses backup - have a chat to your storage t
 
 
 
-<!-- This is where you can write information on your organisation's data storage webpage and support contacts. Replace the text below with anything you like, and it will appear in relevant places in the lessons. -->
+<!-- This is where you can write information on your organisation's data storage webpage and support contacts. Replace the text below with anything you like, and it will appear in relevant places in the lessons.
+
+It will appear on https://amandamiotto.github.io/ReproducibleResearch/instructor/step1Folders.html#raw-data
+
+-->
 
 Ask your IT department about Research data storage and consider a backup plan.
 
