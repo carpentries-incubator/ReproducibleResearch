@@ -164,7 +164,13 @@ Link to your organisation's IP/Copyright person.
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
 
-<!-- Who do researchers talk to for copyright and IP help? Got a website? -->
+<!-- Who do researchers talk to for copyright and IP help? Got a website?
+
+This will appear on: 
+"Open vs FAIR vs Can't share" on https://[YourRepo].github.io/ReproducibleResearch/instructor/step7PublishPIDReuse.html
+"Licensing" on https://[YourRepo].github.io/ReproducibleResearch/instructor/step7PublishPIDReuse.html
+
+-->
 
 
 There are plenty of reasons you may not be able to share your data and pipelines openly. 
@@ -238,7 +244,13 @@ Link to your organisation's commercialisation team.
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
 
-<!-- Who do researchers talk to for copyright and IP help? Got a website? -->
+<!-- Who do researchers talk to for copyright and IP help? Got a website?
+
+This will appear on: 
+"Open vs FAIR vs Can't share" on https://[YourRepo].github.io/ReproducibleResearch/instructor/step7PublishPIDReuse.html
+"Licensing" on https://[YourRepo].github.io/ReproducibleResearch/instructor/step7PublishPIDReuse.html
+
+-->
 
 
 
