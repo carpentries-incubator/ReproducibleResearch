@@ -37,7 +37,6 @@ The fundamental principles of tidy data are:
 
 Let's look at an example:
 
-![](episodes/fig/TidyDataExample1.png){alt='First Example where full address is in one cell'}
 
 <table>
   <tr><thead>
@@ -66,7 +65,6 @@ This format could cause a number of issues.
 
 Let's look at a tidy example:
 
-![](episodes/fig/TidyDataExample2.png){alt='Second example where information is broken down into individual cells'}
 
 <table><thead>
   <tr>
