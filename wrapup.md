@@ -21,7 +21,11 @@ A place to share what is happening at your own institutes, and where attendees c
 :::::::::::::::::::::::::::::::::::::::::::::::
 
 
-<!-- Does your institute have a Reproducibility club, ReproducibiliTea group or webpages on reproducibility? This is where to include it. Also add any further follow up information you would like to share. -->
+<!-- Does your institute have a Reproducibility club, ReproducibiliTea group or webpages on reproducibility? This is where to include it. Also add any further follow up information you would like to share.
+
+This information will be visible here: https://amandamiotto.github.io/ReproducibleResearch/instructor/wrapup.html#where-to-from-here
+
+-->
 
 
 
