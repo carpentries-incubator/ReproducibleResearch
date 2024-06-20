@@ -242,7 +242,10 @@ Link to your organisation's commercialisation team.
 
 
 
-<!-- Include information about your commercialisation team here. -->
+<!-- Include information about your commercialisation team here.
+
+It will appear in the licencing section of https://[yourRepo].github.io/ReproducibleResearch/instructor/step7PublishPIDReuse.html
+-->
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: discussion
