@@ -267,7 +267,11 @@ Include links from your institute about where to publish analysis pipelines - yo
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
 
-<!-- Got any organisation information on publishing analysis pipelines? Do you suggest github etc? Do you have a licencing person? Include it below. -->
+<!-- Got any organisation information on publishing analysis pipelines? Do you suggest github etc? Do you have a licencing person? Include it below.
+
+This will appear on https://amandamiotto.github.io/ReproducibleResearch/instructor/step5Testing.html#tracking-your-analysis-history
+
+-->
 
 
 
