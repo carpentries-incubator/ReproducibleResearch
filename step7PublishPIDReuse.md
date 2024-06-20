@@ -91,7 +91,11 @@ Include information around who mints DOIs at your organisation.
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
 
-<!-- Who do researchers talk to, to get a DOI minted? What other information around DOIs do you want to share? Include it below- you can delete the existing text. -->
+<!-- Who do researchers talk to, to get a DOI minted? What other information around DOIs do you want to share? Include it below- you can delete the existing text.
+
+This information will appear on https://amandamiotto.github.io/ReproducibleResearch/instructor/step7PublishPIDReuse.html#digital-object-identifiers-dois---identify-information
+
+-->
 
 
 Often, your institute library will mint a DOI for you.
