@@ -39,6 +39,18 @@ Let's look at an example:
 
 ![](episodes/fig/TidyDataExample1.png){alt='First Example where full address is in one cell'}
 
+<table>
+  <tr><thead>
+    <td>Address</td>
+  </tr></thead>
+  <tr>
+    <td>170 Kessels Road Nathan Qld 4111 Australia</td>
+  </tr>
+  <tr>
+    <td>1 Parklands Dr, Southport QLD 4215</td>
+  </tr>
+</table>
+
 
 This format could cause a number of issues.
 
@@ -55,6 +67,41 @@ This format could cause a number of issues.
 Let's look at a tidy example:
 
 ![](episodes/fig/TidyDataExample2.png){alt='Second example where information is broken down into individual cells'}
+
+<table><thead>
+  <tr>
+    <th>Unit Number</th>
+    <th>Street Number</th>
+    <th>Street Name</th>
+    <th>Street Type</th>
+    <th>Suburb</th>
+    <th>State</th>
+    <th>Postcode</th>
+    <th>Country</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td></td>
+    <td>170</td>
+    <td>Kessels</td>
+    <td>Road</td>
+    <td></td>
+    <td>Nathan</td>
+    <td>Qld</td>
+    <td>4111</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>1</td>
+    <td>Parklands</td>
+    <td>Drive</td>
+    <td>Southport</td>
+    <td>Qld</td>
+    <td>4215</td>
+    <td>Australia</td>
+  </tr>
+</tbody>
+</table>
 
 This format includes a lot of benefits:
 
