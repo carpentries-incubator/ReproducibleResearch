@@ -84,7 +84,11 @@ This really did come up time and time again when talking to researchers on how t
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
 
-<!-- Got any organisation information on statistics support or research methodology? Include it below. -->
+<!-- Got any organisation information on statistics support or research methodology? Include it below.
+
+This will appear on https://amandamiotto.github.io/ReproducibleResearch/instructor/step3MethodStats.html#transparent-methodologies-and-protocols
+
+-->
 
 
 
