@@ -159,7 +159,11 @@ Have you got an open network?
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
 
-<!-- Include information about open access/publishing here. -->
+<!-- Include information about open access/publishing here. 
+
+This information will appear here:
+"Open vs FAIR vs Can’t share" on https://amandamiotto.github.io/ReproducibleResearch/instructor/step7PublishPIDReuse.html
+-->
 
 
 
