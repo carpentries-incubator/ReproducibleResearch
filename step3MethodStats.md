@@ -42,7 +42,11 @@ Prominent registries include:
 
 
 
-<!-- Got any organisation information on preregistration or registering protocols? Include it below. -->
+<!-- Got any organisation information on preregistration or registering protocols? Include it below.
+
+This information will appear on https://amandamiotto.github.io/ReproducibleResearch/instructor/step3MethodStats.html#preregistration
+
+-->
 
 
 
