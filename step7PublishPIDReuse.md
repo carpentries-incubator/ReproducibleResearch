@@ -37,7 +37,11 @@ May be worth checking with your library or research office.
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
 
-<!-- Can you link to an internal 'what to do at the end of a project' checklist? Include it below. -->
+<!-- Can you link to an internal 'what to do at the end of a project' checklist? Include it below.
+
+This information will appear on https://amandamiotto.github.io/ReproducibleResearch/instructor/step7PublishPIDReuse.html#resources
+
+-->
 
 
 # Persistent Identifiers
