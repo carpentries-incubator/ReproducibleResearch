@@ -279,7 +279,10 @@ institutional or discipline data repository which can mint a DOI and
 create a citation for your work.
 
 
-<!-- Include information about your organisational data repository here. -->
+<!-- Include information about your organisational data repository here. 
+
+It will appear on "Where to deposit?" on https://[YourRepo].github.io/ReproducibleResearch/instructor/step7PublishPIDReuse.html
+-->
 
 
 [Here is a helpful guide to choosing a data repository](https://ardc.edu.au/resource/guide-to-choosing-a-data-repository/)
