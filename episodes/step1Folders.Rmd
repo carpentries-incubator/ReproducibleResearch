@@ -106,7 +106,7 @@ There are a number of things to consider when naming files:
 
 - Label any dates as YYYYMMDD . This can save confusion across international collaborators, and it makes it easier to search. We'll talk about this more in the next lesson.
 
-There is an excellent list [of 13 rules for naming conventions](https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions) worth the read.
+The University of Edinburgh created an excellent list [of 13 rules for naming conventions](https://data-protection.ed.ac.uk/records-management/practical-guidance/naming-conventions).
 
 
 
