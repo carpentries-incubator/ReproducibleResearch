@@ -185,13 +185,6 @@ May be a natural space to ask people what types of data they are working with, w
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
-::::::::::::::::::::::::::::::::::::::::::::::: challenge
-
-Pizza test
-
-::::::::::::::::::::::::::::::::::::::::::::::: 
-
-
 
 ### Tracking your Analysis history
 
