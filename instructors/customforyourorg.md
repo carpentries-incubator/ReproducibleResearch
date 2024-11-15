@@ -25,24 +25,24 @@ Now log in with your new details via https://github.com/login
 
 #### 2. Let's copy (clone) the repository. 
 
-Go to https://github.com/new?template_name=ReproducibleResearch&template_owner=amandamiotto . This is the page where we tell Github to make a copy of the lessons and save it into your own account. 
+Go to https://github.com/new?template_name=ReproducibleResearch&template_owner=ampartridge . This is the page where we tell Github to make a copy of the lessons and save it into your own account. 
 
 ![](episodes/fig/CreateNew.png){alt='screenshot of the following details.'}
 
 
-The repository template should be ***"amandamiotto/ReproducibleResearch"***.
+The repository template should be ***"ampartridge/ReproducibleResearch"***.
 ***Include all branches*** should be ***unchecked***. 
 ***Owner*** should show your ***own user account name***.
-***Repository name*** will be the other part of the URL, so you may want to label it something similar to ***"ReproducibilityCourse"***. Don't use spaces, but dashes are okay.
+***Repository name*** will be the other part of the URL, so you may want to label it something similar to ***"ReproducibleResearch"***. Don't use spaces, but dashes are okay.
 ***Description*** should be meaningful.
 ***Public*** should be yes.
 
-Now click "Create reposisitory" (the green button).
+Now click "Create repository" (the green button).
 
 
 #### 3. Github will create a repository for you. 
 
-It should look the same as https://github.com/amandamiotto/ReproducibleResearch but with your username and repository name.
+It should look the same as https://github.com/ampartridge/ReproducibleResearch but with your username and repository name.
 
 ![](episodes/fig/FullSite.png){alt='screenshot of the following details.'}
 
@@ -58,7 +58,7 @@ To do this, first we go into the Settings for the repository. It will be a Cog o
 
 ![](episodes/fig/RepoSettings.png){alt='Settings Cog'}
 
-From here, we go into the Page setting.
+From here, we go into the Pages setting.
 
 ![](episodes/fig/SettingsPages.png){alt='Settings Cog'}
 
@@ -82,9 +82,9 @@ It will take another 5 minutes for Github to rebuild the website from where we t
 ![](episodes/fig/Deployment.png){alt='Showing green tick in deployment'}
 
 
-#### 5. Now to get the website of our site!
+#### 5. Now to get the URL of our site!
 
-An easy way to get the website for your repository is going through our "About" section. Click the ***cog*** next to ***About*** on the right hand panel.
+An easy way to get the URL for your repository is going through our "About" section. Click the ***cog*** next to ***About*** on the right hand panel.
 
 ![](episodes/fig/IntoSettings.png){alt='Open About Settings'}
 
@@ -98,12 +98,12 @@ Click "Save Changes".
 
 We can now see our website link under "About". Click it!
 
-Your website should now look identical to "https://amandamiotto.github.io/ReproducibleResearch/".
+Your website should now look identical to the materials used in the Reproducible Research course ("https://ampartridge.github.io/ReproducibleResearch/").
 
 
-### 6. Customising for your institute
+### 6. Customising for your context/organisation
 
-To add information that is relevant for your institute, there are a few files to edit. 
+To add information that is relevant for your context, there are a few files to edit. 
 
 Let's go back to your main code repository page. 
 https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.
