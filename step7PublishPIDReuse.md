@@ -327,8 +327,6 @@ There are a number of journals that specialise in these results.
 
 [Journal of Articles in Support of the Null Hypothesis](https://www.jasnh.com/)
 
-[The All Results Journals](https://arjournals.com/)
-
 
 ::::::::::::::::::::::::::::::::::::::::::::::: discussion
 
