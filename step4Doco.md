@@ -24,7 +24,7 @@ This is a massive lesson - you may want to put a break in the middle or just bef
 We've talked about writing down or noting a lot of information .... but where do we do this? How? What exactly should we write down?
 
 
-Some researchers may think about a lab handbook, a group instruction guide, a team wiki or a knowledge repository. In the IT and computation space, the word "Documentation" is used as a place to store all information about that project. 
+Some researchers may think about a lab handbook, a group instruction guide, a team wiki or a knowledge repository. In the IT and Computation space, the word "Documentation" is used as a place to store all information about that project. 
 
 For our purposes today, we will use "Documentation" as a place to write down notes about your work, link to important documents or share information across a research group.
 
@@ -593,7 +593,7 @@ Hollmann S, Frohme M, Endrullat C, Kremer A, D’Elia D, Regierer B, et al. (202
 
 Image:
 
-Sonja Bezjak, April Clyburne-Sherin, Philipp Conzett, Pedro Fernandes, Edit Görögh, Kerstin Helbig, Bianca Kramer, Ignasi Labastida, Kyle Niemeyer, Fotis Psomopoulos, Tony Ross-Hellauer, René Schneider, Jon Tennant, Ellen Verbakel, Helene Brinken, & Lambert Heller. (2018). Open Science Training Handbook (1.0) - File:Open Science Training Handbook 03.png[Computer software]. Zenodo. https://doi.org/10.5281/zenodo.1212496 licenced as CC0 Public Domain.
+Sonja Bezjak, April Clyburne-Sherin, Philipp Conzett, Pedro Fernandes, Edit Görögh, Kerstin Helbig, Bianca Kramer, Ignasi Labastida, Kyle Niemeyer, Fotis Psomopoulos, Tony Ross-Hellauer, René Schneider, Jon Tennant, Ellen Verbakel, Helene Brinken, & Lambert Heller. (2018). Open Science Training Handbook (1.0) - File : Open Science Training Handbook 03.png[Computer software]. Zenodo. https://doi.org/10.5281/zenodo.1212496 licenced as CC0 Public Domain.
 
 
 A shout out to the people in the Cauliflower Pizza story - Thanks for letting me share it! @amandamiotto
