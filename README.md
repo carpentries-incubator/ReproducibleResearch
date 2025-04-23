@@ -1,22 +1,20 @@
-# The Carpentries Workbench Template Markdown Lesson
+# 7 Steps towards Reproducible Research 
 
-This lesson is a template lesson that uses [The Carpentries Workbench][workbench]. 
-
-## Note about lesson life cycle stage
-Although the `config.yaml` states the life cycle stage as pre-alpha, **the template is stable and ready to use**. The life cycle stage is preset to `"pre-alpha"` as this setting is appropriate for new lessons initialised using the template.
+This lesson is a template lesson that uses [The Carpentries Workbench][workbench].
+Feel free to use it as a starter template for teaching those around you about the topics of Reproducible Research.
 
 ## Create a new repository from this template
 
 To use this template to start a new lesson repository, 
 make sure you're logged into Github.   
-Visit https://github.com/carpentries/workbench-template-md/generate
+Visit https://github.com/carpentries-incubator/ReproducibleResearch/generate
 and follow the instructions.
 Checking the 'Include all branches' option will save some time waiting for the first website build
 when your new repository is initialised.
 
-If you have any questions, contact [@tobyhodges](https://github.com/tobyhodges)
+If you have any questions, contact [@tobyhodges](https://github.com/tobyhodges) for questions about the Carpentries workbench, or [@amandamiotto](https://github.com/amandamiotto) for questions about the Reproducible Research content.
 
-## Configure a new lesson
+## Configure the repo
 
 Follow the steps below to
 complete the initial configuration of a new lesson repository built from this template:
@@ -31,7 +29,6 @@ complete the initial configuration of a new lesson repository built from this te
 1. **Adjust the `config.yaml` file:**
    this file contains global parameters for your lesson site.
    Individual fields within the file are documented with comments (beginning with `#`)
-   At minimum, you should adjust all the fields marked 'FIXME':
    - `title`
    - `created`
    - `keywords`
