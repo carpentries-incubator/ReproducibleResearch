@@ -70,13 +70,13 @@ Ask people to pick someone they interact with regularly (supervisor, student, co
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-Talk about that this scenario does happen. There could be a medical emergency such as a stroke or heart attack. They could have won the lotto. Or even been offered a fantastic opportunity overseas with little time to transfer.
+Talk about that this scenario does happen. It could be negative things ('bus factor') but also positive too! They could have been offered a fantastic opportunity with little time to transfer.
 
 Any personal stories here can also be useful if you have them, and are comfortable to share.
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
-# How to start documenting
+## How to start documenting
 
 
 Starting can be as simple as opening a word document and starting to type. 
@@ -258,43 +258,11 @@ This lead to the conversation of what a base must consist of.
 
 ***Does a base need to be a yeast based dough?*** If so, take the scenario that someone used a naan as a base - if they made a yeast based naan, it would be pizza, but a yogurt based naan wouldn't? 
 
-
-
-
-
-### Details are important!
-
-
-
-#### This shows that while we have assumptions on what is 'normal', this is skewed by our life experience, and others may not have the same 'normal'.
+Details are important! This shows that while we have assumptions on what is 'normal', this is skewed by our life experience, and others may not have the same 'normal'.
 
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::
-
-::::::::::::::::::::::::::::::::::::::::::::::: discussion
-
-## Another Example - Pineapple on Pizza
-
-If you're Australian, there's a good chance you included pineapple on your pizza. Pineapple is a common ingredient on a range of Australian pizzas, and may even accompany a Barbeque sauce in place of a tomato passata or olive oil.
-
-In fact, Hawaiian (ham, pineapple and cheese) is a popular pizza in Australia. Hawaiian Pizza was even named after the brand of canned pineapple initially used when the Hawaiian pizza was first created (by a Greek cook in Canada, inspired by the sweet and sour combination of Asian dishes). 
-
-However, if you come from Italy, none of the traditional pizzas would contain pineapple. So if you had to make a Hawaiian pizza for the first time, you may have some questions.
-
-- Do you leave the skin on?
-
-- Do you cut it in slices or chunks? How big?
-
-- Do you cook the pineapple first?
-
-
-We may underestimate or forget the extent of background knowledge we have on various topics. 
-
-
-:::::::::::::::::::::::::::::::::::::::::::::::
-
-
 
 ## The Curse of Knowledge
 
@@ -305,7 +273,6 @@ May also be referenced as Expert Bias or Curse of Expertise
 
 
 When explaining a concept, we assume that others have the same background knowledge and life experiences that we do. 
-
 
 
 However, ***this is rarely true***. 
@@ -352,7 +319,7 @@ When you are specific and detailed in your notes, _Future You_ will really appre
 
 
 
-# What do I include in my documentation?
+## What do I include in my documentation?
 
 To start with, we've already talked about the following:
 
@@ -486,13 +453,13 @@ Good place to include any Carpentry or data science introduction resources - If 
 
 
 
-# Things to consider
+## Things to consider
 
-## Media work
+### Media work
 
 If you are working with newspapers, artwork or other GLAM (Gallery, Library, Art and Museum) media, have you noted what articles were around it? What context did location add?
 
-## Passwords
+### Passwords
 
 You may want to create a team password manager, or even just a personal one, to track accounts and passwords. This should prevent losing account logins where data or analysis may have occured.
 
