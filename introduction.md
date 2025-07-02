@@ -55,7 +55,7 @@ Combining replicable and robust findings allow us to form generalisable results.
 
 :::
 
-![](https://the-turing-way.netlify.app/_images/reproducible-definition-grid.svg){alt='A grid showing the above 4 definitions'}
+![](fig/reproducible-matrix.jpg){alt='A grid showing the above 4 definitions'}
 
 
 

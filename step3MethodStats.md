@@ -22,6 +22,9 @@ While you may not be publishing all the details of your literature review, it ca
 
 - Why did you include or dismiss certain papers?
 
+Using a reference manager, such as [Zotero](https://www.zotero.org/) makes managing papers and your notes on papers much easier.
+It also means that you can automatically generate a bibliography in the required format within a paper.
+
 
 ## Preregistration
 
