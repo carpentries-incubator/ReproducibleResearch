@@ -12,7 +12,7 @@ and follow the instructions.
 Checking the 'Include all branches' option will save some time waiting for the first website build
 when your new repository is initialised.
 
-If you have any questions, contact [@tobyhodges](https://github.com/tobyhodges) for questions about the Carpentries workbench, or [@amandamiotto](https://github.com/amandamiotto) for questions about the Reproducible Research content.
+If you have any questions, contact [@tobyhodges](https://github.com/tobyhodges) for questions about the Carpentries workbench, or [@da5nsy](https://github.com/da5nsy) for questions about the Reproducible Research content.
 
 ## Configure the repo
 
