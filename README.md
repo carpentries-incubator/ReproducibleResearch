@@ -1,3 +1,5 @@
+To see the rendered version of this repo please visit: https://carpentries-incubator.github.io/ReproducibleResearch/
+
 # 7 Steps towards Reproducible Research 
 
 This lesson is a template lesson that uses [The Carpentries Workbench][workbench].
