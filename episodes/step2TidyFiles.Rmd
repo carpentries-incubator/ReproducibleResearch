@@ -83,10 +83,10 @@ Let's look at a tidy example:
     <td>170</td>
     <td>Kessels</td>
     <td>Road</td>
-    <td></td>
     <td>Nathan</td>
     <td>Qld</td>
     <td>4111</td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
