@@ -176,13 +176,28 @@ Questions you could ask are:
 
 ### What is happening on the global scale
 
-[UKRN](https://www.ukrn.org/) is the UK Reproducibility Network
+::: tab
 
-[AUS-RN](https://www.aus-rn.org/aus-rn-events) is the Australian Reproducibility network.
+#### Reproducibility Network
+
+- [UKRN](https://www.ukrn.org/) is the UK Reproducibility Network.
+- [AUS-RN](https://www.aus-rn.org/aus-rn-events) is the Australian Reproducibility Network.
+- [GRN](https://reproducibilitynetwork.de/) is the German Reproducibility Network.
+
+A [extensive list](https://reproducibility.global/global-network) is maintained by Global Federation of Reproducibilty Networks.
+
+#### ReproducibiliTEA
 
 [ReproducibiliTEA](https://reproducibilitea.org/) - A grassroots journal club initiative, focusing on open science, ideas on improving science and reproducibility.
 
+#### Research Software Engineer
 
+#### Others
+
+- [Digital Research Academy](https://digital-research.academy/) (DRA)
+- [Open Life Science](https://we-are-ols.org/) (OLS)
+
+:::
 
 #### What can we change?
 
