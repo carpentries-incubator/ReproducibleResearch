@@ -455,9 +455,7 @@ You may want to create a team password manager, or even just a personal one, to 
 
 :::::::::::::::::::::::::::::: challenge
 
-Another scenario 
-
-#### You are contacted about a paper you published 2 years ago, as a similar paper was published with contradicting results. 
+Another scenario: "you are contacted about a paper you published 2 years ago, as a similar paper was published with contradicting results."
 
 How do you show your workings?
 
