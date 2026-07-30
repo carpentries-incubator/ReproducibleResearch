@@ -1,0 +1,9 @@
+
+
+<!-- This is where you can write information on your organisation's data management and data management plan webpage and support contacts. Replace the text below with anything you like, and it will appear in relevant places in the lessons.
+
+This information will appear on https://amandamiotto.github.io/ReproducibleResearch/instructor/step1Folders.html#data-management-plan
+-->
+
+Contact your institute's library or research office to find out more about data management and data management plans at your organisation.
+
