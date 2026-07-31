@@ -53,7 +53,7 @@ Again, R and Python have real strengths here, to have a list of tests you can ru
 As per the following paper:
 Ziemann, M., Eren, Y. & El-Osta, A. Gene name errors are widespread in the scientific literature. Genome Biol 17, 177 (2016). https://doi.org/10.1186/s13059-016-1044-7 licenced as CC-BY 4.0
 
-" The spreadsheet software Microsoft Excel, when used with default settings, is known to convert gene names to dates and floating-point numbers. A programmatic scan of leading genomics journals reveals that approximately one-fifth of papers with supplementary Excel gene lists contain erroneous gene name conversions."
+"The spreadsheet software Microsoft Excel, when used with default settings, is known to convert gene names to dates and floating-point numbers. A programmatic scan of leading genomics journals reveals that approximately one-fifth of papers with supplementary Excel gene lists contain erroneous gene name conversions."
 
 
 In a follow up story:
@@ -313,7 +313,7 @@ You can use the first number as a major step in versions (for example, Draft v1.
 
 If you are using R or Python, your next best friend is Git. 
 
-Git is a program to track changes in your code. You may have heard of Github or Gitlab - these are cloud platforms that use the Git program to track your code as you write it.
+Git is a program to track changes in your code. You may have heard of Github or GitLab - these are cloud platforms that use the Git program to track your code as you write it.
 
 Sharing your analysis pipeline then becomes easy. You can even write reports with both plain text, R or Python code and the results in graphs in platforms such as Jupyter.
 
