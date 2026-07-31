@@ -151,7 +151,7 @@ This is a good time to set expectations in your research group, such as :
 
 - How does hardware hire/booking work?
 
-[What to include and examples can be found here](https://elifesciences.org/articles/79627)
+[Explore examples of research group onboarding documentation](https://elifesciences.org/articles/79627)
 
 
 #### Offboarding
@@ -508,7 +508,7 @@ Time to ***get detailed***. Add some of the information from [Expanding into det
 
 Here is a guide to [Documentation and Metadata](https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/Documentation-and-metadata)
 
-You can find a list of [eLabnotebooks here](https://en.wikipedia.org/wiki/List_of_electronic_laboratory_notebook_software_packages).
+You can find a [list of electronic laboratory notebook software packages](https://en.wikipedia.org/wiki/List_of_electronic_laboratory_notebook_software_packages).
 
 
 
