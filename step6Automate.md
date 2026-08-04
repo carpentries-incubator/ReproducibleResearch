@@ -165,8 +165,6 @@ Keep automating! It may be worth talking to your organisation's technical team t
 
 
 
-::::::::::::::::::::::::::::::::::::::::::::::: callout
-
 ## References
 
 
@@ -174,8 +172,6 @@ Data Carpentry Reproducible Research Committee. "Automation for Reproducible Res
 
 The Turing Way Community. (updated 2023) Citing Research Objects . Github.com Retrieved April 11, 2024, from https://the-turing-way.netlify.app/communication/citable/citable-cite licenced under CC-BY 4.0 licence
 
-
-:::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::: keypoints
 

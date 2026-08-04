@@ -548,8 +548,6 @@ Bergen, Norway: CESSDA ERIC. Retrieved from https://dmeg.cessda.eu/ CESSDA Train
 
 :::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::::::::::::: callout
-
 ## References
 
 
@@ -557,14 +555,12 @@ Bergen, Norway: CESSDA ERIC. Retrieved from https://dmeg.cessda.eu/ CESSDA Train
 Hollmann S, Frohme M, Endrullat C, Kremer A, D’Elia D, Regierer B, et al. (2020) Ten simple rules on how to write a standard operating procedure. PLoS Comput Biol 16(9): e1008095. https://doi.org/10.1371/journal.pcbi.1008095 published with a CC-BY licence.
 
 
-Image:
+### Image
 
 Sonja Bezjak, April Clyburne-Sherin, Philipp Conzett, Pedro Fernandes, Edit Görögh, Kerstin Helbig, Bianca Kramer, Ignasi Labastida, Kyle Niemeyer, Fotis Psomopoulos, Tony Ross-Hellauer, René Schneider, Jon Tennant, Ellen Verbakel, Helene Brinken, & Lambert Heller. (2018). Open Science Training Handbook (1.0) - File : Open Science Training Handbook 03.png[Computer software]. Zenodo. https://doi.org/10.5281/zenodo.1212496 licenced as CC0 Public Domain.
 
 
 A shout out to the people in the Cauliflower Pizza story - Thanks for letting me share it! @amandamiotto
-
-:::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::: keypoints
 
