@@ -271,12 +271,21 @@
 <div class="accordion accordion-flush" id="accordionFlushcurrent">
   <div class="accordion-item">
     <div class="accordion-header" id="flush-headingcurrent">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsecurrent" aria-expanded="true" aria-controls="flush-collapsecurrent">
         <span class="visually-hidden">Current Chapter</span>
         <span class="current-chapter">
         Step 6 - Automation
         </span>
-      
+      </button>
     </div><!--/div.accordion-header-->
+
+    <div id="flush-collapsecurrent" class="accordion-collapse collapse show" data-bs-parent="#accordionFlushcurrent">
+      <div class="accordion-body">
+        <ul><li><a href="#can-you-automate-any-repetitive-tasks">Can you automate any repetitive tasks?</a></li>
+<li><a href="#what-is-your-next-step">What is your next step?</a></li>
+<li><a href="#references">References</a></li>
+        </ul></div><!--/div.accordion-body-->
+    </div><!--/div.accordion-collapse-->
 
   </div><!--/div.accordion-item-->
 </div><!--/div.accordion-flush-->
@@ -369,33 +378,32 @@
 
         
 
-<div class="section level1">
-<h1 id="can-you-automate-any-repetitive-tasks">Can you automate any repetitive tasks?<a class="anchor" aria-label="anchor" href="#can-you-automate-any-repetitive-tasks"></a></h1>
 <p>Often, tasks that need to be done over and over again by a human can
 be opportunities for human error to sneak in. Setting up an automated
 way of doing this can eliminate this issue.</p>
 <p><strong><em>It can save you time, energy and mental
 load.</em></strong></p>
-<p>Automation doesn’t need to be fancy. Working on small incremental
+<section><h2 class="section-heading" id="can-you-automate-any-repetitive-tasks">Can you automate any repetitive tasks?<a class="anchor" aria-label="anchor" href="#can-you-automate-any-repetitive-tasks"></a></h2>
+<hr class="half-width"><p>Automation doesn’t need to be fancy. Working on small incremental
 automated improvements over time is perfect.</p>
 <p>Coding allows you to be very automated, but there are tools you can
-use that don’t need coding:</p>
+use that don’t need coding, for example:</p>
 <ul><li><p><a href="https://support.apple.com/en-au/guide/automator/welcome/mac" class="external-link">MacOS
 Automator</a></p></li>
 <li><p><a href="https://powerautomate.microsoft.com/en-us/blog/automate-tasks-with-power-automate-desktop-for-windows-10-no-additional-cost/" class="external-link">Microsoft
 Power Automate</a></p></li>
+<li><p><a href="https://n8n.io/" class="external-link">n8n</a></p></li>
 <li><p>Any Spreadsheet Macros and formulas</p></li>
-<li><p>Workflow systems such as <a href="https://www.knime.com/" class="external-link">KNIME</a> and <a href="https://orangedatamining.com/" class="external-link">Orange Data Mining</a></p></li>
-</ul><p>There are many other workflow automation platforms out there.</p>
-<p>Even having an automated Sync client for your backups is a form of
+<li><p>Workflow systems such as <a href="https://www.knime.com/" class="external-link">KNIME</a>, <a href="https://orangedatamining.com/" class="external-link">Orange Data Mining</a>, and <a href="https://www.cynkra.com/blockr/" class="external-link">blockr</a></p></li>
+</ul><p>Even having an automated sync client for your backups is a form of
 automation!</p>
-<div id="idea---contact-me-form" class="callout discussion">
+<div id="contact-me-form" class="callout discussion">
 <div class="callout-square">
 <i class="callout-icon" data-feather="message-circle"></i>
 </div>
 <span class="callout-header">Discussion</span>
-<div id="idea---contact-me-form" class="callout-inner">
-<h3 class="callout-title">Idea - Contact me form</h3>
+<div id="contact-me-form" class="callout-inner">
+<h3 class="callout-title">Contact me form</h3>
 <div class="callout-content">
 <p>It could be a link in your work that directs to a ‘Contact me’ form
 or a ‘book a time with me’ system.</p>
@@ -427,13 +435,13 @@ useful when you are applying for the next round of grants.</p>
 </div>
 </div>
 </div>
-<div id="idea---automated-systematic-review" class="callout discussion">
+<div id="systematic-review" class="callout discussion">
 <div class="callout-square">
 <i class="callout-icon" data-feather="message-circle"></i>
 </div>
 <span class="callout-header">Discussion</span>
-<div id="idea---automated-systematic-review" class="callout-inner">
-<h3 class="callout-title">Idea - Automated systematic review</h3>
+<div id="systematic-review" class="callout-inner">
+<h3 class="callout-title">Systematic review</h3>
 <div class="callout-content">
 <p>There are a number of tools available that can help you to conduct
 systematic literature reviews, including automation tools.</p>
@@ -445,13 +453,13 @@ available.</p>
 </div>
 </div>
 </div>
-<div id="idea---photos-and-videos" class="callout discussion">
+<div id="photos-and-videos" class="callout discussion">
 <div class="callout-square">
 <i class="callout-icon" data-feather="message-circle"></i>
 </div>
 <span class="callout-header">Discussion</span>
-<div id="idea---photos-and-videos" class="callout-inner">
-<h3 class="callout-title">Idea - Photos and Videos</h3>
+<div id="photos-and-videos" class="callout-inner">
+<h3 class="callout-title">Photos and videos</h3>
 <div class="callout-content">
 <p>If you are taking photos and want to automatically convert them, it
 may be worth looking into <a href="https://www.apple.com/sg/pro/photo/automation/renameconvertcaption.html" class="external-link">MacOS
@@ -467,13 +475,13 @@ format.</p>
 </div>
 </div>
 </div>
-<div id="idea---survey" class="callout discussion">
+<div id="survey" class="callout discussion">
 <div class="callout-square">
 <i class="callout-icon" data-feather="message-circle"></i>
 </div>
 <span class="callout-header">Discussion</span>
-<div id="idea---survey" class="callout-inner">
-<h3 class="callout-title">Idea - Survey</h3>
+<div id="survey" class="callout-inner">
+<h3 class="callout-title">Survey</h3>
 <div class="callout-content">
 <p>Does your survey tool allow for automatic reminders to be sent to
 those who have not completed your survey?</p>
@@ -484,13 +492,13 @@ surveys, growing your sample size.</p>
 </div>
 </div>
 </div>
-<div id="idea---automated-sentiment-analysis" class="callout discussion">
+<div id="sentiment-analysis" class="callout discussion">
 <div class="callout-square">
 <i class="callout-icon" data-feather="message-circle"></i>
 </div>
 <span class="callout-header">Discussion</span>
-<div id="idea---automated-sentiment-analysis" class="callout-inner">
-<h3 class="callout-title">Idea - Automated Sentiment Analysis</h3>
+<div id="sentiment-analysis" class="callout-inner">
+<h3 class="callout-title">Sentiment analysis</h3>
 <div class="callout-content">
 <p>You could use a tool such as NLTK and Python to automate your
 sentiment analysis in a reproducible way.</p>
@@ -501,14 +509,13 @@ Creative Commons Attribution 3.0 licence</p>
 </div>
 </div>
 </div>
-<div id="idea---take-data-and-automate-reportsgraphs" class="callout discussion">
+<div id="reports-and-graphs" class="callout discussion">
 <div class="callout-square">
 <i class="callout-icon" data-feather="message-circle"></i>
 </div>
 <span class="callout-header">Discussion</span>
-<div id="idea---take-data-and-automate-reportsgraphs" class="callout-inner">
-<h3 class="callout-title">Idea - Take data and automate
-reports/graphs</h3>
+<div id="reports-and-graphs" class="callout-inner">
+<h3 class="callout-title">Reports and graphs</h3>
 <div class="callout-content">
 <p>If you are regularly taking in new data from external sources
 (sensor, DNA expression, weather mapping etc), you can use <a href="https://kbroman.org/knitr_knutshell/" class="external-link">R</a> or <a href="https://docs.jupyter.org/en/latest/" class="external-link">Python with Jupyter</a> to
@@ -522,10 +529,8 @@ data.</p>
 </div>
 </div>
 
-</div>
-<div class="section level1">
-<h1 id="what-is-your-next-step">What is your next step?<a class="anchor" aria-label="anchor" href="#what-is-your-next-step"></a></h1>
-<div class="tabs">
+</section><section><h2 class="section-heading" id="what-is-your-next-step">What is your next step?<a class="anchor" aria-label="anchor" href="#what-is-your-next-step"></a></h2>
+<hr class="half-width"><div class="tabs">
 <nav><div id="nav-tab-1" class="nav nav-tabs" role="tablist">
 <button class="nav-link active" id="nav-tab-1-1" data-bs-toggle="tab" data-bs-target="#nav-tabpanel-1-1" type="button" role="tab" aria-controls="nav-tabpanel-1-1" aria-selected="true">
   <h3 class="tab-header" id="nav-tab-heading-1-1">
@@ -551,52 +556,40 @@ could suggest for your workflow.</p>
 </div>
 </div>
 </div>
-<div class="section level2">
-<h2 id="references">References<a class="anchor" aria-label="anchor" href="#references"></a></h2>
-<p>Data Carpentry Reproducible Research Committee. “Automation for
+</section><section><h2 class="section-heading" id="references">References<a class="anchor" aria-label="anchor" href="#references"></a></h2>
+<hr class="half-width"><p>Data Carpentry Reproducible Research Committee. “Automation for
 Reproducible Research.” Version 2016.1, December 2016. Retrieved on
 2024-04-17 at <a href="https://datacarpentry.org/rr-automation/" class="external-link uri">https://datacarpentry.org/rr-automation/</a> licenced as
 CC-BY 4.0</p>
 <p>The Turing Way Community. (updated 2023) Citing Research Objects .
 Github.com Retrieved April 11, 2024, from <a href="https://the-turing-way.netlify.app/communication/citable/citable-cite" class="external-link uri">https://the-turing-way.netlify.app/communication/citable/citable-cite</a>
 licenced under CC-BY 4.0 licence</p>
-<div id="in-this-lesson-we-have-learnt" class="callout keypoints">
+<div id="keypoints1" class="callout keypoints">
 <div class="callout-square">
 <i class="callout-icon" data-feather="key"></i>
 </div>
 <span class="callout-header">Key Points</span>
-<div id="in-this-lesson-we-have-learnt" class="callout-inner">
-<h3 class="callout-title">In this lesson, we have learnt:</h3>
+<div class="callout-inner">
 <div class="callout-content">
+<p>In this lesson, we have learnt:</p>
 <ul><li><p>Why automation can be beneficial</p></li>
 <li><p>What tools are useful for automation</p></li>
 <li><p>Ideas on what to automate</p></li>
-</ul><div class="section level4">
-<h4 id="we-build-trust-in-our-knowledge-by">We build trust in our knowledge by:<a class="anchor" aria-label="anchor" href="#we-build-trust-in-our-knowledge-by"></a></h4>
-<p>Showing how we automated work, to eliminate human error</p>
-</div>
-<div class="section level4">
-<h4 id="we-retain-knowledge-using">We retain knowledge using:<a class="anchor" aria-label="anchor" href="#we-retain-knowledge-using"></a></h4>
-<p>Keeping a copy of these automations</p>
-</div>
-<div class="section level4">
-<h4 id="we-build-business-continuity-by">We build business continuity by:<a class="anchor" aria-label="anchor" href="#we-build-business-continuity-by"></a></h4>
-<p>Having an automation, so that you are not relying on a staff member
-to perform this job.</p>
-</div>
-</div>
+</ul><p>We build trust in our knowledge by:</p>
+<ul><li>Showing how we automated work, to eliminate human error</li>
+</ul><p>We retain knowledge using:</p>
+<ul><li>Keeping a copy of these automations</li>
+</ul><p>We build business continuity by:</p>
+<ul><li>Having an automation, so that you are not relying on a staff member
+to perform this job.</li>
+</ul></div>
 </div>
 </div>
 <!--
 Place links that you need to refer to multiple times across pages here. Delete
 any links that you are not going to use.
  -->
-</div>
-</div>
-
-
-
-      </div> <!-- / div.lesson-content -->
+</section></div> <!-- / div.lesson-content -->
     </main><!-- / main#main-content.main-content --><nav class="bottom-pagination mx-md-4" aria-label="Previous and Next Chapter Bottom"><div class="d-block d-sm-block d-md-none">
         <a class="chapter-link" href="step5Testing.html"><i aria-hidden="true" class="small-arrow" data-feather="arrow-left"></i>Previous</a>
         <a class="chapter-link float-end" href="step7PublishPIDReuse.html">Next<i aria-hidden="true" class="small-arrow" data-feather="arrow-right"></i></a>
