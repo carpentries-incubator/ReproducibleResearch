@@ -142,8 +142,6 @@ Get started on publishing that protocol and prepublication! You can use  [How to
 
 
 
-::::::::::::::::::::::::::::::::::::::::::::::: callout
-
 ## References
 
 The Turing Way Community. (updated 2023) Methods and Protocols . Github.com Retrieved April 11, 2024, from https://book.the-turing-way.org/reproducible-research/rdm/rdm-methods.html?highlight=protocol#open-methods-protocols licenced under CC-BY 4.0 licence
@@ -153,8 +151,6 @@ Center for Open Science (updated 2024) Home. COS Retrieved April 11, 2024 from h
 Center for Open Science (updated 2024) Registered Reports. COS Retrieved April 11, 2024 from https://www.cos.io/initiatives/registered-reports licenced under CC-BY 4.0 licence
 
 
-
-:::::::::::::::::::::::::::::::::::::::::::::::
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: keypoints

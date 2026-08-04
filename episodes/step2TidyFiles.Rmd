@@ -293,8 +293,6 @@ You can start to work in a data science language such as R or Python. [The Carpe
 
 
 
-::::::::::::::::::::::::::::::::::::::::::::::: callout
-
 ## References
 
 Wickham, H. . (2014). Tidy Data. Journal of Statistical Software, 59(10), 1–23. https://doi.org/10.18637/jss.v059.i10 licenced as Creative Commons Attribution License (CC-BY)
@@ -308,7 +306,6 @@ Kang H. The prevention and handling of the missing data. Korean J Anesthesiol. 2
 
 
 
-:::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::: keypoints
 
