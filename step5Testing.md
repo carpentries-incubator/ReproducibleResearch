@@ -141,7 +141,7 @@ Consider your 'consumables' - Have your reagents gone out of date? Stored and la
 
 
 
-# Providing Authenticity and Validity
+## Providing Authenticity and Validity
 
 
 ### Data lineage
@@ -247,7 +247,7 @@ technical formulae and change to test hypotheses
 
 :::::::::::::::::::::::::::::::::::::::: testimonial
 
-***Publishing these pipelines, either as part of your publication, as a protocol or in a public repository such as OSF, Github or similar improves your reproducibility, and provides others a greater understanding of your work.***
+***Publishing these pipelines, either as part of your publication, as a protocol or in a public repository such as OSF, GitHub or similar improves your reproducibility, and provides others a greater understanding of your work.***
 
 
 
@@ -320,7 +320,7 @@ Sharing your analysis pipeline then becomes easy. You can even write reports wit
 
 ::::::::::::::::::::::::::::::::::::::::::::::: callout
 
-### To learn more about Git
+### Learn more about Git
 
 [The British Ecological Society](https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf) has a great Git tutorial under 'Version Control'.
 
@@ -346,7 +346,7 @@ The following paper may be useful to learn about ML platforms and reproducibilit
 
 
 
-# What is your next step?
+## What is your next step?
 
 ::: tab 
 
@@ -372,7 +372,6 @@ Your next move can be:
 
 :::
 
-::::::::::::::::::::::::::::::::::::::::::::::: callout
 
 ## Resources
 
@@ -386,8 +385,6 @@ ADACS-Australia/good-code-etiquette. Manodeep Sinha, Paul Hancock, Rebecca Lange
 
 
 R-Pkgs Hadley Wickham and Jennifer Bryan (2024) '13 Testing basics' Retrieved on 2024-04-17 https://r-pkgs.org/testing-basics.html licenced as CC BY-NC-ND 4.0
-
-::::::::::::::::::::::::::::::::::::::::::::::: 
 
 
 ## References
@@ -403,7 +400,7 @@ Abeysooriya M, Soria M, Kasu MS, Ziemann M (2021) Gene name errors: Lessons not 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: keypoints
 
-### In this lesson, we have learnt:
+In this lesson, we have learnt:
 
 - Why we should be checking our data for validity and integrity during processing
 
@@ -420,14 +417,14 @@ Abeysooriya M, Soria M, Kasu MS, Ziemann M (2021) Gene name errors: Lessons not 
 - That version control is a way to track changes over time
 
 
-#### We build trust in our knowledge by:
+We build trust in our knowledge by:
 
 - We are testing our data for validity and integrity - and being able to show how we are testing!
 
 - We are tracking our versions of software, hardware and analysis pipelines, so that it is easier to reproduce later
 
 
-#### We retain knowledge using:
+We retain knowledge using:
 
 - Tracking metadata about our data (for example, where did an image come from? Who originally made the dataset?) for later reference
 
@@ -437,7 +434,7 @@ Abeysooriya M, Soria M, Kasu MS, Ziemann M (2021) Gene name errors: Lessons not 
 
 
 
-#### We build business continuity by:
+We build business continuity by:
 
 - Keeping versions of our analysis pipeline, so that it is clear what the latest version of the analysis pipeline was
 
