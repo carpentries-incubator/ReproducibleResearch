@@ -1,0 +1,5 @@
+<!-- Include information about your commercialisation team here.
+
+It will appear in the licencing section of https://[yourRepo].github.io/ReproducibleResearch/instructor/step7PublishPIDReuse.html
+-->
+
