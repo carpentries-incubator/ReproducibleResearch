@@ -258,7 +258,7 @@ create a citation for your work.
 ```{r child="files/dataDeposit.Rmd"}
 ```
 
-[Read a guide to choosing a data repository](https://ardc.edu.au/resource/guide-to-choosing-a-data-repository/)
+[Guide to choosing a data repository](https://ardc.edu.au/resource/guide-to-choosing-a-data-repository/)
 
 Some repositories include:
 
