@@ -44,19 +44,17 @@ This information will appear on https://amandamiotto.github.io/ReproducibleResea
 -->
 
 
-# Persistent Identifiers
+## Persistent Identifiers
 
 
 
-## Identifiers vs Persistent Identifiers
-
-### What is the difference?
+### Identifiers vs Persistent Identifiers
 
 ***An identifier*** is any label used to name an item (whether digital or physical). URLs and serial numbers are an examples of digital identifiers. Personal names are also identifiers, but are not necessarily unique as you may share the same name with other researchers around the world.
 
 Examples of identifiers:
 
-URL: https://www.griffith.edu.au/eresearch-services/hacky-hour would direct to the correct website.... until the team got renamed during a restructure.
+URL: https://www.griffith.edu.au/eresearch-services/hacky-hour would direct to the correct website until the team got renamed during a restructure.
 
 Barcode: 32888493 may work in a lab, however may not be unique outside a lab. Or the product making the barcode may be discontinued.
 
@@ -72,7 +70,7 @@ This video from [Research Data Netherlands](https://www.youtube.com/watch?v=Pgqt
 
 Let's go into these in more detail.
 
-#### Digital Object Identifiers (DOIs) - Identify information
+### Identify (research) object - DOI
 
 Digital Object Identifiers (DOIs) are used to uniquely identify digital research objects, and provide a persistent link to the location of the object on the internet. They also enable citation and tracking of citation metrics.
 
@@ -80,9 +78,9 @@ A DOI is a unique alphanumeric string that identifies content and provides a per
 
 They are the global standard for digital scholarly publications. 
 
-A DOI looks like this: https://doi.org/10.31219/osf.io/8v2n7
+A DOI looks like [10.31219/osf.io/8v2n7](https://doi.org/10.31219/osf.io/8v2n7).
 
-##### Minting DOI
+#### Minting DOI
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
@@ -106,13 +104,13 @@ Journal publishers assign DOIs to electronic versions of individual articles & d
 In addition, [Open Science Framework](https://help.osf.io/article/220-create-dois) can mint a DOI for your repository.
 
 
-#### ORCID - Identify a person
+### Identify a person - ORCID
 
-ORCID [Open Researcher and Contributor ID](https://info.orcid.org/researchers/) provides a persistent digital identifier (an ORCID iD) that you own and control, and that distinguishes you from every other researcher. 
+ORCID [Open Researcher and Contributor ID](https://info.orcid.org/researchers/) provides a persistent digital identifier that you own and control, and that distinguishes you from every other researcher. 
 
 You can connect your ID with your professional information — affiliations, grants, publications, peer review, and more. You can use your ID to share your information with other systems, ensuring you get recognition for all your contributions, saving you time and hassle, and reducing the risk of errors.
 
-An ORCID looks like https://orcid.org/0000-0002-0838-1771 .
+An ORCID looks like [0000-0002-0838-1771](https://orcid.org/0000-0002-0838-1771).
 
 
 This can assist people to find you :
@@ -125,7 +123,7 @@ This can assist people to find you :
 
 
 
-# Deposit your final data/analysis
+## Deposit your final data/analysis
 
 Let's get your work deposited so that others may access it.
 
@@ -138,7 +136,7 @@ Let's look at our options.
 
 :::::::::::::::::::::::::::::::::::::::::::::::
 
-# Open vs FAIR vs Can't share
+### Open vs FAIR vs Can't share
 
 Firstly, if you can share your work openly - Great!
 
@@ -195,7 +193,7 @@ Mediation of access can include caveats such as the need for a Data Transfer Agr
 
 [Learn more about FAIR data](https://ardc.edu.au/resource/fair-data/)
 
-## FAIR Data
+### FAIR Data
 
 ![](episodes/fig/FAIRnessOfData.png){alt='FAIR as images'}
 
@@ -203,30 +201,28 @@ Mediation of access can include caveats such as the need for a Data Transfer Agr
 ::: tab 
 
 
-### Findable
+#### Findable
 
 The data has sufficiently rich metadata and a unique and persistent identifier to be easily discovered by others. This includes assigning a persistent identifier (like a DOI or Handle), having rich metadata to describe the data and making sure it is findable through disciplinary local or international discovery portals.
 
 
-### Accessible
+#### Accessible
 
 The data is retrievable by humans and machines through a standardised communication protocol, with authentication and authorisation where necessary. The data does not necessarily have to be open. Data can be sensitive due to privacy concerns, national security or commercial interests. When it’s not able to be open, there should be clarity and transparency around the conditions governing access and reuse.
 
 
-### Interoperable
+#### Interoperable
 
 The associated data and metadata uses a ‘formal, accessible, shared, and broadly applicable language for knowledge representation’. This involves using community accepted languages, formats and vocabularies in the data and metadata. Metadata should reference and describe relationships to other data, metadata and information through identifiers.
 
 
-### Reusable
+#### Reusable
 
 The associated metadata provides rich and accurate information, and the data comes with a  clear usage licence and detailed provenance information. Reusable data should maintain its initial richness. For example, it should not be diminished for the purpose of explaining the findings in one particular publication. It needs a clear machine readable licence and provenance information on how the data was formed. It should also use discipline-specific data and metadata standards to give it rich contextual information that will allow reuse.
 
-###
-
 :::
 
-# Licensing
+### Licensing
 
 When publishing supplimentary data, or wanting to share code, analysis pipelines, any datasets or other grey outputs, it is incredibly important to attach a license.
 
@@ -284,7 +280,7 @@ Here's a great guide on [Publishing with sensitive data](https://ardc.edu.au/res
 :::::::::::::::::::::::::::::::::::::::::::::::
 
 
-# Where to deposit?
+### Where to deposit?
 
 Deposit final state data to support your publications in an
 institutional or discipline data repository which can mint a DOI and
@@ -313,7 +309,7 @@ Can you also publish your raw data?
 
 
 
-### Publishing negative results
+## Publishing negative results
 
 While it can be disheartening to get negative results, these results are still beneficial to the research community at large. 
 
@@ -343,7 +339,7 @@ There are a number of journals that specialise in these results.
 
 ::::::::::::::::::::::::::::::::::::::::::::::: challenge
 
-## What if a collaborative relationship sours?
+### What if a collaborative relationship sours?
 
 Imagine you have been working with a collaborative partner in a different organisation. As you finish your project, they state that they are no longer interested in working together and are going to apply for the next grant with another partner.
 
@@ -368,31 +364,7 @@ We've licensed our pipelines and data to specify whether it can be reused or if 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
-::::::::::::::::::::::::::::::::::::::::::::::: discussion
-
-### Useful Resources
-
-[Ten simple rules for improving research data discovery](https://doi.org/10.1371/journal.pcbi.1009768)
-
-
-[Ten simple rules for getting and giving credit for data](https://doi.org/10.1371/journal.pcbi.1010476)
-
-[Citing Software by ARDC](https://ardc.edu.au/resource/citing-software/)
-
-
-[Publishing a Jupyter notebook in a Findable, Accessible, Interoperable and Reusable (FAIR) way](https://ardc.edu.au/resource/fair-for-jupyter-notebooks-a-practical-guide/)
-
-
-[Discontinuing a research software project?](https://bssw.io/blog_posts/discontinuing-a-research-software-project)
-
-CESSDA Training Team (2017 - 2022). CESSDA Data Management Expert Guide. Bergen, Norway: CESSDA ERIC. Retrieved from https://dmeg.cessda.eu/Data-Management-Expert-Guide/6.-Archive-Publish licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
-
-DOI Decision Tree for Data Managers Retrieved on 2024-04-17 at https://ardc.edu.au/resource/doi-decision-tree/ licenced as CC BY 4.0 as per https://au.creativecommons.net/attributing-cc-materials/
-
-
-:::::::::::::::::::::::::::::::::::::::::::::::
-
-# What is your next step?
+## What is your next step?
 
 ::: tab 
 
@@ -411,6 +383,25 @@ Prepare your data, analysis pipelines/protocols and materials for FAIR or open p
 
 :::
 
+
+## Useful Resources
+
+[Ten simple rules for improving research data discovery](https://doi.org/10.1371/journal.pcbi.1009768)
+
+
+[Ten simple rules for getting and giving credit for data](https://doi.org/10.1371/journal.pcbi.1010476)
+
+[Citing Software by ARDC](https://ardc.edu.au/resource/citing-software/)
+
+
+[Publishing a Jupyter notebook in a Findable, Accessible, Interoperable and Reusable (FAIR) way](https://ardc.edu.au/resource/fair-for-jupyter-notebooks-a-practical-guide/)
+
+
+[Discontinuing a research software project?](https://bssw.io/blog_posts/discontinuing-a-research-software-project)
+
+CESSDA Training Team (2017 - 2022). CESSDA Data Management Expert Guide. Bergen, Norway: CESSDA ERIC. Retrieved from https://dmeg.cessda.eu/Data-Management-Expert-Guide/6.-Archive-Publish licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+DOI Decision Tree for Data Managers Retrieved on 2024-04-17 at https://ardc.edu.au/resource/doi-decision-tree/ licenced as CC BY 4.0 as per https://au.creativecommons.net/attributing-cc-materials/
 
 
 ## References
@@ -434,7 +425,7 @@ Wood-Charlson EM, Crockett Z, Erdmann C, Arkin AP, Robinson CB (2022) Ten simple
 
 ::::::::::::::::::::::::::::::::::::::::::::::: keypoints
 
-### In this lesson, we have learnt:
+In this lesson, we have learnt:
 
 - What the difference is between an identifier and a persistent identifier
 
@@ -453,7 +444,7 @@ Wood-Charlson EM, Crockett Z, Erdmann C, Arkin AP, Robinson CB (2022) Ten simple
 - Negative results and how this still can be important to publish
 
 
-#### We build trust in our knowledge by:
+We build trust in our knowledge by:
 
 - Publishing our data with a license, so that others can reuse it
 
@@ -462,7 +453,7 @@ Wood-Charlson EM, Crockett Z, Erdmann C, Arkin AP, Robinson CB (2022) Ten simple
 - Helping people track who you are via an ORCID id
 
 
-#### We retain knowledge using:
+We retain knowledge using:
 
 - Having our datasets saved with persistent URL links, so that they are never lost.
 
@@ -470,9 +461,9 @@ Wood-Charlson EM, Crockett Z, Erdmann C, Arkin AP, Robinson CB (2022) Ten simple
 
 
 
-#### We build business continuity by:
+We build business continuity by:
 
-Attaching persistent identifiers to our data when publishing datasets, so that others in the team can reference them
+- Attaching persistent identifiers to our data when publishing datasets, so that others in the team can reference them
 
 
 
