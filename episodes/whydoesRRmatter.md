@@ -21,7 +21,7 @@ But how does our audience know this? A number of mechanisms are already in place
 
 Another way we ensure our research credibility is reproducibility - can someone repeat your work and end up at the same conclusion? Knowledge should be reproducible. 
 
-This also has the added benefit of encouraging reuse of the data and research methods - with research being a costly exercise, often at government (and general public) expense, producing quality results and enabling reuse is our responsibilty to the world. 
+This also has the added benefit of encouraging reuse of the data and research methods - with research being a costly exercise, often at government (and general public) expense, producing quality results and enabling reuse is our responsibility to the world. 
 
 ![](episodes/fig/findingdata.jpeg){alt='a person looking for data through binoculars'}
 
@@ -37,7 +37,7 @@ Aligned to that, how do we retain this knowledge in the long term, so it can be 
 
 ::::::::::::::::::::::::::::::::::::: discussion
 
-#### Nature paper - 1,500 scientists lift the lid on reproducibility
+### Nature paper - 1,500 scientists lift the lid on reproducibility
 
 In the Nature paper "1,500 scientists lift the lid on reproducibility", researchers were surveyed about reproducibility.
 
@@ -63,11 +63,9 @@ A number of interesting insights came from this study:
 
 :::::::::::::::::::::::::::::::::::::
 
-Let's take another example. 
-
 ::::::::::::::::::::::::::::::::::::: discussion
 
-#### The Reproducibility Project: Cancer Biology
+### The Reproducibility Project: Cancer Biology
 
 
 The Reproducibility Project: Cancer Biology was an 8-year effort to replicate experiments from high-impact cancer biology papers published between 2010 and 2012. The project was a collaboration between the Center of Open Science and Science Exchange.
@@ -90,19 +88,21 @@ When preparing replications of 193 experiments from 53 papers there were a numbe
 
 
 
+::::::::::::::::::::::::::::::::::::: discussion
 
-Let's talk about this: 
+### Unresponsive authors
 
+What are the possible reasons that authors are unresponsive when contacted?
 
-On unresponsive authors, it's not always malicious:
+In some scenarios, there is not malicious intentions. For example,
 
-* Authors do move institutes
+* Authors do move institutes.
 
-* Can drop out of academia
+* Authors drop out of academia.
 
-* May be research students who didn't continue with research
+* Authors were research students who didn't continue with research.
 
-* Data may have left with research students and supervisor may lack details or data on how the experiment was done
+:::::::::::::::::::::::::::::::::::::
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
@@ -176,15 +176,38 @@ Questions you could ask are:
 
 ### What is happening on the global scale
 
-[UKRN](https://www.ukrn.org/) is the UK Reproducibility Network
+::: tab
 
-[AUS-RN](https://www.aus-rn.org/aus-rn-events) is the Australian Reproducibility network.
+#### Reproducibility Network
 
-[ReproducibiliTEA](https://reproducibilitea.org/) - A grassroots journal club initiative, focusing on open science, ideas on improving science and reproducibility.
+- [UK Reproducibility Network](https://www.ukrn.org/)
+- [Australian Reproducibility Network](http://aus-rn.org/)
+- [Brazilian Reproducibility Network](http://reprodutibilidade.org/)
+- [African Reproducibility Network](https://elifesciences.org/inside-elife/820c1044/african-reproducibility-network-aren-ambassadors-bridging-the-gaps-in-open-science-adoption-and-advocacy-across-africa)
+
+A [extensive list is maintained by the Global Federation of Reproducibility Networks](https://reproducibility.global/global-network).
+
+#### ReproducibiliTEA
+
+- [Paris Saclay](https://reproducibilitea.org/journal-clubs/#Paris%20Saclay)
+- [Taipei](https://reproducibilitea.org/journal-clubs/#Taipei)
+- [Buenos Aires](https://reproducibilitea.org/journal-clubs/#Buenos%20Aires)
+
+A [extensive list is maintained by ReproducibiliTea](https://reproducibilitea.org/).
+
+#### Research Software Engineer
+
+- [Society of Research Software Engineering](https://society-rse.org/) in the United Kingdom
+- [Society for Research Software in Germany](http://de-rse.org/)
+- [Software para Investigación](https://rse-chile.github.io/) in Chile
+- [Research Software & Systems Engineers of Africa](https://rsse.africa/)
+
+A [extensive list is maintained by the Research Software Engineers International](https://researchsoftware.org/assoc.html).
+:::
 
 
 
-#### What can we change?
+### What can we change?
 
 While all of these are relevant and valid, there are some things we can't change today. But we can change our own behaviours and activities. The next lessons focus on what we can change in our everyday work.
 
@@ -215,19 +238,9 @@ Markowetz, F. Five selfish reasons to work reproducibly. Genome Biol 16, 274 (20
 
 
 
-::::::::::::::::::::::::::::::::::::::::::::::: discussion
-
 ## Useful Resources
 
 Wikipedia contributors. (2024, March 24). Replication crisis. In Wikipedia, The Free Encyclopedia. Retrieved 02:26, April 4, 2024, from https://en.wikipedia.org/w/index.php?title=Replication_crisis&oldid=1215379059 as Creative Commons Attribution-ShareAlike License
-
-
-
-::::::::::::::::::::::::::::::::::::::::::::::: 
-
-::::::::::::::::::::::::::::::::::::::::::::::: callout
-
-## Paper References resources
 
 Baker, M. 1,500 scientists lift the lid on reproducibility. Nature 533, 452–454 (2016). Retrieved on 2024-04-04 https://doi.org/10.1038/533452a
 
@@ -236,7 +249,7 @@ Center for Open Science. "Reproducibility Project: Cancer Biology" (2021). Retri
 American Type Culture Collection (ATCC) Six factors affecting reproducibility in life science research and how to handle them . Nature Articles Retrieved 2024-5-8 from https://www.nature.com/articles/d42473-019-00004-y. 
 
 
-### Referenced in text
+## References
 
 Center for Open Science. "Reproducibility Project: Cancer Biology" (2021). Retrieved 2024-5-8 from https://www.cos.io/rpcb. licenced as CC-BY
 
@@ -245,11 +258,9 @@ Morton, L (2022, July 12). 5 Open Science practices that improve reproducibility
 Munafò, M., Nosek, B., Bishop, D. et al. A manifesto for reproducible science. Nat Hum Behav 1, 0021 (2017). https://doi.org/10.1038/s41562-016-0021 licenced as Creative Commons Attribution 4.0 International License
 
 
-Image:
+### Image
 
 WikiMedia (2021) Dasaptaerwin Data-sharing.jpg. Retrieved 2024-04-19 from https://commons.wikimedia.org/wiki/File:Data-sharing.jpg licenced as Creative Commons CC0 License (Public Domain) 
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
