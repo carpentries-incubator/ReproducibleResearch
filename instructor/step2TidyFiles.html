@@ -235,12 +235,22 @@
 <div class="accordion accordion-flush" id="accordionFlushcurrent">
   <div class="accordion-item">
     <div class="accordion-header" id="flush-headingcurrent">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsecurrent" aria-expanded="true" aria-controls="flush-collapsecurrent">
         <span class="visually-hidden">Current Chapter</span>
         <span class="current-chapter">
         Step 2 - Keeping your files Tidy and Organised
         </span>
-      
+      </button>
     </div><!--/div.accordion-header-->
+
+    <div id="flush-collapsecurrent" class="accordion-collapse collapse show" data-bs-parent="#accordionFlushcurrent">
+      <div class="accordion-body">
+        <ul><li><a href="#how-to-structure-column-data---tidy-data-format">How to structure Column Data - Tidy data format</a></li>
+<li><a href="#resources">Resources</a></li>
+<li><a href="#what-is-your-next-step">What is your next step?</a></li>
+<li><a href="#references">References</a></li>
+        </ul></div><!--/div.accordion-body-->
+    </div><!--/div.accordion-collapse-->
 
   </div><!--/div.accordion-item-->
 </div><!--/div.accordion-flush-->
@@ -375,32 +385,25 @@
 publication with well organised datasets and metadata. This also saves
 time in data cleaning, and ensures analysis pipelines are robust.</p>
 <p>Let’s look at a few concepts that can help.</p>
-<div class="section level1">
-<h1 id="how-to-structure-column-data---tidy-data-format">How to structure Column Data - Tidy data format<a class="anchor" aria-label="anchor" href="#how-to-structure-column-data---tidy-data-format"></a></h1>
-<p>Tidy data developed by Hadley Wickham offer a set of rules to record,
+<section><h2 class="section-heading" id="how-to-structure-column-data---tidy-data-format">How to structure Column Data - Tidy data format<a class="anchor" aria-label="anchor" href="#how-to-structure-column-data---tidy-data-format"></a></h2>
+<hr class="half-width"><p>Tidy data developed by Hadley Wickham offer a set of rules to record,
 organise, and maintain data to ensure your analysis is effective,
 reproducible, and manageable.</p>
 <p>The principles of tidy data provide a standard way to organize data
 values within a dataset.</p>
 <p>Tidy data is a standard way of mapping the meaning of a dataset to
-its structure. A dataset is messy or tidy depending on how rows, columns
-and tables are matched up with observations, variables and types.</p>
+its structure. A dataset is messy or tidy depending on how rows,
+columns, and tables are matched up with observations, variables, and
+types.</p>
 <p>The fundamental principles of tidy data are:</p>
-<ol style="list-style-type: decimal"><li><p>Each variable is a column</p></li>
-<li><p>Each row is an observation</p></li>
-<li><p>Each cell contains one value</p></li>
+<ol style="list-style-type: decimal"><li>Each variable is a column</li>
+<li>Each row is an observation</li>
+<li>Each cell contains one value</li>
 </ol><p>Let’s look at an example:</p>
-<table class="table"><tr><thead><td>
-Address
-</td>
-
-</thead></tr><tr><td>
-170 Kessels Road Nathan Qld 4111 Australia
-</td>
-</tr><tr><td>
-1 Parklands Dr, Southport QLD 4215
-</td>
-</tr></table><p>This format could cause a number of issues.</p>
+<table class="table"><thead><tr><th>Address</th>
+</tr></thead><tbody><tr><td>170 Kessels Road Nathan Qld 4111 Australia</td>
+</tr><tr><td>1 Parklands Dr, Southport QLD 4215</td>
+</tr></tbody></table><p>This format could cause a number of issues.</p>
 <ul><li><p>There is little control or guidance around when to use spaces,
 new lines or commas in this format. Commas especially can lead to a
 shift in data across your cells - meaning half of your address may end
@@ -413,75 +416,30 @@ One line contained the country, another did not.</p></li>
 <li><p>Difficult to see/check if some part of the address is
 missing.</p></li>
 </ul><p>Let’s look at a tidy example:</p>
-<table class="table"><thead><tr><th>
-Unit Number
-</th>
-<th>
-Street Number
-</th>
-<th>
-Street Name
-</th>
-<th>
-Street Type
-</th>
-<th>
-Suburb
-</th>
-<th>
-State
-</th>
-<th>
-Postcode
-</th>
-<th>
-Country
-</th>
-</tr></thead><tbody><tr><td>
-</td>
-<td>
-170
-</td>
-<td>
-Kessels
-</td>
-<td>
-Road
-</td>
-<td>
-</td>
-<td>
-Nathan
-</td>
-<td>
-Qld
-</td>
-<td>
-4111
-</td>
-</tr><tr><td>
-</td>
-<td>
-1
-</td>
-<td>
-Parklands
-</td>
-<td>
-Drive
-</td>
-<td>
-Southport
-</td>
-<td>
-Qld
-</td>
-<td>
-4215
-</td>
-<td>
-Australia
-</td>
+<table style="width:100%;" class="table"><colgroup><col width="15%"><col width="18%"><col width="15%"><col width="15%"><col width="8%"><col width="6%"><col width="11%"><col width="9%"></colgroup><thead><tr><th>Unit Number</th>
+<th>Street Number</th>
+<th>Street Name</th>
+<th>Street Type</th>
+<th>Suburb</th>
+<th>State</th>
+<th>Postcode</th>
+<th>Country</th>
+</tr></thead><tbody><tr><td></td>
+<td>170</td>
+<td>Kessels</td>
+<td>Road</td>
+<td>Nathan</td>
+<td>Qld</td>
+<td>4111</td>
+<td></td>
+</tr><tr><td></td>
+<td>1</td>
+<td>Parklands</td>
+<td>Drive</td>
+<td>Southport</td>
+<td>Qld</td>
+<td>4215</td>
+<td>Australia</td>
 </tr></tbody></table><p>This format includes a lot of benefits:</p>
 <ul><li><p>It is clear what is expected to include</p></li>
 <li><p>Easier to search</p></li>
@@ -493,23 +451,19 @@ cause issues with analysis software</p></li>
 to use a survey that fills in a spreadsheet for you. This can include
 dropdown menu items to ensure consistency in certain columns - for
 example, to eliminate a combination of “Monday, Mon, M, mon”.</p>
-</div>
-</div>
-<div class="section level1">
-<h1 id="other-useful-concepts">Other useful concepts:<a class="anchor" aria-label="anchor" href="#other-useful-concepts"></a></h1>
 <div id="dates" class="callout discussion">
 <div class="callout-square">
 <i class="callout-icon" data-feather="message-circle"></i>
 </div>
 <span class="callout-header">Discussion</span>
 <div id="dates" class="callout-inner">
-<h3 class="callout-title">Dates:</h3>
+<h3 class="callout-title">Dates</h3>
 <div class="callout-content">
-<p>Where possible, always use the formal YYYY-MM-DD for your dates. It
-will make searching for dates much easier. In addition, adding the
-additional zero (for example, March would be 03 ) means that when you
-sort your file, months and days will be in order. Otherwise, you may
-have Jan (1), Oct (10), Nov (11), Dec (12), Feb (2).</p>
+<p>Where possible, always use the formal <code>YYYY-MM-DD</code> for
+your dates. It will make searching for dates much easier. In addition,
+adding the additional zero (for example, March would be 03 ) means that
+when you sort your file, months and days will be in order. Otherwise,
+you may have Jan (1), Oct (10), Nov (11), Dec (12), Feb (2).</p>
 </div>
 </div>
 </div>
@@ -519,7 +473,7 @@ have Jan (1), Oct (10), Nov (11), Dec (12), Feb (2).</p>
 </div>
 <span class="callout-header">Discussion</span>
 <div id="special-characters" class="callout-inner">
-<h3 class="callout-title">Special Characters:</h3>
+<h3 class="callout-title">Special Characters</h3>
 <div class="callout-content">
 <p>It is best to avoid punctuation or special characters in your cells
 or data entry. Some analysis tools may read certain characters
@@ -532,7 +486,7 @@ incorrectly or produce an error.</p>
 <button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor1" aria-expanded="false" aria-controls="collapseInstructor1">
   <h3 class="accordion-header" id="headingInstructor1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div> Instructor Note </h3>
 </button>
-<div id="collapseInstructor1" class="accordion-collapse collapse" aria-labelledby="headingInstructor1" data-bs-parent="#accordionInstructor1">
+<div id="collapseInstructor1" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor1" aria-labelledby="headingInstructor1">
 <div class="accordion-body">
 <p>Point out the resources segment here at the bottom of the page. There
 is a really good tutorial in the Data Carpentry for Ecology page that
@@ -547,8 +501,9 @@ interactive session where you ask people to suggest their changes.</p>
 </div>
 </div>
 </div>
-<div class="section level4">
-<h4 id="interview-considerations">Interview considerations<a class="anchor" aria-label="anchor" href="#interview-considerations"></a></h4>
+</div>
+<div class="section level3">
+<h3 id="interview-considerations">Interview considerations<a class="anchor" aria-label="anchor" href="#interview-considerations"></a></h3>
 <p>When working with interviews, you may choose to only retain
 transcripts. However, it is also worth recording what non-verbal cues
 were shown. Is there a part of the interview where the participant
@@ -559,25 +514,24 @@ incredibly useful when it comes to analysis time, or to refresh your
 memory upon review. It could also be important to support your insights
 when writing your paper.</p>
 </div>
-</div>
-<div class="section level1">
-<h1 id="how-to-handle-missing-data">How to handle missing data<a class="anchor" aria-label="anchor" href="#how-to-handle-missing-data"></a></h1>
+<div class="section level3">
+<h3 id="how-to-handle-missing-data">How to handle missing data<a class="anchor" aria-label="anchor" href="#how-to-handle-missing-data"></a></h3>
 <p>As a project team, it is important to have a consistent way of
 managing missing data.</p>
 <ul><li><p>If data is missing from a cell, are you going to use a blank
-cell? Or a placeholder such as NA, NULL or N/A ? It’s generally
-unadvisable to use zero, as this can have an effect on any calculations
-done in those cells.</p></li>
+cell? Or a placeholder such as <code>NA</code>, <code>NULL</code> or
+<code>N/A</code> ? It’s generally unadvisable to use zero, as this can
+have an effect on any calculations done in those cells.</p></li>
 <li><p>Should the whole observation be excluded?</p></li>
 <li><p>Has your methodology accounted for how to handle this scenario
 and any potential skewing of results?</p></li>
 <li><p>When publishing, have you discussed how missing data is handled
 and accounted for?</p></li>
 </ul><p>A helpful resource can be found here: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3668100/" class="external-link">Paper on
-the prevention and handling of the missing data</a></p>
+the prevention and handling of the missing data</a>.</p>
 <p>How to handle missing data in cells can be covered by this section of
 <a href="https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes.html#null" class="external-link">Data
-Carpentry in Ecology</a></p>
+Carpentry in Ecology</a>.</p>
 <p><a href="https://github.com/Quartz/bad-data-guide?tab=readme-ov-file#issues-that-your-source-should-solve-1" class="external-link">What
 could go wrong?</a> may also be useful.</p>
 <p>Later, we will talk about how to test for missing data.</p>
@@ -617,7 +571,7 @@ collate data, but it’s gotten messy!</p>
 <td align="right">Brisbane, Australia</td>
 <td align="right">#NAME?</td>
 <td align="right">Mail</td>
-</tr></tbody></table><p>Note: #NAME? should be -O</p>
+</tr></tbody></table><p>Note: <code>#NAME?</code> should be <code>O−</code>.</p>
 </div>
 </div>
 </div>
@@ -626,7 +580,7 @@ collate data, but it’s gotten messy!</p>
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
   <h4 class="accordion-header" id="headingSolution1"> Show me the solution </h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
 <div class="accordion-body">
 <p>There are a number of suggested changes:</p>
 <p>Dates in the same format</p>
@@ -661,7 +615,7 @@ like?</p>
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution2" aria-expanded="false" aria-controls="collapseSolution2">
   <h4 class="accordion-header" id="headingSolution2"> Show me the solution </h4>
 </button>
-<div id="collapseSolution2" class="accordion-collapse collapse" aria-labelledby="headingSolution2" data-bs-parent="#accordionSolution2">
+<div id="collapseSolution2" class="accordion-collapse collapse" data-bs-parent="#accordionSolution2" aria-labelledby="headingSolution2">
 <div class="accordion-body">
 <p>Here’s an example survey:</p>
 <figure><img src="../fig/ExampleSurvey.png" alt="First part of survey" class="figure mx-auto d-block"></figure><figure><img src="../fig/ExampleSurvey2.png" alt="Second part of survey" class="figure mx-auto d-block"></figure></div>
@@ -677,41 +631,31 @@ like?</p>
 <h3 class="callout-title">Tools</h3>
 <div class="callout-content">
 <div class="section level4">
-<h4 id="tools-that-dont-involve-programming">Tools that don’t involve programming:<a class="anchor" aria-label="anchor" href="#tools-that-dont-involve-programming"></a></h4>
+<h4 id="tools-that-dont-involve-programming">Tools that don’t involve programming<a class="anchor" aria-label="anchor" href="#tools-that-dont-involve-programming"></a></h4>
 <p><a href="https://openrefine.org/" class="external-link">Open Refine</a> is an open source
-(free) tool that is incredibly useful to clean column data. Your data <a href="https://openrefine.org/privacy" class="external-link">doesn’t leave your computer</a>,
+tool that is incredibly useful to clean column data. Your data <a href="https://openrefine.org/privacy" class="external-link">doesn’t leave your computer</a>,
 which makes it safer when working with sensitive data.</p>
 <p>Any survey tool may also be of benefit.</p>
 </div>
 <div class="section level4">
-<h4 id="programming-tools">Programming Tools:<a class="anchor" aria-label="anchor" href="#programming-tools"></a></h4>
-<p>R has the Tidyverse library, also written by Hadley Wickham. Python
-has the Pandas library, which follows similar principles. You may also
-find NumPy useful.</p>
+<h4 id="programming-tools">Programming Tools<a class="anchor" aria-label="anchor" href="#programming-tools"></a></h4>
+<p>R has the <a href="https://tidyverse.org/" class="external-link"><code>tidyverse</code></a>
+library and Python has the <a href="https://pandas.pydata.org/" class="external-link"><code>pandas</code></a> library, which
+follows similar principles.</p>
 </div>
 </div>
 </div>
 </div>
-<div id="resources" class="callout">
-<div class="callout-square">
-<i class="callout-icon" data-feather="bell"></i>
 </div>
-<span class="callout-header">Callout</span>
-<div id="resources" class="callout-inner">
-<h3 class="callout-title">Resources</h3>
-<div class="callout-content">
-<p><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes.html" class="external-link">Common
+</section><section><h2 class="section-heading" id="resources">Resources<a class="anchor" aria-label="anchor" href="#resources"></a></h2>
+<hr class="half-width"><p><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes.html" class="external-link">Common
 formatting problems - Data Carpentry</a></p>
 <p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3668100/" class="external-link">Paper
 on the prevention and handling of the missing data</a></p>
 <p><a href="https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/Designing-a-data-file-structure" class="external-link">Designing
 a data file structure by CESSDA</a></p>
-</div>
-</div>
-</div>
-<div class="section level2">
-<h2 id="what-is-your-next-step">What is your next step?<a class="anchor" aria-label="anchor" href="#what-is-your-next-step"></a></h2>
-<div class="tabs">
+</section><section><h2 class="section-heading" id="what-is-your-next-step">What is your next step?<a class="anchor" aria-label="anchor" href="#what-is-your-next-step"></a></h2>
+<hr class="half-width"><div class="tabs">
 <nav><div id="nav-tab-1" class="nav nav-tabs" role="tablist">
 <button class="nav-link active" id="nav-tab-1-1" data-bs-toggle="tab" data-bs-target="#nav-tabpanel-1-1" type="button" role="tab" aria-controls="nav-tabpanel-1-1" aria-selected="true">
   <h3 class="tab-header" id="nav-tab-heading-1-1">
@@ -725,12 +669,12 @@ a data file structure by CESSDA</a></p>
 </button>
 </div>
 </nav><div id="nav-tabContent-1" class="tab-content">
-<div id="nav-tabpanel-1-1" class="tab-pane show active" role="tabpanel" aria-labelledby="nav-tab-1-1">
+<div id="nav-tabpanel-1-1" class="tab-pane show active" aria-labelledby="nav-tab-1-1" role="tabpanel">
 <p>A great place to start is:</p>
 <p>Decide how to handle missing data</p>
-<p>Use YYYY-MM-DD for dates</p>
+<p>Use <code>YYYY-MM-DD</code> for dates</p>
 </div>
-<div id="nav-tabpanel-1-2" class="tab-pane" role="tabpanel" aria-labelledby="nav-tab-1-2">
+<div id="nav-tabpanel-1-2" class="tab-pane" aria-labelledby="nav-tab-1-2" role="tabpanel">
 <p>Your next move can be:</p>
 <p>You can start to work in a data science language such as R or Python.
 <a href="https://software-carpentry.org/lessons/" class="external-link">The Carpentries</a>
@@ -739,10 +683,8 @@ who have never coded before. Workshops are held across the world.</p>
 </div>
 </div>
 </div>
-</div>
-<div class="section level2">
-<h2 id="references">References<a class="anchor" aria-label="anchor" href="#references"></a></h2>
-<p>Wickham, H. . (2014). Tidy Data. Journal of Statistical Software,
+</section><section><h2 class="section-heading" id="references">References<a class="anchor" aria-label="anchor" href="#references"></a></h2>
+<hr class="half-width"><p>Wickham, H. . (2014). Tidy Data. Journal of Statistical Software,
 59(10), 1–23. <a href="https://doi.org/10.18637/jss.v059.i10" class="external-link uri">https://doi.org/10.18637/jss.v059.i10</a> licenced as
 Creative Commons Attribution License (CC-BY)</p>
 <p>Broman, K. W., &amp; Woo, K. H. (2018). Data Organization in
@@ -756,33 +698,27 @@ as Creative Commons Attribution License (CC-BY)</p>
 Anesthesiol. 2013 May;64(5):402-6. doi: <a href="https://doi.org/10.4097/kjae.2013.64.5.402" class="external-link uri">https://doi.org/10.4097/kjae.2013.64.5.402</a> . Epub 2013
 May 24. PMID: 23741561; PMCID: PMC3668100. licenced as Creative Commons
 Attribution Non-Commercial License (CC-BY-NC)</p>
-<div id="in-this-lesson-we-have-learnt" class="callout keypoints">
+<div id="keypoints1" class="callout keypoints">
 <div class="callout-square">
 <i class="callout-icon" data-feather="key"></i>
 </div>
 <span class="callout-header">Key Points</span>
-<div id="in-this-lesson-we-have-learnt" class="callout-inner">
-<h3 class="callout-title">In this lesson, we have learnt:</h3>
+<div class="callout-inner">
 <div class="callout-content">
+<p>In this lesson, we have learnt:</p>
 <ul><li><p>How to tidy the data inside our files</p></li>
 <li><p>How to organise columns and rows</p></li>
 <li><p>How to handle dates</p></li>
 <li><p>How to handle missing data</p></li>
-</ul><div class="section level4">
-<h4 id="we-build-trust-in-our-knowledge-by">We build trust in our knowledge by:<a class="anchor" aria-label="anchor" href="#we-build-trust-in-our-knowledge-by"></a></h4>
+</ul><p>We build trust in our knowledge by:</p>
 <ul><li><p>Having clarity in our processes for handling missing
 data</p></li>
 <li><p>Having well structured data</p></li>
-</ul></div>
-<div class="section level4">
-<h4 id="we-retain-knowledge-by">We retain knowledge by:<a class="anchor" aria-label="anchor" href="#we-retain-knowledge-by"></a></h4>
+</ul><p>We retain knowledge by:</p>
 <p>Minimising the risk of data loss by being well organised</p>
-</div>
-<div class="section level4">
-<h4 id="we-build-business-continuity-by">We build business continuity by:<a class="anchor" aria-label="anchor" href="#we-build-business-continuity-by"></a></h4>
+<p>We build business continuity by:</p>
 <p>By being organised, others can quickly gain an understanding of the
 data</p>
-</div>
 </div>
 </div>
 </div>
@@ -790,12 +726,7 @@ data</p>
 Place links that you need to refer to multiple times across pages here. Delete
 any links that you are not going to use.
  -->
-</div>
-</div>
-
-
-
-      </div> <!-- / div.lesson-content -->
+</section></div> <!-- / div.lesson-content -->
     </main><!-- / main#main-content.main-content --><nav class="bottom-pagination mx-md-4" aria-label="Previous and Next Chapter Bottom"><div class="d-block d-sm-block d-md-none">
         <a class="chapter-link" href="../instructor/step1Folders.html"><i aria-hidden="true" class="small-arrow" data-feather="arrow-left"></i>Previous</a>
         <a class="chapter-link float-end" href="../instructor/step3MethodStats.html">Next<i aria-hidden="true" class="small-arrow" data-feather="arrow-right"></i></a>
