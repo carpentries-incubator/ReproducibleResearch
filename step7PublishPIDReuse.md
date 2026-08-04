@@ -143,7 +143,7 @@ Let's look at our options.
 Firstly, if you can share your work openly - Great!
 
 
-Learn more about the distinction between [open data, FAIR data and Research Data Management here.](https://insights.uksg.org/articles/10.1629/uksg.468). 
+Learn more about [the distinction between open data, FAIR data and Research Data Management](https://insights.uksg.org/articles/10.1629/uksg.468). 
 Considering why you should share your data? Check [this video](https://www.youtube.com/watch?v=8qsHFHHPrw0)
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
@@ -193,7 +193,7 @@ This means you want to share the data, have it well described and have it in a g
 
 Mediation of access can include caveats such as the need for a Data Transfer Agreement, limitations according to the ethics and governance, or other controls. 
 
-More information on [FAIR can be found here](https://ardc.edu.au/resource/fair-data/)
+[Learn more about FAIR data](https://ardc.edu.au/resource/fair-data/)
 
 ## FAIR Data
 
@@ -297,7 +297,7 @@ It will appear on "Where to deposit?" on https://[YourRepo].github.io/Reproducib
 -->
 
 
-[Here is a helpful guide to choosing a data repository](https://ardc.edu.au/resource/guide-to-choosing-a-data-repository/)
+[Read a guide to choosing a data repository](https://ardc.edu.au/resource/guide-to-choosing-a-data-repository/)
 
 Some repositories include:
 
