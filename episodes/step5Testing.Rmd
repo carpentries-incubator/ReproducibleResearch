@@ -380,8 +380,6 @@ R-Pkgs Hadley Wickham and Jennifer Bryan (2024) '13 Testing basics' Retrieved on
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
 
-::::::::::::::::::::::::::::::::::::::::::::::: callout
-
 ## References
 
 OFS. Valerie Collins Alicia Hofelich Mohr Samantha T Porter(2023) Reproducible research practices in Excel (yes, Excel) Retrieved on 2024-04-17 from https://osf.io/p2bdq/ licenced as CC-By Attribution 4.0 International 
@@ -392,7 +390,6 @@ Ziemann, M., Eren, Y. & El-Osta, A. Gene name errors are widespread in the scien
 
 Abeysooriya M, Soria M, Kasu MS, Ziemann M (2021) Gene name errors: Lessons not learned. PLoS Comput Biol 17(7): e1008984. https://doi.org/10.1371/journal.pcbi.1008984 licenced as CC-BY 4.0
 
-:::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::: keypoints
 
