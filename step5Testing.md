@@ -193,21 +193,33 @@ May be a natural space to ask people what types of data they are working with, w
 
 
 
-### Tracking your Analysis history
+### Tracking your analysis history
 
 Now that we know where our raw data come from and how it was made, let's think about the changes we make to it.
 
 Let's start with data cleaning. Have you made a log of the changes you have made?
 
-Open Refine, NVIVO and SPSS all have logs of actions that you can download and save.
+Some of tools not only keep a log of the actions that were performed but allow you to download the log and use it to re-execute the actions.
 
+::: tab
 
- - SPSS analysis pipeline comes as a .sps script file. You may see it referenced as 'Syntax'
+#### OpenRefine 
 
- - SAS has a .sas file for pipelines
+[OpenRefine](https://openrefine.org/) uses JSON as the format for operation history. More details is available in ["Reusing operations" at OpenRefine's User Manual](https://openrefine.org/docs/manual/running#reusing-operations).
 
- - STATA has a .do file for pipelines. You may see it referenced as ‘commandlog’
+#### SPSS
 
+[SPSS](https://www.ibm.com/products/spss-statistics) analysis pipeline comes as a `.sps` script file. You may see it referenced as `Syntax`.
+
+#### SAS
+
+[SAS](https://www.sas.com/) has a `.sas` file for pipelines.
+
+#### STATA
+
+[STATA](https://www.stata.com/) has a `.do` file for pipelines. You may see it referenced as `commandlog`.
+
+:::
 
 This is also where R and Python have huge strengths. Writing an R or Python script enables you to rerun with certainty the same analysis every time.
 
