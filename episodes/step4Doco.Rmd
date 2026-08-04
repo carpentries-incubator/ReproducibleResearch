@@ -401,9 +401,7 @@ A standard operating procedure (SOP) is a set of step-by-step instructions to he
 
 ### Workflow mapping / Analysis Pipelines
 
-How did you clean and analyse your data? 
-
-If you're using an analysis program like SPSS, Stata or even just Excel, you can download function list from SPSS/NVIVO to the code used to create it. Even just writing down and taking screenshots of the analysis screens is somewhere to start. 
+Document the steps to clean and analyse your data is also recommended. The documentation format depends of the tool used. Even just writing down and taking screenshots of the analysis screens is somewhere to start. In step 6, we'll talk about automation of workflow and pipeline.
 
 :::::::::::::::::::::::::::::: challenge
 
@@ -424,19 +422,11 @@ A good opportunity to share ideas or brainstorm together different solutions.
 
 ::::::::::::::::::::::::::::::
 
-We'll talk about automation and testing in the following lessons.
-
-
-To fully automate your pipeline, you can start to work in a data science language such as R or Python. [The Carpentries](https://software-carpentry.org/lessons/) data science lessons are a great place to start, made for researchers who have never coded before. Workshops are held across the world.
-
-
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
 Good place to include any Carpentry or data science introduction resources - If you have none, feel free to borrow something from here: https://amandamiotto.github.io/HackyHourBookmarks/
 
 :::::::::::::::::::::::::::::::::::::::::::::::
-
-
 
 
 ## Media work
