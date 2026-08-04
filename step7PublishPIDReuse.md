@@ -297,7 +297,7 @@ It will appear on "Where to deposit?" on https://[YourRepo].github.io/Reproducib
 -->
 
 
-[Read a guide to choosing a data repository](https://ardc.edu.au/resource/guide-to-choosing-a-data-repository/)
+[Guide to choosing a data repository](https://ardc.edu.au/resource/guide-to-choosing-a-data-repository/)
 
 Some repositories include:
 

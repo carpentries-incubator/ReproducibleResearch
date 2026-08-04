@@ -219,7 +219,7 @@ A paper on pubpeer was revealed to have duplications in some of their images. Wh
 
 The authors retracted the paper.
 
-K. Li, D. Li, C. Li, P. Zhuang, C. Dai, X. Hu, D. Wang, Y. Liu, X. Mei and V. M. Rotello, Nanoscale, 2022, 14, 3972 DOI: 10.1039/D2NR90041F or via this [link](https://pubs.rsc.org/en/content/articlelanding/2022/nr/d2nr90041f) licensed as CC-BY
+K. Li, D. Li, C. Li, P. Zhuang, C. Dai, X. Hu, D. Wang, Y. Liu, X. Mei and V. M. Rotello, Nanoscale, 2022, 14, 3972 DOI: 10.1039/D2NR90041F or via this [Nanoscale article on the RSC site](https://pubs.rsc.org/en/content/articlelanding/2022/nr/d2nr90041f) licensed as CC-BY
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
