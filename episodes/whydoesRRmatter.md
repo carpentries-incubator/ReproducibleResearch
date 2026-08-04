@@ -1,9 +1,12 @@
 ---
-title: "Why does Reproducibility matter?"
+title: "Reproducibility matter?"
 teaching: 20
 exercises: 0
 ---
 
+:::::: questions
+ - Why does reproducibility matter?
+::::::
 
 ::::::::::::::::::::::::::::: objectives
 
