@@ -48,10 +48,10 @@ A result is reproducible when the same analysis steps performed on the same data
 A result is replicable when the same analysis performed on different datasets produces qualitatively similar answers.
 
 ### Robust
-A result is robust when the same dataset is subjected to different analysis workflows to answer the same research question (for example one pipeline written in R and another written in Python) and a qualitatively similar or identical answer is produced. Robust results show that the work is not dependent on the specificities of the programming language chosen to perform the analysis.
+A result is robust when the same dataset is subjected to different analysis workflows to answer the same research question (for example, one pipeline written in R and another written in Python) and a qualitatively similar or identical answer is produced. Robust results show that the work is not dependent on the specificities of the programming language chosen to perform the analysis.
 
 ### Generalisable
-Combining replicable and robust findings allow us to form generalisable results. Note that running an analysis on a different software implementation and with a different dataset does not provide generalised results. There will be many more steps to know how well the work applies to all the different aspects of the research question. Generalisation is an important step towards understanding that the result is not dependent on a particular dataset nor a particular version of the analysis pipeline.
+Combining replicable and robust findings allows us to form generalisable results. Note that running an analysis on a different software implementation and with a different dataset does not provide generalised results. There will be many more steps to know how well the work applies to all the different aspects of the research question. Generalisation is an important step towards understanding that the result is not dependent on a particular dataset nor a particular version of the analysis pipeline.
 
 :::
 
@@ -60,7 +60,7 @@ Combining replicable and robust findings allow us to form generalisable results.
 
 
 
-Let's look now on why this is important.
+Let's look now at why this is important.
 
 
 
