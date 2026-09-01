@@ -7,7 +7,7 @@ exercises: 0
 
 
 
-### Data Management Plan
+## Data Management Plan
 
 A data management plan (DMP) is a living document for a research project, which outlines data creation, data policies, access and ownership rules, management practices, management facilities and equipment, and who will be responsible for what.
 
@@ -53,7 +53,7 @@ The following resources can help you build your plan:
 Around 50% of research projects reuse at least some of their previous project data - Is this data a subset of a previous project's data? Did it come from an external collaborator or an open repository? How does this affect your project?
 
 
-### Folder Structures
+## Folder Structures
 
 Having your folders structured in a hierarchical format can be one of the best ways to stay organised.
 
@@ -77,7 +77,7 @@ It is worth checking with your research group and local librarians if there is a
 
 Once your projects have finished, you may want to consider archiving your project folder.
 
-#### Raw data
+### Raw data
 
 Keep a copy of your raw data backed up elsewhere, and never alter it. This means if you realise early in your work, there has been an error introduced into the data, you can retrieve a raw copy and reanalyse it.
 
@@ -107,7 +107,7 @@ Ask your IT department about Research data storage and consider a backup plan.
 
 
 
-### File naming conventions
+## File naming conventions
 
 There are a number of things to consider when naming files:
 
@@ -125,9 +125,9 @@ There is an excellent list [of 13 rules for naming conventions](https://data-pro
 
 
 
-#### Who is reading your file names?
+### Who is reading your file names?
 
-##### Three principles for file names
+#### Three principles for file names
 
 There are three key principles to guide file naming convention development, as defined by Data Carpentry and Martinez (2015):
 
@@ -140,38 +140,35 @@ There are three key principles to guide file naming convention development, as d
 
 Lets discuss each key principle below.
 
-##### ***Machine readable***
+#### Machine readable
 
 Within the context of file naming conventions, being machine readable means:
 
  - Spaces have been avoided. Ideally there are no spaces in any file names.
 
- - Special characters are used in lieu of spaces i.e. _ or -
+ - Special characters are used in lieu of spaces i.e. `_` or `-`
 
  - Case sensitivity is consistent
 
 
-##### ***Human readable***
+#### Human readable
 
 Ensuring your file naming convention is human readable will depend on the context, background knowledge of research user(s), and character spaces availability. In short, use descriptive words. There will be examples of this further below.
 
 
-##### ***Plays well with default ordering***
+#### Plays well with default ordering
 
 
 Default ordering is best achieved with numbers. This can be chronological i.e. date, or logical i.e. 01, 02, 03…
 
 Depending on the research and your teams preference, a common word could prefix the numeric ordering system. For example:
 
-lake01_depth.r
-lake02_depth.r
-lake03_depth.r
-so on….
+- `lake01_depth.r`
+- `lake02_depth.r`
+- `lake03_depth.r`
 
 
 :::::::::::::::::::::::::::::::::::::::::::::: challenge
-
-##### Consider these two examples:
 
 Consider this folder - does this feel organised? Are you sure what contains what? 
 
@@ -245,7 +242,7 @@ Or you could use your own format, and cover simple metadata such as:
 
 
 
-# What is your next step?
+## What is your next step?
 
 ::: tab 
 
@@ -279,8 +276,6 @@ If you are working in Python, you can use a [python package](https://github.com/
 
 
 
-::::::::::::::::::::::::::::::::::::::::::::::: discussion
-
 ## Further Resources
 
 [The TIER Protocol](https://www.projecttier.org/tier-protocol/protocol-4-0/)
@@ -288,13 +283,6 @@ If you are working in Python, you can use a [python package](https://github.com/
 [File naming and folder structures by CESSDA](https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/File-naming-and-folder-structure)
 
 [Data Carpentry - Organization - File naming](https://datacarpentry.org/rr-organization1/01-file-naming/index.html)
-
-
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-
-
 
 
 ## References
