@@ -195,7 +195,7 @@ A [extensive list is maintained by the Global Federation of Reproducibility Netw
 
 A [extensive list is maintained by ReproducibiliTea](https://reproducibilitea.org/).
 
-#### Research Software Engineer
+#### RSE
 
 - [Society of Research Software Engineering](https://society-rse.org/) in the United Kingdom
 - [Society for Research Software in Germany](http://de-rse.org/)
