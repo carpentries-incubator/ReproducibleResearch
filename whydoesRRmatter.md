@@ -4,6 +4,9 @@ teaching: 20
 exercises: 0
 ---
 
+:::::: questions
+ - Why does reproducibility matter?
+::::::
 
 ::::::::::::::::::::::::::::: objectives
 

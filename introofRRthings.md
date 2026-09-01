@@ -4,6 +4,16 @@ teaching: 2
 exercises: 0
 ---
 
+:::::: questions
+ - What are the 7 steps towards reproducible research?
+::::::
+
+::::::::::::::::::::::::::::: objectives
+
+- List the 7 steps
+
+::::::::::::::::::::::::::::::::::::::::
+
 Let's learn about 7 different concepts that can help us build reproducibility into our workflows.
 
  1. Planning to be organised

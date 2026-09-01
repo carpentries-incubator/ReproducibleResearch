@@ -4,6 +4,16 @@ teaching: 15
 exercises: 0
 ---
 
+:::::: questions
+ - What are best practices to organise research?
+::::::
+
+::::::::::::::::::::::::::::: objectives
+
+- Understand data management plan
+
+::::::::::::::::::::::::::::::::::::::::
+
 One of the top reasons that reproducibility studies failed was the lack of detail in methodology and protocols. 
 
 

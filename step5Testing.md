@@ -4,6 +4,15 @@ teaching: 20
 exercises: 0
 ---
 
+:::::: questions
+ - What are best practices to organise research?
+::::::
+
+::::::::::::::::::::::::::::: objectives
+
+- Understand data management plan
+
+::::::::::::::::::::::::::::::::::::::::
 
 ## Testing for Validity and Integrity
 
