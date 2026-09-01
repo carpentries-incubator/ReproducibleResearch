@@ -1,5 +1,5 @@
 ---
-title: "Reproducible research"
+title: "What is Reproducible Research?"
 teaching: 10
 exercises: 0
 ---
