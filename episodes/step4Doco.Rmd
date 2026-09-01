@@ -5,6 +5,16 @@ exercises: 1
 ---
 
 
+:::::: questions
+ - What are best practices to organise research?
+::::::
+
+::::::::::::::::::::::::::::: objectives
+
+- Understand data management plan
+
+::::::::::::::::::::::::::::::::::::::::
+
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
 This is a massive lesson - you may want to put a break in the middle or just before this one.

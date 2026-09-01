@@ -4,6 +4,16 @@ teaching: 10
 exercises: 0
 ---
 
+:::::: questions
+ - What are best practices to organise research?
+::::::
+
+::::::::::::::::::::::::::::: objectives
+
+- Understand data management plan
+
+::::::::::::::::::::::::::::::::::::::::
+
 Often, tasks that need to be done over and over again by a
 human can be opportunities for human error to sneak in. Setting up an automated way of doing this can eliminate this issue. 
 
