@@ -4,6 +4,15 @@ teaching: 20
 exercises: 1
 ---
 
+:::::: questions
+ - What are best practices to organise research?
+::::::
+
+::::::::::::::::::::::::::::: objectives
+
+- Understand data management plan
+
+::::::::::::::::::::::::::::::::::::::::
 
 You are nearing the end of this project, and need to start preparing for publication. What needs to be done?
 
