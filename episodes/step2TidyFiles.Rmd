@@ -129,6 +129,8 @@ Later, we will talk about how to test for missing data.
 
 ::::::::::::::::::::::::::::::::::::::::::::::: challenge
 
+### Tidy data
+
 We've had a number of people collaborating on an excel sheet to collate data, but it's gotten messy! 
 
 Let's clean this messy data. What changes would you make?
