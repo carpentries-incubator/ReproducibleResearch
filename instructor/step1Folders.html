@@ -226,12 +226,24 @@
 <div class="accordion accordion-flush" id="accordionFlushcurrent">
   <div class="accordion-item">
     <div class="accordion-header" id="flush-headingcurrent">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsecurrent" aria-expanded="true" aria-controls="flush-collapsecurrent">
         <span class="visually-hidden">Current Chapter</span>
         <span class="current-chapter">
         Step 1 - Planning to be organised
         </span>
-      
+      </button>
     </div><!--/div.accordion-header-->
+
+    <div id="flush-collapsecurrent" class="accordion-collapse collapse show" data-bs-parent="#accordionFlushcurrent">
+      <div class="accordion-body">
+        <ul><li><a href="#data-management-plan">Data Management Plan</a></li>
+<li><a href="#folder-structures">Folder Structures</a></li>
+<li><a href="#file-naming-conventions">File naming conventions</a></li>
+<li><a href="#what-is-your-next-step">What is your next step?</a></li>
+<li><a href="#further-resources">Further Resources</a></li>
+<li><a href="#references">References</a></li>
+        </ul></div><!--/div.accordion-body-->
+    </div><!--/div.accordion-collapse-->
 
   </div><!--/div.accordion-item-->
 </div><!--/div.accordion-flush-->
@@ -371,9 +383,8 @@
 
         
 
-<div class="section level3">
-<h3 id="data-management-plan">Data Management Plan<a class="anchor" aria-label="anchor" href="#data-management-plan"></a></h3>
-<p>A data management plan (DMP) is a living document for a research
+<section><h2 class="section-heading" id="data-management-plan">Data Management Plan<a class="anchor" aria-label="anchor" href="#data-management-plan"></a></h2>
+<hr class="half-width"><p>A data management plan (DMP) is a living document for a research
 project, which outlines data creation, data policies, access and
 ownership rules, management practices, management facilities and
 equipment, and who will be responsible for what.</p>
@@ -414,10 +425,8 @@ find DMP templates?</a></p></li>
 project data - Is this data a subset of a previous project’s data? Did
 it come from an external collaborator or an open repository? How does
 this affect your project?</p>
-</div>
-<div class="section level3">
-<h3 id="folder-structures">Folder Structures<a class="anchor" aria-label="anchor" href="#folder-structures"></a></h3>
-<p>Having your folders structured in a hierarchical format can be one of
+</section><section><h2 class="section-heading" id="folder-structures">Folder Structures<a class="anchor" aria-label="anchor" href="#folder-structures"></a></h2>
+<hr class="half-width"><p>Having your folders structured in a hierarchical format can be one of
 the best ways to stay organised.</p>
 <p>There are benefits to this:</p>
 <ul><li><p>It is harder to lose files</p></li>
@@ -435,8 +444,8 @@ TIER</a></p></li>
 there is a pre-existing folder structure template that you can use.</p>
 <p>Once your projects have finished, you may want to consider archiving
 your project folder.</p>
-<div class="section level4">
-<h4 id="raw-data">Raw data<a class="anchor" aria-label="anchor" href="#raw-data"></a></h4>
+<div class="section level3">
+<h3 id="raw-data">Raw data<a class="anchor" aria-label="anchor" href="#raw-data"></a></h3>
 <p>Keep a copy of your raw data backed up elsewhere, and never alter it.
 This means if you realise early in your work, there has been an error
 introduced into the data, you can retrieve a raw copy and reanalyse
@@ -467,10 +476,8 @@ backup plan.</p>
 <p><strong><em>Don’t forget - backups are your friend here.
 </em></strong></p>
 </div>
-</div>
-<div class="section level3">
-<h3 id="file-naming-conventions">File naming conventions<a class="anchor" aria-label="anchor" href="#file-naming-conventions"></a></h3>
-<p>There are a number of things to consider when naming files:</p>
+</section><section><h2 class="section-heading" id="file-naming-conventions">File naming conventions<a class="anchor" aria-label="anchor" href="#file-naming-conventions"></a></h2>
+<hr class="half-width"><p>There are a number of things to consider when naming files:</p>
 <ul><li><p>Name folders in a meaningful way</p></li>
 <li><p>Don’t use staff names</p></li>
 <li><p>Decide on a standard vocabulary across the research group and
@@ -487,10 +494,10 @@ international collaborators, and it makes it easier to search. We’ll
 talk about this more in the next lesson.</p></li>
 </ul><p>There is an excellent list <a href="https://data-protection.ed.ac.uk/records-management/practical-guidance/naming-conventions" class="external-link">of
 13 rules for naming conventions</a> worth the read.</p>
+<div class="section level3">
+<h3 id="who-is-reading-your-file-names">Who is reading your file names?<a class="anchor" aria-label="anchor" href="#who-is-reading-your-file-names"></a></h3>
 <div class="section level4">
-<h4 id="who-is-reading-your-file-names">Who is reading your file names?<a class="anchor" aria-label="anchor" href="#who-is-reading-your-file-names"></a></h4>
-<div class="section level5">
-<h5 id="three-principles-for-file-names">Three principles for file names<a class="anchor" aria-label="anchor" href="#three-principles-for-file-names"></a></h5>
+<h4 id="three-principles-for-file-names">Three principles for file names<a class="anchor" aria-label="anchor" href="#three-principles-for-file-names"></a></h4>
 <p>There are three key principles to guide file naming convention
 development, as defined by Data Carpentry and Martinez (2015):</p>
 <ul><li><p>Machine readable</p></li>
@@ -498,37 +505,39 @@ development, as defined by Data Carpentry and Martinez (2015):</p>
 <li><p>Plays well with default ordering</p></li>
 </ul><p>Lets discuss each key principle below.</p>
 </div>
-<div class="section level5">
-<h5 id="machine-readable"><strong><em>Machine readable</em></strong><a class="anchor" aria-label="anchor" href="#machine-readable"></a></h5>
+<div class="section level4">
+<h4 id="machine-readable">Machine readable<a class="anchor" aria-label="anchor" href="#machine-readable"></a></h4>
 <p>Within the context of file naming conventions, being machine readable
 means:</p>
 <ul><li><p>Spaces have been avoided. Ideally there are no spaces in any file
 names.</p></li>
-<li><p>Special characters are used in lieu of spaces i.e. _ or
--</p></li>
+<li><p>Special characters are used in lieu of spaces i.e. <code>_</code>
+or <code>-</code></p></li>
 <li><p>Case sensitivity is consistent</p></li>
 </ul></div>
-<div class="section level5">
-<h5 id="human-readable"><strong><em>Human readable</em></strong><a class="anchor" aria-label="anchor" href="#human-readable"></a></h5>
+<div class="section level4">
+<h4 id="human-readable">Human readable<a class="anchor" aria-label="anchor" href="#human-readable"></a></h4>
 <p>Ensuring your file naming convention is human readable will depend on
 the context, background knowledge of research user(s), and character
 spaces availability. In short, use descriptive words. There will be
 examples of this further below.</p>
 </div>
-<div class="section level5">
-<h5 id="plays-well-with-default-ordering"><strong><em>Plays well with default ordering</em></strong><a class="anchor" aria-label="anchor" href="#plays-well-with-default-ordering"></a></h5>
+<div class="section level4">
+<h4 id="plays-well-with-default-ordering">Plays well with default ordering<a class="anchor" aria-label="anchor" href="#plays-well-with-default-ordering"></a></h4>
 <p>Default ordering is best achieved with numbers. This can be
 chronological i.e. date, or logical i.e. 01, 02, 03…</p>
 <p>Depending on the research and your teams preference, a common word
 could prefix the numeric ordering system. For example:</p>
-<p>lake01_depth.r lake02_depth.r lake03_depth.r so on….</p>
-<div id="consider-these-two-examples" class="callout challenge">
+<ul><li><code>lake01_depth.r</code></li>
+<li><code>lake02_depth.r</code></li>
+<li><code>lake03_depth.r</code></li>
+</ul><div id="challenge1" class="callout challenge">
 <div class="callout-square">
 <i class="callout-icon" data-feather="zap"></i>
 </div>
 <span class="callout-header">Challenge</span>
-<div id="consider-these-two-examples" class="callout-inner">
-<h3 class="callout-title">Consider these two examples:</h3>
+<div class="callout-inner">
+<h3 class="callout-title">Challenge</h3>
 <div class="callout-content">
 <p>Consider this folder - does this feel organised? Are you sure what
 contains what?</p>
@@ -546,7 +555,6 @@ contains what?</p>
 <p>Now consider this folder - is it clear what the order is? Do you feel
 you could track this better?</p>
 <figure><img src="../fig/Naming-post.png" alt="well organised files" class="figure mx-auto d-block"></figure></div>
-</div>
 </div>
 </div>
 </div>
@@ -608,9 +616,8 @@ derived. Where did this media come from?”.</p></li>
 <li><p>Subject – “The topic of the resource”.</p></li>
 <li><p>Title – “A name given to the resource”.</p></li>
 </ul></div>
-<div class="section level1">
-<h1 id="what-is-your-next-step">What is your next step?<a class="anchor" aria-label="anchor" href="#what-is-your-next-step"></a></h1>
-<div class="tabs">
+</section><section><h2 class="section-heading" id="what-is-your-next-step">What is your next step?<a class="anchor" aria-label="anchor" href="#what-is-your-next-step"></a></h2>
+<hr class="half-width"><div class="tabs">
 <nav><div id="nav-tab-1" class="nav nav-tabs" role="tablist">
 <button class="nav-link active" id="nav-tab-1-1" data-bs-toggle="tab" data-bs-target="#nav-tabpanel-1-1" type="button" role="tab" aria-controls="nav-tabpanel-1-1" aria-selected="true">
   <h3 class="tab-header" id="nav-tab-heading-1-1">
@@ -624,7 +631,7 @@ derived. Where did this media come from?”.</p></li>
 </button>
 </div>
 </nav><div id="nav-tabContent-1" class="tab-content">
-<div id="nav-tabpanel-1-1" class="tab-pane show active" role="tabpanel" aria-labelledby="nav-tab-1-1">
+<div id="nav-tabpanel-1-1" class="tab-pane show active" aria-labelledby="nav-tab-1-1" role="tabpanel">
 <p>A great place to start is:</p>
 <p>Download a folder template and start using it!</p>
 <p>Another idea is to put a copy of your raw data somewhere secure and
@@ -632,7 +639,7 @@ backed up for safekeeping.</p>
 <p>Come up with a plan on how you are going to name your files.</p>
 <p>Check your folders are being backed up.</p>
 </div>
-<div id="nav-tabpanel-1-2" class="tab-pane" role="tabpanel" aria-labelledby="nav-tab-1-2">
+<div id="nav-tabpanel-1-2" class="tab-pane" aria-labelledby="nav-tab-1-2" role="tabpanel">
 <p>Your next move can be:</p>
 <p>Ensure all your projects are well organised. This could extend to
 projects across your research group.</p>
@@ -646,26 +653,15 @@ research.</p>
 </div>
 </div>
 </div>
-<div id="further-resources" class="callout discussion">
-<div class="callout-square">
-<i class="callout-icon" data-feather="message-circle"></i>
-</div>
-<span class="callout-header">Discussion</span>
-<div id="further-resources" class="callout-inner">
-<h3 class="callout-title">Further Resources</h3>
-<div class="callout-content">
-<p><a href="https://www.projecttier.org/tier-protocol/protocol-4-0/" class="external-link">The
+</section><section><h2 class="section-heading" id="further-resources">Further Resources<a class="anchor" aria-label="anchor" href="#further-resources"></a></h2>
+<hr class="half-width"><p><a href="https://www.projecttier.org/tier-protocol/protocol-4-0/" class="external-link">The
 TIER Protocol</a></p>
 <p><a href="https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/File-naming-and-folder-structure" class="external-link">File
 naming and folder structures by CESSDA</a></p>
 <p><a href="https://datacarpentry.org/rr-organization1/01-file-naming/index.html" class="external-link">Data
 Carpentry - Organization - File naming</a></p>
-</div>
-</div>
-</div>
-<div class="section level2">
-<h2 id="references">References<a class="anchor" aria-label="anchor" href="#references"></a></h2>
-<p>Data Management Plans | ARDC. (2022, May 14). <a href="Https://Ardc.edu.au/" class="uri">Https://Ardc.edu.au/</a>.
+</section><section><h2 class="section-heading" id="references">References<a class="anchor" aria-label="anchor" href="#references"></a></h2>
+<hr class="half-width"><p>Data Management Plans | ARDC. (2022, May 14). <a href="Https://Ardc.edu.au/" class="uri">Https://Ardc.edu.au/</a>.
 Retrieved on 2024-05-03 at <a href="https://ardc.edu.au/resource/data-management-plans/" class="external-link uri">https://ardc.edu.au/resource/data-management-plans/</a>,
 licenced as CC-BY</p>
 <p>DCMI: Home. (2019). Dublincore.org. <a href="https://www.dublincore.org" class="external-link uri">https://www.dublincore.org</a> licenced under Creative
@@ -718,12 +714,7 @@ Plans</p></li>
 Place links that you need to refer to multiple times across pages here. Delete
 any links that you are not going to use.
  -->
-</div>
-</div>
-
-
-
-      </div> <!-- / div.lesson-content -->
+</section></div> <!-- / div.lesson-content -->
     </main><!-- / main#main-content.main-content --><nav class="bottom-pagination mx-md-4" aria-label="Previous and Next Chapter Bottom"><div class="d-block d-sm-block d-md-none">
         <a class="chapter-link" href="../instructor/introofRRthings.html"><i aria-hidden="true" class="small-arrow" data-feather="arrow-left"></i>Previous</a>
         <a class="chapter-link float-end" href="../instructor/step2TidyFiles.html">Next<i aria-hidden="true" class="small-arrow" data-feather="arrow-right"></i></a>
