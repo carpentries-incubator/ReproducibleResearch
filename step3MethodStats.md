@@ -75,7 +75,7 @@ Clarity in your methodology is important, and can offer an insight into how you 
 
 Have you described your protocols in depth? Part of being reproducible is explaining your steps in such depth that someone can replicate your work.
 
-Consider what detail to include - In addition to detailed procedures, equipment, and instruments, protocols should also contain study objectives, reasoning for experimental design, reasoning for chosen sample sizes, safety precautions, and how results were calculated and reported, including statistical analysis and any rules for predefining and documenting excluded data to avoid bias.
+Consider what detail to include. In addition to detailed procedures, equipment, and instruments, protocols should also contain study objectives, reasoning for experimental design, reasoning for chosen sample sizes, safety precautions, and how results were calculated and reported, including statistical analysis and any rules for predefining and documenting excluded data to avoid bias.
 
 Have you explained why you chose that protocol, took those steps? 
 
@@ -94,6 +94,9 @@ This will appear on https://amandamiotto.github.io/ReproducibleResearch/instruct
 -->
 
 
+### Computational methods
+
+The majority of open source software is built on top of other other open source software. For example, [pandas](https://pandas.pydata.org/) is built on top of [NumPy](https://numpy.org/). When detailed the computational methods and environment, it is important to include the full dependence tree of the softwares used.
 
 ## Publishing your Protocol
 
@@ -126,9 +129,15 @@ Where can you publish your protocols?
 
 See [methods & protocols - ReproducibiliTeach](https://www.youtube.com/watch?v=CzpY4A5G70s&list=PLWb8IFSVeQ620plPweZIQSGQODpGOww8r&index=3) for the differences between protocol journals and protocol repositories (at 23:33).
 
+### Publishing software
 
+Like protocols, there are many benefits to publish software. Popular places to publish software are
 
+- [GitHub](https://github.com/)
+- [GitLab](https://gitlab.com/)
+- [Codeberg](https://codeberg.org/)
 
+It is highly recommended to include your software to be archived by the [Software Heritage](https://www.softwareheritage.org/).
 
 ## What is your next step?
 
