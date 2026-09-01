@@ -13,43 +13,28 @@ Let's look at a few concepts that can help.
 
 
 
-# How to structure Column Data - Tidy data format
+## How to structure Column Data - Tidy data format
 
 
 Tidy data developed by Hadley Wickham offer a set of rules to record, organise, and maintain data to ensure your analysis is effective, reproducible, and manageable.
 
 The principles of tidy data provide a standard way to organize data values within a dataset.
 
-Tidy data is a standard way of mapping the meaning of a dataset to its structure. A dataset is messy or tidy depending on how rows, columns and tables are matched up with observations, variables and types. 
+Tidy data is a standard way of mapping the meaning of a dataset to its structure. A dataset is messy or tidy depending on how rows, columns, and tables are matched up with observations, variables, and types. 
 
 The fundamental principles of tidy data are:
 
 1. Each variable is a column
-   
 2. Each row is an observation
-   
 3. Each cell contains one value
-
-
-
-
 
 
 Let's look at an example:
 
-
-<table>
-  <tr><thead>
-    <td>Address</td>
-  </tr></thead>
-  <tr>
-    <td>170 Kessels Road Nathan Qld 4111 Australia</td>
-  </tr>
-  <tr>
-    <td>1 Parklands Dr, Southport QLD 4215</td>
-  </tr>
-</table>
-
+| Address |
+| --- |
+| 170 Kessels Road Nathan Qld 4111 Australia |
+| 1 Parklands Dr, Southport QLD 4215 |
 
 This format could cause a number of issues.
 
@@ -65,41 +50,10 @@ This format could cause a number of issues.
 
 Let's look at a tidy example:
 
-
-<table><thead>
-  <tr>
-    <th>Unit Number</th>
-    <th>Street Number</th>
-    <th>Street Name</th>
-    <th>Street Type</th>
-    <th>Suburb</th>
-    <th>State</th>
-    <th>Postcode</th>
-    <th>Country</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td></td>
-    <td>170</td>
-    <td>Kessels</td>
-    <td>Road</td>
-    <td></td>
-    <td>Nathan</td>
-    <td>Qld</td>
-    <td>4111</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>1</td>
-    <td>Parklands</td>
-    <td>Drive</td>
-    <td>Southport</td>
-    <td>Qld</td>
-    <td>4215</td>
-    <td>Australia</td>
-  </tr>
-</tbody>
-</table>
+| Unit Number | Street Number | Street Name | Street Type | Suburb | State | Postcode | Country |
+| ----------- | ------------- | ----------- | ----------- | ------ | ----- | -------- | ------- |
+| | 170 | Kessels | Road | Nathan | Qld | 4111| |
+| | 1 | Parklands | Drive | Southport | Qld | 4215 | Australia |
 
 This format includes a lot of benefits:
 
@@ -115,19 +69,17 @@ This format includes a lot of benefits:
 When multiple people are entering data manually, it may be beneficial to use a survey that fills in a spreadsheet for you. This can include dropdown menu items to ensure consistency in certain columns - for example, to eliminate a combination of "Monday, Mon, M, mon".
 
 
-# Other useful concepts:
-
 ::::::::::::::::::::::::::::::::::::: discussion
 
-#### Dates:
+#### Dates
 
-Where possible, always use the formal YYYY-MM-DD for your dates. It will make searching for dates much easier. In addition, adding the additional zero (for example, March would be 03 ) means that when you sort your file, months and days will be in order. Otherwise, you may have Jan (1), Oct (10), Nov (11), Dec (12), Feb (2). 
+Where possible, always use the formal `YYYY-MM-DD` for your dates. It will make searching for dates much easier. In addition, adding the additional zero (for example, March would be 03 ) means that when you sort your file, months and days will be in order. Otherwise, you may have Jan (1), Oct (10), Nov (11), Dec (12), Feb (2). 
 
 ::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: discussion
 
-#### Special Characters:
+#### Special Characters
 
 It is best to avoid punctuation or special characters in your cells or data entry. Some analysis tools may read certain characters incorrectly or produce an error. 
 
@@ -143,10 +95,7 @@ Have a spreadsheet that has some messy data in it to clean. You can ask everyone
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
-
-
-
-#### Interview considerations
+### Interview considerations
 
 When working with interviews, you may choose to only retain transcripts. However, it is also worth recording what non-verbal cues were shown. Is there a part of the interview where the participant expressed a strong emotion? Were they comfortable or nervous? Did they fidget a lot or laugh a lot? Long pauses? 
 
@@ -154,11 +103,11 @@ Including any personal observations alongside a video can become incredibly usef
 
 
 
-# How to handle missing data
+### How to handle missing data
 
 As a project team, it is important to have a consistent way of managing missing data. 
 
- - If data is missing from a cell, are you going to use a blank cell? Or a placeholder such as NA, NULL or N/A ? It's generally unadvisable to use zero, as this can have an effect on any calculations done in those cells.
+ - If data is missing from a cell, are you going to use a blank cell? Or a placeholder such as `NA`, `NULL` or `N/A` ? It's generally unadvisable to use zero, as this can have an effect on any calculations done in those cells.
 
  - Should the whole observation be excluded?
 
@@ -168,9 +117,9 @@ As a project team, it is important to have a consistent way of managing missing 
 
 
 
-A helpful resource can be found here: [Paper on the prevention and handling of the missing data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3668100/)
+A helpful resource can be found here: [Paper on the prevention and handling of the missing data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3668100/).
 
-How to handle missing data in cells can be covered by this section of [Data Carpentry in Ecology](https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes.html#null)
+How to handle missing data in cells can be covered by this section of [Data Carpentry in Ecology](https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes.html#null).
 
 [What could go wrong?](https://github.com/Quartz/bad-data-guide?tab=readme-ov-file#issues-that-your-source-should-solve-1) may also be useful.
 
@@ -193,7 +142,7 @@ Let's clean this messy data. What changes would you make?
 | 23-Mar-93 | 53 | Brisbane, Australia | #NAME? | Mail |
 
 
-Note: #NAME? should be -O
+Note: `#NAME?` should be `O−`.
 
 :::::::::::::::::::::::::::::::::::: solution
 
@@ -234,25 +183,22 @@ Here's an example survey:
 
 :::::::::::::::::::::::::::::::::::::::::::::::  discussion
 
-## Tools
+### Tools
 
-#### Tools that don't involve programming:
+#### Tools that don't involve programming
 
-[Open Refine](https://openrefine.org/) is an open source (free) tool that is incredibly useful to clean column data. Your data [doesn't leave your computer](https://openrefine.org/privacy), which makes it safer when working with sensitive data.
+[Open Refine](https://openrefine.org/) is an open source tool that is incredibly useful to clean column data. Your data [doesn't leave your computer](https://openrefine.org/privacy), which makes it safer when working with sensitive data.
 
 Any survey tool may also be of benefit.
 
 
-#### Programming Tools:
+#### Programming Tools
 
-R has the Tidyverse library, also written by Hadley Wickham. 
-Python has the Pandas library, which follows similar principles. You may also find NumPy useful.
+R has the [`tidyverse`](https://tidyverse.org/) library and Python has the [`pandas`](https://pandas.pydata.org/) library, which follows similar principles.
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::
 
-
-::::::::::::::::::::::::::::::::::::::::::::::: callout
 
 ## Resources
 
@@ -261,9 +207,6 @@ Python has the Pandas library, which follows similar principles. You may also fi
 [Paper on the prevention and handling of the missing data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3668100/)
 
 [Designing a data file structure by CESSDA](https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/Designing-a-data-file-structure)
-
-::::::::::::::::::::::::::::::::::::::::::::::: 
-
 
 
 ## What is your next step?
@@ -278,7 +221,7 @@ A great place to start is:
 
 Decide how to handle missing data
 
-Use YYYY-MM-DD for dates
+Use `YYYY-MM-DD` for dates
 
 
 ### Advanced
@@ -293,8 +236,6 @@ You can start to work in a data science language such as R or Python. [The Carpe
 
 
 
-::::::::::::::::::::::::::::::::::::::::::::::: callout
-
 ## References
 
 Wickham, H. . (2014). Tidy Data. Journal of Statistical Software, 59(10), 1–23. https://doi.org/10.18637/jss.v059.i10 licenced as Creative Commons Attribution License (CC-BY)
@@ -308,11 +249,10 @@ Kang H. The prevention and handling of the missing data. Korean J Anesthesiol. 2
 
 
 
-:::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::: keypoints
 
-### In this lesson, we have learnt:
+In this lesson, we have learnt:
 
 - How to tidy the data inside our files
 
@@ -324,7 +264,7 @@ Kang H. The prevention and handling of the missing data. Korean J Anesthesiol. 2
 
 
 
-#### We build trust in our knowledge by:
+We build trust in our knowledge by:
 
 - Having clarity in our processes for handling missing data
 
@@ -332,14 +272,14 @@ Kang H. The prevention and handling of the missing data. Korean J Anesthesiol. 2
 
 
 
-#### We retain knowledge by:
+We retain knowledge by:
 
 
 Minimising the risk of data loss by being well organised
 
 
 
-#### We build business continuity by:
+We build business continuity by:
 
 
 By being organised, others can quickly gain an understanding of the data

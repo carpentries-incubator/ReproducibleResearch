@@ -4,37 +4,33 @@ teaching: 10
 exercises: 0
 ---
 
-# Can you automate any repetitive tasks?
-
 Often, tasks that need to be done over and over again by a
 human can be opportunities for human error to sneak in. Setting up an automated way of doing this can eliminate this issue. 
 
-
 ***It can save you time, energy and mental load.***
 
+## Can you automate any repetitive tasks?
 
 Automation doesn't need to be fancy. Working on small incremental automated improvements over time is perfect.
 
-
-Coding allows you to be very automated, but there are tools you can use that don't need coding:
+Coding allows you to be very automated, but there are tools you can use that don't need coding, for example:
 
  - [MacOS Automator](https://support.apple.com/en-au/guide/automator/welcome/mac)
 
  - [Microsoft Power Automate](https://powerautomate.microsoft.com/en-us/blog/automate-tasks-with-power-automate-desktop-for-windows-10-no-additional-cost/)
 
+- [n8n](https://n8n.io/)
+
  - Any Spreadsheet Macros and formulas
 
- - Workflow systems such as [KNIME](https://www.knime.com/) and [Orange Data Mining](https://orangedatamining.com/)
+ - Workflow systems such as [KNIME](https://www.knime.com/), [Orange Data Mining](https://orangedatamining.com/), and [blockr](https://www.cynkra.com/blockr/)
 
-
-There are many other workflow automation platforms out there.
-
-Even having an automated Sync client for your backups is a form of automation!
+Even having an automated sync client for your backups is a form of automation!
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: challenge
 
-### Idea - Contact me form
+### Contact me form
 
 It could be a link in your work that directs to a 'Contact me' form or a 'book a time with me' system. 
 
@@ -70,7 +66,7 @@ You can email them with your preferred citation ([helpful guide](https://the-tur
 
 ::::::::::::::::::::::::::::::::::::::::::::::: challenge
 
-### Idea - Automated systematic review
+### Systematic review
 
 There are a number of tools available that can help you to conduct systematic literature reviews, including automation tools. 
 
@@ -83,7 +79,7 @@ For example, this list of resources from the[ University of North Carolina libra
 
 ::::::::::::::::::::::::::::::::::::::::::::::: challenge
 
-### Idea - Photos and Videos
+### Photos and videos
 
 If you are taking photos and want to automatically convert them, it may be worth looking into [MacOS Automate](https://www.apple.com/sg/pro/photo/automation/renameconvertcaption.html) or . There's also plenty of [python scripts](https://github.com/andrewning/sortphotos) that have been published you could use. 
 
@@ -98,7 +94,7 @@ This also enables you to migrate to an accessible and open file format.
 
 ::::::::::::::::::::::::::::::::::::::::::::::: challenge
 
-### Idea - Survey
+### Survey
 
 Does your survey tool allow for automatic reminders to be sent to those who have not completed your survey?
 
@@ -110,7 +106,7 @@ This could potentially encourage more partipants to complete your surveys, growi
 
 ::::::::::::::::::::::::::::::::::::::::::::::: challenge
 
-### Idea - Automated Sentiment Analysis
+### Sentiment analysis
 
 You could use a tool such as NLTK and Python to automate your sentiment analysis in a reproducible way.
 
@@ -124,7 +120,7 @@ Jiawei Yao 2019 J. Phys.: Conf. Ser. 1187 052020 Automated Sentiment Analysis of
 
 ::::::::::::::::::::::::::::::::::::::::::::::: challenge
 
-### Idea - Take data and automate reports/graphs
+### Reports and graphs
 
 If you are regularly taking in new data from external sources (sensor, DNA expression, weather mapping etc), you can use [R](https://kbroman.org/knitr_knutshell/) or [Python with Jupyter](https://docs.jupyter.org/en/latest/) to clean every dataset the same way, graph the datasets and write reports for you. You can even add caveats that your code would only run a report if the findings from that dataset were significant.
 
@@ -142,7 +138,7 @@ This is a good opportunity to ask researchers what they wish they could automate
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
-# What is your next step?
+## What is your next step?
 
 ::: tab 
 
@@ -165,8 +161,6 @@ Keep automating! It may be worth talking to your organisation's technical team t
 
 
 
-::::::::::::::::::::::::::::::::::::::::::::::: callout
-
 ## References
 
 
@@ -175,11 +169,9 @@ Data Carpentry Reproducible Research Committee. "Automation for Reproducible Res
 The Turing Way Community. (updated 2023) Citing Research Objects . Github.com Retrieved April 11, 2024, from https://the-turing-way.netlify.app/communication/citable/citable-cite licenced under CC-BY 4.0 licence
 
 
-:::::::::::::::::::::::::::::::::::::::::::::::
-
 ::::::::::::::::::::::::::::::::::::::::::::::: keypoints
 
-### In this lesson, we have learnt:
+In this lesson, we have learnt:
 
 - Why automation can be beneficial
 
@@ -188,19 +180,19 @@ The Turing Way Community. (updated 2023) Citing Research Objects . Github.com Re
 - Ideas on what to automate
 
 
-#### We build trust in our knowledge by:
+We build trust in our knowledge by:
 
-Showing how we automated work, to eliminate human error
-
-
-#### We retain knowledge using:
-
-Keeping a copy of these automations
+- Showing how we automated work, to eliminate human error
 
 
+We retain knowledge using:
 
-#### We build business continuity by:
+- Keeping a copy of these automations
 
-Having an automation, so that you are not relying on a staff member to perform this job. 
+
+
+We build business continuity by:
+
+- Having an automation, so that you are not relying on a staff member to perform this job. 
 
 :::::::::::::::::::::::::::::::::::::::::::::::

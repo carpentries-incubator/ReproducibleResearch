@@ -53,7 +53,7 @@ Again, R and Python have real strengths here, to have a list of tests you can ru
 As per the following paper:
 Ziemann, M., Eren, Y. & El-Osta, A. Gene name errors are widespread in the scientific literature. Genome Biol 17, 177 (2016). https://doi.org/10.1186/s13059-016-1044-7 licenced as CC-BY 4.0
 
-" The spreadsheet software Microsoft Excel, when used with default settings, is known to convert gene names to dates and floating-point numbers. A programmatic scan of leading genomics journals reveals that approximately one-fifth of papers with supplementary Excel gene lists contain erroneous gene name conversions."
+"The spreadsheet software Microsoft Excel, when used with default settings, is known to convert gene names to dates and floating-point numbers. A programmatic scan of leading genomics journals reveals that approximately one-fifth of papers with supplementary Excel gene lists contain erroneous gene name conversions."
 
 
 In a follow up story:
@@ -141,7 +141,7 @@ Consider your 'consumables' - Have your reagents gone out of date? Stored and la
 
 
 
-# Providing Authenticity and Validity
+## Providing Authenticity and Validity
 
 
 ### Data lineage
@@ -193,21 +193,33 @@ May be a natural space to ask people what types of data they are working with, w
 
 
 
-### Tracking your Analysis history
+### Tracking your analysis history
 
 Now that we know where our raw data come from and how it was made, let's think about the changes we make to it.
 
 Let's start with data cleaning. Have you made a log of the changes you have made?
 
-Open Refine, NVIVO and SPSS all have logs of actions that you can download and save.
+Some of tools not only keep a log of the actions that were performed but allow you to download the log and use it to re-execute the actions.
 
+::: tab
 
- - SPSS analysis pipeline comes as a .sps script file. You may see it referenced as 'Syntax'
+#### OpenRefine 
 
- - SAS has a .sas file for pipelines
+[OpenRefine](https://openrefine.org/) uses JSON as the format for operation history. More details is available in ["Reusing operations" at OpenRefine's User Manual](https://openrefine.org/docs/manual/running#reusing-operations).
 
- - STATA has a .do file for pipelines. You may see it referenced as ‘commandlog’
+#### SPSS
 
+[SPSS](https://www.ibm.com/products/spss-statistics) analysis pipeline comes as a `.sps` script file. You may see it referenced as `Syntax`.
+
+#### SAS
+
+[SAS](https://www.sas.com/) has a `.sas` file for pipelines.
+
+#### STATA
+
+[STATA](https://www.stata.com/) has a `.do` file for pipelines. You may see it referenced as `commandlog`.
+
+:::
 
 This is also where R and Python have huge strengths. Writing an R or Python script enables you to rerun with certainty the same analysis every time.
 
@@ -242,7 +254,7 @@ technical formulae and change to test hypotheses
 
 :::::::::::::::::::::::::::::::::::::::: testimonial
 
-***Publishing these pipelines, either as part of your publication, as a protocol or in a public repository such as OSF, Github or similar improves your reproducibility, and provides others a greater understanding of your work.***
+***Publishing these pipelines, either as part of your publication, as a protocol or in a public repository such as OSF, GitHub or similar improves your reproducibility, and provides others a greater understanding of your work.***
 
 
 
@@ -303,14 +315,14 @@ You can use the first number as a major step in versions (for example, Draft v1.
 
 If you are using R or Python, your next best friend is Git. 
 
-Git is a program to track changes in your code. You may have heard of Github or Gitlab - these are cloud platforms that use the Git program to track your code as you write it.
+Git is a program to track changes in your code. You may have heard of Github or GitLab - these are cloud platforms that use the Git program to track your code as you write it.
 
 Sharing your analysis pipeline then becomes easy. You can even write reports with both plain text, R or Python code and the results in graphs in platforms such as Jupyter.
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: callout
 
-### To learn more about Git
+### Learn more about Git
 
 [The British Ecological Society](https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf) has a great Git tutorial under 'Version Control'.
 
@@ -336,7 +348,7 @@ The following paper may be useful to learn about ML platforms and reproducibilit
 
 
 
-# What is your next step?
+## What is your next step?
 
 ::: tab 
 
@@ -362,7 +374,6 @@ Your next move can be:
 
 :::
 
-::::::::::::::::::::::::::::::::::::::::::::::: callout
 
 ## Resources
 
@@ -377,10 +388,6 @@ ADACS-Australia/good-code-etiquette. Manodeep Sinha, Paul Hancock, Rebecca Lange
 
 R-Pkgs Hadley Wickham and Jennifer Bryan (2024) '13 Testing basics' Retrieved on 2024-04-17 https://r-pkgs.org/testing-basics.html licenced as CC BY-NC-ND 4.0
 
-::::::::::::::::::::::::::::::::::::::::::::::: 
-
-
-::::::::::::::::::::::::::::::::::::::::::::::: callout
 
 ## References
 
@@ -392,11 +399,10 @@ Ziemann, M., Eren, Y. & El-Osta, A. Gene name errors are widespread in the scien
 
 Abeysooriya M, Soria M, Kasu MS, Ziemann M (2021) Gene name errors: Lessons not learned. PLoS Comput Biol 17(7): e1008984. https://doi.org/10.1371/journal.pcbi.1008984 licenced as CC-BY 4.0
 
-:::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::: keypoints
 
-### In this lesson, we have learnt:
+In this lesson, we have learnt:
 
 - Why we should be checking our data for validity and integrity during processing
 
@@ -413,14 +419,14 @@ Abeysooriya M, Soria M, Kasu MS, Ziemann M (2021) Gene name errors: Lessons not 
 - That version control is a way to track changes over time
 
 
-#### We build trust in our knowledge by:
+We build trust in our knowledge by:
 
 - We are testing our data for validity and integrity - and being able to show how we are testing!
 
 - We are tracking our versions of software, hardware and analysis pipelines, so that it is easier to reproduce later
 
 
-#### We retain knowledge using:
+We retain knowledge using:
 
 - Tracking metadata about our data (for example, where did an image come from? Who originally made the dataset?) for later reference
 
@@ -430,7 +436,7 @@ Abeysooriya M, Soria M, Kasu MS, Ziemann M (2021) Gene name errors: Lessons not 
 
 
 
-#### We build business continuity by:
+We build business continuity by:
 
 - Keeping versions of our analysis pipeline, so that it is clear what the latest version of the analysis pipeline was
 

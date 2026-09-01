@@ -50,14 +50,14 @@ Prominent registries include:
 
 ## Registered Reports
 
-You may want to consider a [Registered Report](https://the-turing-way.netlify.app/communication/dif-articles/reg#cm-dif-articles-registered-reports)
+You may want to consider a [Registered Report](https://the-turing-way.netlify.app/communication/dif-articles/reg#cm-dif-articles-registered-reports).
 
 
 The [Center for Open Science](https://www.cos.io/initiatives/registered-reports) provides the following definition:
 
-"Registered Reports is a publishing format that emphasizes the importance of the research question and the quality of methodology by conducting peer review prior to data collection. High quality protocols are then provisionally accepted for publication if the authors follow through with the registered methodology.
-
-This format is designed to reward best practices in adhering to the hypothetico-deductive model of the scientific method. It eliminates a variety of questionable research practices, including low statistical power, selective reporting of results, and publication bias, while allowing complete flexibility to report serendipitous findings. "
+> Registered Reports is a publishing format that emphasizes the importance of the research question and the quality of methodology by conducting peer review prior to data collection. High quality protocols are then provisionally accepted for publication if the authors follow through with the registered methodology.
+>
+> This format is designed to reward best practices in adhering to the hypothetico-deductive model of the scientific method. It eliminates a variety of questionable research practices, including low statistical power, selective reporting of results, and publication bias, while allowing complete flexibility to report serendipitous findings.
 
 Here is a [list of participating journals](https://docs.google.com/spreadsheets/d/1D4_k-8C_UENTRtbPzXfhjEyu3BfLxdOsn9j-otrO870/edit#gid=0) with details on their options.
 
@@ -120,7 +120,7 @@ See [methods & protocols - ReproducibiliTeach](https://www.youtube.com/watch?v=C
 
 
 
-# What is your next step?
+## What is your next step?
 
 ::: tab 
 
@@ -142,8 +142,6 @@ Get started on publishing that protocol and prepublication! You can use  [How to
 
 
 
-::::::::::::::::::::::::::::::::::::::::::::::: callout
-
 ## References
 
 The Turing Way Community. (updated 2023) Methods and Protocols . Github.com Retrieved April 11, 2024, from https://book.the-turing-way.org/reproducible-research/rdm/rdm-methods.html?highlight=protocol#open-methods-protocols licenced under CC-BY 4.0 licence
@@ -154,12 +152,10 @@ Center for Open Science (updated 2024) Registered Reports. COS Retrieved April 1
 
 
 
-:::::::::::::::::::::::::::::::::::::::::::::::
-
 
 ::::::::::::::::::::::::::::::::::::::::::::::: keypoints
 
-### In this lesson, we have learnt:
+In this lesson, we have learnt:
 
 - What details to keep about our literature reviews
 
@@ -173,7 +169,7 @@ Center for Open Science (updated 2024) Registered Reports. COS Retrieved April 1
 
 
 
-#### We build trust in our knowledge by:
+We build trust in our knowledge by:
 
 - By being open on our plans in our registered reports and preregistrations
 
@@ -183,7 +179,7 @@ Center for Open Science (updated 2024) Registered Reports. COS Retrieved April 1
 
 
 
-#### We retain knowledge using:
+We retain knowledge using:
 
 - Detailed recording of our literature review, so we can understand why those papers were reviewed
 
@@ -191,7 +187,7 @@ Center for Open Science (updated 2024) Registered Reports. COS Retrieved April 1
 
 
 
-#### We build business continuity by:
+We build business continuity by:
 
 - By saving our protocols for use later
 
