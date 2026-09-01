@@ -68,10 +68,9 @@ There are benefits to this:
 
 While you can create your own folder templates, there are templates you can use:
 
+- [A simple example by the Turing Way project](https://the-turing-way.netlify.app/reproducible-research/compendia#basic-compendium)
 
-[A simple example by the Turing Way project](https://the-turing-way.netlify.app/reproducible-research/compendia#basic-compendium)
-
-[Project TIER](https://www.projecttier.org/tier-protocol/protocol-4-0/root/)
+- [Project TIER](https://www.projecttier.org/tier-protocol/protocol-4-0/root/)
 
 
 It is worth checking with your research group and local librarians if there is a pre-existing folder structure template that you can use.
