@@ -35,15 +35,17 @@ Let’s establish concrete action items for the upcoming week or two based on th
 
 ::::::::::::::::::::::::::::::::::::::::::::::: challenge
 
-***Take this time to do one of the following:***
+### Motivation
 
-Email yourself a website you've found today to read through later.
+Do one of the following:
 
-Set a calendar entry to dedicate some time to complete a task.
+- Email yourself a website you've found today to read through later.
 
-Pair with someone here to encourage each other.
+- Set a calendar entry to dedicate some time to complete a task.
 
-Talk to your colleagues about a suggested change to make in your project.
+- Pair with someone here to encourage each other.
+
+- Talk to your colleagues about a suggested change to make in your project.
 
 :::::::::::::::::::::::::::::::::::::::::::::::
 

@@ -39,11 +39,9 @@ Examples include:
 These are living documents - processes may improve or lessons are learnt, and this should be reflected in your updates to your manual.
 
 
-Think about this scenario:
-
-
-
 :::::::::::::::::::::::::::::: challenge
+
+### Staff change
 
 If a key member of your team because unavailable suddenly, what do you need to know?
 
@@ -191,6 +189,8 @@ Checklist items could include:
 
 ::::::::::::::::::::::::::::::::::::::::::::::: challenge
 
+### Pizza recipe
+
 Let's document how to make a pizza! 
 
 Get a piece of paper and write down how you would do it. You'll need what ingredients you've used, and to write how you've made it. 
@@ -276,7 +276,7 @@ However, ***this is rarely true***.
 
 ::::::::::::::::::::::::::::::::::::::::::::::: challenge
 
-Let's stand on the other side:
+### Egg as pizza topping
 
 Now assume you are making a pizza someone else has ordered. They've asked for egg on their pizza. How do you do it?
 
@@ -416,6 +416,8 @@ Document the steps to clean and analyse your data is also recommended. The docum
 
 :::::::::::::::::::::::::::::: challenge
 
+### Pipeline backtrace
+
 Can you determine which file(s) was/were used as input in a process that produced a derived file?
 
 :::::::::::::::::::::::::::::: solution
@@ -440,16 +442,9 @@ Good place to include any Carpentry or data science introduction resources - If 
 :::::::::::::::::::::::::::::::::::::::::::::::
 
 
-## Media work
-
-If you are working with newspapers, artwork or other GLAM (Gallery, Library, Art and Museum) media, have you noted what articles were around it? What context did location add?
-
-## Passwords
-
-You may want to create a team password manager, or even just a personal one, to track accounts and passwords. This should prevent losing account logins where data or analysis may have occured.
-
-
 :::::::::::::::::::::::::::::: challenge
+
+### Audit
 
 You are contacted about a paper you published 2 years ago, as a similar paper was published with contradicting results. 
 
@@ -462,12 +457,18 @@ Thankfully, we can now do this! We can refer to our notes with our detailed meth
 
 The work you have done here can also help you with any audits.
 
-
-
 :::::::::::::::::::::::::::::::
 :::::::::::::::::::::::::::::::::::::::::::::::
 
 A great example of this is "Sorting Out the FACS: A Devil in the Details" . Two laboratories in USA had contradicting results when replicating fluorescence-activated cell sorting (FACS) profiles of primary breast cells. They worked together for over a year, swapping machines, samples and even working side by side to find the difference. In the end, the methods for stirring a liquid were different, which caused different results. 
+
+## Media work
+
+If you are working with newspapers, artwork or other GLAM (Gallery, Library, Art and Museum) media, have you noted what articles were around it? What context did location add?
+
+## Passwords
+
+You may want to create a team password manager, or even just a personal one, to track accounts and passwords. This should prevent losing account logins where data or analysis may have occured.
 
 ## What is your next step?
 

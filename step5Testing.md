@@ -79,7 +79,7 @@ Can do this next challenge in the class, either pen and paper, on the board or i
 
 ::::::::::::::::::::::::::::::::::::::::::::::: challenge
 
-# Where did the pizza go wrong?
+### Where did the pizza go wrong?
 
 We've shared our pizza recipe with our friend, who attempted to cook it last night. They've called you up today and said "It didn't work out... why?"
 
