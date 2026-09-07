@@ -30,9 +30,9 @@ We expect that anyone conducting the same research should always come to the sam
 
 
 
-## Replicability and Repeatability
+## Definitions of terms
 
-There are a number of terms you may hear when we talk about reproducible. Replicable and Repeatable are two common terms that may arise.
+There are a number of terms you may hear when we talk about reproducible research.
 
 The Turing Way offers the following descriptions:
 
