@@ -410,7 +410,7 @@ It will appear here: https://amandamiotto.github.io/ReproducibleResearch/instruc
 
 
 
-### Workflow mapping / Analysis Pipelines
+## Workflow mapping / Analysis Pipelines
 
 Document the steps to clean and analyse your data is also recommended. The documentation format depends of the tool used. Even just writing down and taking screenshots of the analysis screens is somewhere to start. In step 6, we'll talk about automation of workflow and pipeline.
 

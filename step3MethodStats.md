@@ -53,10 +53,9 @@ This information will appear on https://amandamiotto.github.io/ReproducibleResea
 
 
 
-## Registered Reports
+### Registered Reports
 
-You may want to consider a [Registered Report](https://the-turing-way.netlify.app/communication/dif-articles/reg#cm-dif-articles-registered-reports).
-
+A registered report is a special type of preregistration.
 
 The [Center for Open Science](https://www.cos.io/initiatives/registered-reports) provides the following definition:
 
@@ -64,9 +63,8 @@ The [Center for Open Science](https://www.cos.io/initiatives/registered-reports)
 >
 > This format is designed to reward best practices in adhering to the hypothetico-deductive model of the scientific method. It eliminates a variety of questionable research practices, including low statistical power, selective reporting of results, and publication bias, while allowing complete flexibility to report serendipitous findings.
 
-Here is a [list of participating journals](https://docs.google.com/spreadsheets/d/1D4_k-8C_UENTRtbPzXfhjEyu3BfLxdOsn9j-otrO870/edit#gid=0) with details on their options.
-
-
+You can read more about registered report at [Turing Way - Registered Report](https://the-turing-way.netlify.app/communication/dif-articles/reg#cm-dif-articles-registered-reports)
+and a [list of journals with support to registered report](https://docs.google.com/spreadsheets/d/1D4_k-8C_UENTRtbPzXfhjEyu3BfLxdOsn9j-otrO870/edit#gid=0) is maintained by the Center for Open Science (COS).
 
 
 ## Transparent Methodologies and Protocols
