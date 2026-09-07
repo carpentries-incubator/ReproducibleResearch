@@ -86,7 +86,7 @@ This really did come up time and time again when talking to researchers on how t
 
 ### Computational methods
 
-The majority of open source software is built on top of other other open source software. For example, [pandas](https://pandas.pydata.org/) is built on top of [NumPy](https://numpy.org/). When detailed the computational methods and environment, it is important to include the full dependence tree of the softwares used.
+The majority of open source software is built on top of other other open source software. For example, [pandas](https://pandas.pydata.org/) is built on top of [NumPy](https://numpy.org/). When describing the computational methods and environment, it is important to include the full dependence tree of the softwares used.
 
 ## Publishing your Protocol
 
@@ -121,7 +121,7 @@ See [methods & protocols - ReproducibiliTeach](https://www.youtube.com/watch?v=C
 
 ### Publishing software
 
-Like protocols, there are many benefits to publish software. Popular places to publish software are
+Like protocols, there are many benefits to publishing software. Popular places to publish software are
 
 - [GitHub](https://github.com/)
 - [GitLab](https://gitlab.com/)
