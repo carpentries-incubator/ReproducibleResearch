@@ -17,7 +17,7 @@ There are a few checks we can run to help identify when this has happened.
 
  - Are there the expected number of columns?
 
- - If you sort a column and find the unique entries, do those entries make sense? For example, in a column that you're expecting to find months, is there the word "Monday" in it? If so, there may have been some movement in your cells.
+ - If you sort a column and find the unique entries, do those entries make sense? For example, in a column that you're expecting to find months, is there the word 'Monday' in it? If so, there may have been some movement in your cells.
 
  - Do the calculations make sense? If you have a range of 1-100 for an attribute, is the mean of that column an impossible number such as 254?
 
@@ -53,20 +53,20 @@ Again, R and Python have real strengths here, to have a list of tests you can ru
 As per the following paper:
 Ziemann, M., Eren, Y. & El-Osta, A. Gene name errors are widespread in the scientific literature. Genome Biol 17, 177 (2016). https://doi.org/10.1186/s13059-016-1044-7 licenced as CC-BY 4.0
 
-"The spreadsheet software Microsoft Excel, when used with default settings, is known to convert gene names to dates and floating-point numbers. A programmatic scan of leading genomics journals reveals that approximately one-fifth of papers with supplementary Excel gene lists contain erroneous gene name conversions."
+> The spreadsheet software Microsoft Excel, when used with default settings, is known to convert gene names to dates and floating-point numbers. A programmatic scan of leading genomics journals reveals that approximately one-fifth of papers with supplementary Excel gene lists contain erroneous gene name conversions.
 
 
 In a follow up story:
 Abeysooriya M, Soria M, Kasu MS, Ziemann M (2021) Gene name errors: Lessons not learned. PLoS Comput Biol 17(7): e1008984. https://doi.org/10.1371/journal.pcbi.1008984
 
-"[The previous] article on this topic led the Human Gene Name Consortium to change many of these gene names to be less susceptible to autocorrect."
+> [The previous] article on this topic led the Human Gene Name Consortium to change many of these gene names to be less susceptible to autocorrect.
 
 
 To remedy this, there is now an option to turn off automatic data conversion - but you need to be aware of it.
 
 It was suggested to reviewers and editorial staff:
 
-"the kind of errors we describe can be spotted by copying the column of gene names and pasting it into a new sheet, and then sorting the column. Any gene symbols converted to dates will appear as numbers at the top of the column."
+> the kind of errors we describe can be spotted by copying the column of gene names and pasting it into a new sheet, and then sorting the column. Any gene symbols converted to dates will appear as numbers at the top of the column.
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
@@ -81,7 +81,7 @@ Can do this next challenge in the class, either pen and paper, on the board or i
 
 ### Where did the pizza go wrong?
 
-We've shared our pizza recipe with our friend, who attempted to cook it last night. They've called you up today and said "It didn't work out... why?"
+We've shared our pizza recipe with our friend, who attempted to cook it last night. They've called you up today and said 'It didn't work out... why?'
 
 What questions can we ask to discover what could have gone wrong?
 
@@ -205,7 +205,7 @@ Some of tools not only keep a log of the actions that were performed but allow y
 
 #### OpenRefine 
 
-[OpenRefine](https://openrefine.org/) uses JSON as the format for operation history. More details is available in ["Reusing operations" at OpenRefine's User Manual](https://openrefine.org/docs/manual/running#reusing-operations).
+[OpenRefine](https://openrefine.org/) uses JSON as the format for operation history. More details is available in ['Reusing operations' at OpenRefine's User Manual](https://openrefine.org/docs/manual/running#reusing-operations).
 
 #### SPSS
 
@@ -344,7 +344,7 @@ Containers also build automation into our workflows - we'll talk more about auto
 
 The following paper may be useful to learn about ML platforms and reproducibility.
 
-[R. Isdahl and O. E. Gundersen, "Out-of-the-Box Reproducibility: A Survey of Machine Learning Platforms," 2019 15th International Conference on eScience (eScience), San Diego, CA, USA, 2019, pp. 86-95, doi: 10.1109/eScience.2019.00017.](https://10.1109/eScience.2019.00017)
+[R. Isdahl and O. E. Gundersen, 'Out-of-the-Box Reproducibility: A Survey of Machine Learning Platforms,' 2019 15th International Conference on eScience (eScience), San Diego, CA, USA, 2019, pp. 86-95, doi: 10.1109/eScience.2019.00017.](https://10.1109/eScience.2019.00017)
 
 
 

@@ -216,15 +216,15 @@ You could also look into a format such as [Dublin Core](https://en.wikipedia.org
 
 Or you could use your own format, and cover simple metadata such as:
 
- - Publisher – "An entity responsible for making the resource available".
+ - Publisher – 'An entity responsible for making the resource available'.
 
- - Rights – "Information about rights held in and over the resource, Copyright etc".
+ - Rights – 'Information about rights held in and over the resource, Copyright etc'.
 
- - Source – "A related resource from which the described resource is derived. Where did this media come from?".
+ - Source – 'A related resource from which the described resource is derived. Where did this media come from?'.
 
- - Subject – "The topic of the resource".
+ - Subject – 'The topic of the resource'.
 
- - Title – "A name given to the resource".
+ - Title – 'A name given to the resource'.
 
 
 

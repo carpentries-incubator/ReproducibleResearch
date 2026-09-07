@@ -17,16 +17,16 @@ This is a massive lesson - you may want to put a break in the middle or just bef
 
 :::::::::::::::::::::: testimonial
 
-"Documentation is a love letter to your future self" - Damian Conway
+'Documentation is a love letter to your future self' - Damian Conway
 
 :::::::::::::::::::::::::::::::::::::::
 
 We've talked about writing down or noting a lot of information .... but where do we do this? How? What exactly should we write down?
 
 
-Some researchers may think about a lab handbook, a group instruction guide, a team wiki or a knowledge repository. In the IT and Computation space, the word "Documentation" is used as a place to store all information about that project. 
+Some researchers may think about a lab handbook, a group instruction guide, a team wiki or a knowledge repository. In the IT and Computation space, the word 'Documentation' is used as a place to store all information about that project. 
 
-For our purposes today, we will use "Documentation" as a place to write down notes about your work, link to important documents or share information across a research group.
+For our purposes today, we will use 'Documentation' as a place to write down notes about your work, link to important documents or share information across a research group.
 
 
 Examples include:
@@ -228,7 +228,7 @@ You can ask participants to put their hand up if they had:
 
 Watch the hands go up and slowly come down.
 
-If you really want to be a bit dad joke/cheesy ha, you can play "All about the bass" as a 'pencils down' alarm after your 3 minutes.
+If you really want to be a bit dad joke/cheesy ha, you can play 'All about the bass' as a 'pencils down' alarm after your 3 minutes.
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
@@ -449,7 +449,7 @@ The work you have done here can also help you with any audits.
 :::::::::::::::::::::::::::::::
 :::::::::::::::::::::::::::::::::::::::::::::::
 
-A great example of this is "Sorting Out the FACS: A Devil in the Details" . Two laboratories in USA had contradicting results when replicating fluorescence-activated cell sorting (FACS) profiles of primary breast cells. They worked together for over a year, swapping machines, samples and even working side by side to find the difference. In the end, the methods for stirring a liquid were different, which caused different results. 
+A great example of this is 'Sorting Out the FACS: A Devil in the Details' . Two laboratories in USA had contradicting results when replicating fluorescence-activated cell sorting (FACS) profiles of primary breast cells. They worked together for over a year, swapping machines, samples and even working side by side to find the difference. In the end, the methods for stirring a liquid were different, which caused different results. 
 
 ## Media work
 
