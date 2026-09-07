@@ -39,7 +39,7 @@ Aligned to that, how do we retain this knowledge in the long term, so it can be 
 
 ### Nature paper - 1,500 scientists lift the lid on reproducibility
 
-In the Nature paper "1,500 scientists lift the lid on reproducibility", researchers were surveyed about reproducibility.
+In the Nature paper '1,500 scientists lift the lid on reproducibility', researchers were surveyed about reproducibility.
 
  - Over 70% of researchers who had tried to replicate another researcher's experiments failed.
 
@@ -219,7 +219,7 @@ While all of these are relevant and valid, there are some things we can't change
 Working reproducibly has many benefits for the research ecosystem. However, there are also direct benefits for yourself.
 
 
-Florian Markowetz listed these "five selfish reasons to work reproducibly":
+Florian Markowetz listed these 'five selfish reasons to work reproducibly':
 
 1. Reproducibility helps to avoid disaster
 
@@ -244,14 +244,14 @@ Wikipedia contributors. (2024, March 24). Replication crisis. In Wikipedia, The 
 
 Baker, M. 1,500 scientists lift the lid on reproducibility. Nature 533, 452–454 (2016). Retrieved on 2024-04-04 https://doi.org/10.1038/533452a
 
-Center for Open Science. "Reproducibility Project: Cancer Biology" (2021). Retrieved 2024-5-8 from https://www.cos.io/rpcb. licenced as CC-BY
+Center for Open Science. 'Reproducibility Project: Cancer Biology' (2021). Retrieved 2024-5-8 from https://www.cos.io/rpcb. licenced as CC-BY
 
 American Type Culture Collection (ATCC) Six factors affecting reproducibility in life science research and how to handle them . Nature Articles Retrieved 2024-5-8 from https://www.nature.com/articles/d42473-019-00004-y. 
 
 
 ## References
 
-Center for Open Science. "Reproducibility Project: Cancer Biology" (2021). Retrieved 2024-5-8 from https://www.cos.io/rpcb. licenced as CC-BY
+Center for Open Science. 'Reproducibility Project: Cancer Biology' (2021). Retrieved 2024-5-8 from https://www.cos.io/rpcb. licenced as CC-BY
 
 Morton, L (2022, July 12). 5 Open Science practices that improve reproducibility & support trust in science. The Official PLOS Blog. Retrieved 2024-5-8 from https://theplosblog.plos.org/2022/07/reproducibility licenced as CC-BY
 

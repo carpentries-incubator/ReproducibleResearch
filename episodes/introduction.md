@@ -10,18 +10,18 @@ exercises: 0
 
 For our workshop today, as the training was designed to be relevant to all disciplines, we are using the UKRN's broad definition of reproducibility:
 
-"Research that is sufficiently transparent that someone with the relevant expertise
-can clearly follow, as relevant for different types of research:
-
-- how it was done;
-
-- why it was done in that way;
-
-- the evidence that it established;
-
-- the reasoning and/or judgements that were used; and
-
-- how all of that led justifiably to the research findings and conclusions." 
+> Research that is sufficiently transparent that someone with the relevant expertise
+> can clearly follow, as relevant for different types of research:
+> 
+> - how it was done;
+> 
+> - why it was done in that way;
+> 
+> - the evidence that it established;
+> 
+> - the reasoning and/or judgements that were used; and
+> 
+> - how all of that led justifiably to the research findings and conclusions.
 
 
 In most discussions of reproducible research, especially in STEM disciplines, reproducible research is the concept that someone can, given your data and methods, redo your research and come to the same conclusion.

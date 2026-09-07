@@ -66,7 +66,7 @@ This format includes a lot of benefits:
 
 ### How to encourage tidy data in others
 
-When multiple people are entering data manually, it may be beneficial to use a survey that fills in a spreadsheet for you. This can include dropdown menu items to ensure consistency in certain columns - for example, to eliminate a combination of "Monday, Mon, M, mon".
+When multiple people are entering data manually, it may be beneficial to use a survey that fills in a spreadsheet for you. This can include dropdown menu items to ensure consistency in certain columns - for example, to eliminate a combination of 'Monday, Mon, M, mon'.
 
 
 ::::::::::::::::::::::::::::::::::::: discussion
