@@ -81,7 +81,7 @@ For example, this list of resources from the[ University of North Carolina libra
 
 ### Photos and videos
 
-If you are taking photos and want to automatically convert them, it may be worth looking into [MacOS Automate](https://www.apple.com/sg/pro/photo/automation/renameconvertcaption.html) or . There's also plenty of [python scripts](https://github.com/andrewning/sortphotos) that have been published you could use. 
+If you are taking photos and want to automatically convert them, it may be worth looking into [MacOS Automate](https://www.apple.com/sg/pro/photo/automation/renameconvertcaption.html). There's also plenty of [python scripts](https://github.com/andrewning/sortphotos) that have been published you could use. 
 
 You could also use a command line such as [Windows on Linux Subsystem](https://learn.microsoft.com/en-us/windows/wsl/install) or Linux Terminal with a tool called [FFmpeg](https://ffmpeg.org/ffmpeg.html) or [sips](https://ss64.com/mac/sips.html) on Mac Terminal.
 
