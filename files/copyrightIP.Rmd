@@ -1,0 +1,8 @@
+<!-- Who do researchers talk to for copyright and IP help? Got a website?
+
+This will appear on: 
+"Open vs FAIR vs Can't share" on https://[YourRepo].github.io/ReproducibleResearch/instructor/step7PublishPIDReuse.html
+"Licensing" on https://[YourRepo].github.io/ReproducibleResearch/instructor/step7PublishPIDReuse.html
+
+-->
+
