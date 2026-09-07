@@ -4,6 +4,15 @@ teaching: 10
 exercises: 0
 ---
 
+:::::: questions
+ - What is reproducible research?
+::::::
+
+::::::::::::::::::::::::::::: objectives
+
+- Understand reproducible research
+
+::::::::::::::::::::::::::::::::::::::::
 
 ## For our workshop today....
 
