@@ -307,7 +307,11 @@ Some repositories include:
 
 Can you also publish your raw data?
 
+### Contributor Role Taxonomy (CRediT)
 
+CRediT is a list of 14 types of contribution which are common in academia.
+See: https://credit.niso.org/
+Using the taxonomy (having a section at the end of the publication saying "Person X did Role Y") means that people can be given credit for the specific type of work that they contributed to a project, which can be useful for transparency, recognition, and career progression.
 
 ## Publishing negative results
 
