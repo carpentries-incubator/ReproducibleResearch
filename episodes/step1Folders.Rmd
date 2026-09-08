@@ -255,7 +255,7 @@ Educate others in your space on good naming conventions and build a reference gu
 
 Get a metadata file set up for your media.
 
-If you are working in Python, you can use a [python package](https://github.com/vukovicnikola/templateproject) developed by researcher Nikola Vukovic to generate a logical, standardised, and flexible directory hierarchy for academic research.
+If you are working in Python, you can use [`templateproject`](https://github.com/vukovicnikola/templateproject), a Python package developed by researcher Nikola Vukovic to generate a logical, standardised, and flexible directory hierarchy for academic research.
 
 
 :::
