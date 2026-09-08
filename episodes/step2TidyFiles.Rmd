@@ -136,7 +136,7 @@ We've had a number of people collaborating on an excel sheet to collate data, bu
 Let's clean this messy data. What changes would you make?
 
 
-| Date     | Age                | Where was the article    | Blood type |  Preferred Gender|
+| Date     | Age                | Where was the article    | Blood type |  Preferred Sex |
 | ----------    | :-----: | ----------------: | ----: | ---------: |
 | 23/1/2023 | 32 | United States | AB | Female |
 | Feb-17 | 54 |  | A | N/A |
