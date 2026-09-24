@@ -5,6 +5,16 @@ exercises: 1
 ---
 
 
+:::::: questions
+ - What are tidy files?
+::::::
+
+::::::::::::::::::::::::::::: objectives
+
+- Understand tidy files
+
+::::::::::::::::::::::::::::::::::::::::
+
 Build your knowledge trust when sharing with collaborators or publication with well organised datasets and metadata. This also saves time in data cleaning, and ensures analysis pipelines are robust.
 
 

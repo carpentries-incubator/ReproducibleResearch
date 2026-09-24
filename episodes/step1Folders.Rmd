@@ -5,7 +5,15 @@ exercises: 0
 ---
 
 
+:::::: questions
+ - What are best practices to organise research?
+::::::
 
+::::::::::::::::::::::::::::: objectives
+
+- Understand data management plan
+
+::::::::::::::::::::::::::::::::::::::::
 
 ## Data Management Plan
 
