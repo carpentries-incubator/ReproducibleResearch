@@ -140,6 +140,19 @@ Consider your 'consumables' - Have your reagents gone out of date? Stored and la
 ::::::::::::::::::::::::::::::::::::::::::::
 
 
+### Continuous Integration
+
+For computational methods, testing can be automated and tested after every change. Popular platforms for continuous integration are
+
+- [GitHub Actions](https://github.com/features/actions)
+- [GitLab CI/CD](https://docs.gitlab.com/ci/)
+- [CircleCI](https://circleci.com/) offers support to Windows and macOS
+- [Azure Pipelines](https://azure.microsoft.com/en-us/products/devops/pipelines)
+- [Xcode Cloud](https://developer.apple.com/xcode-cloud/) for Apple developers
+
+### CODECHECK
+
+[CODECHECK](https://codecheck.org.uk/) is a community driven project to build a web of trust for output of computer programs underlying scientific papers. Volunteers attempt to reproduce the computational output reported in a scientific paper and report their finds in a light "certificate of executable computation".
 
 ## Providing Authenticity and Validity
 
